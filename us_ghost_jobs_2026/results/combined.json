@@ -1,0 +1,6486 @@
+{
+  "survey": "us_ghost_jobs_2026",
+  "generated_at": "2026-10-26",
+  "suppression_threshold": 10,
+  "crosstab_fields": [
+    "gender",
+    "age_band",
+    "household_income",
+    "us_region"
+  ],
+  "questions": [
+    {
+      "id": "Q1",
+      "question_prompt": "What industry do you work in?",
+      "type": "single",
+      "overall": {
+        "base": {
+          "n": 1005
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 312,
+            "pct": 31
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 91,
+            "pct": 9.1
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 77,
+            "pct": 7.7
+          },
+          {
+            "answer": "Education",
+            "count": 72,
+            "pct": 7.2
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 61,
+            "pct": 6.1
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 52,
+            "pct": 5.2
+          },
+          {
+            "answer": "Agriculture",
+            "count": 35,
+            "pct": 3.5
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 32,
+            "pct": 3.2
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 28,
+            "pct": 2.8
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 28,
+            "pct": 2.8
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 26,
+            "pct": 2.6
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 24,
+            "pct": 2.4
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 23,
+            "pct": 2.3
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 22,
+            "pct": 2.2
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 19,
+            "pct": 1.9
+          },
+          {
+            "answer": "Government",
+            "count": 19,
+            "pct": 1.9
+          },
+          {
+            "answer": "Automotive",
+            "count": 19,
+            "pct": 1.9
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 17,
+            "pct": 1.7
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 17,
+            "pct": 1.7
+          },
+          {
+            "answer": "Insurance",
+            "count": 13,
+            "pct": 1.3
+          },
+          {
+            "answer": "Real Estate",
+            "count": 10,
+            "pct": 1
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 8,
+            "pct": 0.8
+          }
+        ]
+      },
+      "crosstabs": {
+        "gender": [
+          {
+            "group": "Female",
+            "base": {
+              "n": 679
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 223,
+                "pct": 32.8
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 72,
+                "pct": 10.6
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 59,
+                "pct": 8.7
+              },
+              {
+                "answer": "Education",
+                "count": 62,
+                "pct": 9.1
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 42,
+                "pct": 6.2
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 40,
+                "pct": 5.9
+              },
+              {
+                "answer": "Agriculture",
+                "count": 18,
+                "pct": 2.7
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 25,
+                "pct": 3.7
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 16,
+                "pct": 2.4
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 6,
+                "pct": 0.9
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 13,
+                "pct": 1.9
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 15,
+                "pct": 2.2
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 14,
+                "pct": 2.1
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 11,
+                "pct": 1.6
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 10,
+                "pct": 1.5
+              },
+              {
+                "answer": "Government",
+                "count": 15,
+                "pct": 2.2
+              },
+              {
+                "answer": "Automotive",
+                "count": 6,
+                "pct": 0.9
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 5,
+                "pct": 0.7
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 8,
+                "pct": 1.2
+              },
+              {
+                "answer": "Insurance",
+                "count": 10,
+                "pct": 1.5
+              },
+              {
+                "answer": "Real Estate",
+                "count": 6,
+                "pct": 0.9
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 3,
+                "pct": 0.4
+              }
+            ]
+          },
+          {
+            "group": "Male",
+            "base": {
+              "n": 314
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 84,
+                "pct": 26.8
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 18,
+                "pct": 5.7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 17,
+                "pct": 5.4
+              },
+              {
+                "answer": "Education",
+                "count": 9,
+                "pct": 2.9
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 18,
+                "pct": 5.7
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 12,
+                "pct": 3.8
+              },
+              {
+                "answer": "Agriculture",
+                "count": 17,
+                "pct": 5.4
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 7,
+                "pct": 2.2
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 12,
+                "pct": 3.8
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 21,
+                "pct": 6.7
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 12,
+                "pct": 3.8
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 9,
+                "pct": 2.9
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 9,
+                "pct": 2.9
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 11,
+                "pct": 3.5
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 8,
+                "pct": 2.5
+              },
+              {
+                "answer": "Government",
+                "count": 4,
+                "pct": 1.3
+              },
+              {
+                "answer": "Automotive",
+                "count": 13,
+                "pct": 4.1
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 12,
+                "pct": 3.8
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 9,
+                "pct": 2.9
+              },
+              {
+                "answer": "Insurance",
+                "count": 3,
+                "pct": 1
+              },
+              {
+                "answer": "Real Estate",
+                "count": 4,
+                "pct": 1.3
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 5,
+                "pct": 1.6
+              }
+            ]
+          }
+        ],
+        "age_band": [
+          {
+            "group": "18–29",
+            "base": {
+              "n": 304
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 73,
+                "pct": 24
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 32,
+                "pct": 10.5
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 11,
+                "pct": 3.6
+              },
+              {
+                "answer": "Education",
+                "count": 23,
+                "pct": 7.6
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 29,
+                "pct": 9.5
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 21,
+                "pct": 6.9
+              },
+              {
+                "answer": "Agriculture",
+                "count": 19,
+                "pct": 6.3
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 18,
+                "pct": 5.9
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 10,
+                "pct": 3.3
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 11,
+                "pct": 3.6
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 8,
+                "pct": 2.6
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 8,
+                "pct": 2.6
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 5,
+                "pct": 1.6
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 2,
+                "pct": 0.7
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 4,
+                "pct": 1.3
+              },
+              {
+                "answer": "Government",
+                "count": 6,
+                "pct": 2
+              },
+              {
+                "answer": "Automotive",
+                "count": 5,
+                "pct": 1.6
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 6,
+                "pct": 2
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 9,
+                "pct": 3
+              },
+              {
+                "answer": "Insurance",
+                "count": 1,
+                "pct": 0.3
+              },
+              {
+                "answer": "Real Estate",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 3,
+                "pct": 1
+              }
+            ]
+          },
+          {
+            "group": "30–44",
+            "base": {
+              "n": 268
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 71,
+                "pct": 26.5
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 32,
+                "pct": 11.9
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 25,
+                "pct": 9.3
+              },
+              {
+                "answer": "Education",
+                "count": 21,
+                "pct": 7.8
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 11,
+                "pct": 4.1
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 18,
+                "pct": 6.7
+              },
+              {
+                "answer": "Agriculture",
+                "count": 9,
+                "pct": 3.4
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 11,
+                "pct": 4.1
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 7,
+                "pct": 2.6
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 6,
+                "pct": 2.2
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 8,
+                "pct": 3
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 4,
+                "pct": 1.5
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 4,
+                "pct": 1.5
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 8,
+                "pct": 3
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 4,
+                "pct": 1.5
+              },
+              {
+                "answer": "Government",
+                "count": 7,
+                "pct": 2.6
+              },
+              {
+                "answer": "Automotive",
+                "count": 5,
+                "pct": 1.9
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 4,
+                "pct": 1.5
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 6,
+                "pct": 2.2
+              },
+              {
+                "answer": "Insurance",
+                "count": 4,
+                "pct": 1.5
+              },
+              {
+                "answer": "Real Estate",
+                "count": 2,
+                "pct": 0.7
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 1,
+                "pct": 0.4
+              }
+            ]
+          },
+          {
+            "group": "45–60",
+            "base": {
+              "n": 375
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 143,
+                "pct": 38.1
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 21,
+                "pct": 5.6
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 35,
+                "pct": 9.3
+              },
+              {
+                "answer": "Education",
+                "count": 26,
+                "pct": 6.9
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 19,
+                "pct": 5.1
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 11,
+                "pct": 2.9
+              },
+              {
+                "answer": "Agriculture",
+                "count": 7,
+                "pct": 1.9
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 3,
+                "pct": 0.8
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 8,
+                "pct": 2.1
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 10,
+                "pct": 2.7
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 8,
+                "pct": 2.1
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 12,
+                "pct": 3.2
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 12,
+                "pct": 3.2
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 12,
+                "pct": 3.2
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 9,
+                "pct": 2.4
+              },
+              {
+                "answer": "Government",
+                "count": 6,
+                "pct": 1.6
+              },
+              {
+                "answer": "Automotive",
+                "count": 8,
+                "pct": 2.1
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 7,
+                "pct": 1.9
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 1,
+                "pct": 0.3
+              },
+              {
+                "answer": "Insurance",
+                "count": 7,
+                "pct": 1.9
+              },
+              {
+                "answer": "Real Estate",
+                "count": 6,
+                "pct": 1.6
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 4,
+                "pct": 1.1
+              }
+            ]
+          },
+          {
+            "group": "60+",
+            "base": {
+              "n": 46
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 20,
+                "pct": 43.5
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 5,
+                "pct": 10.9
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 5,
+                "pct": 10.9
+              },
+              {
+                "answer": "Education",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 3,
+                "pct": 6.5
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "Government",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Automotive",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "Insurance",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "Real Estate",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 0,
+                "pct": 0
+              }
+            ]
+          }
+        ],
+        "household_income": [
+          {
+            "group": "$100,000–$149,999",
+            "base": {
+              "n": 66
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 11,
+                "pct": 16.7
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 4,
+                "pct": 6.1
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 1,
+                "pct": 1.5
+              },
+              {
+                "answer": "Education",
+                "count": 7,
+                "pct": 10.6
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 3,
+                "pct": 4.5
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 3,
+                "pct": 4.5
+              },
+              {
+                "answer": "Agriculture",
+                "count": 4,
+                "pct": 6.1
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 4,
+                "pct": 6.1
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 2,
+                "pct": 3
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 3,
+                "pct": 4.5
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 5,
+                "pct": 7.6
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 3,
+                "pct": 4.5
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 3,
+                "pct": 4.5
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 3,
+                "pct": 4.5
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 1,
+                "pct": 1.5
+              },
+              {
+                "answer": "Government",
+                "count": 3,
+                "pct": 4.5
+              },
+              {
+                "answer": "Automotive",
+                "count": 1,
+                "pct": 1.5
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 1,
+                "pct": 1.5
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 1,
+                "pct": 1.5
+              },
+              {
+                "answer": "Insurance",
+                "count": 1,
+                "pct": 1.5
+              },
+              {
+                "answer": "Real Estate",
+                "count": 2,
+                "pct": 3
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 0,
+                "pct": 0
+              }
+            ]
+          },
+          {
+            "group": "$150,000–$199,999",
+            "base": {
+              "n": 23
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 10,
+                "pct": 43.5
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 2,
+                "pct": 8.7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 8.7
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Government",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "Automotive",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "Insurance",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "Real Estate",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 1,
+                "pct": 4.3
+              }
+            ]
+          },
+          {
+            "group": "$200,000+",
+            "base": {
+              "n": 19
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Education",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Government",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Automotive",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Insurance",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Real Estate",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 0,
+                "pct": 0
+              }
+            ]
+          },
+          {
+            "group": "$50,000–$99,999",
+            "base": {
+              "n": 228
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 56,
+                "pct": 24.6
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 24,
+                "pct": 10.5
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 24,
+                "pct": 10.5
+              },
+              {
+                "answer": "Education",
+                "count": 16,
+                "pct": 7
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 16,
+                "pct": 7
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 10,
+                "pct": 4.4
+              },
+              {
+                "answer": "Agriculture",
+                "count": 8,
+                "pct": 3.5
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 3,
+                "pct": 1.3
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 9,
+                "pct": 3.9
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 3,
+                "pct": 1.3
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 3,
+                "pct": 1.3
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 7,
+                "pct": 3.1
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 9,
+                "pct": 3.9
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 6,
+                "pct": 2.6
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 8,
+                "pct": 3.5
+              },
+              {
+                "answer": "Government",
+                "count": 5,
+                "pct": 2.2
+              },
+              {
+                "answer": "Automotive",
+                "count": 3,
+                "pct": 1.3
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 4,
+                "pct": 1.8
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 5,
+                "pct": 2.2
+              },
+              {
+                "answer": "Insurance",
+                "count": 3,
+                "pct": 1.3
+              },
+              {
+                "answer": "Real Estate",
+                "count": 3,
+                "pct": 1.3
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 3,
+                "pct": 1.3
+              }
+            ]
+          },
+          {
+            "group": "Prefer not to say",
+            "base": {
+              "n": 86
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 31,
+                "pct": 36
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 7,
+                "pct": 8.1
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 6,
+                "pct": 7
+              },
+              {
+                "answer": "Education",
+                "count": 4,
+                "pct": 4.7
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 4,
+                "pct": 4.7
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 3,
+                "pct": 3.5
+              },
+              {
+                "answer": "Agriculture",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 3,
+                "pct": 3.5
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 2,
+                "pct": 2.3
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 4,
+                "pct": 4.7
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 2,
+                "pct": 2.3
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 3,
+                "pct": 3.5
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 1,
+                "pct": 1.2
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 2,
+                "pct": 2.3
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 2,
+                "pct": 2.3
+              },
+              {
+                "answer": "Government",
+                "count": 3,
+                "pct": 3.5
+              },
+              {
+                "answer": "Automotive",
+                "count": 1,
+                "pct": 1.2
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 1,
+                "pct": 1.2
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 2,
+                "pct": 2.3
+              },
+              {
+                "answer": "Insurance",
+                "count": 2,
+                "pct": 2.3
+              },
+              {
+                "answer": "Real Estate",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 3,
+                "pct": 3.5
+              }
+            ]
+          },
+          {
+            "group": "Under $50,000",
+            "base": {
+              "n": 571
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 195,
+                "pct": 34.2
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 53,
+                "pct": 9.3
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 44,
+                "pct": 7.7
+              },
+              {
+                "answer": "Education",
+                "count": 40,
+                "pct": 7
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 34,
+                "pct": 6
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 36,
+                "pct": 6.3
+              },
+              {
+                "answer": "Agriculture",
+                "count": 23,
+                "pct": 4
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 20,
+                "pct": 3.5
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 13,
+                "pct": 2.3
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 15,
+                "pct": 2.6
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 13,
+                "pct": 2.3
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 11,
+                "pct": 1.9
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 10,
+                "pct": 1.8
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 11,
+                "pct": 1.9
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 5,
+                "pct": 0.9
+              },
+              {
+                "answer": "Government",
+                "count": 7,
+                "pct": 1.2
+              },
+              {
+                "answer": "Automotive",
+                "count": 13,
+                "pct": 2.3
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 11,
+                "pct": 1.9
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 7,
+                "pct": 1.2
+              },
+              {
+                "answer": "Insurance",
+                "count": 6,
+                "pct": 1.1
+              },
+              {
+                "answer": "Real Estate",
+                "count": 3,
+                "pct": 0.5
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 1,
+                "pct": 0.2
+              }
+            ]
+          }
+        ],
+        "us_region": [
+          {
+            "group": "Midwest",
+            "base": {
+              "n": 194
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 53,
+                "pct": 27.3
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 16,
+                "pct": 8.2
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 13,
+                "pct": 6.7
+              },
+              {
+                "answer": "Education",
+                "count": 13,
+                "pct": 6.7
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 19,
+                "pct": 9.8
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 8,
+                "pct": 4.1
+              },
+              {
+                "answer": "Agriculture",
+                "count": 6,
+                "pct": 3.1
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 10,
+                "pct": 5.2
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 6,
+                "pct": 3.1
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 6,
+                "pct": 3.1
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 7,
+                "pct": 3.6
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 4,
+                "pct": 2.1
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 2,
+                "pct": 1
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 5,
+                "pct": 2.6
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 5,
+                "pct": 2.6
+              },
+              {
+                "answer": "Government",
+                "count": 6,
+                "pct": 3.1
+              },
+              {
+                "answer": "Automotive",
+                "count": 6,
+                "pct": 3.1
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 2,
+                "pct": 1
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 3,
+                "pct": 1.5
+              },
+              {
+                "answer": "Insurance",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "Real Estate",
+                "count": 2,
+                "pct": 1
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 1,
+                "pct": 0.5
+              }
+            ]
+          },
+          {
+            "group": "Northeast",
+            "base": {
+              "n": 190
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 62,
+                "pct": 32.6
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 22,
+                "pct": 11.6
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 17,
+                "pct": 8.9
+              },
+              {
+                "answer": "Education",
+                "count": 16,
+                "pct": 8.4
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 9,
+                "pct": 4.7
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 10,
+                "pct": 5.3
+              },
+              {
+                "answer": "Agriculture",
+                "count": 7,
+                "pct": 3.7
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 3,
+                "pct": 1.6
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 3,
+                "pct": 1.6
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 3,
+                "pct": 1.6
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 4,
+                "pct": 2.1
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 6,
+                "pct": 3.2
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 6,
+                "pct": 3.2
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 2,
+                "pct": 1.1
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 3,
+                "pct": 1.6
+              },
+              {
+                "answer": "Government",
+                "count": 5,
+                "pct": 2.6
+              },
+              {
+                "answer": "Automotive",
+                "count": 1,
+                "pct": 0.5
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 4,
+                "pct": 2.1
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 3,
+                "pct": 1.6
+              },
+              {
+                "answer": "Insurance",
+                "count": 3,
+                "pct": 1.6
+              },
+              {
+                "answer": "Real Estate",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 1,
+                "pct": 0.5
+              }
+            ]
+          },
+          {
+            "group": "South",
+            "base": {
+              "n": 342
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 108,
+                "pct": 31.6
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 29,
+                "pct": 8.5
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 31,
+                "pct": 9.1
+              },
+              {
+                "answer": "Education",
+                "count": 25,
+                "pct": 7.3
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 20,
+                "pct": 5.8
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 20,
+                "pct": 5.8
+              },
+              {
+                "answer": "Agriculture",
+                "count": 11,
+                "pct": 3.2
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 12,
+                "pct": 3.5
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 12,
+                "pct": 3.5
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 8,
+                "pct": 2.3
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 6,
+                "pct": 1.8
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 5,
+                "pct": 1.5
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 8,
+                "pct": 2.3
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 8,
+                "pct": 2.3
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 4,
+                "pct": 1.2
+              },
+              {
+                "answer": "Government",
+                "count": 3,
+                "pct": 0.9
+              },
+              {
+                "answer": "Automotive",
+                "count": 6,
+                "pct": 1.8
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 2,
+                "pct": 0.6
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 7,
+                "pct": 2
+              },
+              {
+                "answer": "Insurance",
+                "count": 8,
+                "pct": 2.3
+              },
+              {
+                "answer": "Real Estate",
+                "count": 5,
+                "pct": 1.5
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 4,
+                "pct": 1.2
+              }
+            ]
+          },
+          {
+            "group": "West",
+            "base": {
+              "n": 251
+            },
+            "cells": [
+              {
+                "answer": "I am currently not employed",
+                "count": 83,
+                "pct": 33.1
+              },
+              {
+                "answer": "Health Care & Pharmaceuticals",
+                "count": 23,
+                "pct": 9.2
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 15,
+                "pct": 6
+              },
+              {
+                "answer": "Education",
+                "count": 14,
+                "pct": 5.6
+              },
+              {
+                "answer": "Retail & Consumer Durables",
+                "count": 11,
+                "pct": 4.4
+              },
+              {
+                "answer": "Food & Beverages",
+                "count": 13,
+                "pct": 5.2
+              },
+              {
+                "answer": "Agriculture",
+                "count": 9,
+                "pct": 3.6
+              },
+              {
+                "answer": "Advertising & Marketing",
+                "count": 7,
+                "pct": 2.8
+              },
+              {
+                "answer": "Business Support & Logistics",
+                "count": 6,
+                "pct": 2.4
+              },
+              {
+                "answer": "Telecommunications, Technology, Internet & Electronics",
+                "count": 10,
+                "pct": 4
+              },
+              {
+                "answer": "Entertainment & Leisure",
+                "count": 7,
+                "pct": 2.8
+              },
+              {
+                "answer": "Finance & Financial Services",
+                "count": 9,
+                "pct": 3.6
+              },
+              {
+                "answer": "Manufacturing",
+                "count": 7,
+                "pct": 2.8
+              },
+              {
+                "answer": "Construction, Machinery and Homes",
+                "count": 5,
+                "pct": 2
+              },
+              {
+                "answer": "Nonprofit",
+                "count": 6,
+                "pct": 2.4
+              },
+              {
+                "answer": "Government",
+                "count": 4,
+                "pct": 1.6
+              },
+              {
+                "answer": "Automotive",
+                "count": 4,
+                "pct": 1.6
+              },
+              {
+                "answer": "Transportation & Delivery",
+                "count": 9,
+                "pct": 3.6
+              },
+              {
+                "answer": "Airlines & Aerospace (including Defense)",
+                "count": 3,
+                "pct": 1.2
+              },
+              {
+                "answer": "Insurance",
+                "count": 1,
+                "pct": 0.4
+              },
+              {
+                "answer": "Real Estate",
+                "count": 3,
+                "pct": 1.2
+              },
+              {
+                "answer": "Utilities, Energy, and Extraction",
+                "count": 2,
+                "pct": 0.8
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "Q2",
+      "question_prompt": "How many years of experience do you have?",
+      "type": "single",
+      "overall": {
+        "base": {
+          "n": 1005
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 363,
+            "pct": 36.1
+          },
+          {
+            "answer": "3–4 years",
+            "count": 182,
+            "pct": 18.1
+          },
+          {
+            "answer": "1–2 years",
+            "count": 166,
+            "pct": 16.5
+          },
+          {
+            "answer": "No professional experience",
+            "count": 125,
+            "pct": 12.4
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 89,
+            "pct": 8.9
+          },
+          {
+            "answer": "5–7 years",
+            "count": 80,
+            "pct": 8
+          }
+        ]
+      },
+      "crosstabs": {
+        "gender": [
+          {
+            "group": "Female",
+            "base": {
+              "n": 679
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 243,
+                "pct": 35.8
+              },
+              {
+                "answer": "3–4 years",
+                "count": 126,
+                "pct": 18.6
+              },
+              {
+                "answer": "1–2 years",
+                "count": 106,
+                "pct": 15.6
+              },
+              {
+                "answer": "No professional experience",
+                "count": 91,
+                "pct": 13.4
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 61,
+                "pct": 9
+              },
+              {
+                "answer": "5–7 years",
+                "count": 52,
+                "pct": 7.7
+              }
+            ]
+          },
+          {
+            "group": "Male",
+            "base": {
+              "n": 314
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 111,
+                "pct": 35.4
+              },
+              {
+                "answer": "3–4 years",
+                "count": 56,
+                "pct": 17.8
+              },
+              {
+                "answer": "1–2 years",
+                "count": 58,
+                "pct": 18.5
+              },
+              {
+                "answer": "No professional experience",
+                "count": 34,
+                "pct": 10.8
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 28,
+                "pct": 8.9
+              },
+              {
+                "answer": "5–7 years",
+                "count": 27,
+                "pct": 8.6
+              }
+            ]
+          }
+        ],
+        "age_band": [
+          {
+            "group": "18–29",
+            "base": {
+              "n": 304
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 11,
+                "pct": 3.6
+              },
+              {
+                "answer": "3–4 years",
+                "count": 80,
+                "pct": 26.3
+              },
+              {
+                "answer": "1–2 years",
+                "count": 91,
+                "pct": 29.9
+              },
+              {
+                "answer": "No professional experience",
+                "count": 48,
+                "pct": 15.8
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 52,
+                "pct": 17.1
+              },
+              {
+                "answer": "5–7 years",
+                "count": 22,
+                "pct": 7.2
+              }
+            ]
+          },
+          {
+            "group": "30–44",
+            "base": {
+              "n": 268
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 89,
+                "pct": 33.2
+              },
+              {
+                "answer": "3–4 years",
+                "count": 64,
+                "pct": 23.9
+              },
+              {
+                "answer": "1–2 years",
+                "count": 43,
+                "pct": 16
+              },
+              {
+                "answer": "No professional experience",
+                "count": 28,
+                "pct": 10.4
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 19,
+                "pct": 7.1
+              },
+              {
+                "answer": "5–7 years",
+                "count": 25,
+                "pct": 9.3
+              }
+            ]
+          },
+          {
+            "group": "45–60",
+            "base": {
+              "n": 375
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 220,
+                "pct": 58.7
+              },
+              {
+                "answer": "3–4 years",
+                "count": 37,
+                "pct": 9.9
+              },
+              {
+                "answer": "1–2 years",
+                "count": 28,
+                "pct": 7.5
+              },
+              {
+                "answer": "No professional experience",
+                "count": 45,
+                "pct": 12
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 15,
+                "pct": 4
+              },
+              {
+                "answer": "5–7 years",
+                "count": 30,
+                "pct": 8
+              }
+            ]
+          },
+          {
+            "group": "60+",
+            "base": {
+              "n": 46
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 34,
+                "pct": 73.9
+              },
+              {
+                "answer": "3–4 years",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "1–2 years",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "No professional experience",
+                "count": 4,
+                "pct": 8.7
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 3,
+                "pct": 6.5
+              },
+              {
+                "answer": "5–7 years",
+                "count": 2,
+                "pct": 4.3
+              }
+            ]
+          }
+        ],
+        "household_income": [
+          {
+            "group": "$100,000–$149,999",
+            "base": {
+              "n": 66
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 38,
+                "pct": 57.6
+              },
+              {
+                "answer": "3–4 years",
+                "count": 8,
+                "pct": 12.1
+              },
+              {
+                "answer": "1–2 years",
+                "count": 5,
+                "pct": 7.6
+              },
+              {
+                "answer": "No professional experience",
+                "count": 4,
+                "pct": 6.1
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 3,
+                "pct": 4.5
+              },
+              {
+                "answer": "5–7 years",
+                "count": 8,
+                "pct": 12.1
+              }
+            ]
+          },
+          {
+            "group": "$150,000–$199,999",
+            "base": {
+              "n": 23
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 13,
+                "pct": 56.5
+              },
+              {
+                "answer": "3–4 years",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "1–2 years",
+                "count": 2,
+                "pct": 8.7
+              },
+              {
+                "answer": "No professional experience",
+                "count": 2,
+                "pct": 8.7
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "5–7 years",
+                "count": 2,
+                "pct": 8.7
+              }
+            ]
+          },
+          {
+            "group": "$200,000+",
+            "base": {
+              "n": 19
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 12,
+                "pct": 63.2
+              },
+              {
+                "answer": "3–4 years",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "1–2 years",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "No professional experience",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "5–7 years",
+                "count": 0,
+                "pct": 0
+              }
+            ]
+          },
+          {
+            "group": "$50,000–$99,999",
+            "base": {
+              "n": 228
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 89,
+                "pct": 39
+              },
+              {
+                "answer": "3–4 years",
+                "count": 37,
+                "pct": 16.2
+              },
+              {
+                "answer": "1–2 years",
+                "count": 46,
+                "pct": 20.2
+              },
+              {
+                "answer": "No professional experience",
+                "count": 14,
+                "pct": 6.1
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 21,
+                "pct": 9.2
+              },
+              {
+                "answer": "5–7 years",
+                "count": 21,
+                "pct": 9.2
+              }
+            ]
+          },
+          {
+            "group": "Prefer not to say",
+            "base": {
+              "n": 86
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 26,
+                "pct": 30.2
+              },
+              {
+                "answer": "3–4 years",
+                "count": 16,
+                "pct": 18.6
+              },
+              {
+                "answer": "1–2 years",
+                "count": 14,
+                "pct": 16.3
+              },
+              {
+                "answer": "No professional experience",
+                "count": 16,
+                "pct": 18.6
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 10,
+                "pct": 11.6
+              },
+              {
+                "answer": "5–7 years",
+                "count": 4,
+                "pct": 4.7
+              }
+            ]
+          },
+          {
+            "group": "Under $50,000",
+            "base": {
+              "n": 571
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 176,
+                "pct": 30.8
+              },
+              {
+                "answer": "3–4 years",
+                "count": 115,
+                "pct": 20.1
+              },
+              {
+                "answer": "1–2 years",
+                "count": 96,
+                "pct": 16.8
+              },
+              {
+                "answer": "No professional experience",
+                "count": 88,
+                "pct": 15.4
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 52,
+                "pct": 9.1
+              },
+              {
+                "answer": "5–7 years",
+                "count": 44,
+                "pct": 7.7
+              }
+            ]
+          }
+        ],
+        "us_region": [
+          {
+            "group": "Midwest",
+            "base": {
+              "n": 194
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 72,
+                "pct": 37.1
+              },
+              {
+                "answer": "3–4 years",
+                "count": 31,
+                "pct": 16
+              },
+              {
+                "answer": "1–2 years",
+                "count": 30,
+                "pct": 15.5
+              },
+              {
+                "answer": "No professional experience",
+                "count": 24,
+                "pct": 12.4
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 21,
+                "pct": 10.8
+              },
+              {
+                "answer": "5–7 years",
+                "count": 16,
+                "pct": 8.2
+              }
+            ]
+          },
+          {
+            "group": "Northeast",
+            "base": {
+              "n": 190
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 75,
+                "pct": 39.5
+              },
+              {
+                "answer": "3–4 years",
+                "count": 33,
+                "pct": 17.4
+              },
+              {
+                "answer": "1–2 years",
+                "count": 35,
+                "pct": 18.4
+              },
+              {
+                "answer": "No professional experience",
+                "count": 16,
+                "pct": 8.4
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 12,
+                "pct": 6.3
+              },
+              {
+                "answer": "5–7 years",
+                "count": 19,
+                "pct": 10
+              }
+            ]
+          },
+          {
+            "group": "South",
+            "base": {
+              "n": 342
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 110,
+                "pct": 32.2
+              },
+              {
+                "answer": "3–4 years",
+                "count": 63,
+                "pct": 18.4
+              },
+              {
+                "answer": "1–2 years",
+                "count": 58,
+                "pct": 17
+              },
+              {
+                "answer": "No professional experience",
+                "count": 52,
+                "pct": 15.2
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 37,
+                "pct": 10.8
+              },
+              {
+                "answer": "5–7 years",
+                "count": 22,
+                "pct": 6.4
+              }
+            ]
+          },
+          {
+            "group": "West",
+            "base": {
+              "n": 251
+            },
+            "cells": [
+              {
+                "answer": "8+ years",
+                "count": 94,
+                "pct": 37.5
+              },
+              {
+                "answer": "3–4 years",
+                "count": 52,
+                "pct": 20.7
+              },
+              {
+                "answer": "1–2 years",
+                "count": 37,
+                "pct": 14.7
+              },
+              {
+                "answer": "No professional experience",
+                "count": 33,
+                "pct": 13.1
+              },
+              {
+                "answer": "Less than 1 year",
+                "count": 16,
+                "pct": 6.4
+              },
+              {
+                "answer": "5–7 years",
+                "count": 19,
+                "pct": 7.6
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "Q3",
+      "question_prompt": "Have you ever applied to a job that you later suspected was never actually open or had no real intent to hire?",
+      "type": "single",
+      "overall": {
+        "base": {
+          "n": 1005
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 612,
+            "pct": 60.9
+          },
+          {
+            "answer": "No",
+            "count": 223,
+            "pct": 22.2
+          },
+          {
+            "answer": "Not Sure",
+            "count": 170,
+            "pct": 16.9
+          }
+        ]
+      },
+      "crosstabs": {
+        "gender": [
+          {
+            "group": "Female",
+            "base": {
+              "n": 679
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 393,
+                "pct": 57.9
+              },
+              {
+                "answer": "No",
+                "count": 168,
+                "pct": 24.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 118,
+                "pct": 17.4
+              }
+            ]
+          },
+          {
+            "group": "Male",
+            "base": {
+              "n": 314
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 213,
+                "pct": 67.8
+              },
+              {
+                "answer": "No",
+                "count": 53,
+                "pct": 16.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 48,
+                "pct": 15.3
+              }
+            ]
+          }
+        ],
+        "age_band": [
+          {
+            "group": "18–29",
+            "base": {
+              "n": 304
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 200,
+                "pct": 65.8
+              },
+              {
+                "answer": "No",
+                "count": 54,
+                "pct": 17.8
+              },
+              {
+                "answer": "Not Sure",
+                "count": 50,
+                "pct": 16.4
+              }
+            ]
+          },
+          {
+            "group": "30–44",
+            "base": {
+              "n": 268
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 159,
+                "pct": 59.3
+              },
+              {
+                "answer": "No",
+                "count": 70,
+                "pct": 26.1
+              },
+              {
+                "answer": "Not Sure",
+                "count": 39,
+                "pct": 14.6
+              }
+            ]
+          },
+          {
+            "group": "45–60",
+            "base": {
+              "n": 375
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 221,
+                "pct": 58.9
+              },
+              {
+                "answer": "No",
+                "count": 86,
+                "pct": 22.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 68,
+                "pct": 18.1
+              }
+            ]
+          },
+          {
+            "group": "60+",
+            "base": {
+              "n": 46
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 26,
+                "pct": 56.5
+              },
+              {
+                "answer": "No",
+                "count": 11,
+                "pct": 23.9
+              },
+              {
+                "answer": "Not Sure",
+                "count": 9,
+                "pct": 19.6
+              }
+            ]
+          }
+        ],
+        "household_income": [
+          {
+            "group": "$100,000–$149,999",
+            "base": {
+              "n": 66
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 45,
+                "pct": 68.2
+              },
+              {
+                "answer": "No",
+                "count": 12,
+                "pct": 18.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 9,
+                "pct": 13.6
+              }
+            ]
+          },
+          {
+            "group": "$150,000–$199,999",
+            "base": {
+              "n": 23
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 17,
+                "pct": 73.9
+              },
+              {
+                "answer": "No",
+                "count": 3,
+                "pct": 13
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 13
+              }
+            ]
+          },
+          {
+            "group": "$200,000+",
+            "base": {
+              "n": 19
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 14,
+                "pct": 73.7
+              },
+              {
+                "answer": "No",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Not Sure",
+                "count": 3,
+                "pct": 15.8
+              }
+            ]
+          },
+          {
+            "group": "$50,000–$99,999",
+            "base": {
+              "n": 228
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 140,
+                "pct": 61.4
+              },
+              {
+                "answer": "No",
+                "count": 53,
+                "pct": 23.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 35,
+                "pct": 15.4
+              }
+            ]
+          },
+          {
+            "group": "Prefer not to say",
+            "base": {
+              "n": 86
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 40,
+                "pct": 46.5
+              },
+              {
+                "answer": "No",
+                "count": 22,
+                "pct": 25.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 24,
+                "pct": 27.9
+              }
+            ]
+          },
+          {
+            "group": "Under $50,000",
+            "base": {
+              "n": 571
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 350,
+                "pct": 61.3
+              },
+              {
+                "answer": "No",
+                "count": 129,
+                "pct": 22.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 92,
+                "pct": 16.1
+              }
+            ]
+          }
+        ],
+        "us_region": [
+          {
+            "group": "Midwest",
+            "base": {
+              "n": 194
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 109,
+                "pct": 56.2
+              },
+              {
+                "answer": "No",
+                "count": 45,
+                "pct": 23.2
+              },
+              {
+                "answer": "Not Sure",
+                "count": 40,
+                "pct": 20.6
+              }
+            ]
+          },
+          {
+            "group": "Northeast",
+            "base": {
+              "n": 190
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 119,
+                "pct": 62.6
+              },
+              {
+                "answer": "No",
+                "count": 43,
+                "pct": 22.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 28,
+                "pct": 14.7
+              }
+            ]
+          },
+          {
+            "group": "South",
+            "base": {
+              "n": 342
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 211,
+                "pct": 61.7
+              },
+              {
+                "answer": "No",
+                "count": 74,
+                "pct": 21.6
+              },
+              {
+                "answer": "Not Sure",
+                "count": 57,
+                "pct": 16.7
+              }
+            ]
+          },
+          {
+            "group": "West",
+            "base": {
+              "n": 251
+            },
+            "cells": [
+              {
+                "answer": "Yes",
+                "count": 154,
+                "pct": 61.4
+              },
+              {
+                "answer": "No",
+                "count": 57,
+                "pct": 22.7
+              },
+              {
+                "answer": "Not Sure",
+                "count": 40,
+                "pct": 15.9
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "Q4",
+      "question_prompt": "At what stage did you realize the job was likely a 'ghost job'?",
+      "type": "single",
+      "overall": {
+        "base": {
+          "n": 993
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 556,
+            "pct": 56
+          },
+          {
+            "answer": "First Interview",
+            "count": 179,
+            "pct": 18
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 113,
+            "pct": 11.4
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 81,
+            "pct": 8.2
+          },
+          {
+            "answer": "Final Interview",
+            "count": 64,
+            "pct": 6.4
+          }
+        ]
+      },
+      "crosstabs": {
+        "gender": [
+          {
+            "group": "Female",
+            "base": {
+              "n": 679
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 385,
+                "pct": 56.7
+              },
+              {
+                "answer": "First Interview",
+                "count": 121,
+                "pct": 17.8
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 71,
+                "pct": 10.5
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 62,
+                "pct": 9.1
+              },
+              {
+                "answer": "Final Interview",
+                "count": 40,
+                "pct": 5.9
+              }
+            ]
+          },
+          {
+            "group": "Male",
+            "base": {
+              "n": 314
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 171,
+                "pct": 54.5
+              },
+              {
+                "answer": "First Interview",
+                "count": 58,
+                "pct": 18.5
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 42,
+                "pct": 13.4
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 19,
+                "pct": 6.1
+              },
+              {
+                "answer": "Final Interview",
+                "count": 24,
+                "pct": 7.6
+              }
+            ]
+          }
+        ],
+        "age_band": [
+          {
+            "group": "18–29",
+            "base": {
+              "n": 304
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 170,
+                "pct": 55.9
+              },
+              {
+                "answer": "First Interview",
+                "count": 68,
+                "pct": 22.4
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 32,
+                "pct": 10.5
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 14,
+                "pct": 4.6
+              },
+              {
+                "answer": "Final Interview",
+                "count": 20,
+                "pct": 6.6
+              }
+            ]
+          },
+          {
+            "group": "30–44",
+            "base": {
+              "n": 268
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 146,
+                "pct": 54.5
+              },
+              {
+                "answer": "First Interview",
+                "count": 55,
+                "pct": 20.5
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 32,
+                "pct": 11.9
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 21,
+                "pct": 7.8
+              },
+              {
+                "answer": "Final Interview",
+                "count": 14,
+                "pct": 5.2
+              }
+            ]
+          },
+          {
+            "group": "45–60",
+            "base": {
+              "n": 375
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 214,
+                "pct": 57.1
+              },
+              {
+                "answer": "First Interview",
+                "count": 49,
+                "pct": 13.1
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 44,
+                "pct": 11.7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 40,
+                "pct": 10.7
+              },
+              {
+                "answer": "Final Interview",
+                "count": 28,
+                "pct": 7.5
+              }
+            ]
+          },
+          {
+            "group": "60+",
+            "base": {
+              "n": 46
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 26,
+                "pct": 56.5
+              },
+              {
+                "answer": "First Interview",
+                "count": 7,
+                "pct": 15.2
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 5,
+                "pct": 10.9
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 6,
+                "pct": 13
+              },
+              {
+                "answer": "Final Interview",
+                "count": 2,
+                "pct": 4.3
+              }
+            ]
+          }
+        ],
+        "household_income": [
+          {
+            "group": "$100,000–$149,999",
+            "base": {
+              "n": 66
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 36,
+                "pct": 54.5
+              },
+              {
+                "answer": "First Interview",
+                "count": 9,
+                "pct": 13.6
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 11,
+                "pct": 16.7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 5,
+                "pct": 7.6
+              },
+              {
+                "answer": "Final Interview",
+                "count": 5,
+                "pct": 7.6
+              }
+            ]
+          },
+          {
+            "group": "$150,000–$199,999",
+            "base": {
+              "n": 23
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 14,
+                "pct": 60.9
+              },
+              {
+                "answer": "First Interview",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Final Interview",
+                "count": 1,
+                "pct": 4.3
+              }
+            ]
+          },
+          {
+            "group": "$200,000+",
+            "base": {
+              "n": 19
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 8,
+                "pct": 42.1
+              },
+              {
+                "answer": "First Interview",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "Final Interview",
+                "count": 3,
+                "pct": 15.8
+              }
+            ]
+          },
+          {
+            "group": "$50,000–$99,999",
+            "base": {
+              "n": 228
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 126,
+                "pct": 55.3
+              },
+              {
+                "answer": "First Interview",
+                "count": 45,
+                "pct": 19.7
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 29,
+                "pct": 12.7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 17,
+                "pct": 7.5
+              },
+              {
+                "answer": "Final Interview",
+                "count": 11,
+                "pct": 4.8
+              }
+            ]
+          },
+          {
+            "group": "Prefer not to say",
+            "base": {
+              "n": 86
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 54,
+                "pct": 62.8
+              },
+              {
+                "answer": "First Interview",
+                "count": 10,
+                "pct": 11.6
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 5,
+                "pct": 5.8
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 11,
+                "pct": 12.8
+              },
+              {
+                "answer": "Final Interview",
+                "count": 6,
+                "pct": 7
+              }
+            ]
+          },
+          {
+            "group": "Under $50,000",
+            "base": {
+              "n": 571
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 318,
+                "pct": 55.7
+              },
+              {
+                "answer": "First Interview",
+                "count": 109,
+                "pct": 19.1
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 61,
+                "pct": 10.7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 45,
+                "pct": 7.9
+              },
+              {
+                "answer": "Final Interview",
+                "count": 38,
+                "pct": 6.7
+              }
+            ]
+          }
+        ],
+        "us_region": [
+          {
+            "group": "Midwest",
+            "base": {
+              "n": 194
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 115,
+                "pct": 59.3
+              },
+              {
+                "answer": "First Interview",
+                "count": 30,
+                "pct": 15.5
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 20,
+                "pct": 10.3
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 18,
+                "pct": 9.3
+              },
+              {
+                "answer": "Final Interview",
+                "count": 11,
+                "pct": 5.7
+              }
+            ]
+          },
+          {
+            "group": "Northeast",
+            "base": {
+              "n": 190
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 108,
+                "pct": 56.8
+              },
+              {
+                "answer": "First Interview",
+                "count": 34,
+                "pct": 17.9
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 19,
+                "pct": 10
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 16,
+                "pct": 8.4
+              },
+              {
+                "answer": "Final Interview",
+                "count": 13,
+                "pct": 6.8
+              }
+            ]
+          },
+          {
+            "group": "South",
+            "base": {
+              "n": 342
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 194,
+                "pct": 56.7
+              },
+              {
+                "answer": "First Interview",
+                "count": 61,
+                "pct": 17.8
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 39,
+                "pct": 11.4
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 25,
+                "pct": 7.3
+              },
+              {
+                "answer": "Final Interview",
+                "count": 23,
+                "pct": 6.7
+              }
+            ]
+          },
+          {
+            "group": "West",
+            "base": {
+              "n": 251
+            },
+            "cells": [
+              {
+                "answer": "Applied/No response",
+                "count": 135,
+                "pct": 53.8
+              },
+              {
+                "answer": "First Interview",
+                "count": 47,
+                "pct": 18.7
+              },
+              {
+                "answer": "Recruiter Screen",
+                "count": 32,
+                "pct": 12.7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 22,
+                "pct": 8.8
+              },
+              {
+                "answer": "Final Interview",
+                "count": 15,
+                "pct": 6
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "Q5",
+      "question_prompt": "Did you incur any of the following out-of-pocket costs while pursuing a role you now suspect was a \"ghost job\"? (Select all that apply)",
+      "type": "single",
+      "note": "The export holds one answer per respondent for this question.",
+      "overall": {
+        "base": {
+          "n": 993
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 542,
+            "pct": 54.6
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 179,
+            "pct": 18
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 99,
+            "pct": 10
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 81,
+            "pct": 8.2
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 77,
+            "pct": 7.8
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 15,
+            "pct": 1.5
+          }
+        ]
+      },
+      "crosstabs": {
+        "gender": [
+          {
+            "group": "Female",
+            "base": {
+              "n": 679
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 394,
+                "pct": 58
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 115,
+                "pct": 16.9
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 62,
+                "pct": 9.1
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 56,
+                "pct": 8.2
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 43,
+                "pct": 6.3
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 9,
+                "pct": 1.3
+              }
+            ]
+          },
+          {
+            "group": "Male",
+            "base": {
+              "n": 314
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 148,
+                "pct": 47.1
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 64,
+                "pct": 20.4
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 37,
+                "pct": 11.8
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 25,
+                "pct": 8
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 34,
+                "pct": 10.8
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 6,
+                "pct": 1.9
+              }
+            ]
+          }
+        ],
+        "age_band": [
+          {
+            "group": "18–29",
+            "base": {
+              "n": 304
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 150,
+                "pct": 49.3
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 50,
+                "pct": 16.4
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 48,
+                "pct": 15.8
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 33,
+                "pct": 10.9
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 20,
+                "pct": 6.6
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 3,
+                "pct": 1
+              }
+            ]
+          },
+          {
+            "group": "30–44",
+            "base": {
+              "n": 268
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 139,
+                "pct": 51.9
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 49,
+                "pct": 18.3
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 34,
+                "pct": 12.7
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 23,
+                "pct": 8.6
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 19,
+                "pct": 7.1
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 4,
+                "pct": 1.5
+              }
+            ]
+          },
+          {
+            "group": "45–60",
+            "base": {
+              "n": 375
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 225,
+                "pct": 60
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 70,
+                "pct": 18.7
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 14,
+                "pct": 3.7
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 24,
+                "pct": 6.4
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 35,
+                "pct": 9.3
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 7,
+                "pct": 1.9
+              }
+            ]
+          },
+          {
+            "group": "60+",
+            "base": {
+              "n": 46
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 28,
+                "pct": 60.9
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 10,
+                "pct": 21.7
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 3,
+                "pct": 6.5
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 3,
+                "pct": 6.5
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 1,
+                "pct": 2.2
+              }
+            ]
+          }
+        ],
+        "household_income": [
+          {
+            "group": "$100,000–$149,999",
+            "base": {
+              "n": 66
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 31,
+                "pct": 47
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 12,
+                "pct": 18.2
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 13,
+                "pct": 19.7
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 2,
+                "pct": 3
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 7,
+                "pct": 10.6
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 1,
+                "pct": 1.5
+              }
+            ]
+          },
+          {
+            "group": "$150,000–$199,999",
+            "base": {
+              "n": 23
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 12,
+                "pct": 52.2
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 3,
+                "pct": 13
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 3,
+                "pct": 13
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 0,
+                "pct": 0
+              }
+            ]
+          },
+          {
+            "group": "$200,000+",
+            "base": {
+              "n": 19
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 11,
+                "pct": 57.9
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 0,
+                "pct": 0
+              }
+            ]
+          },
+          {
+            "group": "$50,000–$99,999",
+            "base": {
+              "n": 228
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 142,
+                "pct": 62.3
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 36,
+                "pct": 15.8
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 9,
+                "pct": 3.9
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 19,
+                "pct": 8.3
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 18,
+                "pct": 7.9
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 4,
+                "pct": 1.8
+              }
+            ]
+          },
+          {
+            "group": "Prefer not to say",
+            "base": {
+              "n": 86
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 60,
+                "pct": 69.8
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 12,
+                "pct": 14
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 7,
+                "pct": 8.1
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 6,
+                "pct": 7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 1,
+                "pct": 1.2
+              }
+            ]
+          },
+          {
+            "group": "Under $50,000",
+            "base": {
+              "n": 571
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 286,
+                "pct": 50.1
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 115,
+                "pct": 20.1
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 66,
+                "pct": 11.6
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 55,
+                "pct": 9.6
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 40,
+                "pct": 7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 9,
+                "pct": 1.6
+              }
+            ]
+          }
+        ],
+        "us_region": [
+          {
+            "group": "Midwest",
+            "base": {
+              "n": 194
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 102,
+                "pct": 52.6
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 42,
+                "pct": 21.6
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 16,
+                "pct": 8.2
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 14,
+                "pct": 7.2
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 17,
+                "pct": 8.8
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 3,
+                "pct": 1.5
+              }
+            ]
+          },
+          {
+            "group": "Northeast",
+            "base": {
+              "n": 190
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 111,
+                "pct": 58.4
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 31,
+                "pct": 16.3
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 17,
+                "pct": 8.9
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 14,
+                "pct": 7.4
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 15,
+                "pct": 7.9
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 2,
+                "pct": 1.1
+              }
+            ]
+          },
+          {
+            "group": "South",
+            "base": {
+              "n": 342
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 186,
+                "pct": 54.4
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 67,
+                "pct": 19.6
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 31,
+                "pct": 9.1
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 29,
+                "pct": 8.5
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 24,
+                "pct": 7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 5,
+                "pct": 1.5
+              }
+            ]
+          },
+          {
+            "group": "West",
+            "base": {
+              "n": 251
+            },
+            "cells": [
+              {
+                "answer": "None of the above",
+                "count": 139,
+                "pct": 55.4
+              },
+              {
+                "answer": "Travel/Gas for interviews",
+                "count": 36,
+                "pct": 14.3
+              },
+              {
+                "answer": "Paid \"test\" assignments or certifications",
+                "count": 28,
+                "pct": 11.2
+              },
+              {
+                "answer": "Childcare or eldercare",
+                "count": 22,
+                "pct": 8.8
+              },
+              {
+                "answer": "Premium job board subscriptions",
+                "count": 21,
+                "pct": 8.4
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 5,
+                "pct": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "Q6",
+      "question_prompt": "Which of the following 'red flags' made you realize the role wasn't real? (Select all that apply)",
+      "type": "single",
+      "note": "The export holds one answer per respondent for this question.",
+      "overall": {
+        "base": {
+          "n": 993
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 270,
+            "pct": 27.2
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 164,
+            "pct": 16.5
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 156,
+            "pct": 15.7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 152,
+            "pct": 15.3
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 143,
+            "pct": 14.4
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 76,
+            "pct": 7.7
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 32,
+            "pct": 3.2
+          }
+        ]
+      },
+      "crosstabs": {
+        "gender": [
+          {
+            "group": "Female",
+            "base": {
+              "n": 679
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 190,
+                "pct": 28
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 105,
+                "pct": 15.5
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 107,
+                "pct": 15.8
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 110,
+                "pct": 16.2
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 88,
+                "pct": 13
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 58,
+                "pct": 8.5
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 21,
+                "pct": 3.1
+              }
+            ]
+          },
+          {
+            "group": "Male",
+            "base": {
+              "n": 314
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 80,
+                "pct": 25.5
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 59,
+                "pct": 18.8
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 49,
+                "pct": 15.6
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 42,
+                "pct": 13.4
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 55,
+                "pct": 17.5
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 18,
+                "pct": 5.7
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 11,
+                "pct": 3.5
+              }
+            ]
+          }
+        ],
+        "age_band": [
+          {
+            "group": "18–29",
+            "base": {
+              "n": 304
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 87,
+                "pct": 28.6
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 52,
+                "pct": 17.1
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 51,
+                "pct": 16.8
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 26,
+                "pct": 8.6
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 58,
+                "pct": 19.1
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 23,
+                "pct": 7.6
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 7,
+                "pct": 2.3
+              }
+            ]
+          },
+          {
+            "group": "30–44",
+            "base": {
+              "n": 268
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 63,
+                "pct": 23.5
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 48,
+                "pct": 17.9
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 44,
+                "pct": 16.4
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 42,
+                "pct": 15.7
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 44,
+                "pct": 16.4
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 18,
+                "pct": 6.7
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 9,
+                "pct": 3.4
+              }
+            ]
+          },
+          {
+            "group": "45–60",
+            "base": {
+              "n": 375
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 103,
+                "pct": 27.5
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 59,
+                "pct": 15.7
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 59,
+                "pct": 15.7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 69,
+                "pct": 18.4
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 37,
+                "pct": 9.9
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 33,
+                "pct": 8.8
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 15,
+                "pct": 4
+              }
+            ]
+          },
+          {
+            "group": "60+",
+            "base": {
+              "n": 46
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 17,
+                "pct": 37
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 5,
+                "pct": 10.9
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 15,
+                "pct": 32.6
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 4,
+                "pct": 8.7
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 2,
+                "pct": 4.3
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 1,
+                "pct": 2.2
+              }
+            ]
+          }
+        ],
+        "household_income": [
+          {
+            "group": "$100,000–$149,999",
+            "base": {
+              "n": 66
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 17,
+                "pct": 25.8
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 14,
+                "pct": 21.2
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 8,
+                "pct": 12.1
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 9,
+                "pct": 13.6
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 7,
+                "pct": 10.6
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 8,
+                "pct": 12.1
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 3,
+                "pct": 4.5
+              }
+            ]
+          },
+          {
+            "group": "$150,000–$199,999",
+            "base": {
+              "n": 23
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 9,
+                "pct": 39.1
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 3,
+                "pct": 13
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 6,
+                "pct": 26.1
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 0,
+                "pct": 0
+              }
+            ]
+          },
+          {
+            "group": "$200,000+",
+            "base": {
+              "n": 19
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 4,
+                "pct": 21.1
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 1,
+                "pct": 5.3
+              }
+            ]
+          },
+          {
+            "group": "$50,000–$99,999",
+            "base": {
+              "n": 228
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 73,
+                "pct": 32
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 29,
+                "pct": 12.7
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 33,
+                "pct": 14.5
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 31,
+                "pct": 13.6
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 35,
+                "pct": 15.4
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 20,
+                "pct": 8.8
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 7,
+                "pct": 3.1
+              }
+            ]
+          },
+          {
+            "group": "Prefer not to say",
+            "base": {
+              "n": 86
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 23,
+                "pct": 26.7
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 14,
+                "pct": 16.3
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 15,
+                "pct": 17.4
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 18,
+                "pct": 20.9
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 6,
+                "pct": 7
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 5,
+                "pct": 5.8
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 5,
+                "pct": 5.8
+              }
+            ]
+          },
+          {
+            "group": "Under $50,000",
+            "base": {
+              "n": 571
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 141,
+                "pct": 24.7
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 100,
+                "pct": 17.5
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 95,
+                "pct": 16.6
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 92,
+                "pct": 16.1
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 85,
+                "pct": 14.9
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 42,
+                "pct": 7.4
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 16,
+                "pct": 2.8
+              }
+            ]
+          }
+        ],
+        "us_region": [
+          {
+            "group": "Midwest",
+            "base": {
+              "n": 194
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 55,
+                "pct": 28.4
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 34,
+                "pct": 17.5
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 29,
+                "pct": 14.9
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 28,
+                "pct": 14.4
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 33,
+                "pct": 17
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 13,
+                "pct": 6.7
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 2,
+                "pct": 1
+              }
+            ]
+          },
+          {
+            "group": "Northeast",
+            "base": {
+              "n": 190
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 48,
+                "pct": 25.3
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 31,
+                "pct": 16.3
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 30,
+                "pct": 15.8
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 33,
+                "pct": 17.4
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 26,
+                "pct": 13.7
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 16,
+                "pct": 8.4
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 6,
+                "pct": 3.2
+              }
+            ]
+          },
+          {
+            "group": "South",
+            "base": {
+              "n": 342
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 95,
+                "pct": 27.8
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 57,
+                "pct": 16.7
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 53,
+                "pct": 15.5
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 52,
+                "pct": 15.2
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 47,
+                "pct": 13.7
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 25,
+                "pct": 7.3
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 13,
+                "pct": 3.8
+              }
+            ]
+          },
+          {
+            "group": "West",
+            "base": {
+              "n": 251
+            },
+            "cells": [
+              {
+                "answer": "The listing has been active for 3+ months.",
+                "count": 70,
+                "pct": 27.9
+              },
+              {
+                "answer": "The job was reposted immediately after I was rejected;",
+                "count": 39,
+                "pct": 15.5
+              },
+              {
+                "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+                "count": 41,
+                "pct": 16.3
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 39,
+                "pct": 15.5
+              },
+              {
+                "answer": "The job description was clearly AI-generated/nonsensical.",
+                "count": 33,
+                "pct": 13.1
+              },
+              {
+                "answer": "The company website shows a hiring freeze",
+                "count": 19,
+                "pct": 7.6
+              },
+              {
+                "answer": "The recruiter admitted they are just \"building a pipeline\"",
+                "count": 10,
+                "pct": 4
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "Q7",
+      "question_prompt": "In the past 6 months, approximately how many of your total job applications do you believe went to ghost or fake listings?",
+      "type": "single",
+      "overall": {
+        "base": {
+          "n": 993
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 302,
+            "pct": 30.4
+          },
+          {
+            "answer": "11-25%",
+            "count": 247,
+            "pct": 24.9
+          },
+          {
+            "answer": "0",
+            "count": 212,
+            "pct": 21.3
+          },
+          {
+            "answer": "26-50%",
+            "count": 134,
+            "pct": 13.5
+          },
+          {
+            "answer": "More than 50%",
+            "count": 98,
+            "pct": 9.9
+          }
+        ]
+      },
+      "crosstabs": {
+        "gender": [
+          {
+            "group": "Female",
+            "base": {
+              "n": 679
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 216,
+                "pct": 31.8
+              },
+              {
+                "answer": "11-25%",
+                "count": 172,
+                "pct": 25.3
+              },
+              {
+                "answer": "0",
+                "count": 152,
+                "pct": 22.4
+              },
+              {
+                "answer": "26-50%",
+                "count": 82,
+                "pct": 12.1
+              },
+              {
+                "answer": "More than 50%",
+                "count": 57,
+                "pct": 8.4
+              }
+            ]
+          },
+          {
+            "group": "Male",
+            "base": {
+              "n": 314
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 86,
+                "pct": 27.4
+              },
+              {
+                "answer": "11-25%",
+                "count": 75,
+                "pct": 23.9
+              },
+              {
+                "answer": "0",
+                "count": 60,
+                "pct": 19.1
+              },
+              {
+                "answer": "26-50%",
+                "count": 52,
+                "pct": 16.6
+              },
+              {
+                "answer": "More than 50%",
+                "count": 41,
+                "pct": 13.1
+              }
+            ]
+          }
+        ],
+        "age_band": [
+          {
+            "group": "18–29",
+            "base": {
+              "n": 304
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 81,
+                "pct": 26.6
+              },
+              {
+                "answer": "11-25%",
+                "count": 102,
+                "pct": 33.6
+              },
+              {
+                "answer": "0",
+                "count": 39,
+                "pct": 12.8
+              },
+              {
+                "answer": "26-50%",
+                "count": 53,
+                "pct": 17.4
+              },
+              {
+                "answer": "More than 50%",
+                "count": 29,
+                "pct": 9.5
+              }
+            ]
+          },
+          {
+            "group": "30–44",
+            "base": {
+              "n": 268
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 80,
+                "pct": 29.9
+              },
+              {
+                "answer": "11-25%",
+                "count": 66,
+                "pct": 24.6
+              },
+              {
+                "answer": "0",
+                "count": 58,
+                "pct": 21.6
+              },
+              {
+                "answer": "26-50%",
+                "count": 42,
+                "pct": 15.7
+              },
+              {
+                "answer": "More than 50%",
+                "count": 22,
+                "pct": 8.2
+              }
+            ]
+          },
+          {
+            "group": "45–60",
+            "base": {
+              "n": 375
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 125,
+                "pct": 33.3
+              },
+              {
+                "answer": "11-25%",
+                "count": 71,
+                "pct": 18.9
+              },
+              {
+                "answer": "0",
+                "count": 104,
+                "pct": 27.7
+              },
+              {
+                "answer": "26-50%",
+                "count": 34,
+                "pct": 9.1
+              },
+              {
+                "answer": "More than 50%",
+                "count": 41,
+                "pct": 10.9
+              }
+            ]
+          },
+          {
+            "group": "60+",
+            "base": {
+              "n": 46
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 16,
+                "pct": 34.8
+              },
+              {
+                "answer": "11-25%",
+                "count": 8,
+                "pct": 17.4
+              },
+              {
+                "answer": "0",
+                "count": 11,
+                "pct": 23.9
+              },
+              {
+                "answer": "26-50%",
+                "count": 5,
+                "pct": 10.9
+              },
+              {
+                "answer": "More than 50%",
+                "count": 6,
+                "pct": 13
+              }
+            ]
+          }
+        ],
+        "household_income": [
+          {
+            "group": "$100,000–$149,999",
+            "base": {
+              "n": 66
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 17,
+                "pct": 25.8
+              },
+              {
+                "answer": "11-25%",
+                "count": 18,
+                "pct": 27.3
+              },
+              {
+                "answer": "0",
+                "count": 12,
+                "pct": 18.2
+              },
+              {
+                "answer": "26-50%",
+                "count": 13,
+                "pct": 19.7
+              },
+              {
+                "answer": "More than 50%",
+                "count": 6,
+                "pct": 9.1
+              }
+            ]
+          },
+          {
+            "group": "$150,000–$199,999",
+            "base": {
+              "n": 23
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 6,
+                "pct": 26.1
+              },
+              {
+                "answer": "11-25%",
+                "count": 8,
+                "pct": 34.8
+              },
+              {
+                "answer": "0",
+                "count": 3,
+                "pct": 13
+              },
+              {
+                "answer": "26-50%",
+                "count": 6,
+                "pct": 26.1
+              },
+              {
+                "answer": "More than 50%",
+                "count": 0,
+                "pct": 0
+              }
+            ]
+          },
+          {
+            "group": "$200,000+",
+            "base": {
+              "n": 19
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "11-25%",
+                "count": 6,
+                "pct": 31.6
+              },
+              {
+                "answer": "0",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "26-50%",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "More than 50%",
+                "count": 2,
+                "pct": 10.5
+              }
+            ]
+          },
+          {
+            "group": "$50,000–$99,999",
+            "base": {
+              "n": 228
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 76,
+                "pct": 33.3
+              },
+              {
+                "answer": "11-25%",
+                "count": 58,
+                "pct": 25.4
+              },
+              {
+                "answer": "0",
+                "count": 40,
+                "pct": 17.5
+              },
+              {
+                "answer": "26-50%",
+                "count": 33,
+                "pct": 14.5
+              },
+              {
+                "answer": "More than 50%",
+                "count": 21,
+                "pct": 9.2
+              }
+            ]
+          },
+          {
+            "group": "Prefer not to say",
+            "base": {
+              "n": 86
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 27,
+                "pct": 31.4
+              },
+              {
+                "answer": "11-25%",
+                "count": 16,
+                "pct": 18.6
+              },
+              {
+                "answer": "0",
+                "count": 28,
+                "pct": 32.6
+              },
+              {
+                "answer": "26-50%",
+                "count": 6,
+                "pct": 7
+              },
+              {
+                "answer": "More than 50%",
+                "count": 9,
+                "pct": 10.5
+              }
+            ]
+          },
+          {
+            "group": "Under $50,000",
+            "base": {
+              "n": 571
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 169,
+                "pct": 29.6
+              },
+              {
+                "answer": "11-25%",
+                "count": 141,
+                "pct": 24.7
+              },
+              {
+                "answer": "0",
+                "count": 127,
+                "pct": 22.2
+              },
+              {
+                "answer": "26-50%",
+                "count": 74,
+                "pct": 13
+              },
+              {
+                "answer": "More than 50%",
+                "count": 60,
+                "pct": 10.5
+              }
+            ]
+          }
+        ],
+        "us_region": [
+          {
+            "group": "Midwest",
+            "base": {
+              "n": 194
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 71,
+                "pct": 36.6
+              },
+              {
+                "answer": "11-25%",
+                "count": 48,
+                "pct": 24.7
+              },
+              {
+                "answer": "0",
+                "count": 46,
+                "pct": 23.7
+              },
+              {
+                "answer": "26-50%",
+                "count": 15,
+                "pct": 7.7
+              },
+              {
+                "answer": "More than 50%",
+                "count": 14,
+                "pct": 7.2
+              }
+            ]
+          },
+          {
+            "group": "Northeast",
+            "base": {
+              "n": 190
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 59,
+                "pct": 31.1
+              },
+              {
+                "answer": "11-25%",
+                "count": 55,
+                "pct": 28.9
+              },
+              {
+                "answer": "0",
+                "count": 37,
+                "pct": 19.5
+              },
+              {
+                "answer": "26-50%",
+                "count": 22,
+                "pct": 11.6
+              },
+              {
+                "answer": "More than 50%",
+                "count": 17,
+                "pct": 8.9
+              }
+            ]
+          },
+          {
+            "group": "South",
+            "base": {
+              "n": 342
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 94,
+                "pct": 27.5
+              },
+              {
+                "answer": "11-25%",
+                "count": 81,
+                "pct": 23.7
+              },
+              {
+                "answer": "0",
+                "count": 69,
+                "pct": 20.2
+              },
+              {
+                "answer": "26-50%",
+                "count": 58,
+                "pct": 17
+              },
+              {
+                "answer": "More than 50%",
+                "count": 40,
+                "pct": 11.7
+              }
+            ]
+          },
+          {
+            "group": "West",
+            "base": {
+              "n": 251
+            },
+            "cells": [
+              {
+                "answer": "1-10%",
+                "count": 74,
+                "pct": 29.5
+              },
+              {
+                "answer": "11-25%",
+                "count": 57,
+                "pct": 22.7
+              },
+              {
+                "answer": "0",
+                "count": 58,
+                "pct": 23.1
+              },
+              {
+                "answer": "26-50%",
+                "count": 35,
+                "pct": 13.9
+              },
+              {
+                "answer": "More than 50%",
+                "count": 27,
+                "pct": 10.8
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "Q8",
+      "question_prompt": "As a result of encountering ghost jobs, have you changed your job search behavior in any of the following ways? (Select all that apply)",
+      "type": "single",
+      "note": "The export holds one answer per respondent for this question.",
+      "overall": {
+        "base": {
+          "n": 993
+        },
+        "cells": [
+          {
+            "answer": "No change",
+            "count": 252,
+            "pct": 25.4
+          },
+          {
+            "answer": "I apply to fewer jobs",
+            "count": 236,
+            "pct": 23.8
+          },
+          {
+            "answer": "I only apply if I know someone at the company",
+            "count": 122,
+            "pct": 12.3
+          },
+          {
+            "answer": "I avoid job boards entirely",
+            "count": 116,
+            "pct": 11.7
+          },
+          {
+            "answer": "I reach out directly to hiring managers",
+            "count": 114,
+            "pct": 11.5
+          },
+          {
+            "answer": "I check Glassdoor or Reddit before applying",
+            "count": 89,
+            "pct": 9
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 32,
+            "pct": 3.2
+          },
+          {
+            "answer": "I have permanently boycotted the company's products/services",
+            "count": 32,
+            "pct": 3.2
+          }
+        ]
+      },
+      "crosstabs": {
+        "gender": [
+          {
+            "group": "Female",
+            "base": {
+              "n": 679
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 168,
+                "pct": 24.7
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 170,
+                "pct": 25
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 75,
+                "pct": 11
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 84,
+                "pct": 12.4
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 77,
+                "pct": 11.3
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 57,
+                "pct": 8.4
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 27,
+                "pct": 4
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 21,
+                "pct": 3.1
+              }
+            ]
+          },
+          {
+            "group": "Male",
+            "base": {
+              "n": 314
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 84,
+                "pct": 26.8
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 66,
+                "pct": 21
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 47,
+                "pct": 15
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 32,
+                "pct": 10.2
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 37,
+                "pct": 11.8
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 32,
+                "pct": 10.2
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 5,
+                "pct": 1.6
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 11,
+                "pct": 3.5
+              }
+            ]
+          }
+        ],
+        "age_band": [
+          {
+            "group": "18–29",
+            "base": {
+              "n": 304
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 66,
+                "pct": 21.7
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 82,
+                "pct": 27
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 39,
+                "pct": 12.8
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 38,
+                "pct": 12.5
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 36,
+                "pct": 11.8
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 27,
+                "pct": 8.9
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 6,
+                "pct": 2
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 10,
+                "pct": 3.3
+              }
+            ]
+          },
+          {
+            "group": "30–44",
+            "base": {
+              "n": 268
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 64,
+                "pct": 23.9
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 60,
+                "pct": 22.4
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 41,
+                "pct": 15.3
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 33,
+                "pct": 12.3
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 29,
+                "pct": 10.8
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 25,
+                "pct": 9.3
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 7,
+                "pct": 2.6
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 9,
+                "pct": 3.4
+              }
+            ]
+          },
+          {
+            "group": "45–60",
+            "base": {
+              "n": 375
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 108,
+                "pct": 28.8
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 86,
+                "pct": 22.9
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 41,
+                "pct": 10.9
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 37,
+                "pct": 9.9
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 43,
+                "pct": 11.5
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 33,
+                "pct": 8.8
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 15,
+                "pct": 4
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 12,
+                "pct": 3.2
+              }
+            ]
+          },
+          {
+            "group": "60+",
+            "base": {
+              "n": 46
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 14,
+                "pct": 30.4
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 8,
+                "pct": 17.4
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 1,
+                "pct": 2.2
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 8,
+                "pct": 17.4
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 6,
+                "pct": 13
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 4,
+                "pct": 8.7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 4,
+                "pct": 8.7
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 1,
+                "pct": 2.2
+              }
+            ]
+          }
+        ],
+        "household_income": [
+          {
+            "group": "$100,000–$149,999",
+            "base": {
+              "n": 66
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 10,
+                "pct": 15.2
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 16,
+                "pct": 24.2
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 11,
+                "pct": 16.7
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 6,
+                "pct": 9.1
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 11,
+                "pct": 16.7
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 8,
+                "pct": 12.1
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 2,
+                "pct": 3
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 2,
+                "pct": 3
+              }
+            ]
+          },
+          {
+            "group": "$150,000–$199,999",
+            "base": {
+              "n": 23
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 3,
+                "pct": 13
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 5,
+                "pct": 21.7
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 4,
+                "pct": 17.4
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 5,
+                "pct": 21.7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 1,
+                "pct": 4.3
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 1,
+                "pct": 4.3
+              }
+            ]
+          },
+          {
+            "group": "$200,000+",
+            "base": {
+              "n": 19
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 7,
+                "pct": 36.8
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 5,
+                "pct": 26.3
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 3,
+                "pct": 15.8
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 1,
+                "pct": 5.3
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 2,
+                "pct": 10.5
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 0,
+                "pct": 0
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 0,
+                "pct": 0
+              }
+            ]
+          },
+          {
+            "group": "$50,000–$99,999",
+            "base": {
+              "n": 228
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 64,
+                "pct": 28.1
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 56,
+                "pct": 24.6
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 24,
+                "pct": 10.5
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 26,
+                "pct": 11.4
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 29,
+                "pct": 12.7
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 19,
+                "pct": 8.3
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 4,
+                "pct": 1.8
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 6,
+                "pct": 2.6
+              }
+            ]
+          },
+          {
+            "group": "Prefer not to say",
+            "base": {
+              "n": 86
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 30,
+                "pct": 34.9
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 19,
+                "pct": 22.1
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 10,
+                "pct": 11.6
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 5,
+                "pct": 5.8
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 7,
+                "pct": 8.1
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 6,
+                "pct": 7
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 6,
+                "pct": 7
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 3,
+                "pct": 3.5
+              }
+            ]
+          },
+          {
+            "group": "Under $50,000",
+            "base": {
+              "n": 571
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 138,
+                "pct": 24.2
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 135,
+                "pct": 23.6
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 70,
+                "pct": 12.3
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 74,
+                "pct": 13
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 66,
+                "pct": 11.6
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 49,
+                "pct": 8.6
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 19,
+                "pct": 3.3
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 20,
+                "pct": 3.5
+              }
+            ]
+          }
+        ],
+        "us_region": [
+          {
+            "group": "Midwest",
+            "base": {
+              "n": 194
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 61,
+                "pct": 31.4
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 33,
+                "pct": 17
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 23,
+                "pct": 11.9
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 23,
+                "pct": 11.9
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 18,
+                "pct": 9.3
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 17,
+                "pct": 8.8
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 10,
+                "pct": 5.2
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 9,
+                "pct": 4.6
+              }
+            ]
+          },
+          {
+            "group": "Northeast",
+            "base": {
+              "n": 190
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 47,
+                "pct": 24.7
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 49,
+                "pct": 25.8
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 27,
+                "pct": 14.2
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 18,
+                "pct": 9.5
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 30,
+                "pct": 15.8
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 12,
+                "pct": 6.3
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 3,
+                "pct": 1.6
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 4,
+                "pct": 2.1
+              }
+            ]
+          },
+          {
+            "group": "South",
+            "base": {
+              "n": 342
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 82,
+                "pct": 24
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 84,
+                "pct": 24.6
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 38,
+                "pct": 11.1
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 47,
+                "pct": 13.7
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 41,
+                "pct": 12
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 32,
+                "pct": 9.4
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 11,
+                "pct": 3.2
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 7,
+                "pct": 2
+              }
+            ]
+          },
+          {
+            "group": "West",
+            "base": {
+              "n": 251
+            },
+            "cells": [
+              {
+                "answer": "No change",
+                "count": 62,
+                "pct": 24.7
+              },
+              {
+                "answer": "I apply to fewer jobs",
+                "count": 66,
+                "pct": 26.3
+              },
+              {
+                "answer": "I only apply if I know someone at the company",
+                "count": 31,
+                "pct": 12.4
+              },
+              {
+                "answer": "I avoid job boards entirely",
+                "count": 25,
+                "pct": 10
+              },
+              {
+                "answer": "I reach out directly to hiring managers",
+                "count": 23,
+                "pct": 9.2
+              },
+              {
+                "answer": "I check Glassdoor or Reddit before applying",
+                "count": 26,
+                "pct": 10.4
+              },
+              {
+                "answer": "Other (please specify)",
+                "count": 8,
+                "pct": 3.2
+              },
+              {
+                "answer": "I have permanently boycotted the company's products/services",
+                "count": 10,
+                "pct": 4
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

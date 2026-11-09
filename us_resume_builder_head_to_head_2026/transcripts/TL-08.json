@@ -1,0 +1,1270 @@
+{
+  "id": "TL-08",
+  "matchup": "Enhancv vs Teal",
+  "final_choice": "Enhancv",
+  "transcription": "Whisper transcript produced by Enhancv from the session recording",
+  "duration": null,
+  "note": "Automatic transcription, lightly structured: speaker labels mapped to Interviewer or Participant; names, employers, schools, places, contact and login details replaced with [... redacted] tags. Wording is otherwise unedited, including transcription errors (for example 'Enhance CV' for Enhancv).",
+  "turns": [
+    {
+      "time": "00:00",
+      "speaker": "Interviewer",
+      "text": "Okay. So before we look at the first tool, how complete would you say your current resume feels to you?"
+    },
+    {
+      "time": "00:05",
+      "speaker": "Participant",
+      "text": "100% complete."
+    },
+    {
+      "time": "00:07",
+      "speaker": "Interviewer",
+      "text": "Yes? 100%?"
+    },
+    {
+      "time": "00:09",
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": "00:10",
+      "speaker": "Interviewer",
+      "text": "Okay. And so when you picture a resume that you'd feel confident sending out, what matters most to you to have in there?"
+    },
+    {
+      "time": "00:15",
+      "speaker": "Participant",
+      "text": "Maximum of two pages."
+    },
+    {
+      "time": "00:17",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "00:18",
+      "speaker": "Participant",
+      "text": "If it's in a PDF."
+    },
+    {
+      "time": "00:20",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "00:21",
+      "speaker": "Participant",
+      "text": "To the point, no waffling around, good examples, clean structure. And I think now these days with AI, terminology or words, that is AI compatible. One example, which I dislike personally, but a friend of mine shared it with me."
+    },
+    {
+      "time": "00:44",
+      "speaker": "Interviewer",
+      "text": "Oh, wait a second. I need to save."
+    },
+    {
+      "time": "00:46",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "00:47",
+      "speaker": "Interviewer",
+      "text": "This meeting is being recorded."
+    },
+    {
+      "time": "00:49",
+      "speaker": "Participant",
+      "text": "So the company that she's working in is right now not growing."
+    },
+    {
+      "time": "00:52",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "00:53",
+      "speaker": "Participant",
+      "text": "In the real world, we would say it's decreasing or it's going down or it's, you know, no, no, no. It's negative growth."
+    },
+    {
+      "time": "01:00",
+      "speaker": "Interviewer",
+      "text": "Oh."
+    },
+    {
+      "time": "01:01",
+      "speaker": "Participant",
+      "text": "So AI will capture growth, well, negative growth."
+    },
+    {
+      "time": "01:04",
+      "speaker": "Interviewer",
+      "text": "What is that?"
+    },
+    {
+      "time": "01:05",
+      "speaker": "Participant",
+      "text": "It's declining."
+    },
+    {
+      "time": "01:06",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "01:07",
+      "speaker": "Participant",
+      "text": "So it's kind of like trying to, and that was one example, so that she purposely put it in there. So AI would capture growth."
+    },
+    {
+      "time": "01:14",
+      "speaker": "Interviewer",
+      "text": "Right."
+    },
+    {
+      "time": "01:15",
+      "speaker": "Participant",
+      "text": "Yeah. The positive aspect. There's nothing positive. It's negative."
+    },
+    {
+      "time": "01:18",
+      "speaker": "Interviewer",
+      "text": "Yeah. So that was fascinating."
+    },
+    {
+      "time": "01:20",
+      "speaker": "Participant",
+      "text": "That is very interesting having to tailor your resume. Nowadays you have to do it in order for the AI to capture."
+    },
+    {
+      "time": "01:26",
+      "speaker": "Interviewer",
+      "text": "Yeah. Okay. Well, we're going to look at the first tool now. It's called Enhancv. I'm going to drop the link in the chat as well as my credentials. We'll be using my account. And once you have that pulled up, if you can share your screen, please, so I can follow along."
+    },
+    {
+      "time": "01:44",
+      "speaker": "Participant",
+      "text": "Okay. So let me just log in there."
+    },
+    {
+      "time": "01:46",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "01:47",
+      "speaker": "Participant",
+      "text": "Give me one second."
+    },
+    {
+      "time": "01:48",
+      "speaker": "Interviewer",
+      "text": "Sure."
+    },
+    {
+      "time": "02:35",
+      "speaker": "Participant",
+      "text": "Okay. So I'm signing in using."
+    },
+    {
+      "time": "02:37",
+      "speaker": "Interviewer",
+      "text": "Using my account."
+    },
+    {
+      "time": "02:38",
+      "speaker": "Participant",
+      "text": "Yes."
+    },
+    {
+      "time": "02:39",
+      "speaker": "Interviewer",
+      "text": "Mm-hmm."
+    },
+    {
+      "time": "02:40",
+      "speaker": "Participant",
+      "text": "Yep. So I just clicked on sign in, and now it just thinks, I'm not sure if that's my internet connection, but that's definitely still, oh, okay, no, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's."
+    },
+    {
+      "time": "03:05",
+      "speaker": "Interviewer",
+      "text": "All right. Is it a zero or?"
+    },
+    {
+      "time": "03:07",
+      "speaker": "Participant",
+      "text": "It says zero."
+    },
+    {
+      "time": "03:08",
+      "speaker": "Interviewer",
+      "text": "Yeah, sorry."
+    },
+    {
+      "time": "03:09",
+      "speaker": "Participant",
+      "text": "Zero, okay. Yeah, you're not sure."
+    },
+    {
+      "time": "03:30",
+      "speaker": "Interviewer",
+      "text": "And [name redacted], is it Italian or Spanish?"
+    },
+    {
+      "time": "03:32",
+      "speaker": "Participant",
+      "text": "Italian."
+    },
+    {
+      "time": "03:33",
+      "speaker": "Interviewer",
+      "text": "Okay, thanks."
+    },
+    {
+      "time": "03:34",
+      "speaker": "Participant",
+      "text": "It's what I, what I, what, what."
+    },
+    {
+      "time": "03:35",
+      "speaker": "Interviewer",
+      "text": "Yeah, my dad's from [location redacted]."
+    },
+    {
+      "time": "03:37",
+      "speaker": "Participant",
+      "text": "Nice."
+    },
+    {
+      "time": "03:38",
+      "speaker": "Interviewer",
+      "text": "That's why I want to go next year with my son."
+    },
+    {
+      "time": "03:40",
+      "speaker": "Participant",
+      "text": "Oh, it's beautiful. You'll love it."
+    },
+    {
+      "time": "03:42",
+      "speaker": "Interviewer",
+      "text": "I'm obviously, obviously, obviously German."
+    },
+    {
+      "time": "03:44",
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": "03:45",
+      "speaker": "Interviewer",
+      "text": "Yeah, I could tell. The accent is very distinctive."
+    },
+    {
+      "time": "03:47",
+      "speaker": "Participant",
+      "text": "Yep. Oh, yeah, it is. All right. Okay, so I'm in. Let me share my screen. Let me know when you see it."
+    },
+    {
+      "time": "04:28",
+      "speaker": "Interviewer",
+      "text": "Yeah, it's loading right now."
+    },
+    {
+      "time": "04:30",
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": "04:31",
+      "speaker": "Interviewer",
+      "text": "Okay, perfect."
+    },
+    {
+      "time": "04:32",
+      "speaker": "Participant",
+      "text": "Oh, I can see. So here you'll go to upload resume."
+    },
+    {
+      "time": "04:35",
+      "speaker": "Interviewer",
+      "text": "Yeah, it's the purple button."
+    },
+    {
+      "time": "04:37",
+      "speaker": "Participant",
+      "text": "I don't know if it's like a lock or something."
+    },
+    {
+      "time": "04:39",
+      "speaker": "Interviewer",
+      "text": "Yeah, yeah, let me."
+    },
+    {
+      "time": "04:40",
+      "speaker": "Participant",
+      "text": "It just popped up for a second and then it's."
+    },
+    {
+      "time": "04:42",
+      "speaker": "Interviewer",
+      "text": "Let's share it."
+    },
+    {
+      "time": "04:43",
+      "speaker": "Participant",
+      "text": "Hmm."
+    },
+    {
+      "time": "04:44",
+      "speaker": "Interviewer",
+      "text": "Oh."
+    },
+    {
+      "time": "04:45",
+      "speaker": "Participant",
+      "text": "Let me try this again."
+    },
+    {
+      "time": "04:46",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "04:47",
+      "speaker": "Participant",
+      "text": "Share and then."
+    },
+    {
+      "time": "04:48",
+      "speaker": "Interviewer",
+      "text": "Okay, screen three."
+    },
+    {
+      "time": "04:49",
+      "speaker": "Participant",
+      "text": "All right, I think."
+    },
+    {
+      "time": "04:50",
+      "speaker": "Interviewer",
+      "text": "Do you see it?"
+    },
+    {
+      "time": "04:51",
+      "speaker": "Participant",
+      "text": "I see it now."
+    },
+    {
+      "time": "04:53",
+      "speaker": "Interviewer",
+      "text": "Yes. So you'll go to the upload resume and then there, there should be a pop up that says upload an existing."
+    },
+    {
+      "time": "04:58",
+      "speaker": "Participant",
+      "text": "Yeah, I can see your cursor now."
+    },
+    {
+      "time": "05:00",
+      "speaker": "Interviewer",
+      "text": "Okay, perfect."
+    },
+    {
+      "time": "05:01",
+      "speaker": "Participant",
+      "text": "Yes. Existing resume."
+    },
+    {
+      "time": "05:03",
+      "speaker": "Interviewer",
+      "text": "Exactly. And then you'll find your file and then from that point going forward, you'll just kind of do what you would do if I wasn't here. However, like I'll just continue. But if you get stuck on something, please feel free to ask me a question."
+    },
+    {
+      "time": "05:14",
+      "speaker": "Participant",
+      "text": "That's fine. I'll upload it right now."
+    },
+    {
+      "time": "05:16",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "05:46",
+      "speaker": "Participant",
+      "text": "I see. All right. Content issues detected. So work with original text or improve with AI?"
+    },
+    {
+      "time": "05:51",
+      "speaker": "Interviewer",
+      "text": "Either option you feel more."
+    },
+    {
+      "time": "05:53",
+      "speaker": "Participant",
+      "text": "Let's use the original. Oh, wow. Okay. Oh. Very different. Interesting that it tells me that I list too many bullets because AI basically just took my old resume and converted it into this one."
+    },
+    {
+      "time": "06:45",
+      "speaker": "Interviewer",
+      "text": "Yeah. Okay. Maybe. Can I click summarize? Yes."
+    },
+    {
+      "time": "06:49",
+      "speaker": "Participant",
+      "text": "It's terrible. And that's on."
+    },
+    {
+      "time": "07:12",
+      "speaker": "Interviewer",
+      "text": "It's cool. Yeah. So once you go through like the whole document, I've checked for accuracy, maybe made some edits. I'd love for you to check out the functions in the toolbar on the top. So improve text, ATS check, etc."
+    },
+    {
+      "time": "07:25",
+      "speaker": "Participant",
+      "text": "Okay. So do you want me to just to go through my resume?"
+    },
+    {
+      "time": "07:28",
+      "speaker": "Interviewer",
+      "text": "Yeah. Yeah. Just go through your resume. Yeah. If you see something that needs to be fixed."
+    },
+    {
+      "time": "07:31",
+      "speaker": "Participant",
+      "text": "Yeah. So, for example, [location redacted], I think it's critical to highlight. That it's [location redacted], California, [location redacted] area."
+    },
+    {
+      "time": "07:38",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "07:39",
+      "speaker": "Participant",
+      "text": "So can I then just add to it?"
+    },
+    {
+      "time": "07:41",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "07:42",
+      "speaker": "Participant",
+      "text": "All right. All right. Good. That's good. Now, if I would like, because I see like excellence, it's just like I think you could even tighten it a little bit."
+    },
+    {
+      "time": "08:37",
+      "speaker": "Interviewer",
+      "text": "Yes. So with the AI assistant, so the purple button."
+    },
+    {
+      "time": "08:40",
+      "speaker": "Participant",
+      "text": "Yeah. Okay. Perfect. I can just say what I want."
+    },
+    {
+      "time": "08:43",
+      "speaker": "Interviewer",
+      "text": "Perfect. I can just say what I want."
+    },
+    {
+      "time": "08:45",
+      "speaker": "Participant",
+      "text": "Okay. Oh. Okay. That's it. That's it. Okay. Okay. We're fine. Yeah. Okay. Perfect. Okay. That's good. Okay. That's good. Yeah. Perfect. Okay. Okay. Perfect. Perfect. All right. Are you just observing how I go through this or can I ask questions too?"
+    },
+    {
+      "time": "10:19",
+      "speaker": "Interviewer",
+      "text": "You can ask questions too. I'm just observing."
+    },
+    {
+      "time": "10:21",
+      "speaker": "Participant",
+      "text": "Okay. So what does the plus button do?"
+    },
+    {
+      "time": "10:23",
+      "speaker": "Interviewer",
+      "text": "Okay. So the plus button adds the bullet. So if it is, you would have to delete the bullet that it was originally."
+    },
+    {
+      "time": "10:28",
+      "speaker": "Participant",
+      "text": "So that's the AI suggestion. So then it just adds it in there so that you can see both and then you would delete whichever option you don't want to save in there. Does that make sense? Yeah. Yeah. Okay. Okay. Sorry. Actually, I was hoping just to..."
+    },
+    {
+      "time": "10:40",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "10:41",
+      "speaker": "Participant",
+      "text": "Here what I don't like is like it needs to see the trend of the previous years too. Not just like the one year. No. Take this out and then..."
+    },
+    {
+      "time": "10:50",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "10:51",
+      "speaker": "Participant",
+      "text": "So..."
+    },
+    {
+      "time": "10:52",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "10:53",
+      "speaker": "Participant",
+      "text": "Well, then let's leave it as it is because what I was really hoping like identified an approved comment about the launch point on time is target cost. How do I get this one into one?"
+    },
+    {
+      "time": "11:04",
+      "speaker": "Interviewer",
+      "text": "Yeah. Let's see."
+    },
+    {
+      "time": "11:05",
+      "speaker": "Participant",
+      "text": "So what are you trying to do?"
+    },
+    {
+      "time": "11:07",
+      "speaker": "Interviewer",
+      "text": "I want to get the bullet points into one. Like here, I think there's a lot of space left. Like excellence. I mean, if we tighten this, it could be one line, one bullet point."
+    },
+    {
+      "time": "11:16",
+      "speaker": "Participant",
+      "text": "I see. So you're trying to..."
+    },
+    {
+      "time": "11:18",
+      "speaker": "Interviewer",
+      "text": "Yeah. And here, that's what I was trying to do. And here it's just like, can we tighten this so that it gets into one line?"
+    },
+    {
+      "time": "11:23",
+      "speaker": "Participant",
+      "text": "Mm-hmm. Okay. Maybe. You know, let's just try this. At the end of the day, I can take one out. Lead high-performing sourcing organization. Achieving financial quality. It's tight. I like everything that I say there. Mm-hmm."
+    },
+    {
+      "time": "11:35",
+      "speaker": "Interviewer",
+      "text": "That can also be, for example, if you go to design and font, this could maybe be something that's adjusted there because you can adjust the column size. So you can make this column a little bit wider. And then if you like the sentence, how it already is."
+    },
+    {
+      "time": "11:46",
+      "speaker": "Participant",
+      "text": "I kind of do, actually."
+    },
+    {
+      "time": "11:48",
+      "speaker": "Interviewer",
+      "text": "Mm-hmm."
+    },
+    {
+      "time": "11:49",
+      "speaker": "Participant",
+      "text": "Yeah. So you scroll down. Yeah. But I like, on the other side, I don't want one smaller than the other. I like consistency. So I'll leave it for now. That's fine. Yeah. Okay. So here then."
+    },
+    {
+      "time": "11:59",
+      "speaker": "Interviewer",
+      "text": "Oh, no. It would be consistent. So it would be all of the columns across the page would just be put out a little bit wider. It wouldn't just – if that's what you thought."
+    },
+    {
+      "time": "12:05",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "12:06",
+      "speaker": "Interviewer",
+      "text": "Just so that you know."
+    },
+    {
+      "time": "12:07",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "12:08",
+      "speaker": "Interviewer",
+      "text": "Yeah. So it would be consistent across the pages. Here you would just scroll down a little bit more where it says column layout."
+    },
+    {
+      "time": "12:12",
+      "speaker": "Participant",
+      "text": "Yeah. Column. Yes."
+    },
+    {
+      "time": "12:14",
+      "speaker": "Interviewer",
+      "text": "So you could press, like, number one."
+    },
+    {
+      "time": "12:16",
+      "speaker": "Participant",
+      "text": "Oh, yeah. Here."
+    },
+    {
+      "time": "12:17",
+      "speaker": "Interviewer",
+      "text": "Mm-hmm."
+    },
+    {
+      "time": "12:18",
+      "speaker": "Participant",
+      "text": "Yeah. Okay. Let's see. I guess I didn't change it yet."
+    },
+    {
+      "time": "12:21",
+      "speaker": "Interviewer",
+      "text": "No, no. It's fine."
+    },
+    {
+      "time": "12:22",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "12:23",
+      "speaker": "Interviewer",
+      "text": "Or you go the other side and you make it a little bit – it might be even better."
+    },
+    {
+      "time": "12:26",
+      "speaker": "Participant",
+      "text": "Mm-hmm. Let's see. No, actually, if I look at all the different options, it's good as is. It's fine."
+    },
+    {
+      "time": "12:31",
+      "speaker": "Interviewer",
+      "text": "Okay. All right. So, yeah."
+    },
+    {
+      "time": "12:33",
+      "speaker": "Participant",
+      "text": "Yeah. No, nothing."
+    },
+    {
+      "time": "12:34",
+      "speaker": "Interviewer",
+      "text": "Sorry. After you're done, yeah, we'll just go to, like, improve text."
+    },
+    {
+      "time": "12:37",
+      "speaker": "Participant",
+      "text": "Mm-hmm."
+    },
+    {
+      "time": "12:38",
+      "speaker": "Interviewer",
+      "text": "Yes, check."
+    },
+    {
+      "time": "12:39",
+      "speaker": "Participant",
+      "text": "Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. No, just making adjustments."
+    },
+    {
+      "time": "12:44",
+      "speaker": "Interviewer",
+      "text": "Yes, check."
+    },
+    {
+      "time": "12:45",
+      "speaker": "Participant",
+      "text": "Yeah. No rush."
+    },
+    {
+      "time": "12:46",
+      "speaker": "Interviewer",
+      "text": "Mm-hmm."
+    },
+    {
+      "time": "12:47",
+      "speaker": "Participant",
+      "text": "Okay. Okay. Oh, okay, interesting. Ah, okay, it continues on the second picture, I think."
+    },
+    {
+      "time": "12:56",
+      "speaker": "Interviewer",
+      "text": "Because what..."
+    },
+    {
+      "time": "12:57",
+      "speaker": "Participant",
+      "text": "Her resume, what surprises me is that there's like a lot of open space here."
+    },
+    {
+      "time": "13:01",
+      "speaker": "Interviewer",
+      "text": "Yes, it's possible that you could fill that open space with like, okay, so you see how on the second page that experience that you have has a lot of bullets. If you have another one that is smaller, you can like rearrange them, but also they're already in chronological order, so you would want to keep it."
+    },
+    {
+      "time": "13:10",
+      "speaker": "Participant",
+      "text": "Ah, okay, so here's one thing that I see, which I don't really like as much. I was with [company name redacted] in the U.S. for about 12 years, but [company name redacted] as the world's largest food company is so big, I pretty much had three, four different roles. I don't see it reflected here. So in my original resume, do you mind if I just share it quickly? So in my original resume, what it shows under [company name redacted] USA is, I mean, being the e-sourcing program manager, like working with e-auctions and stuff has pretty much nothing to do with managing energy or strategic ingredients for items that if you're based in the U.S., you have consumed some of the items where I have sourced stuff for, I'm pretty certain. And then, you know, our coffee, which is in pure commodities, that's why the separation here. And then it's like three, four bullet points per role. And if I go to here, it's like, oh, you have too many bullet points. Well, AI, you don't really take into consideration that I did four different jobs."
+    },
+    {
+      "time": "14:33",
+      "speaker": "Interviewer",
+      "text": "Right. I see. So it wasn't intuitive enough to capture that here. This would then have to be a manual edit that you would."
+    },
+    {
+      "time": "14:38",
+      "speaker": "Participant",
+      "text": "Exactly. So I can see with, it feels like so old school now looking at this resume, but I mean, here you can, in this gray box, it's clear, OK, OK, company one, two, three, the role, the bullet points. Fine. Ah, OK. Company four. Well, but in 12 years, you can do a lot of different things."
+    },
+    {
+      "time": "15:01",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "15:02",
+      "speaker": "Participant",
+      "text": "And that structure, I think, is there for a reason."
+    },
+    {
+      "time": "15:04",
+      "speaker": "Interviewer",
+      "text": "Right. OK. So let me show you how, like, you would make that manual edit. So perfect. OK. Sample."
+    },
+    {
+      "time": "15:09",
+      "speaker": "Participant",
+      "text": "Yeah. So highlight this box. And then double box."
+    },
+    {
+      "time": "15:12",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "15:13",
+      "speaker": "Participant",
+      "text": "Yeah. The whole box. And then you go plus the entry. You'd make a new entry. The green button."
+    },
+    {
+      "time": "15:17",
+      "speaker": "Interviewer",
+      "text": "OK."
+    },
+    {
+      "time": "15:18",
+      "speaker": "Participant",
+      "text": "Yeah. Yes. So you."
+    },
+    {
+      "time": "15:19",
+      "speaker": "Interviewer",
+      "text": "OK."
+    },
+    {
+      "time": "15:20",
+      "speaker": "Participant",
+      "text": "So here you see how it says title company name. So what you're going to do is go to the gear option, which is the last one in the toolbar. And you would. Yeah. There's different toggles. So you would remove the company name. Just keep the title and the bullets, probably remove the location as well, since it's the same location. And then that's how you would sort of copy and paste."
+    },
+    {
+      "time": "15:34",
+      "speaker": "Interviewer",
+      "text": "Because I can see that it, like, pulled strategic procurement manager. So that's your role. So you would copy and paste that into the title and then those corresponding bullets into the bullet points and then the date periods of when you were in that role. But yes."
+    },
+    {
+      "time": "15:43",
+      "speaker": "Participant",
+      "text": "OK. So. Copy and paste. Title is fine. OK. But the title. It was kind of different titles too."
+    },
+    {
+      "time": "15:49",
+      "speaker": "Interviewer",
+      "text": "Yeah. So the title is."
+    },
+    {
+      "time": "15:50",
+      "speaker": "Participant",
+      "text": "OK. Your role. So."
+    },
+    {
+      "time": "15:51",
+      "speaker": "Interviewer",
+      "text": "Yeah. Yeah. The title. And then I can basically. So how do I. So here I go. Entry."
+    },
+    {
+      "time": "15:56",
+      "speaker": "Participant",
+      "text": "Yeah. That would be to make a new entry. So if you had four different roles in there, you would need to do that three more times."
+    },
+    {
+      "time": "16:01",
+      "speaker": "Interviewer",
+      "text": "Oh, I have to do this. I have to do this."
+    },
+    {
+      "time": "16:03",
+      "speaker": "Participant",
+      "text": "Yeah. Because you would keep the first role, strategic procurement manager here, and then you would just add different titles."
+    },
+    {
+      "time": "16:09",
+      "speaker": "Interviewer",
+      "text": "And that's that's sort of how you would do it. Also, if you change the template, that would flip. So."
+    },
+    {
+      "time": "16:13",
+      "speaker": "Participant",
+      "text": "So. OK. Perfect. So here, for example. So let's do this here. It's [company name redacted] USA and then the four different roles. And I see it takes it here. So it's like. This shouldn't be on top."
+    },
+    {
+      "time": "16:22",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "16:23",
+      "speaker": "Participant",
+      "text": "Yeah. So that's this."
+    },
+    {
+      "time": "16:24",
+      "speaker": "Interviewer",
+      "text": "So this is the default template that's put up. If you select a different template, it actually switches it. So [company name redacted] would be at the top. And then."
+    },
+    {
+      "time": "16:30",
+      "speaker": "Participant",
+      "text": "Yeah. Like."
+    },
+    {
+      "time": "16:31",
+      "speaker": "Interviewer",
+      "text": "Yeah. I think that's. I didn't even realize this here."
+    },
+    {
+      "time": "16:33",
+      "speaker": "Participant",
+      "text": "Yeah. I think this would be more important to put, for me, the company name first and then the role second."
+    },
+    {
+      "time": "16:38",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "16:39",
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": "16:40",
+      "speaker": "Interviewer",
+      "text": "I agree. So then you would either have to just ignore that it is the title, make those manual changes and flip them, or you would change the template."
+    },
+    {
+      "time": "16:47",
+      "speaker": "Participant",
+      "text": "Well, then I'll just. Switch it."
+    },
+    {
+      "time": "16:49",
+      "speaker": "Interviewer",
+      "text": "Yeah. Switch it."
+    },
+    {
+      "time": "16:50",
+      "speaker": "Participant",
+      "text": "Oh, and by the way, this is the old logo that was changed months ago. So it's like, I would not put that one in because our brand colors are very different now."
+    },
+    {
+      "time": "17:02",
+      "speaker": "Interviewer",
+      "text": "OK."
+    },
+    {
+      "time": "17:03",
+      "speaker": "Participant",
+      "text": "It can happen for months now."
+    },
+    {
+      "time": "17:05",
+      "speaker": "Interviewer",
+      "text": "OK. Oh. OK. OK."
+    },
+    {
+      "time": "17:33",
+      "speaker": "Participant",
+      "text": "So if I'm OK. Move this up. I could not see how I. All right. Let's delete the title. No. It's not intuitive for me."
+    },
+    {
+      "time": "17:42",
+      "speaker": "Interviewer",
+      "text": "To change the order."
+    },
+    {
+      "time": "17:43",
+      "speaker": "Participant",
+      "text": "Yeah. So you would just either have to type it in and it would just manually override it. Like where it says company name. That's where you would type your title."
+    },
+    {
+      "time": "17:50",
+      "speaker": "Interviewer",
+      "text": "Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Where it says company name? That's where you would type your title and where it says title that."
+    },
+    {
+      "time": "17:58",
+      "speaker": "Participant",
+      "text": "Ah, OK. OK. Name. Gotcha OK then let's let's do this thing."
+    },
+    {
+      "time": "18:02",
+      "speaker": "Interviewer",
+      "text": "Or you change the template entirely."
+    },
+    {
+      "time": "18:04",
+      "speaker": "Participant",
+      "text": "Which one?"
+    },
+    {
+      "time": "18:05",
+      "speaker": "Interviewer",
+      "text": "Because. Because other templates highlight the company first rather than the."
+    },
+    {
+      "time": "18:09",
+      "speaker": "Participant",
+      "text": "And I think then I wouldn't this because I still like that the color is highlighted of the company name."
+    },
+    {
+      "time": "18:14",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "18:15",
+      "speaker": "Participant",
+      "text": "This is more like old school OK yeah but see how this one has the company name on top in a larger."
+    },
+    {
+      "time": "18:22",
+      "speaker": "Interviewer",
+      "text": "But not here for [company name redacted]."
+    },
+    {
+      "time": "18:24",
+      "speaker": "Participant",
+      "text": "Interesting."
+    },
+    {
+      "time": "18:25",
+      "speaker": "Interviewer",
+      "text": "Yeah. And I'm going to say we probably have like five more minutes in this tool before I like ask questions because then we have to move on to the second tool."
+    },
+    {
+      "time": "18:31",
+      "speaker": "Participant",
+      "text": "Yeah. Yeah. Absolutely."
+    },
+    {
+      "time": "18:33",
+      "speaker": "Interviewer",
+      "text": "So. OK. OK. OK. Good. All right. So."
+    },
+    {
+      "time": "18:37",
+      "speaker": "Participant",
+      "text": "I like in general. I like that's quite a bit. I like. Yeah. Maybe just. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Maybe just changes seem a little bit more clunky."
+    },
+    {
+      "time": "19:05",
+      "speaker": "Interviewer",
+      "text": "OK."
+    },
+    {
+      "time": "19:06",
+      "speaker": "Participant",
+      "text": "Yeah. Like here. OK. So let's get rid of this. It should be just back. So how do I get rid of this one?"
+    },
+    {
+      "time": "19:12",
+      "speaker": "Interviewer",
+      "text": "Get rid of the whole section. It would be the trash bin icon."
+    },
+    {
+      "time": "19:15",
+      "speaker": "Participant",
+      "text": "Yeah. I'm so used to that. OK. Yeah. OK. Thank you. All right. All right. So. Yeah. Here. Let's see. I want to just try this. So."
+    },
+    {
+      "time": "19:38",
+      "speaker": "Interviewer",
+      "text": "All right. Of the templates that you did see, do you feel that they were more modern than what you would get in Word?"
+    },
+    {
+      "time": "19:44",
+      "speaker": "Participant",
+      "text": "You know, looking at the resume and when I'm hiring, I want clarity. The style, I don't want too flamboyant."
+    },
+    {
+      "time": "19:50",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "19:51",
+      "speaker": "Participant",
+      "text": "It's just distracting. I don't need a company logo or stuff. I just want the key information that I can screen through. And then ideally, if I print it out or something, I would even take notes on it."
+    },
+    {
+      "time": "20:00",
+      "speaker": "Interviewer",
+      "text": "Ah, I see."
+    },
+    {
+      "time": "20:01",
+      "speaker": "Participant",
+      "text": "And that might be really old school. But let's see. I want to change just the ordering pattern. Now, OK. So it doesn't have to be highlighted. That isn't blue. I just would like that in blue. So let's see."
+    },
+    {
+      "time": "20:12",
+      "speaker": "Interviewer",
+      "text": "Oh, those highlights mean that there's an improved text suggestion. You would have to ignore the suggestion."
+    },
+    {
+      "time": "20:16",
+      "speaker": "Participant",
+      "text": "But when you download."
+    },
+    {
+      "time": "20:17",
+      "speaker": "Interviewer",
+      "text": "Yeah. Yeah. OK. So."
+    },
+    {
+      "time": "20:19",
+      "speaker": "Participant",
+      "text": "Perfect. So I go here."
+    },
+    {
+      "time": "20:20",
+      "speaker": "Interviewer",
+      "text": "You go to improve text."
+    },
+    {
+      "time": "20:21",
+      "speaker": "Participant",
+      "text": "No, no. So those are when they're highlighted in that way. It's because it's an improved text suggestion. So you would either press ignore. But the highlights do not come out when you download the PDF. Gotcha. It's a stupid company name."
+    },
+    {
+      "time": "20:30",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "20:31",
+      "speaker": "Participant",
+      "text": "I mean, I always think Scientology. But."
+    },
+    {
+      "time": "20:33",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "20:34",
+      "speaker": "Participant",
+      "text": "So. All right. I like this. This color."
+    },
+    {
+      "time": "20:46",
+      "speaker": "Interviewer",
+      "text": "Yes, you cannot make one thing a specific color. It follows a color scheme. So if you change the color, it only changes like certain."
+    },
+    {
+      "time": "20:52",
+      "speaker": "Participant",
+      "text": "Gotcha. OK. I think I think that is. Yeah, I would like to have that flexibility. I think it's almost like a requirement."
+    },
+    {
+      "time": "20:58",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "20:59",
+      "speaker": "Participant",
+      "text": "That I can do these little changes. And then here what I noticed certifications."
+    },
+    {
+      "time": "21:04",
+      "speaker": "Interviewer",
+      "text": "What is this?"
+    },
+    {
+      "time": "21:05",
+      "speaker": "Participant",
+      "text": "OK. So did I even have a certification list? Let's not that I recall. I took all different kinds of."
+    },
+    {
+      "time": "21:12",
+      "speaker": "Interviewer",
+      "text": "Things."
+    },
+    {
+      "time": "21:13",
+      "speaker": "Participant",
+      "text": "OK. Trainings. OK. And then. Also. If I see three bullet points. To me, that suggests like."
+    },
+    {
+      "time": "21:21",
+      "speaker": "Interviewer",
+      "text": "Medium."
+    },
+    {
+      "time": "21:22",
+      "speaker": "Participant",
+      "text": "Average."
+    },
+    {
+      "time": "21:23",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "21:24",
+      "speaker": "Participant",
+      "text": "I mean, that's my mother language. That should be five stars. And English. All right. I have a German accent, but then I certainly I mean, I have been working for 20 years and Spanish right there as well. So that needs to be changed. I would change them."
+    },
+    {
+      "time": "21:37",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "21:38",
+      "speaker": "Participant",
+      "text": "All right. And then this skill is interesting because in the resume before. And that was feedback from an HR person. This list, your key statement, a summary and then the skills right. Right next to it. And here I don't see that connection. The skills can get buried below language."
+    },
+    {
+      "time": "21:52",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "21:53",
+      "speaker": "Participant",
+      "text": "Should be on top. The training courses. So certification. What is this? I don't even have a certification listed."
+    },
+    {
+      "time": "21:58",
+      "speaker": "Interviewer",
+      "text": "If you want the skills next to the summary."
+    },
+    {
+      "time": "22:00",
+      "speaker": "Participant",
+      "text": "Let's go to rearrange. It's in the top."
+    },
+    {
+      "time": "22:02",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "22:03",
+      "speaker": "Participant",
+      "text": "And that's how you."
+    },
+    {
+      "time": "22:04",
+      "speaker": "Interviewer",
+      "text": "Wow."
+    },
+    {
+      "time": "22:05",
+      "speaker": "Participant",
+      "text": "OK. So I want this out. I don't even."
+    },
+    {
+      "time": "22:07",
+      "speaker": "Interviewer",
+      "text": "And then the language."
+    },
+    {
+      "time": "22:08",
+      "speaker": "Participant",
+      "text": "Bottom."
+    },
+    {
+      "time": "22:09",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "22:10",
+      "speaker": "Participant",
+      "text": "OK. Yeah. Yeah. And why don't we check out ATS check just for."
+    },
+    {
+      "time": "22:14",
+      "speaker": "Interviewer",
+      "text": "And just."
+    },
+    {
+      "time": "22:15",
+      "speaker": "Participant",
+      "text": "I want it."
+    },
+    {
+      "time": "22:16",
+      "speaker": "Interviewer",
+      "text": "Right."
+    },
+    {
+      "time": "22:17",
+      "speaker": "Participant",
+      "text": "One important."
+    },
+    {
+      "time": "22:18",
+      "speaker": "Interviewer",
+      "text": "OK."
+    },
+    {
+      "time": "22:19",
+      "speaker": "Participant",
+      "text": "Let me just."
+    },
+    {
+      "time": "22:20",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "22:21",
+      "speaker": "Participant",
+      "text": "Education. All right. Yeah. OK. This is. This is. I kind of expected that. I have two degrees. I don't see that reflected him."
+    },
+    {
+      "time": "22:30",
+      "speaker": "Interviewer",
+      "text": "OK."
+    },
+    {
+      "time": "22:31",
+      "speaker": "Participant",
+      "text": "Yeah. OK. Yeah. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK. OK"
+    }
+  ]
+}

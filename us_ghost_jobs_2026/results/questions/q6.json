@@ -1,0 +1,747 @@
+{
+  "survey": "us_ghost_jobs_2026",
+  "id": "Q6",
+  "question_prompt": "Which of the following 'red flags' made you realize the role wasn't real? (Select all that apply)",
+  "type": "single",
+  "note": "The export holds one answer per respondent for this question.",
+  "overall": {
+    "base": {
+      "n": 993
+    },
+    "cells": [
+      {
+        "answer": "The listing has been active for 3+ months.",
+        "count": 270,
+        "pct": 27.2
+      },
+      {
+        "answer": "The job was reposted immediately after I was rejected;",
+        "count": 164,
+        "pct": 16.5
+      },
+      {
+        "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+        "count": 156,
+        "pct": 15.7
+      },
+      {
+        "answer": "Other (please specify)",
+        "count": 152,
+        "pct": 15.3
+      },
+      {
+        "answer": "The job description was clearly AI-generated/nonsensical.",
+        "count": 143,
+        "pct": 14.4
+      },
+      {
+        "answer": "The company website shows a hiring freeze",
+        "count": 76,
+        "pct": 7.7
+      },
+      {
+        "answer": "The recruiter admitted they are just \"building a pipeline\"",
+        "count": 32,
+        "pct": 3.2
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 679
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 190,
+            "pct": 28
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 105,
+            "pct": 15.5
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 107,
+            "pct": 15.8
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 110,
+            "pct": 16.2
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 88,
+            "pct": 13
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 58,
+            "pct": 8.5
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 21,
+            "pct": 3.1
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 314
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 80,
+            "pct": 25.5
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 59,
+            "pct": 18.8
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 49,
+            "pct": 15.6
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 42,
+            "pct": 13.4
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 55,
+            "pct": 17.5
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 18,
+            "pct": 5.7
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 11,
+            "pct": 3.5
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–29",
+        "base": {
+          "n": 304
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 87,
+            "pct": 28.6
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 52,
+            "pct": 17.1
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 51,
+            "pct": 16.8
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 26,
+            "pct": 8.6
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 58,
+            "pct": 19.1
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 23,
+            "pct": 7.6
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 7,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "group": "30–44",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 63,
+            "pct": 23.5
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 48,
+            "pct": 17.9
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 44,
+            "pct": 16.4
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 42,
+            "pct": 15.7
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 44,
+            "pct": 16.4
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 18,
+            "pct": 6.7
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 9,
+            "pct": 3.4
+          }
+        ]
+      },
+      {
+        "group": "45–60",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 103,
+            "pct": 27.5
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 59,
+            "pct": 15.7
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 59,
+            "pct": 15.7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 69,
+            "pct": 18.4
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 37,
+            "pct": 9.9
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 33,
+            "pct": 8.8
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 15,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "group": "60+",
+        "base": {
+          "n": 46
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 17,
+            "pct": 37
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 5,
+            "pct": 10.9
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 2,
+            "pct": 4.3
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 15,
+            "pct": 32.6
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 4,
+            "pct": 8.7
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 2,
+            "pct": 4.3
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 1,
+            "pct": 2.2
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 66
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 17,
+            "pct": 25.8
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 14,
+            "pct": 21.2
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 8,
+            "pct": 12.1
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 9,
+            "pct": 13.6
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 7,
+            "pct": 10.6
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 8,
+            "pct": 12.1
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 3,
+            "pct": 4.5
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 9,
+            "pct": 39.1
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 4,
+            "pct": 17.4
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 3,
+            "pct": 13
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 1,
+            "pct": 4.3
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 6,
+            "pct": 26.1
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 19
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 7,
+            "pct": 36.8
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 3,
+            "pct": 15.8
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 1,
+            "pct": 5.3
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 4,
+            "pct": 21.1
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 1,
+            "pct": 5.3
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 1,
+            "pct": 5.3
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 228
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 73,
+            "pct": 32
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 29,
+            "pct": 12.7
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 33,
+            "pct": 14.5
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 31,
+            "pct": 13.6
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 35,
+            "pct": 15.4
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 20,
+            "pct": 8.8
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 7,
+            "pct": 3.1
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 86
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 23,
+            "pct": 26.7
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 14,
+            "pct": 16.3
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 15,
+            "pct": 17.4
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 18,
+            "pct": 20.9
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 6,
+            "pct": 7
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 5,
+            "pct": 5.8
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 5,
+            "pct": 5.8
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 571
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 141,
+            "pct": 24.7
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 100,
+            "pct": 17.5
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 95,
+            "pct": 16.6
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 92,
+            "pct": 16.1
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 85,
+            "pct": 14.9
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 42,
+            "pct": 7.4
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 16,
+            "pct": 2.8
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 194
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 55,
+            "pct": 28.4
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 34,
+            "pct": 17.5
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 29,
+            "pct": 14.9
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 28,
+            "pct": 14.4
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 33,
+            "pct": 17
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 13,
+            "pct": 6.7
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 2,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 190
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 48,
+            "pct": 25.3
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 31,
+            "pct": 16.3
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 30,
+            "pct": 15.8
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 33,
+            "pct": 17.4
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 26,
+            "pct": 13.7
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 16,
+            "pct": 8.4
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 6,
+            "pct": 3.2
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 342
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 95,
+            "pct": 27.8
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 57,
+            "pct": 16.7
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 53,
+            "pct": 15.5
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 52,
+            "pct": 15.2
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 47,
+            "pct": 13.7
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 25,
+            "pct": 7.3
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 13,
+            "pct": 3.8
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 251
+        },
+        "cells": [
+          {
+            "answer": "The listing has been active for 3+ months.",
+            "count": 70,
+            "pct": 27.9
+          },
+          {
+            "answer": "The job was reposted immediately after I was rejected;",
+            "count": 39,
+            "pct": 15.5
+          },
+          {
+            "answer": "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+            "count": 41,
+            "pct": 16.3
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 39,
+            "pct": 15.5
+          },
+          {
+            "answer": "The job description was clearly AI-generated/nonsensical.",
+            "count": 33,
+            "pct": 13.1
+          },
+          {
+            "answer": "The company website shows a hiring freeze",
+            "count": 19,
+            "pct": 7.6
+          },
+          {
+            "answer": "The recruiter admitted they are just \"building a pipeline\"",
+            "count": 10,
+            "pct": 4
+          }
+        ]
+      }
+    ]
+  }
+}

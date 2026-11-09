@@ -1,0 +1,1064 @@
+{
+  "survey": "us_remote_work_social_skills_2026",
+  "id": "Q6",
+  "question_prompt": "How often do you have unscripted, in-person interactions with someone outside your household in a typical week?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "0 times",
+        "count": 65,
+        "pct": 6.5,
+        "weighted_pct": 5.7
+      },
+      {
+        "answer": "1–2 times",
+        "count": 318,
+        "pct": 31.8,
+        "weighted_pct": 33.4
+      },
+      {
+        "answer": "3–5 times",
+        "count": 350,
+        "pct": 35,
+        "weighted_pct": 35.5
+      },
+      {
+        "answer": "6–10 times",
+        "count": 117,
+        "pct": 11.7,
+        "weighted_pct": 11
+      },
+      {
+        "answer": "More than 10 times",
+        "count": 150,
+        "pct": 15,
+        "weighted_pct": 14.4
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 536
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 40,
+            "pct": 7.5,
+            "weighted_pct": 6.7
+          },
+          {
+            "answer": "1–2 times",
+            "count": 178,
+            "pct": 33.2,
+            "weighted_pct": 35.3
+          },
+          {
+            "answer": "3–5 times",
+            "count": 180,
+            "pct": 33.6,
+            "weighted_pct": 34.1
+          },
+          {
+            "answer": "6–10 times",
+            "count": 64,
+            "pct": 11.9,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 74,
+            "pct": 13.8,
+            "weighted_pct": 12.5
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 464
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 25,
+            "pct": 5.4,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "1–2 times",
+            "count": 140,
+            "pct": 30.2,
+            "weighted_pct": 31.5
+          },
+          {
+            "answer": "3–5 times",
+            "count": 170,
+            "pct": 36.6,
+            "weighted_pct": 36.8
+          },
+          {
+            "answer": "6–10 times",
+            "count": 53,
+            "pct": 11.4,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 76,
+            "pct": 16.4,
+            "weighted_pct": 16.3
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 45
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 2,
+            "pct": 4.4,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "1–2 times",
+            "count": 17,
+            "pct": 37.8,
+            "weighted_pct": 37.8
+          },
+          {
+            "answer": "3–5 times",
+            "count": 18,
+            "pct": 40,
+            "weighted_pct": 40
+          },
+          {
+            "answer": "6–10 times",
+            "count": 4,
+            "pct": 8.9,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 4,
+            "pct": 8.9,
+            "weighted_pct": 8.9
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 166
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 5,
+            "pct": 3,
+            "weighted_pct": 2.8
+          },
+          {
+            "answer": "1–2 times",
+            "count": 68,
+            "pct": 41,
+            "weighted_pct": 42.2
+          },
+          {
+            "answer": "3–5 times",
+            "count": 59,
+            "pct": 35.5,
+            "weighted_pct": 35.2
+          },
+          {
+            "answer": "6–10 times",
+            "count": 16,
+            "pct": 9.6,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 18,
+            "pct": 10.8,
+            "weighted_pct": 11.1
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 285
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 27,
+            "pct": 9.5,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "1–2 times",
+            "count": 66,
+            "pct": 23.2,
+            "weighted_pct": 22.3
+          },
+          {
+            "answer": "3–5 times",
+            "count": 116,
+            "pct": 40.7,
+            "weighted_pct": 41.4
+          },
+          {
+            "answer": "6–10 times",
+            "count": 36,
+            "pct": 12.6,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 40,
+            "pct": 14,
+            "weighted_pct": 14.5
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 15,
+            "pct": 5.6,
+            "weighted_pct": 5.4
+          },
+          {
+            "answer": "1–2 times",
+            "count": 101,
+            "pct": 37.7,
+            "weighted_pct": 37.6
+          },
+          {
+            "answer": "3–5 times",
+            "count": 83,
+            "pct": 31,
+            "weighted_pct": 31.4
+          },
+          {
+            "answer": "6–10 times",
+            "count": 24,
+            "pct": 9,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 45,
+            "pct": 16.8,
+            "weighted_pct": 17.3
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 236
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 16,
+            "pct": 6.8,
+            "weighted_pct": 6.5
+          },
+          {
+            "answer": "1–2 times",
+            "count": 66,
+            "pct": 28,
+            "weighted_pct": 28.3
+          },
+          {
+            "answer": "3–5 times",
+            "count": 74,
+            "pct": 31.4,
+            "weighted_pct": 31.4
+          },
+          {
+            "answer": "6–10 times",
+            "count": 37,
+            "pct": 15.7,
+            "weighted_pct": 15.9
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 43,
+            "pct": 18.2,
+            "weighted_pct": 18
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 177
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 9,
+            "pct": 5.1,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "1–2 times",
+            "count": 46,
+            "pct": 26,
+            "weighted_pct": 30
+          },
+          {
+            "answer": "3–5 times",
+            "count": 63,
+            "pct": 35.6,
+            "weighted_pct": 34.5
+          },
+          {
+            "answer": "6–10 times",
+            "count": 23,
+            "pct": 13,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 36,
+            "pct": 20.3,
+            "weighted_pct": 19.3
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 84
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 4,
+            "pct": 4.8,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "1–2 times",
+            "count": 26,
+            "pct": 31,
+            "weighted_pct": 29.1
+          },
+          {
+            "answer": "3–5 times",
+            "count": 27,
+            "pct": 32.1,
+            "weighted_pct": 30.3
+          },
+          {
+            "answer": "6–10 times",
+            "count": 10,
+            "pct": 11.9,
+            "weighted_pct": 15.8
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 17,
+            "pct": 20.2,
+            "weighted_pct": 21.2
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 70
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 2,
+            "pct": 2.9,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "1–2 times",
+            "count": 14,
+            "pct": 20,
+            "weighted_pct": 20.8
+          },
+          {
+            "answer": "3–5 times",
+            "count": 31,
+            "pct": 44.3,
+            "weighted_pct": 44.7
+          },
+          {
+            "answer": "6–10 times",
+            "count": 15,
+            "pct": 21.4,
+            "weighted_pct": 21.1
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 8,
+            "pct": 11.4,
+            "weighted_pct": 11.1
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 379
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 19,
+            "pct": 5,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "1–2 times",
+            "count": 134,
+            "pct": 35.4,
+            "weighted_pct": 35.7
+          },
+          {
+            "answer": "3–5 times",
+            "count": 127,
+            "pct": 33.5,
+            "weighted_pct": 35.9
+          },
+          {
+            "answer": "6–10 times",
+            "count": 44,
+            "pct": 11.6,
+            "weighted_pct": 10.6
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 55,
+            "pct": 14.5,
+            "weighted_pct": 13
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 18
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 4,
+            "pct": 22.2,
+            "weighted_pct": 14.8
+          },
+          {
+            "answer": "1–2 times",
+            "count": 5,
+            "pct": 27.8,
+            "weighted_pct": 32.7
+          },
+          {
+            "answer": "3–5 times",
+            "count": 5,
+            "pct": 27.8,
+            "weighted_pct": 22.7
+          },
+          {
+            "answer": "6–10 times",
+            "count": 1,
+            "pct": 5.6,
+            "weighted_pct": 4.3
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 3,
+            "pct": 16.7,
+            "weighted_pct": 25.5
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 272
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 27,
+            "pct": 9.9,
+            "weighted_pct": 8.2
+          },
+          {
+            "answer": "1–2 times",
+            "count": 93,
+            "pct": 34.2,
+            "weighted_pct": 36.6
+          },
+          {
+            "answer": "3–5 times",
+            "count": 97,
+            "pct": 35.7,
+            "weighted_pct": 35.6
+          },
+          {
+            "answer": "6–10 times",
+            "count": 24,
+            "pct": 8.8,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 31,
+            "pct": 11.4,
+            "weighted_pct": 11.5
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 133
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 8,
+            "pct": 6,
+            "weighted_pct": 5.4
+          },
+          {
+            "answer": "1–2 times",
+            "count": 42,
+            "pct": 31.6,
+            "weighted_pct": 33.9
+          },
+          {
+            "answer": "3–5 times",
+            "count": 56,
+            "pct": 42.1,
+            "weighted_pct": 42.9
+          },
+          {
+            "answer": "6–10 times",
+            "count": 10,
+            "pct": 7.5,
+            "weighted_pct": 6.1
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 17,
+            "pct": 12.8,
+            "weighted_pct": 11.8
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 317
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 16,
+            "pct": 5,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "1–2 times",
+            "count": 100,
+            "pct": 31.5,
+            "weighted_pct": 32.3
+          },
+          {
+            "answer": "3–5 times",
+            "count": 116,
+            "pct": 36.6,
+            "weighted_pct": 35.6
+          },
+          {
+            "answer": "6–10 times",
+            "count": 38,
+            "pct": 12,
+            "weighted_pct": 12.4
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 47,
+            "pct": 14.8,
+            "weighted_pct": 15.1
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 145
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 9,
+            "pct": 6.2,
+            "weighted_pct": 5.3
+          },
+          {
+            "answer": "1–2 times",
+            "count": 46,
+            "pct": 31.7,
+            "weighted_pct": 33.2
+          },
+          {
+            "answer": "3–5 times",
+            "count": 52,
+            "pct": 35.9,
+            "weighted_pct": 37
+          },
+          {
+            "answer": "6–10 times",
+            "count": 15,
+            "pct": 10.3,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 23,
+            "pct": 15.9,
+            "weighted_pct": 15
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 22
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 1,
+            "pct": 4.5,
+            "weighted_pct": 3.3
+          },
+          {
+            "answer": "1–2 times",
+            "count": 11,
+            "pct": 50,
+            "weighted_pct": 51.2
+          },
+          {
+            "answer": "3–5 times",
+            "count": 3,
+            "pct": 13.6,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "6–10 times",
+            "count": 5,
+            "pct": 22.7,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 2,
+            "pct": 9.1,
+            "weighted_pct": 10.7
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 15
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 1,
+            "pct": 6.7,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "1–2 times",
+            "count": 5,
+            "pct": 33.3,
+            "weighted_pct": 38.1
+          },
+          {
+            "answer": "3–5 times",
+            "count": 3,
+            "pct": 20,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "6–10 times",
+            "count": 4,
+            "pct": 26.7,
+            "weighted_pct": 23
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 2,
+            "pct": 13.3,
+            "weighted_pct": 16.1
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 33
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 5,
+            "pct": 15.2,
+            "weighted_pct": 14.6
+          },
+          {
+            "answer": "1–2 times",
+            "count": 6,
+            "pct": 18.2,
+            "weighted_pct": 20.1
+          },
+          {
+            "answer": "3–5 times",
+            "count": 10,
+            "pct": 30.3,
+            "weighted_pct": 28.9
+          },
+          {
+            "answer": "6–10 times",
+            "count": 5,
+            "pct": 15.2,
+            "weighted_pct": 15.4
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 7,
+            "pct": 21.2,
+            "weighted_pct": 21
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 164
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 13,
+            "pct": 7.9,
+            "weighted_pct": 6.4
+          },
+          {
+            "answer": "1–2 times",
+            "count": 60,
+            "pct": 36.6,
+            "weighted_pct": 39.5
+          },
+          {
+            "answer": "3–5 times",
+            "count": 51,
+            "pct": 31.1,
+            "weighted_pct": 33.6
+          },
+          {
+            "answer": "6–10 times",
+            "count": 18,
+            "pct": 11,
+            "weighted_pct": 9.8
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 22,
+            "pct": 13.4,
+            "weighted_pct": 10.7
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 127
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 8,
+            "pct": 6.3,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "1–2 times",
+            "count": 33,
+            "pct": 26,
+            "weighted_pct": 25.7
+          },
+          {
+            "answer": "3–5 times",
+            "count": 45,
+            "pct": 35.4,
+            "weighted_pct": 37
+          },
+          {
+            "answer": "6–10 times",
+            "count": 18,
+            "pct": 14.2,
+            "weighted_pct": 12.9
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 23,
+            "pct": 18.1,
+            "weighted_pct": 18.2
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 5
+        },
+        "suppressed": true
+      },
+      {
+        "group": "None of the above/Prefer not to answer",
+        "base": {
+          "n": 2
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 36
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 4,
+            "pct": 11.1,
+            "weighted_pct": 9.3
+          },
+          {
+            "answer": "1–2 times",
+            "count": 12,
+            "pct": 33.3,
+            "weighted_pct": 35.2
+          },
+          {
+            "answer": "3–5 times",
+            "count": 12,
+            "pct": 33.3,
+            "weighted_pct": 33.1
+          },
+          {
+            "answer": "6–10 times",
+            "count": 3,
+            "pct": 8.3,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 5,
+            "pct": 13.9,
+            "weighted_pct": 13.6
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 221
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 19,
+            "pct": 8.6,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "1–2 times",
+            "count": 70,
+            "pct": 31.7,
+            "weighted_pct": 34.3
+          },
+          {
+            "answer": "3–5 times",
+            "count": 68,
+            "pct": 30.8,
+            "weighted_pct": 30.4
+          },
+          {
+            "answer": "6–10 times",
+            "count": 26,
+            "pct": 11.8,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 38,
+            "pct": 17.2,
+            "weighted_pct": 16
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 238
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 19,
+            "pct": 8,
+            "weighted_pct": 6.5
+          },
+          {
+            "answer": "1–2 times",
+            "count": 65,
+            "pct": 27.3,
+            "weighted_pct": 28.5
+          },
+          {
+            "answer": "3–5 times",
+            "count": 88,
+            "pct": 37,
+            "weighted_pct": 38.7
+          },
+          {
+            "answer": "6–10 times",
+            "count": 31,
+            "pct": 13,
+            "weighted_pct": 12.9
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 35,
+            "pct": 14.7,
+            "weighted_pct": 13.4
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 20,
+            "pct": 5.3,
+            "weighted_pct": 5
+          },
+          {
+            "answer": "1–2 times",
+            "count": 126,
+            "pct": 33.6,
+            "weighted_pct": 35.7
+          },
+          {
+            "answer": "3–5 times",
+            "count": 131,
+            "pct": 34.9,
+            "weighted_pct": 34.6
+          },
+          {
+            "answer": "6–10 times",
+            "count": 40,
+            "pct": 10.7,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 58,
+            "pct": 15.5,
+            "weighted_pct": 15.1
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 166
+        },
+        "cells": [
+          {
+            "answer": "0 times",
+            "count": 7,
+            "pct": 4.2,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "1–2 times",
+            "count": 57,
+            "pct": 34.3,
+            "weighted_pct": 34.1
+          },
+          {
+            "answer": "3–5 times",
+            "count": 63,
+            "pct": 38,
+            "weighted_pct": 39.7
+          },
+          {
+            "answer": "6–10 times",
+            "count": 20,
+            "pct": 12,
+            "weighted_pct": 11.3
+          },
+          {
+            "answer": "More than 10 times",
+            "count": 19,
+            "pct": 11.4,
+            "weighted_pct": 11.7
+          }
+        ]
+      }
+    ]
+  }
+}

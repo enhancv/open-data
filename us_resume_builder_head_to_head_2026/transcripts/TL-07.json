@@ -1,0 +1,820 @@
+{
+  "id": "TL-07",
+  "matchup": "Enhancv vs Teal",
+  "final_choice": "Enhancv",
+  "transcription": "Whisper transcript produced by Enhancv from the session recording",
+  "duration": null,
+  "note": "Automatic transcription, lightly structured: speaker labels mapped to Interviewer or Participant; names, employers, schools, places, contact and login details replaced with [... redacted] tags. Wording is otherwise unedited, including transcription errors (for example 'Enhance CV' for Enhancv).",
+  "turns": [
+    {
+      "time": "00:00",
+      "speaker": "Interviewer",
+      "text": "All right, so before we look at the first tool, how complete would you say your current resume feels to you?"
+    },
+    {
+      "time": "00:04",
+      "speaker": "Participant",
+      "text": "It's complete. Yeah."
+    },
+    {
+      "time": "00:06",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "00:07",
+      "speaker": "Participant",
+      "text": "I just used it."
+    },
+    {
+      "time": "00:09",
+      "speaker": "Interviewer",
+      "text": "You just used it. Okay. So like, there's nothing that you feel could be missing from it."
+    },
+    {
+      "time": "00:13",
+      "speaker": "Participant",
+      "text": "Correct."
+    },
+    {
+      "time": "00:14",
+      "speaker": "Interviewer",
+      "text": "All right. And when you picture a resume that you feel confident sharing, what matters most to you to have in there?"
+    },
+    {
+      "time": "00:26",
+      "speaker": "Participant",
+      "text": "Well, it'd have to be education, a mixture of professional experience, and then in my case, it would be internships or fellowships, awards, and publications."
+    },
+    {
+      "time": "00:36",
+      "speaker": "Interviewer",
+      "text": "Okay. Awesome. We're going to look at the first tool now. This is called Enhancv. I'm going to put the link in the chat as well as my credentials because you'll be logging into my account. And then once you have that pulled up, if you could share your screen, please, just so I could follow along."
+    },
+    {
+      "time": "00:54",
+      "speaker": "Participant",
+      "text": "Okay. Let me get that all pulled up then. And then I'm going to sign in with your credentials. And then I'm going to go back to the chat that way I can see what those login details were."
+    },
+    {
+      "time": "02:03",
+      "speaker": "Interviewer",
+      "text": "Okay. So here you'll go to upload resume and then there'll be like a drop down, you press new resume and then you'll find your file."
+    },
+    {
+      "time": "02:10",
+      "speaker": "Participant",
+      "text": "Yeah. Uploading."
+    },
+    {
+      "time": "02:33",
+      "speaker": "Interviewer",
+      "text": "Yeah. And like I said, I won't be guiding you because I want to see how you play around with it. But of course, if you get stuck on something, like feel free to ask me."
+    },
+    {
+      "time": "02:40",
+      "speaker": "Participant",
+      "text": "Okay. Yeah. Sometimes it takes a second."
+    },
+    {
+      "time": "03:06",
+      "speaker": "Interviewer",
+      "text": "How many pages is your original document?"
+    },
+    {
+      "time": "03:09",
+      "speaker": "Participant",
+      "text": "Oh, maybe six or seven."
+    },
+    {
+      "time": "03:11",
+      "speaker": "Interviewer",
+      "text": "Oh, okay. Are you in academia?"
+    },
+    {
+      "time": "03:13",
+      "speaker": "Participant",
+      "text": "Yeah, a little bit. I straddle academia and then research."
+    },
+    {
+      "time": "03:17",
+      "speaker": "Interviewer",
+      "text": "Oh, okay. Yeah. I've noticed those tend to be a little longer."
+    },
+    {
+      "time": "03:20",
+      "speaker": "Participant",
+      "text": "Gotcha. Yeah."
+    },
+    {
+      "time": "03:22",
+      "speaker": "Interviewer",
+      "text": "Okay. So should I, what should I do here?"
+    },
+    {
+      "time": "03:25",
+      "speaker": "Participant",
+      "text": "Improve with AI?"
+    },
+    {
+      "time": "03:33",
+      "speaker": "Interviewer",
+      "text": "Either option you would select like if I wasn't here."
+    },
+    {
+      "time": "03:36",
+      "speaker": "Participant",
+      "text": "Okay. Interestingly, I actually will tell you since you said to just kind of like let you know my thoughts as it was happening, that immediately triggered a memory that I had where I was applying recently and they told me so many times, we are actually scanning your document with the use of AI. And so if anything's flagged, you'll be rejected out of the applicant pool."
+    },
+    {
+      "time": "03:58",
+      "speaker": "Interviewer",
+      "text": "Interesting."
+    },
+    {
+      "time": "03:59",
+      "speaker": "Participant",
+      "text": "So that that one basically told me even if it wasn't gonna be super helpful. Yeah. That one was like a big note to me."
+    },
+    {
+      "time": "04:06",
+      "speaker": "Interviewer",
+      "text": "Oh, okay. So yeah, you won't be able to like you wouldn't be able to use the AI assistant that we have."
+    },
+    {
+      "time": "04:11",
+      "speaker": "Participant",
+      "text": "Yeah. Gotcha. I would be hesitant to unless it was explained a little better."
+    },
+    {
+      "time": "04:24",
+      "speaker": "Interviewer",
+      "text": "Yeah. Okay. Yeah. Here you'll just go through your document, make sure things are pulled correctly, like there's accurate and then and maybe make some edits. And once you're done with that, if you can go through all the different functions in the toolbar on the top."
+    },
+    {
+      "time": "04:37",
+      "speaker": "Participant",
+      "text": "Okay. Okay. Cool. So you said just first of all, just like look it up over make sure everything looks good and then make edits as needed."
+    },
+    {
+      "time": "04:50",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "04:51",
+      "speaker": "Participant",
+      "text": "All right. So, yep. So got my name right, which is cool. I've hyphenated last name glad that pulled it over. Usually that kind of gets a little segmented. Got my current position. That's not right. That is something that was a hyperlinked later in my documents that's going to be something we'll address I guess later."
+    },
+    {
+      "time": "05:15",
+      "speaker": "Interviewer",
+      "text": "Do you see an option where you can remove that?"
+    },
+    {
+      "time": "05:17",
+      "speaker": "Participant",
+      "text": "I don't know. Not really finding one."
+    },
+    {
+      "time": "05:20",
+      "speaker": "Interviewer",
+      "text": "Okay. Yes. Yeah. So where you were with the gear icon, all those toggles, that's where you would find like link and turn off the toggle."
+    },
+    {
+      "time": "05:28",
+      "speaker": "Participant",
+      "text": "Right. Okay. Okay. Cool. Very nice. Yeah, that looks pretty accurate. Summary public health leader and patient advocate looks pretty darn good. And then professional experience. Actually, I guess I could do this too. So certifications. Training courses intro to public health. And this one doesn't that one does not make sense or it's a little bit incomplete. This is a course that I actually created."
+    },
+    {
+      "time": "06:07",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "06:08",
+      "speaker": "Participant",
+      "text": "So that one's a little bit. Again, just working on the cusp of academia and then like research. It might have had a hard time teasing that one apart."
+    },
+    {
+      "time": "06:15",
+      "speaker": "Interviewer",
+      "text": "So would you want to move that maybe then to work experience since you created this work?"
+    },
+    {
+      "time": "06:20",
+      "speaker": "Participant",
+      "text": "Potentially, potentially, it depends on maybe how your system prioritizes it. If anything, I would honestly just potentially change this to courses created or trainings facilitated because I don't know what the rest of the document breaks things into, but I could see that as included later."
+    },
+    {
+      "time": "06:35",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "06:36",
+      "speaker": "Participant",
+      "text": "All right. And then languages. That's pretty cool. Actually, I would want the English to be, I guess, all the way up and maybe I can try editing that because I see the UX kind of guided me towards that, which is pretty cool. Spanish. That looks good to me. I would keep that as just a more minimum."
+    },
+    {
+      "time": "07:00",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "07:01",
+      "speaker": "Participant",
+      "text": "Which actually, that's kind of a cool feature right there. I would say even maybe if that could be moved, I mean, just later on, maybe even up here or something. I feel like that could be kind of cool. It's not really needed, needed, but it's like so quickly communicated like that."
+    },
+    {
+      "time": "07:15",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "07:16",
+      "speaker": "Participant",
+      "text": "So roles. Program Manager, [company name redacted]. It's got the dates. It's got the location. That's really cool. Yep. And it's got my, I see it's a little bit, that's so interesting the way the formatting works. So right here, it's not translating. I had a better copy of that information, but it didn't quite take that, you know, the department that I lead is [detail redacted]. It just took the top line first two words."
+    },
+    {
+      "time": "07:55",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "07:56",
+      "speaker": "Participant",
+      "text": "And this is still in there. So that is kind of redundant with the second line. So I took this information and made it into that, which looks really attractive. So this was actually what my job description would be. So that looks pretty great. Otherwise, yep, it's doing the same thing down here. Look how Consultant [company name redacted] is done."
+    },
+    {
+      "time": "08:25",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "08:26",
+      "speaker": "Participant",
+      "text": "So it's doing it a little bit here as well, where it's wanting to use some of this information and just pulling out the information, but not taking it out or taking it away. That's okay. This one looks good. This one actually is correct. That's great. It doesn't have those redundancies. It is interesting that it pulled out a location, just calling it [location redacted]. That's totally fine. Didn't know that would be like a location that can pull out like that. I guess it just probably looked at the text and figured it out."
+    },
+    {
+      "time": "09:21",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "09:22",
+      "speaker": "Participant",
+      "text": "And so, yep, I've got a lot of roles. So experience. Okay. So that's a little bit silly there. Looks like it's not. It broke the system. So this is completely broken, this whole section. I don't know if it's helpful, but I could even show my original resume."
+    },
+    {
+      "time": "09:47",
+      "speaker": "Interviewer",
+      "text": "Yeah, that's fine."
+    },
+    {
+      "time": "09:48",
+      "speaker": "Participant",
+      "text": "Okay. That might be pretty useful. See, I'm glad to participate in this because I would love for something to work better in the future. Okay. So these are some of the first roles. What's interesting is that this particular role that I had, I worked with so many different teams on so many different grant-funded research and clinical offices. Over the course of four years, it probably just killed the AI trying to figure it out."
+    },
+    {
+      "time": "10:43",
+      "speaker": "Interviewer",
+      "text": "Yeah, I see. For that one, you'd have to do definitely some manual editing. Like you probably were in the gear portion before, like playing around with different"
+    },
+    {
+      "time": "10:50",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "10:51",
+      "speaker": "Interviewer",
+      "text": "But this is good to know that the AI should be a little bit more intuitive here."
+    },
+    {
+      "time": "10:54",
+      "speaker": "Participant",
+      "text": "Yeah, because this was a very unique role that I held, unlike these over here where it was a single department, or a center, like [company name redacted], or a consultant, or again, an office of [detail redacted]. This one, I was hired and had the [company name redacted], Health Policy, Recruitment and Operations, and [company name redacted] team, all part of my role."
+    },
+    {
+      "time": "11:09",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "11:10",
+      "speaker": "Participant",
+      "text": "Yeah. And then it looked like it kind of died a little bit because, or the AI, because I also worked on health implementation, and I don't see that represented."
+    },
+    {
+      "time": "11:37",
+      "speaker": "Interviewer",
+      "text": "Is there another page, or is this the last page on the..."
+    },
+    {
+      "time": "11:40",
+      "speaker": "Participant",
+      "text": "So that's what I was going to ask you really quick, is that it looks like it goes out of order very quickly, which is what's kind of confusing."
+    },
+    {
+      "time": "11:47",
+      "speaker": "Interviewer",
+      "text": "The experiences are out of order, like chronologically?"
+    },
+    {
+      "time": "11:50",
+      "speaker": "Participant",
+      "text": "Mm-hmm. Okay. Correct."
+    },
+    {
+      "time": "11:52",
+      "speaker": "Interviewer",
+      "text": "There is an option where you can easily, when you highlight it, you see the arrows?"
+    },
+    {
+      "time": "11:56",
+      "speaker": "Participant",
+      "text": "Yes."
+    },
+    {
+      "time": "11:57",
+      "speaker": "Interviewer",
+      "text": "You would put them in the correct order."
+    },
+    {
+      "time": "11:59",
+      "speaker": "Participant",
+      "text": "So I can promote or demote the different sections? Okay. All right. Yeah, because all of... Yeah, this was part of this right here, so what should come next is a whole different job, Health Implementation Specialist, and it goes into volunteer work. So when I was a bilingual aid for kindergarten classes. And then it also doesn't include COVID-19 Case Investigator, years ago. It just kind of breaks it, and I don't know why."
+    },
+    {
+      "time": "12:30",
+      "speaker": "Interviewer",
+      "text": "I see."
+    },
+    {
+      "time": "12:31",
+      "speaker": "Participant",
+      "text": "Yeah, and then [detail redacted]. That would have been a fellowship. Yeah, so I think I broke it. I think I broke the AI trying to figure it out. It's fine."
+    },
+    {
+      "time": "12:41",
+      "speaker": "Interviewer",
+      "text": "Well, like you mentioned, there's a fellowship and then volunteer experience. Why don't you... There's other sections you can do. So let's try and add a new section."
+    },
+    {
+      "time": "12:56",
+      "speaker": "Participant",
+      "text": "And then just so you can see what the other options are."
+    },
+    {
+      "time": "12:59",
+      "speaker": "Interviewer",
+      "text": "So there's two ways you can do that. Either you scroll all the way down to the bottom, and it might appear. So you add new section."
+    },
+    {
+      "time": "13:06",
+      "speaker": "Participant",
+      "text": "Yeah, you can select that and see all the different options that there are. This looks so cool. Okay. Well, volunteering experience with Word, references."
+    },
+    {
+      "time": "13:23",
+      "speaker": "Interviewer",
+      "text": "And I guess there's a custom section."
+    },
+    {
+      "time": "13:25",
+      "speaker": "Participant",
+      "text": "So that's probably what I would live with. So I called this Professional Development."
+    },
+    {
+      "time": "13:32",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "13:33",
+      "speaker": "Participant",
+      "text": "Let's see here. It does not let me type."
+    },
+    {
+      "time": "13:36",
+      "speaker": "Interviewer",
+      "text": "Oh, you have to add the section first. And then once it's living in the document, then you can do that."
+    },
+    {
+      "time": "13:41",
+      "speaker": "Participant",
+      "text": "Well, that makes sense, doesn't it? Okay, cool. Is there a way I can... Should I drag it over here? If it was... Ooh, does that... Okay."
+    },
+    {
+      "time": "13:48",
+      "speaker": "Interviewer",
+      "text": "So that, if you want to move around the sections in their entirety, you'd have to do that in rearrange. So that's in the toolbar on the top. That's how you move around the whole sections."
+    },
+    {
+      "time": "13:56",
+      "speaker": "Participant",
+      "text": "That's so cool. So I would just... Oh, that is awesome. Okay. Well, now that I know. Okay. So if I were to have some of these other things that we were trying to check out. Okay. So if I wanted to make a new section, where do I go again? It was..."
+    },
+    {
+      "time": "14:23",
+      "speaker": "Interviewer",
+      "text": "So it's at the bottom, or you can do it like..."
+    },
+    {
+      "time": "14:26",
+      "speaker": "Participant",
+      "text": "Yeah. Custom, add the section. And then we're on page four. Rearrange. Go to four. Oh, you have like eight pages. Okay. That's so weird. It actually disappeared. So the custom box that I made, I put it on page four, and it just shot it all the way down to page eight, instead of it being on page five."
+    },
+    {
+      "time": "15:06",
+      "speaker": "Interviewer",
+      "text": "So did you put it on the left-hand side or the right-hand side? Because you see how you have all this experience? Experience is one whole section, even though it's split up by the pages. So it would drag it to behind, like after experience."
+    },
+    {
+      "time": "15:17",
+      "speaker": "Participant",
+      "text": "Okay. That makes sense. Okay. So I guess if I understand. Continue editing. So if I wanted to put this into that new section for professional development, would I just demote it until it was under the heading?"
+    },
+    {
+      "time": "15:41",
+      "speaker": "Interviewer",
+      "text": "No, you can only do that within one section. So you can only move these around in experiences. You would have to copy and paste it. Like that would be a manual edit."
+    },
+    {
+      "time": "15:50",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "15:51",
+      "speaker": "Interviewer",
+      "text": "Should I do that now? Or should I continue just like looking through the whole document? I mean, since you know it's just a copy and paste, you don't have to do it. We're not going to make the resume perfect. I just want to see like how you are able to do some things. Yeah. Okay. So just kind of keep reading through everything. I think now we can move on to the top. So there's like improved text, ATS check, rearrange, templates. If you can go through all of those, that would be great. Okay. So improved text. You kind of have a good sense, right, on like how you can change a section and things like that, or did I rush you through it?"
+    },
+    {
+      "time": "16:30",
+      "speaker": "Participant",
+      "text": "I think I understand a little bit."
+    },
+    {
+      "time": "16:32",
+      "speaker": "Interviewer",
+      "text": "Okay. You can play around with that a little bit more if you want. That's fine."
+    },
+    {
+      "time": "16:36",
+      "speaker": "Participant",
+      "text": "Okay. Let's see. So I'll stick with this right now with the improved text, document, language, auto detect. So I guess I'll select English since that was my primary goal."
+    },
+    {
+      "time": "16:48",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "16:49",
+      "speaker": "Participant",
+      "text": "Tailored suggestions. I don't know what that means. It is kind of cool that some of these have little information icons. I'd be cool if maybe that one did too, because I don't know what it means if it's providing a tailored suggestion."
+    },
+    {
+      "time": "17:13",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "17:14",
+      "speaker": "Participant",
+      "text": "Oh, see, I turned it off and it did provide a little icon. Get relevant personalized examples. Okay. Okay, cool. Yeah. So I would want that checked. And then I like how that's being told to me. Ah, okay. Lots of updates. Okay. Meet wording and readability. Explain yourself better. Yeah. And so this would be interesting because I know that I was just applying to a doctoral program for some work that I'd like to start doing professionally. And they told me and other applicants that they were heavily reviewing this work for any AI assistance. And so if sentences, paragraphs, or summary, you know, areas were using AI or flagged as that. And I use Grammarly. So sometimes it flags Grammarly. They would throw out our application. So."
+    },
+    {
+      "time": "18:31",
+      "speaker": "Interviewer",
+      "text": "Okay. So we don't have to go into this one then if it's not relevant to you."
+    },
+    {
+      "time": "18:34",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "18:35",
+      "speaker": "Interviewer",
+      "text": "All right. And then ATS check, check until your resume. So that passes. That is so cool."
+    },
+    {
+      "time": "18:42",
+      "speaker": "Participant",
+      "text": "Mm-hmm."
+    },
+    {
+      "time": "18:43",
+      "speaker": "Interviewer",
+      "text": "Applying for a new job. Paste the description of the jobs industry. That's cool. Okay. And so I would just imagine that I paste the job there. Would this work actually. With this work for non-job related. Things you'd like to apply to. So like a fellowship. Even if it was job related or. Academic."
+    },
+    {
+      "time": "19:00",
+      "speaker": "Participant",
+      "text": "Yeah. I mean, To be fair. I don't think that fellow should. They use APS. So this is just like mostly for keyword matching. Using AI to tailor your title summary and like. Role responsibilities so that they pass the ATS. Software and then human recruiters will be able to see it. Like they don't get filtered. If fellowships do use that then potentially. Yeah. But like you said, you're not allowed to use AI. So I feel like this wouldn't really be helpful. But you can do like a quick Google search if you want. And then copy and paste that in there. And see. What comes out. Or you can use one of these past jobs. It's fine to see. See what the tool does. Yeah. That sounds awesome. Okay. So continue. Okay. Resume needs to be better tailored to this job. Okay. That's so cool. Nice. Okay. That is so cool. I wish I could have had this before. Okay. Cool. Yeah. So I can see why it's. Making those. I'll exit. Just because I'm looking at this. Okay. Oh, that's cool. It has like a little ticker at the top, I guess, as I improve it. It'll give me updates. Yes."
+    },
+    {
+      "time": "21:08",
+      "speaker": "Interviewer",
+      "text": "Okay. And then we went through rearrange, which is really neat. This is actually something I would love to have because of my current resume. While it fits, I believe the Harvard. Format. Is really hard to provide any type of unique spacing."
+    },
+    {
+      "time": "21:29",
+      "speaker": "Participant",
+      "text": "Right."
+    },
+    {
+      "time": "21:30",
+      "speaker": "Interviewer",
+      "text": "And it actually throws off a lot when people try to download it."
+    },
+    {
+      "time": "21:33",
+      "speaker": "Participant",
+      "text": "Oh, okay."
+    },
+    {
+      "time": "21:34",
+      "speaker": "Interviewer",
+      "text": "Okay. So rearrange templates."
+    },
+    {
+      "time": "21:35",
+      "speaker": "Participant",
+      "text": "That's so neat. So, yeah, that's why it says Ivy league right there. Cause that's like, that's very similar to the one that. I always ask for Polish contemporary. It's got a photo. That's so neat. Okay. Very cool."
+    },
+    {
+      "time": "22:03",
+      "speaker": "Interviewer",
+      "text": "Do you feel like some of these templates are maybe more modern than you can get in word?"
+    },
+    {
+      "time": "22:07",
+      "speaker": "Participant",
+      "text": "Yeah. I would actually say this is probably a huge technological leap over word in general, just because I'm also noticing the rearrangement and the, Combination of that with templates. Like I said, with word, everything is so. Very specific. And if you move a little icon, you set up with little orders. Things kind of get rearranged fast."
+    },
+    {
+      "time": "22:29",
+      "speaker": "Interviewer",
+      "text": "That's true. Okay. So lastly, we just had to sign in form."
+    },
+    {
+      "time": "22:35",
+      "speaker": "Participant",
+      "text": "Yeah. Okay. So page margins. That makes total sense. And then. And then color. I was there like that secondary colors almost. It's really cool. All right. Fun size column layout. Oh, I see. And now it tries to balance them. Okay. And then background. That is actually, I find that really helpful. Because there are some things that I wish. I could have just a slight carve out for on my current resume. And maybe I only want it on one page because it's relevant to just like that one high level summary. And then it goes into like the more heavy experience or. You know, roles."
+    },
+    {
+      "time": "23:20",
+      "speaker": "Interviewer",
+      "text": "Right."
+    },
+    {
+      "time": "23:21",
+      "speaker": "Participant",
+      "text": "Okay. Backgrounds. That's fun. That's awesome. That's cool. Okay. And then a signature. I've never been asked for my own signature on a resume. So I don't know how useful that is for anything that I've done. That sounds awesome. So. If that's a, for a different field or job, or if that just, I don't know, it makes somebody else look really cool and polished. That's great."
+    },
+    {
+      "time": "23:46",
+      "speaker": "Interviewer",
+      "text": "Awesome. So what did you think about like the amount of flexibility the tool gave you when you were working on this?"
+    },
+    {
+      "time": "23:51",
+      "speaker": "Participant",
+      "text": "Oh, it's awesome. This is like something I've never seen. And it's something that. I would love to have used myself."
+    },
+    {
+      "time": "24:15",
+      "speaker": "Interviewer",
+      "text": "Okay. And did you feel constrained at any. By the tool."
+    },
+    {
+      "time": "24:18",
+      "speaker": "Participant",
+      "text": "Yeah. Yeah. I'm probably only in the first. Part of our conversation where. It tried to parse out my original resume and got it really wrong. Really quick."
+    },
+    {
+      "time": "24:31",
+      "speaker": "Interviewer",
+      "text": "Yeah. Okay. So that was like the only time really."
+    },
+    {
+      "time": "24:34",
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": "24:35",
+      "speaker": "Interviewer",
+      "text": "Do you feel like the tool did a good job validating that you have a strong resume?"
+    },
+    {
+      "time": "24:40",
+      "speaker": "Participant",
+      "text": "Yeah. I mean, I know that it said that I have about 59% related to, you know, like a. Job that we just kind of."
+    },
+    {
+      "time": "24:47",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "24:48",
+      "speaker": "Participant",
+      "text": "Referenced it with. So. So I'm kind of indifferent about that, but otherwise. Still feel pretty confident."
+    },
+    {
+      "time": "24:55",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "24:56",
+      "speaker": "Participant",
+      "text": "It was cool."
+    },
+    {
+      "time": "24:57",
+      "speaker": "Interviewer",
+      "text": "Well, is there anything in particular that stood out to you about this experience that you liked?"
+    },
+    {
+      "time": "25:06",
+      "speaker": "Participant",
+      "text": "I think it's really great that. You know, I feel like I can be pretty customizable while also being really careful with the user experience. Or that design because being able to have templates that I can use. But then also an ability to. You know, figure out how much or how heavy I want the percentage of each section on the left or the right. It feels like I can get pretty inventive about the way that I design."
+    },
+    {
+      "time": "25:33",
+      "speaker": "Interviewer",
+      "text": "Okay. So let's move on to the second tool. You may want to leave this. Open just in case you need to refer back to comparison questions. But our second tool is called TealHQ. And you'll just use the same login information for."
+    },
+    {
+      "time": "25:58",
+      "speaker": "Participant",
+      "text": "Okay. Yeah. And just a reminder, we're going to be using the sample resume."
+    },
+    {
+      "time": "26:03",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "26:04",
+      "speaker": "Participant",
+      "text": "I'm going to close up because that's a sign up. So already a member question."
+    },
+    {
+      "time": "26:08",
+      "speaker": "Interviewer",
+      "text": "Yeah. Good catch."
+    },
+    {
+      "time": "26:09",
+      "speaker": "Participant",
+      "text": "Okay. And then you said the same credentials. Okay. Okay. Okay. And we're going to be using sample."
+    },
+    {
+      "time": "26:38",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "26:39",
+      "speaker": "Participant",
+      "text": "Okay, cool. Yeah."
+    },
+    {
+      "time": "26:41",
+      "speaker": "Interviewer",
+      "text": "Okay. So let's go ahead and start. Since you can't really check for accuracy. What I want you to sort of do is just work on the experience. So you'll go through like. All the different options in the content editor. Designer analyzer."
+    },
+    {
+      "time": "27:01",
+      "speaker": "Participant",
+      "text": "And yeah. Okay. So I guess looking at the content editor first, just everything that I see here. Yeah. I guess I could probably. Yeah, that's cool. I guess if I were to edit. Yep. That's pretty cool. Target title."
+    },
+    {
+      "time": "27:30",
+      "speaker": "Interviewer",
+      "text": "Oh, yeah. And if you open the work experience, just so like, you can see how the AI like works here. If you on the toolbar, press like edit. Like editing one of the responsibilities."
+    },
+    {
+      "time": "27:39",
+      "speaker": "Participant",
+      "text": "Well, you have to select it again first."
+    },
+    {
+      "time": "27:41",
+      "speaker": "Interviewer",
+      "text": "Oh, I see."
+    },
+    {
+      "time": "27:42",
+      "speaker": "Participant",
+      "text": "Yeah. Like make it live. And then in the responsibilities, you can go to like edit text. And then there, when you open it up, there'll be like a couple. Like suggestions. That's so cool. That's cool. Characters words. Nice. What did you do? That's really neat. Okay, cool. Let's see. Now, I guess I'll go over to designer. Browse template library. Cool. These all look pretty normal. And he's also like what I receive when we build for applicants. I guess I can change the font around. Well, it's a. Options that it has."
+    },
+    {
+      "time": "28:53",
+      "speaker": "Interviewer",
+      "text": "So if you go back, like the green box that says browse template library, you press on that."
+    },
+    {
+      "time": "28:59",
+      "speaker": "Participant",
+      "text": "Oh, yeah."
+    },
+    {
+      "time": "29:00",
+      "speaker": "Interviewer",
+      "text": "That opens up the template library."
+    },
+    {
+      "time": "29:02",
+      "speaker": "Participant",
+      "text": "Okay. Cool. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Oh. Yeah. That opens up the different options that you have. Nice. And if these are, I guess, like a more like a yellow, is that like a premium feature?"
+    },
+    {
+      "time": "29:29",
+      "speaker": "Interviewer",
+      "text": "I believe those are suggested, actually. Yes, you're still able to access them. This is the paid version."
+    },
+    {
+      "time": "29:35",
+      "speaker": "Participant",
+      "text": "Okay. Okay. And I guess I'll just close. But yeah, that's pretty cool that it gives you the ability to have, yeah. The line spacing like normal and. Okay. Yeah. Feels very similar to word. Just feels much more like a template of a template. Okay. Sections target. I guess I can move those around. Very cool. Settings. Oh, that's neat. Yeah. It shows like what would you prioritize a bit more. Very cool. I actually kind of like the bullets. You pick the different bullets. I always think they look nice. More nice when it's not like a regular bullet. Okay. All right. So this is the analyzer section. And I guess now it's saying 71% overall score for structure, measurable results, keyword usage. And profiles present your content information. Very cool. And does this port in, oh, no, I guess it doesn't. It doesn't take your LinkedIn information here. It just adds it as a hyperlink. That's really cool. Okay. And then."
+    },
+    {
+      "time": "31:12",
+      "speaker": "Interviewer",
+      "text": "Yeah. Job matcher is like ATS."
+    },
+    {
+      "time": "31:15",
+      "speaker": "Participant",
+      "text": "Hmm. For this tool."
+    },
+    {
+      "time": "31:17",
+      "speaker": "Interviewer",
+      "text": "Gotcha."
+    },
+    {
+      "time": "31:18",
+      "speaker": "Participant",
+      "text": "Okay. I guess it's telling me, yeah, I got 14% here and I could have. Let's see. So. I'm not totally understanding. Yeah. This. This tool. Yeah. I probably should have. I think. So. I'm not totally understanding. Yeah. This. What I should have said, or I didn't say."
+    },
+    {
+      "time": "32:02",
+      "speaker": "Interviewer",
+      "text": "Those are things that you didn't say. This is one from the previous. Interview. There was a job uploaded, but it doesn't match this resume. Obviously. There's a much in there. But the red things would be what you don't have. And what the job. Keywords. Those are things to add. And then they would turn green. Like the ones that are. Already green. Once you. Because."
+    },
+    {
+      "time": "32:27",
+      "speaker": "Participant",
+      "text": "Oh, that's cool. It actually. Tells you. Locates them. Like you said, accounting. Like yes. Six, seven words in or whatever."
+    },
+    {
+      "time": "32:35",
+      "speaker": "Interviewer",
+      "text": "Exactly."
+    },
+    {
+      "time": "32:36",
+      "speaker": "Participant",
+      "text": "That's really great. Okay. And this one. Why is that way? Yellow. Because is it used, but not to speak? Because it looks like it's not clicked. If I did that. Yeah. Okay."
+    },
+    {
+      "time": "32:52",
+      "speaker": "Interviewer",
+      "text": "I honestly didn't know about that."
+    },
+    {
+      "time": "32:54",
+      "speaker": "Participant",
+      "text": "There we go. Okay. Yeah. I guess. Since it's not live. That's why. Yellow. It's like that holding."
+    },
+    {
+      "time": "33:02",
+      "speaker": "Interviewer",
+      "text": "Yeah. Yeah. Cool. Well. Template design experience. Specifically, which one. Since it's not live. That's why. Yellow. Okay. So. Template design experience. Specifically, which one. Stands out more to you."
+    },
+    {
+      "time": "33:17",
+      "speaker": "Participant",
+      "text": "I really liked the first one. So much more."
+    },
+    {
+      "time": "33:20",
+      "speaker": "Interviewer",
+      "text": "Yeah. Why?"
+    },
+    {
+      "time": "33:21",
+      "speaker": "Participant",
+      "text": "So I could almost compare it like this. I feel like. Apple were to make. And a resume tool. It would almost feel like this. Right. It would be really. You know, nice UX. Really intuitive. Some features that you didn't expect, but it looks. Really beautiful. And it's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's. It's"
+    }
+  ]
+}

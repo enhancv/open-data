@@ -1,0 +1,137 @@
+{
+  "survey": "us_recruiter_hiring_seasonality_2026",
+  "questions": [
+    {
+      "id": "Q1",
+      "text": "Which industry do you mainly recruit for?",
+      "type": "single",
+      "options": [
+        "Government & nonprofit",
+        "Healthcare",
+        "Education",
+        "Tech & IT",
+        "Retail & hospitality",
+        "Other",
+        "Manufacturing & logistics",
+        "Professional services",
+        "Finance & insurance",
+        "Construction & trades"
+      ]
+    },
+    {
+      "id": "Q2",
+      "text": "In a typical year, when do you post the largest share of your job ads?",
+      "type": "single",
+      "options": [
+        "Spread evenly, no real peak",
+        "July–September",
+        "April–June",
+        "October–December",
+        "January–March"
+      ]
+    },
+    {
+      "id": "Q3",
+      "text": "Which single month do you post the most openings?",
+      "type": "single",
+      "options": [
+        "June",
+        "April",
+        "May",
+        "November",
+        "October",
+        "March",
+        "September",
+        "August",
+        "July",
+        "December",
+        "January",
+        "February",
+        "No single peak month"
+      ]
+    },
+    {
+      "id": "Q4",
+      "text": "Which single month do you post the fewest openings?",
+      "type": "single",
+      "options": [
+        "January",
+        "December",
+        "October",
+        "August",
+        "No single peak month",
+        "February",
+        "June",
+        "April",
+        "November",
+        "May",
+        "March",
+        "July",
+        "September"
+      ]
+    },
+    {
+      "id": "Q5",
+      "text": "From the day a job ad goes live to the day a candidate accepts an offer, how long does your process usually take?",
+      "type": "single",
+      "options": [
+        "More than 3 months",
+        "2–3 months",
+        "1–2 months",
+        "Under 2 weeks",
+        "2–4 weeks",
+        "It varies too much to say"
+      ]
+    },
+    {
+      "id": "Q6",
+      "text": "What slows hiring down at certain times of year?",
+      "type": "multi",
+      "options": [
+        "Decision-makers on vacation",
+        "Budget approvals or fiscal-year timing",
+        "Too many applications to screen",
+        "Too few qualified applicants",
+        "Holiday shutdowns",
+        "Competing seasonal business demands",
+        "Nothing, our pace is steady"
+      ]
+    },
+    {
+      "id": "Q7",
+      "text": "How seasonal is hiring in your industry?",
+      "type": "single",
+      "options": [
+        "Not seasonal at all",
+        "Somewhat seasonal",
+        "Barely seasonal",
+        "Highly seasonal, volume swings a lot"
+      ]
+    },
+    {
+      "id": "Q8",
+      "text": "When do you see the biggest spike in applications from candidates?",
+      "type": "single",
+      "options": [
+        "No clear spike",
+        "July–September",
+        "April–June",
+        "October–December",
+        "January–March"
+      ]
+    },
+    {
+      "id": "Q9",
+      "text": "Which groups do you notice more of at specific times of year?",
+      "type": "multi",
+      "options": [
+        "Recent graduates in late spring and summer",
+        "Career changers in January",
+        "Seasonal or temporary workers before the holidays",
+        "People returning to work in September",
+        "Passive candidates after bonus season",
+        "No noticeable pattern"
+      ]
+    }
+  ]
+}

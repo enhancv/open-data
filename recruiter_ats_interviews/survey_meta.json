@@ -1,0 +1,21 @@
+{
+  "slug": "recruiter_ats_interviews",
+  "title": "Recruiter Interviews on ATS Rejections",
+  "country": "US",
+  "year": 2025,
+  "fieldwork_start": "2025-09",
+  "fieldwork_end": "2025-10",
+  "sample_n": 25,
+  "vendor": "Enhancv (one-on-one interviews)",
+  "population": "Recruiters, talent acquisition and HR professionals who use applicant tracking systems",
+  "method": "Structured interviews covering the ATS systems each recruiter uses, match scores, knockout questions, automatic rejections, timing of applications and high-volume screening. Enhancv summarized each interviewee’s answers.",
+  "topic_tags": [
+    "applicant tracking systems",
+    "ATS rejection",
+    "recruiters",
+    "hiring process",
+    "job applications"
+  ],
+  "privacy": "Enhancv removed names, LinkedIn profiles, employers, client names and cities, and generalized roles, industries, locations and company sizes.",
+  "published_report": "https://enhancv.com/blog/does-ats-reject-resumes/"
+}

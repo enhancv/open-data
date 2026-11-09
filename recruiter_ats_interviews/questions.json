@@ -1,0 +1,49 @@
+{
+  "survey": "recruiter_ats_interviews",
+  "questions": [
+    {
+      "id": "ats_systems_used",
+      "text": "Which ATS systems do you use?"
+    },
+    {
+      "id": "match_score",
+      "text": "Does your ATS give an AI or percentage match score, and do you use it?"
+    },
+    {
+      "id": "knockout_questions",
+      "text": "Do you use knockout questions?"
+    },
+    {
+      "id": "ats_rejects_on_content",
+      "text": "Does your ATS reject applicants automatically based on resume content (formatting, keywords, skills)?"
+    },
+    {
+      "id": "share_rejected_automatically",
+      "text": "If yes, roughly what share of applicants does it reject?"
+    },
+    {
+      "id": "where_they_heard_the_ats_myth",
+      "text": "If not, where have you heard that ATS systems reject resumes automatically?"
+    },
+    {
+      "id": "applying_early_helps",
+      "text": "Does applying early improve a candidate's chances?"
+    },
+    {
+      "id": "what_early_means",
+      "text": "What counts as early?"
+    },
+    {
+      "id": "high_volume_strategy",
+      "text": "How do you handle postings with a very high number of applicants?"
+    },
+    {
+      "id": "advice_beyond_qualifications",
+      "text": "Beyond qualifications and location, what else decides who moves forward? Any advice for candidates?"
+    },
+    {
+      "id": "trends",
+      "text": "What trends are you seeing?"
+    }
+  ]
+}

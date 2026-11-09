@@ -1,0 +1,895 @@
+{
+  "survey": "us_overemployment_2026",
+  "id": "Q2",
+  "question_prompt": "How would you describe your current work arrangement?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "Fully remote for 5+ years",
+        "count": 106,
+        "pct": 10.6,
+        "weighted_pct": 10.9
+      },
+      {
+        "answer": "Fully remote (started since 2020)",
+        "count": 125,
+        "pct": 12.5,
+        "weighted_pct": 12.8
+      },
+      {
+        "answer": "Hybrid (2–3 days per week in office)",
+        "count": 265,
+        "pct": 26.5,
+        "weighted_pct": 26.1
+      },
+      {
+        "answer": "Mostly in-office",
+        "count": 504,
+        "pct": 50.4,
+        "weighted_pct": 50.2
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 550
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 71,
+            "pct": 12.9,
+            "weighted_pct": 12.7
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 66,
+            "pct": 12,
+            "weighted_pct": 13.5
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 115,
+            "pct": 20.9,
+            "weighted_pct": 20.8
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 298,
+            "pct": 54.2,
+            "weighted_pct": 53
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 450
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 35,
+            "pct": 7.8,
+            "weighted_pct": 9
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 59,
+            "pct": 13.1,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 150,
+            "pct": 33.3,
+            "weighted_pct": 31.5
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 206,
+            "pct": 45.8,
+            "weighted_pct": 47.4
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 28
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 4,
+            "pct": 14.3,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 6,
+            "pct": 21.4,
+            "weighted_pct": 21.4
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 5,
+            "pct": 17.9,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 13,
+            "pct": 46.4,
+            "weighted_pct": 46.4
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 174
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 18,
+            "pct": 10.3,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 26,
+            "pct": 14.9,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 54,
+            "pct": 31,
+            "weighted_pct": 31.6
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 76,
+            "pct": 43.7,
+            "weighted_pct": 43
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 330
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 32,
+            "pct": 9.7,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 48,
+            "pct": 14.5,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 98,
+            "pct": 29.7,
+            "weighted_pct": 30.3
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 152,
+            "pct": 46.1,
+            "weighted_pct": 45.5
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 293
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 32,
+            "pct": 10.9,
+            "weighted_pct": 10.5
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 32,
+            "pct": 10.9,
+            "weighted_pct": 11.1
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 69,
+            "pct": 23.5,
+            "weighted_pct": 23.9
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 160,
+            "pct": 54.6,
+            "weighted_pct": 54.5
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 175
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 20,
+            "pct": 11.4,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 13,
+            "pct": 7.4,
+            "weighted_pct": 6.8
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 39,
+            "pct": 22.3,
+            "weighted_pct": 21.7
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 103,
+            "pct": 58.9,
+            "weighted_pct": 60.1
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 209
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 24,
+            "pct": 11.5,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 27,
+            "pct": 12.9,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 65,
+            "pct": 31.1,
+            "weighted_pct": 26.8
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 93,
+            "pct": 44.5,
+            "weighted_pct": 47
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 80
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 8,
+            "pct": 10,
+            "weighted_pct": 7
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 13,
+            "pct": 16.3,
+            "weighted_pct": 16.7
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 20,
+            "pct": 25,
+            "weighted_pct": 27.8
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 39,
+            "pct": 48.8,
+            "weighted_pct": 48.5
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 67
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 8,
+            "pct": 11.9,
+            "weighted_pct": 13.3
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 9,
+            "pct": 13.4,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 26,
+            "pct": 38.8,
+            "weighted_pct": 41.8
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 24,
+            "pct": 35.8,
+            "weighted_pct": 33
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 435
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 39,
+            "pct": 9,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 42,
+            "pct": 9.7,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 117,
+            "pct": 26.9,
+            "weighted_pct": 28.1
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 237,
+            "pct": 54.5,
+            "weighted_pct": 54.3
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 11
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 3,
+            "pct": 27.3,
+            "weighted_pct": 18.3
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 1,
+            "pct": 9.1,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 2,
+            "pct": 18.2,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 5,
+            "pct": 45.5,
+            "weighted_pct": 59
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 198
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 24,
+            "pct": 12.1,
+            "weighted_pct": 14.4
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 33,
+            "pct": 16.7,
+            "weighted_pct": 18.6
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 35,
+            "pct": 17.7,
+            "weighted_pct": 17
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 106,
+            "pct": 53.5,
+            "weighted_pct": 50
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 99
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 14,
+            "pct": 14.1,
+            "weighted_pct": 15.1
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 13,
+            "pct": 13.1,
+            "weighted_pct": 11.9
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 22,
+            "pct": 22.2,
+            "weighted_pct": 23.6
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 50,
+            "pct": 50.5,
+            "weighted_pct": 49.4
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 336
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 32,
+            "pct": 9.5,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 42,
+            "pct": 12.5,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 109,
+            "pct": 32.4,
+            "weighted_pct": 32.2
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 153,
+            "pct": 45.5,
+            "weighted_pct": 47.6
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 138
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 17,
+            "pct": 12.3,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 10,
+            "pct": 7.2,
+            "weighted_pct": 7.7
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 37,
+            "pct": 26.8,
+            "weighted_pct": 23.8
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 74,
+            "pct": 53.6,
+            "weighted_pct": 55.3
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 14
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 1,
+            "pct": 7.1,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 1,
+            "pct": 7.1,
+            "weighted_pct": 11.9
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 12,
+            "pct": 85.7,
+            "weighted_pct": 83.5
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 16
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 2,
+            "pct": 12.5,
+            "weighted_pct": 13.7
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 2,
+            "pct": 12.5,
+            "weighted_pct": 12.4
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 1,
+            "pct": 6.3,
+            "weighted_pct": 12.5
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 11,
+            "pct": 68.8,
+            "weighted_pct": 61.4
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 38
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 3,
+            "pct": 7.9,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 7,
+            "pct": 18.4,
+            "weighted_pct": 13.7
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 13,
+            "pct": 34.2,
+            "weighted_pct": 34.8
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 15,
+            "pct": 39.5,
+            "weighted_pct": 45.1
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 3
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 113
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 20,
+            "pct": 17.7,
+            "weighted_pct": 21.2
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 21,
+            "pct": 18.6,
+            "weighted_pct": 21.7
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 14,
+            "pct": 12.4,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 58,
+            "pct": 51.3,
+            "weighted_pct": 45.7
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 215
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 17,
+            "pct": 7.9,
+            "weighted_pct": 7.7
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 27,
+            "pct": 12.6,
+            "weighted_pct": 13.9
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 62,
+            "pct": 28.8,
+            "weighted_pct": 29.2
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 109,
+            "pct": 50.7,
+            "weighted_pct": 49.2
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 2
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 26
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 1,
+            "pct": 3.8,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 2,
+            "pct": 7.7,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 4,
+            "pct": 15.4,
+            "weighted_pct": 14.5
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 19,
+            "pct": 73.1,
+            "weighted_pct": 74
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 223
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 21,
+            "pct": 9.4,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 17,
+            "pct": 7.6,
+            "weighted_pct": 7.1
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 57,
+            "pct": 25.6,
+            "weighted_pct": 25.1
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 128,
+            "pct": 57.4,
+            "weighted_pct": 57.1
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 256
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 21,
+            "pct": 8.2,
+            "weighted_pct": 8.4
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 32,
+            "pct": 12.5,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 74,
+            "pct": 28.9,
+            "weighted_pct": 28.2
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 129,
+            "pct": 50.4,
+            "weighted_pct": 51.1
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 348
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 42,
+            "pct": 12.1,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 53,
+            "pct": 15.2,
+            "weighted_pct": 16.8
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 86,
+            "pct": 24.7,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 167,
+            "pct": 48,
+            "weighted_pct": 47.9
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 156
+        },
+        "cells": [
+          {
+            "answer": "Fully remote for 5+ years",
+            "count": 22,
+            "pct": 14.1,
+            "weighted_pct": 16.2
+          },
+          {
+            "answer": "Fully remote (started since 2020)",
+            "count": 19,
+            "pct": 12.2,
+            "weighted_pct": 11.1
+          },
+          {
+            "answer": "Hybrid (2–3 days per week in office)",
+            "count": 42,
+            "pct": 26.9,
+            "weighted_pct": 26.9
+          },
+          {
+            "answer": "Mostly in-office",
+            "count": 73,
+            "pct": 46.8,
+            "weighted_pct": 45.8
+          }
+        ]
+      }
+    ]
+  }
+}

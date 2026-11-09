@@ -1,0 +1,1892 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q1",
+  "question_prompt": "Which industry does your organization primarily operate in?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Technology / Software / IT",
+        "count": 82,
+        "pct": 16.4,
+        "weighted_pct": 15.8
+      },
+      {
+        "answer": "Finance / Banking / Insurance",
+        "count": 24,
+        "pct": 4.8,
+        "weighted_pct": 5.2
+      },
+      {
+        "answer": "Consulting / Professional services",
+        "count": 12,
+        "pct": 2.4,
+        "weighted_pct": 2
+      },
+      {
+        "answer": "Healthcare / Pharmaceuticals / Life sciences",
+        "count": 46,
+        "pct": 9.2,
+        "weighted_pct": 10.4
+      },
+      {
+        "answer": "Education / Training",
+        "count": 24,
+        "pct": 4.8,
+        "weighted_pct": 5.5
+      },
+      {
+        "answer": "Manufacturing / Industrial / Engineering",
+        "count": 53,
+        "pct": 10.6,
+        "weighted_pct": 10.5
+      },
+      {
+        "answer": "Retail / E-commerce / Consumer goods",
+        "count": 62,
+        "pct": 12.4,
+        "weighted_pct": 12.6
+      },
+      {
+        "answer": "Marketing / Advertising / Media",
+        "count": 6,
+        "pct": 1.2,
+        "weighted_pct": 1.5
+      },
+      {
+        "answer": "Real estate / Construction",
+        "count": 44,
+        "pct": 8.8,
+        "weighted_pct": 8.2
+      },
+      {
+        "answer": "Hospitality / Travel / Food service",
+        "count": 48,
+        "pct": 9.6,
+        "weighted_pct": 9.9
+      },
+      {
+        "answer": "Transportation / Logistics",
+        "count": 27,
+        "pct": 5.4,
+        "weighted_pct": 4.1
+      },
+      {
+        "answer": "Energy / Utilities",
+        "count": 5,
+        "pct": 1,
+        "weighted_pct": 1.1
+      },
+      {
+        "answer": "Legal",
+        "count": 2,
+        "pct": 0.4,
+        "weighted_pct": 0.3
+      },
+      {
+        "answer": "Government / Public sector",
+        "count": 12,
+        "pct": 2.4,
+        "weighted_pct": 3
+      },
+      {
+        "answer": "Nonprofit / NGO",
+        "count": 4,
+        "pct": 0.8,
+        "weighted_pct": 0.7
+      },
+      {
+        "answer": "Telecommunications",
+        "count": 7,
+        "pct": 1.4,
+        "weighted_pct": 1.3
+      },
+      {
+        "answer": "Other",
+        "count": 42,
+        "pct": 8.4,
+        "weighted_pct": 7.9
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 25,
+            "pct": 12.5,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 11,
+            "pct": 5.5,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 5,
+            "pct": 2.5,
+            "weighted_pct": 1.7
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 28,
+            "pct": 14,
+            "weighted_pct": 14.4
+          },
+          {
+            "answer": "Education / Training",
+            "count": 15,
+            "pct": 7.5,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 14,
+            "pct": 7,
+            "weighted_pct": 7.6
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 32,
+            "pct": 16,
+            "weighted_pct": 14.5
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 3,
+            "pct": 1.5,
+            "weighted_pct": 2.1
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 10,
+            "pct": 5,
+            "weighted_pct": 5.5
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 21,
+            "pct": 10.5,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 5,
+            "pct": 2.5,
+            "weighted_pct": 1.8
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Legal",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 10,
+            "pct": 5,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 2,
+            "pct": 1,
+            "weighted_pct": 0.9
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 3,
+            "pct": 1.5,
+            "weighted_pct": 1.2
+          },
+          {
+            "answer": "Other",
+            "count": 16,
+            "pct": 8,
+            "weighted_pct": 6.9
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 57,
+            "pct": 19,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 13,
+            "pct": 4.3,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 7,
+            "pct": 2.3,
+            "weighted_pct": 2.3
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 18,
+            "pct": 6,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "Education / Training",
+            "count": 9,
+            "pct": 3,
+            "weighted_pct": 2.9
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 39,
+            "pct": 13,
+            "weighted_pct": 13.5
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 30,
+            "pct": 10,
+            "weighted_pct": 10.6
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 3,
+            "pct": 1,
+            "weighted_pct": 1
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 34,
+            "pct": 11.3,
+            "weighted_pct": 11
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 27,
+            "pct": 9,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 22,
+            "pct": 7.3,
+            "weighted_pct": 6.6
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 5,
+            "pct": 1.7,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "Legal",
+            "count": 2,
+            "pct": 0.7,
+            "weighted_pct": 0.6
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 2,
+            "pct": 0.7,
+            "weighted_pct": 0.7
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 2,
+            "pct": 0.7,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 4,
+            "pct": 1.3,
+            "weighted_pct": 1.3
+          },
+          {
+            "answer": "Other",
+            "count": 26,
+            "pct": 8.7,
+            "weighted_pct": 8.9
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 4,
+            "pct": 17.4,
+            "weighted_pct": 18.8
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 3.5
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 3.5
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 5,
+            "pct": 21.7,
+            "weighted_pct": 24.5
+          },
+          {
+            "answer": "Education / Training",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 3.5
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 7
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 3,
+            "pct": 13,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 3.5
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Legal",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Other",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 29,
+            "pct": 23,
+            "weighted_pct": 22
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 8,
+            "pct": 6.3,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 1,
+            "pct": 0.8,
+            "weighted_pct": 0.6
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 11,
+            "pct": 8.7,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "Education / Training",
+            "count": 3,
+            "pct": 2.4,
+            "weighted_pct": 2.5
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 6,
+            "pct": 4.8,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 20,
+            "pct": 15.9,
+            "weighted_pct": 16.9
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 2,
+            "pct": 1.6,
+            "weighted_pct": 1.6
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 6,
+            "pct": 4.8,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 13,
+            "pct": 10.3,
+            "weighted_pct": 10.4
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 8,
+            "pct": 6.3,
+            "weighted_pct": 5.4
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 1,
+            "pct": 0.8,
+            "weighted_pct": 0.6
+          },
+          {
+            "answer": "Legal",
+            "count": 1,
+            "pct": 0.8,
+            "weighted_pct": 0.8
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 3,
+            "pct": 2.4,
+            "weighted_pct": 2.8
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 2,
+            "pct": 1.6,
+            "weighted_pct": 2
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 2,
+            "pct": 1.6,
+            "weighted_pct": 1.6
+          },
+          {
+            "answer": "Other",
+            "count": 10,
+            "pct": 7.9,
+            "weighted_pct": 8
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 25,
+            "pct": 17.4,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 5,
+            "pct": 3.5,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 6,
+            "pct": 4.2,
+            "weighted_pct": 4.5
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 8,
+            "pct": 5.6,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "Education / Training",
+            "count": 9,
+            "pct": 6.3,
+            "weighted_pct": 6.9
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 18,
+            "pct": 12.5,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 15,
+            "pct": 10.4,
+            "weighted_pct": 11.6
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 1,
+            "pct": 0.7,
+            "weighted_pct": 0.6
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 19,
+            "pct": 13.2,
+            "weighted_pct": 12.4
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 13,
+            "pct": 9,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 8,
+            "pct": 5.6,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 1,
+            "pct": 0.7,
+            "weighted_pct": 0.6
+          },
+          {
+            "answer": "Legal",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 3,
+            "pct": 2.1,
+            "weighted_pct": 2.7
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 2,
+            "pct": 1.4,
+            "weighted_pct": 1.2
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 2,
+            "pct": 1.4,
+            "weighted_pct": 1.2
+          },
+          {
+            "answer": "Other",
+            "count": 9,
+            "pct": 6.3,
+            "weighted_pct": 6.3
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 15,
+            "pct": 10.5,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 5,
+            "pct": 3.5,
+            "weighted_pct": 3.4
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 4,
+            "pct": 2.8,
+            "weighted_pct": 2.3
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 19,
+            "pct": 13.3,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "Education / Training",
+            "count": 7,
+            "pct": 4.9,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 17,
+            "pct": 11.9,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 17,
+            "pct": 11.9,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 2,
+            "pct": 1.4,
+            "weighted_pct": 2
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 11,
+            "pct": 7.7,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 14,
+            "pct": 9.8,
+            "weighted_pct": 10.9
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 9,
+            "pct": 6.3,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Legal",
+            "count": 1,
+            "pct": 0.7,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 3,
+            "pct": 2.1,
+            "weighted_pct": 2.6
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 2,
+            "pct": 1.4,
+            "weighted_pct": 1.6
+          },
+          {
+            "answer": "Other",
+            "count": 17,
+            "pct": 11.9,
+            "weighted_pct": 12.2
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 9,
+            "pct": 14.1,
+            "weighted_pct": 13.5
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 5,
+            "pct": 7.8,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 3,
+            "pct": 4.7,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Education / Training",
+            "count": 4,
+            "pct": 6.3,
+            "weighted_pct": 7.6
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 10,
+            "pct": 15.6,
+            "weighted_pct": 15.8
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 8,
+            "pct": 12.5,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 5,
+            "pct": 7.8,
+            "weighted_pct": 7.8
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 6,
+            "pct": 9.4,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 1,
+            "pct": 1.6,
+            "weighted_pct": 1.2
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 3,
+            "pct": 4.7,
+            "weighted_pct": 3.8
+          },
+          {
+            "answer": "Legal",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 3,
+            "pct": 4.7,
+            "weighted_pct": 5.6
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 1,
+            "pct": 1.6,
+            "weighted_pct": 1.2
+          },
+          {
+            "answer": "Other",
+            "count": 6,
+            "pct": 9.4,
+            "weighted_pct": 9.4
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 18,
+            "pct": 20.7,
+            "weighted_pct": 20.6
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 5,
+            "pct": 5.7,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 1,
+            "pct": 1.1,
+            "weighted_pct": 0.8
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 9,
+            "pct": 10.3,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Education / Training",
+            "count": 4,
+            "pct": 4.6,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 11,
+            "pct": 12.6,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 5,
+            "pct": 5.7,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 1,
+            "pct": 1.1,
+            "weighted_pct": 1.5
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 8,
+            "pct": 9.2,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 3,
+            "pct": 3.4,
+            "weighted_pct": 3.4
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 6,
+            "pct": 6.9,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 1,
+            "pct": 1.1,
+            "weighted_pct": 1.6
+          },
+          {
+            "answer": "Legal",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 3,
+            "pct": 3.4,
+            "weighted_pct": 4.5
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 1,
+            "pct": 1.1,
+            "weighted_pct": 1.1
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Other",
+            "count": 11,
+            "pct": 12.6,
+            "weighted_pct": 10.4
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 12,
+            "pct": 24.5,
+            "weighted_pct": 21
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "Education / Training",
+            "count": 6,
+            "pct": 12.2,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 7,
+            "pct": 14.3,
+            "weighted_pct": 15.3
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 5.5
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 2,
+            "pct": 4.1,
+            "weighted_pct": 2.9
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 2.9
+          },
+          {
+            "answer": "Legal",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 1
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 2,
+            "pct": 4.1,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 1.2
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Other",
+            "count": 2,
+            "pct": 4.1,
+            "weighted_pct": 3
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 9,
+            "pct": 29,
+            "weighted_pct": 21.8
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 2,
+            "pct": 6.5,
+            "weighted_pct": 9.8
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 2,
+            "pct": 6.5,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 3,
+            "pct": 9.7,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "Education / Training",
+            "count": 2,
+            "pct": 6.5,
+            "weighted_pct": 8.5
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 2,
+            "pct": 6.5,
+            "weighted_pct": 5.5
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 4,
+            "pct": 12.9,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 2,
+            "pct": 6.5,
+            "weighted_pct": 5.5
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 2,
+            "pct": 6.5,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Legal",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 1,
+            "pct": 3.2,
+            "weighted_pct": 3.3
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Other",
+            "count": 2,
+            "pct": 6.5,
+            "weighted_pct": 10.9
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 30,
+            "pct": 14.3,
+            "weighted_pct": 13
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 11,
+            "pct": 5.2,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 4,
+            "pct": 1.9,
+            "weighted_pct": 2
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 18,
+            "pct": 8.6,
+            "weighted_pct": 10.4
+          },
+          {
+            "answer": "Education / Training",
+            "count": 7,
+            "pct": 3.3,
+            "weighted_pct": 3.7
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 25,
+            "pct": 11.9,
+            "weighted_pct": 12.2
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 27,
+            "pct": 12.9,
+            "weighted_pct": 12.5
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 2,
+            "pct": 1,
+            "weighted_pct": 2
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 20,
+            "pct": 9.5,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 17,
+            "pct": 8.1,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 12,
+            "pct": 5.7,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 2,
+            "pct": 1,
+            "weighted_pct": 1
+          },
+          {
+            "answer": "Legal",
+            "count": 1,
+            "pct": 0.5,
+            "weighted_pct": 0.4
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 4,
+            "pct": 1.9,
+            "weighted_pct": 2.9
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 2,
+            "pct": 1,
+            "weighted_pct": 1
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 4,
+            "pct": 1.9,
+            "weighted_pct": 2
+          },
+          {
+            "answer": "Other",
+            "count": 24,
+            "pct": 11.4,
+            "weighted_pct": 11.4
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 12,
+            "pct": 10.3,
+            "weighted_pct": 13.7
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 2,
+            "pct": 1.7,
+            "weighted_pct": 1.6
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 5,
+            "pct": 4.3,
+            "weighted_pct": 3.3
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 10,
+            "pct": 8.6,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "Education / Training",
+            "count": 5,
+            "pct": 4.3,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 8,
+            "pct": 6.9,
+            "weighted_pct": 6.1
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 26,
+            "pct": 22.4,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 3,
+            "pct": 2.6,
+            "weighted_pct": 2
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 9,
+            "pct": 7.8,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 22,
+            "pct": 19,
+            "weighted_pct": 19.4
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 5,
+            "pct": 4.3,
+            "weighted_pct": 3.8
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 1,
+            "pct": 0.9,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "Legal",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 2,
+            "pct": 1.7,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 3,
+            "pct": 2.6,
+            "weighted_pct": 1.9
+          },
+          {
+            "answer": "Other",
+            "count": 3,
+            "pct": 2.6,
+            "weighted_pct": 2
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 14,
+            "pct": 12.8,
+            "weighted_pct": 14
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 2,
+            "pct": 1.8,
+            "weighted_pct": 1.7
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 1,
+            "pct": 0.9,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 13,
+            "pct": 11.9,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Education / Training",
+            "count": 5,
+            "pct": 4.6,
+            "weighted_pct": 5.5
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 17,
+            "pct": 15.6,
+            "weighted_pct": 14
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 15,
+            "pct": 13.8,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 2,
+            "pct": 1.8,
+            "weighted_pct": 1.3
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 10,
+            "pct": 9.2,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 9,
+            "pct": 8.3,
+            "weighted_pct": 5.8
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 4,
+            "pct": 3.7,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Legal",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 5,
+            "pct": 4.6,
+            "weighted_pct": 5.9
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 1,
+            "pct": 0.9,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 1,
+            "pct": 0.9,
+            "weighted_pct": 1.1
+          },
+          {
+            "answer": "Other",
+            "count": 10,
+            "pct": 9.2,
+            "weighted_pct": 10
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 14,
+            "pct": 13.3,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 8,
+            "pct": 7.6,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 5,
+            "pct": 4.8,
+            "weighted_pct": 4.8
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 11,
+            "pct": 10.5,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "Education / Training",
+            "count": 8,
+            "pct": 7.6,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 10,
+            "pct": 9.5,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 12,
+            "pct": 11.4,
+            "weighted_pct": 11
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 1,
+            "pct": 1,
+            "weighted_pct": 0.9
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 10,
+            "pct": 9.5,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 9,
+            "pct": 8.6,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 4,
+            "pct": 3.8,
+            "weighted_pct": 3
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 2,
+            "pct": 1.9,
+            "weighted_pct": 1.9
+          },
+          {
+            "answer": "Legal",
+            "count": 2,
+            "pct": 1.9,
+            "weighted_pct": 1.4
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 2,
+            "pct": 1.9,
+            "weighted_pct": 1.6
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Other",
+            "count": 7,
+            "pct": 6.7,
+            "weighted_pct": 6.5
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 32,
+            "pct": 15.4,
+            "weighted_pct": 15.7
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 5,
+            "pct": 2.4,
+            "weighted_pct": 2.1
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 5,
+            "pct": 2.4,
+            "weighted_pct": 1.8
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 18,
+            "pct": 8.7,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "Education / Training",
+            "count": 7,
+            "pct": 3.4,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 20,
+            "pct": 9.6,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 30,
+            "pct": 14.4,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 3,
+            "pct": 1.4,
+            "weighted_pct": 2.5
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 19,
+            "pct": 9.1,
+            "weighted_pct": 7.8
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 21,
+            "pct": 10.1,
+            "weighted_pct": 12.9
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 19,
+            "pct": 9.1,
+            "weighted_pct": 7.2
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 1,
+            "pct": 0.5,
+            "weighted_pct": 0.7
+          },
+          {
+            "answer": "Legal",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 5,
+            "pct": 2.4,
+            "weighted_pct": 3
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 1,
+            "pct": 0.5,
+            "weighted_pct": 0.3
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 4,
+            "pct": 1.9,
+            "weighted_pct": 1.7
+          },
+          {
+            "answer": "Other",
+            "count": 18,
+            "pct": 8.7,
+            "weighted_pct": 7.2
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "Technology / Software / IT",
+            "count": 22,
+            "pct": 28.2,
+            "weighted_pct": 24.5
+          },
+          {
+            "answer": "Finance / Banking / Insurance",
+            "count": 9,
+            "pct": 11.5,
+            "weighted_pct": 14.6
+          },
+          {
+            "answer": "Consulting / Professional services",
+            "count": 1,
+            "pct": 1.3,
+            "weighted_pct": 0.9
+          },
+          {
+            "answer": "Healthcare / Pharmaceuticals / Life sciences",
+            "count": 4,
+            "pct": 5.1,
+            "weighted_pct": 6.7
+          },
+          {
+            "answer": "Education / Training",
+            "count": 4,
+            "pct": 5.1,
+            "weighted_pct": 5.9
+          },
+          {
+            "answer": "Manufacturing / Industrial / Engineering",
+            "count": 6,
+            "pct": 7.7,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "Retail / E-commerce / Consumer goods",
+            "count": 5,
+            "pct": 6.4,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "Marketing / Advertising / Media",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Real estate / Construction",
+            "count": 5,
+            "pct": 6.4,
+            "weighted_pct": 5.6
+          },
+          {
+            "answer": "Hospitality / Travel / Food service",
+            "count": 9,
+            "pct": 11.5,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "Transportation / Logistics",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Energy / Utilities",
+            "count": 2,
+            "pct": 2.6,
+            "weighted_pct": 2.9
+          },
+          {
+            "answer": "Legal",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Government / Public sector",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Nonprofit / NGO",
+            "count": 2,
+            "pct": 2.6,
+            "weighted_pct": 3.3
+          },
+          {
+            "answer": "Telecommunications",
+            "count": 2,
+            "pct": 2.6,
+            "weighted_pct": 2.1
+          },
+          {
+            "answer": "Other",
+            "count": 7,
+            "pct": 9,
+            "weighted_pct": 8.1
+          }
+        ]
+      }
+    ]
+  }
+}

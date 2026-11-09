@@ -1,0 +1,28 @@
+{
+  "slug": "us_ghost_jobs_2026",
+  "title": "US Ghost Jobs and Phantom Listings Survey, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "2026-02-27",
+  "fieldwork_end": "2026-03-09",
+  "sample_n": 1005,
+  "vendor": "SurveyMonkey",
+  "population": "US job seekers",
+  "topic_tags": [
+    "ghost jobs",
+    "job search",
+    "job listings",
+    "hiring practices"
+  ],
+  "weighting": "Unweighted.",
+  "suppression_threshold": 10,
+  "not_published": {
+    "reason": "Open-ended text answers can contain identifying details.",
+    "questions": [
+      {
+        "id": "Q9",
+        "text": "What emotional or psychological impact has encountering suspected ghost jobs had on your job search?"
+      }
+    ]
+  }
+}

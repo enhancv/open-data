@@ -1,0 +1,668 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q6",
+  "question_prompt": "How long had you been at that company before the promotion?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 375
+    },
+    "cells": [
+      {
+        "answer": "Less than 1 year",
+        "count": 24,
+        "pct": 6.4,
+        "weighted_pct": 6.5
+      },
+      {
+        "answer": "1–2 years",
+        "count": 117,
+        "pct": 31.2,
+        "weighted_pct": 31.4
+      },
+      {
+        "answer": "3–5 years",
+        "count": 151,
+        "pct": 40.3,
+        "weighted_pct": 39.7
+      },
+      {
+        "answer": "6–9 years",
+        "count": 50,
+        "pct": 13.3,
+        "weighted_pct": 12.6
+      },
+      {
+        "answer": "10+ years",
+        "count": 33,
+        "pct": 8.8,
+        "weighted_pct": 9.7
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 147
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 13,
+            "pct": 8.8,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "1–2 years",
+            "count": 50,
+            "pct": 34,
+            "weighted_pct": 32.3
+          },
+          {
+            "answer": "3–5 years",
+            "count": 52,
+            "pct": 35.4,
+            "weighted_pct": 38.2
+          },
+          {
+            "answer": "6–9 years",
+            "count": 19,
+            "pct": 12.9,
+            "weighted_pct": 12.7
+          },
+          {
+            "answer": "10+ years",
+            "count": 13,
+            "pct": 8.8,
+            "weighted_pct": 9.3
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 228
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 11,
+            "pct": 4.8,
+            "weighted_pct": 5.6
+          },
+          {
+            "answer": "1–2 years",
+            "count": 67,
+            "pct": 29.4,
+            "weighted_pct": 30.5
+          },
+          {
+            "answer": "3–5 years",
+            "count": 99,
+            "pct": 43.4,
+            "weighted_pct": 41.3
+          },
+          {
+            "answer": "6–9 years",
+            "count": 31,
+            "pct": 13.6,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "10+ years",
+            "count": 20,
+            "pct": 8.8,
+            "weighted_pct": 10
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 16
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 1,
+            "pct": 6.3,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "1–2 years",
+            "count": 8,
+            "pct": 50,
+            "weighted_pct": 48.4
+          },
+          {
+            "answer": "3–5 years",
+            "count": 6,
+            "pct": 37.5,
+            "weighted_pct": 41.8
+          },
+          {
+            "answer": "6–9 years",
+            "count": 1,
+            "pct": 6.3,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "10+ years",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 95
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 4,
+            "pct": 4.2,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "1–2 years",
+            "count": 37,
+            "pct": 38.9,
+            "weighted_pct": 39.9
+          },
+          {
+            "answer": "3–5 years",
+            "count": 42,
+            "pct": 44.2,
+            "weighted_pct": 42.4
+          },
+          {
+            "answer": "6–9 years",
+            "count": 10,
+            "pct": 10.5,
+            "weighted_pct": 11.3
+          },
+          {
+            "answer": "10+ years",
+            "count": 2,
+            "pct": 2.1,
+            "weighted_pct": 1.5
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 106
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 9,
+            "pct": 8.5,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "1–2 years",
+            "count": 31,
+            "pct": 29.2,
+            "weighted_pct": 28.4
+          },
+          {
+            "answer": "3–5 years",
+            "count": 45,
+            "pct": 42.5,
+            "weighted_pct": 42.6
+          },
+          {
+            "answer": "6–9 years",
+            "count": 17,
+            "pct": 16,
+            "weighted_pct": 16.4
+          },
+          {
+            "answer": "10+ years",
+            "count": 4,
+            "pct": 3.8,
+            "weighted_pct": 4.1
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 7,
+            "pct": 6.4,
+            "weighted_pct": 7.7
+          },
+          {
+            "answer": "1–2 years",
+            "count": 32,
+            "pct": 29.4,
+            "weighted_pct": 30.4
+          },
+          {
+            "answer": "3–5 years",
+            "count": 40,
+            "pct": 36.7,
+            "weighted_pct": 35.5
+          },
+          {
+            "answer": "6–9 years",
+            "count": 15,
+            "pct": 13.8,
+            "weighted_pct": 12.4
+          },
+          {
+            "answer": "10+ years",
+            "count": 15,
+            "pct": 13.8,
+            "weighted_pct": 14
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "1–2 years",
+            "count": 9,
+            "pct": 18.4,
+            "weighted_pct": 17.6
+          },
+          {
+            "answer": "3–5 years",
+            "count": 18,
+            "pct": 36.7,
+            "weighted_pct": 37.5
+          },
+          {
+            "answer": "6–9 years",
+            "count": 7,
+            "pct": 14.3,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "10+ years",
+            "count": 12,
+            "pct": 24.5,
+            "weighted_pct": 24.2
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 70
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 3,
+            "pct": 4.3,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "1–2 years",
+            "count": 16,
+            "pct": 22.9,
+            "weighted_pct": 22
+          },
+          {
+            "answer": "3–5 years",
+            "count": 29,
+            "pct": 41.4,
+            "weighted_pct": 40.6
+          },
+          {
+            "answer": "6–9 years",
+            "count": 14,
+            "pct": 20,
+            "weighted_pct": 18
+          },
+          {
+            "answer": "10+ years",
+            "count": 8,
+            "pct": 11.4,
+            "weighted_pct": 13.4
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 35
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "1–2 years",
+            "count": 4,
+            "pct": 11.4,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "3–5 years",
+            "count": 14,
+            "pct": 40,
+            "weighted_pct": 32.7
+          },
+          {
+            "answer": "6–9 years",
+            "count": 10,
+            "pct": 28.6,
+            "weighted_pct": 32.8
+          },
+          {
+            "answer": "10+ years",
+            "count": 7,
+            "pct": 20,
+            "weighted_pct": 26.4
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 24
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 1,
+            "pct": 4.2,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "1–2 years",
+            "count": 4,
+            "pct": 16.7,
+            "weighted_pct": 20.3
+          },
+          {
+            "answer": "3–5 years",
+            "count": 11,
+            "pct": 45.8,
+            "weighted_pct": 47.5
+          },
+          {
+            "answer": "6–9 years",
+            "count": 3,
+            "pct": 12.5,
+            "weighted_pct": 8.2
+          },
+          {
+            "answer": "10+ years",
+            "count": 5,
+            "pct": 20.8,
+            "weighted_pct": 14.3
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 164
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 9,
+            "pct": 5.5,
+            "weighted_pct": 4.8
+          },
+          {
+            "answer": "1–2 years",
+            "count": 59,
+            "pct": 36,
+            "weighted_pct": 35.6
+          },
+          {
+            "answer": "3–5 years",
+            "count": 69,
+            "pct": 42.1,
+            "weighted_pct": 43
+          },
+          {
+            "answer": "6–9 years",
+            "count": 18,
+            "pct": 11,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "10+ years",
+            "count": 9,
+            "pct": 5.5,
+            "weighted_pct": 6.5
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 6
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 76
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 11,
+            "pct": 14.5,
+            "weighted_pct": 13
+          },
+          {
+            "answer": "1–2 years",
+            "count": 30,
+            "pct": 39.5,
+            "weighted_pct": 41
+          },
+          {
+            "answer": "3–5 years",
+            "count": 27,
+            "pct": 35.5,
+            "weighted_pct": 35.5
+          },
+          {
+            "answer": "6–9 years",
+            "count": 5,
+            "pct": 6.6,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "10+ years",
+            "count": 3,
+            "pct": 3.9,
+            "weighted_pct": 4.1
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 80
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 4,
+            "pct": 5,
+            "weighted_pct": 4
+          },
+          {
+            "answer": "1–2 years",
+            "count": 28,
+            "pct": 35,
+            "weighted_pct": 40
+          },
+          {
+            "answer": "3–5 years",
+            "count": 34,
+            "pct": 42.5,
+            "weighted_pct": 39.7
+          },
+          {
+            "answer": "6–9 years",
+            "count": 8,
+            "pct": 10,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "10+ years",
+            "count": 6,
+            "pct": 7.5,
+            "weighted_pct": 6.3
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 81
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 5,
+            "pct": 6.2,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "1–2 years",
+            "count": 15,
+            "pct": 18.5,
+            "weighted_pct": 16.2
+          },
+          {
+            "answer": "3–5 years",
+            "count": 34,
+            "pct": 42,
+            "weighted_pct": 39.4
+          },
+          {
+            "answer": "6–9 years",
+            "count": 15,
+            "pct": 18.5,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "10+ years",
+            "count": 12,
+            "pct": 14.8,
+            "weighted_pct": 18.3
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 155
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 12,
+            "pct": 7.7,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "1–2 years",
+            "count": 58,
+            "pct": 37.4,
+            "weighted_pct": 36.4
+          },
+          {
+            "answer": "3–5 years",
+            "count": 55,
+            "pct": 35.5,
+            "weighted_pct": 38
+          },
+          {
+            "answer": "6–9 years",
+            "count": 19,
+            "pct": 12.3,
+            "weighted_pct": 11.1
+          },
+          {
+            "answer": "10+ years",
+            "count": 11,
+            "pct": 7.1,
+            "weighted_pct": 7
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 59
+        },
+        "cells": [
+          {
+            "answer": "Less than 1 year",
+            "count": 3,
+            "pct": 5.1,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "1–2 years",
+            "count": 16,
+            "pct": 27.1,
+            "weighted_pct": 25.6
+          },
+          {
+            "answer": "3–5 years",
+            "count": 28,
+            "pct": 47.5,
+            "weighted_pct": 45.4
+          },
+          {
+            "answer": "6–9 years",
+            "count": 8,
+            "pct": 13.6,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "10+ years",
+            "count": 4,
+            "pct": 6.8,
+            "weighted_pct": 10
+          }
+        ]
+      }
+    ]
+  }
+}

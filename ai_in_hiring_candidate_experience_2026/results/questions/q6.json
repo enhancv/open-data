@@ -1,0 +1,440 @@
+{
+  "survey": "ai_in_hiring_candidate_experience_2026",
+  "id": "Q6",
+  "question_prompt": "In the last 12 months, have you received a job rejection with zero human feedback?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1066
+    },
+    "cells": [
+      {
+        "answer": "Yes",
+        "count": 538,
+        "pct": 50.5
+      },
+      {
+        "answer": "No",
+        "count": 435,
+        "pct": 40.8
+      },
+      {
+        "answer": "Maybe",
+        "count": 70,
+        "pct": 6.6
+      },
+      {
+        "answer": "Not sure",
+        "count": 23,
+        "pct": 2.2
+      }
+    ]
+  },
+  "crosstabs": {
+    "professional_level": [
+      {
+        "group": "Entry-level / Individual Contributor",
+        "base": {
+          "n": 397
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 206,
+            "pct": 51.9
+          },
+          {
+            "answer": "No",
+            "count": 161,
+            "pct": 40.6
+          },
+          {
+            "answer": "Maybe",
+            "count": 21,
+            "pct": 5.3
+          },
+          {
+            "answer": "Not sure",
+            "count": 9,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "group": "Freelancer / Gig Worker",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 53,
+            "pct": 50.5
+          },
+          {
+            "answer": "No",
+            "count": 39,
+            "pct": 37.1
+          },
+          {
+            "answer": "Maybe",
+            "count": 8,
+            "pct": 7.6
+          },
+          {
+            "answer": "Not sure",
+            "count": 5,
+            "pct": 4.8
+          }
+        ]
+      },
+      {
+        "group": "Mid-level Management",
+        "base": {
+          "n": 385
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 210,
+            "pct": 54.5
+          },
+          {
+            "answer": "No",
+            "count": 147,
+            "pct": 38.2
+          },
+          {
+            "answer": "Maybe",
+            "count": 25,
+            "pct": 6.5
+          },
+          {
+            "answer": "Not sure",
+            "count": 3,
+            "pct": 0.8
+          }
+        ]
+      },
+      {
+        "group": "Senior Executive / C-Suite",
+        "base": {
+          "n": 71
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 25,
+            "pct": 35.2
+          },
+          {
+            "answer": "No",
+            "count": 38,
+            "pct": 53.5
+          },
+          {
+            "answer": "Maybe",
+            "count": 5,
+            "pct": 7
+          },
+          {
+            "answer": "Not sure",
+            "count": 3,
+            "pct": 4.2
+          }
+        ]
+      },
+      {
+        "group": "Unemployed / Currently seeking",
+        "base": {
+          "n": 108
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 44,
+            "pct": 40.7
+          },
+          {
+            "answer": "No",
+            "count": 50,
+            "pct": 46.3
+          },
+          {
+            "answer": "Maybe",
+            "count": 11,
+            "pct": 10.2
+          },
+          {
+            "answer": "Not sure",
+            "count": 3,
+            "pct": 2.8
+          }
+        ]
+      }
+    ],
+    "age_group": [
+      {
+        "group": "18–24 (Early Career / Gen Z)",
+        "base": {
+          "n": 91
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 56,
+            "pct": 61.5
+          },
+          {
+            "answer": "No",
+            "count": 28,
+            "pct": 30.8
+          },
+          {
+            "answer": "Maybe",
+            "count": 4,
+            "pct": 4.4
+          },
+          {
+            "answer": "Not sure",
+            "count": 3,
+            "pct": 3.3
+          }
+        ]
+      },
+      {
+        "group": "25–34 (Establishing Career / Late Gen Z & Millennial)",
+        "base": {
+          "n": 320
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 199,
+            "pct": 62.2
+          },
+          {
+            "answer": "No",
+            "count": 94,
+            "pct": 29.4
+          },
+          {
+            "answer": "Maybe",
+            "count": 20,
+            "pct": 6.3
+          },
+          {
+            "answer": "Not sure",
+            "count": 7,
+            "pct": 2.2
+          }
+        ]
+      },
+      {
+        "group": "35–44 (Mid-Career / Management / Millennial)",
+        "base": {
+          "n": 353
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 169,
+            "pct": 47.9
+          },
+          {
+            "answer": "No",
+            "count": 151,
+            "pct": 42.8
+          },
+          {
+            "answer": "Maybe",
+            "count": 25,
+            "pct": 7.1
+          },
+          {
+            "answer": "Not sure",
+            "count": 8,
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "group": "45–54 (Senior Leadership / Gen X)",
+        "base": {
+          "n": 199
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 81,
+            "pct": 40.7
+          },
+          {
+            "answer": "No",
+            "count": 102,
+            "pct": 51.3
+          },
+          {
+            "answer": "Maybe",
+            "count": 15,
+            "pct": 7.5
+          },
+          {
+            "answer": "Not sure",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "group": "55+ (Executive / Late Career / Boomer)",
+        "base": {
+          "n": 100
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 32,
+            "pct": 32
+          },
+          {
+            "answer": "No",
+            "count": 58,
+            "pct": 58
+          },
+          {
+            "answer": "Maybe",
+            "count": 6,
+            "pct": 6
+          },
+          {
+            "answer": "Not sure",
+            "count": 4,
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "group": "Other",
+        "base": {
+          "n": 3
+        },
+        "suppressed": true
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100k – $200k",
+        "base": {
+          "n": 305
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 145,
+            "pct": 47.5
+          },
+          {
+            "answer": "No",
+            "count": 129,
+            "pct": 42.3
+          },
+          {
+            "answer": "Maybe",
+            "count": 22,
+            "pct": 7.2
+          },
+          {
+            "answer": "Not sure",
+            "count": 9,
+            "pct": 3
+          }
+        ]
+      },
+      {
+        "group": "$200k+",
+        "base": {
+          "n": 80
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 35,
+            "pct": 43.8
+          },
+          {
+            "answer": "No",
+            "count": 41,
+            "pct": 51.3
+          },
+          {
+            "answer": "Maybe",
+            "count": 4,
+            "pct": 5
+          },
+          {
+            "answer": "Not sure",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$50k – $100k",
+        "base": {
+          "n": 409
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 207,
+            "pct": 50.6
+          },
+          {
+            "answer": "No",
+            "count": 171,
+            "pct": 41.8
+          },
+          {
+            "answer": "Maybe",
+            "count": 23,
+            "pct": 5.6
+          },
+          {
+            "answer": "Not sure",
+            "count": 8,
+            "pct": 2
+          }
+        ]
+      },
+      {
+        "group": "Under $50k",
+        "base": {
+          "n": 272
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 151,
+            "pct": 55.5
+          },
+          {
+            "answer": "No",
+            "count": 94,
+            "pct": 34.6
+          },
+          {
+            "answer": "Maybe",
+            "count": 21,
+            "pct": 7.7
+          },
+          {
+            "answer": "Not sure",
+            "count": 6,
+            "pct": 2.2
+          }
+        ]
+      }
+    ]
+  }
+}

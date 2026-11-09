@@ -1,0 +1,150 @@
+{
+  "survey": "ai_in_hiring_candidate_experience_2026",
+  "questions": [
+    {
+      "id": "Q1",
+      "text": "Which of the following best describes your current professional level?",
+      "type": "single",
+      "options": [
+        "Entry-level / Individual Contributor",
+        "Mid-level Management",
+        "Unemployed / Currently seeking",
+        "Freelancer / Gig Worker",
+        "Senior Executive / C-Suite"
+      ]
+    },
+    {
+      "id": "Q2",
+      "text": "In which industry do you primarily work?",
+      "type": "single",
+      "options": [
+        "Other",
+        "Healthcare / Medical",
+        "Education / Training",
+        "Finance / Accounting",
+        "Customer Support / Customer Success",
+        "Operations / Project Management",
+        "IT / DevOps / Infrastructure",
+        "Sales / Business Development",
+        "Data / Analytics (Data Science, BI, AI/ML)",
+        "Marketing / Creative (Content, Design, Growth)",
+        "Software Engineering / Development",
+        "Legal / Compliance",
+        "Human Resources / Recruiting",
+        "Product Management",
+        "Consulting / Strategy"
+      ]
+    },
+    {
+      "id": "Q3",
+      "text": "What is your total annual household income (or your target salary if currently unemployed)?",
+      "type": "single",
+      "options": [
+        "$50k – $100k",
+        "$100k – $200k",
+        "Under $50k",
+        "$200k+"
+      ]
+    },
+    {
+      "id": "Q4",
+      "text": "Do you identify as neurodivergent (e.g., ADHD, Autism, Dyslexia)?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes — diagnosed",
+        "Yes — self-identified (not formally diagnosed)",
+        "Unsure / exploring",
+        "Prefer not to say",
+        "Other"
+      ]
+    },
+    {
+      "id": "Q5",
+      "text": "Which of the following age groups do you belong to?",
+      "type": "single",
+      "options": [
+        "35–44 (Mid-Career / Management / Millennial)",
+        "25–34 (Establishing Career / Late Gen Z & Millennial)",
+        "45–54 (Senior Leadership / Gen X)",
+        "55+ (Executive / Late Career / Boomer)",
+        "18–24 (Early Career / Gen Z)",
+        "Other"
+      ]
+    },
+    {
+      "id": "Q6",
+      "text": "In the last 12 months, have you received a job rejection with zero human feedback?",
+      "type": "single",
+      "options": [
+        "Yes",
+        "No",
+        "Maybe",
+        "Not sure"
+      ]
+    },
+    {
+      "id": "Q7",
+      "text": "Who do you believe was responsible for that rejection?",
+      "type": "single",
+      "options": [
+        "I have no way of knowing",
+        "An AI/Automated filtering system",
+        "A human recruiter/hiring manager"
+      ]
+    },
+    {
+      "id": "Q8",
+      "text": "Did the company explicitly disclose that an AI was used to evaluate your application?",
+      "type": "single",
+      "options": [
+        "No",
+        "I don't know",
+        "Yes, it was clearly stated",
+        "Yes, it was in the fine print"
+      ]
+    },
+    {
+      "id": "Q9",
+      "text": "Have you ever abandoned a job application or declined an interview specifically because you were asked to complete a \"One-Way\" AI video interview or chatbot screening?",
+      "type": "single",
+      "options": [
+        "No",
+        "Yes"
+      ]
+    },
+    {
+      "id": "Q10",
+      "text": "If yes, what was the estimated salary range of that role?",
+      "type": "single",
+      "options": [
+        "$50k – $100k",
+        "Under $50k",
+        "$100k – $200k",
+        "$200k+"
+      ]
+    },
+    {
+      "id": "Q11",
+      "text": "How much do you agree with this statement: \"I believe AI hiring tools are programmed with biases that make it harder for someone of my [age/race/gender/background] to get hired\".",
+      "type": "single",
+      "options": [
+        "Somewhat agree",
+        "Neither agree nor disagree",
+        "Somewhat disagree",
+        "Strongly agree",
+        "Strongly disagree"
+      ]
+    },
+    {
+      "id": "Q12",
+      "text": "To what extent have you used AI (e.g., ChatGPT, teleprompter apps, or voice-cloning) to \"optimize\" your performance during an automated interview?",
+      "type": "single",
+      "options": [
+        "I haven't used AI",
+        "I used it to prepare",
+        "I used it during the interview to feed me answers"
+      ]
+    }
+  ]
+}

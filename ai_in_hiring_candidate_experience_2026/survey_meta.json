@@ -1,0 +1,29 @@
+{
+  "slug": "ai_in_hiring_candidate_experience_2026",
+  "title": "AI in Hiring: Candidate Experience Survey, 2026",
+  "country": null,
+  "year": 2026,
+  "fieldwork_start": "2026-04-15",
+  "fieldwork_end": "2026-04-15",
+  "sample_n": 1066,
+  "vendor": "Google Forms",
+  "population": "Job seekers and working professionals (country not collected)",
+  "topic_tags": [
+    "AI in hiring",
+    "candidate experience",
+    "automated rejections",
+    "interviews",
+    "neurodiversity"
+  ],
+  "weighting": "Unweighted.",
+  "suppression_threshold": 10,
+  "not_published": {
+    "reason": "Open-ended text answers can contain identifying details.",
+    "questions": [
+      {
+        "id": "Q13",
+        "text": "What is the most \"inhuman\" or \"bizarre\" feedback/instruction you have received from an AI during a hiring process?"
+      }
+    ]
+  }
+}

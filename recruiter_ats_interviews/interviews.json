@@ -1,0 +1,831 @@
+{
+  "survey": "recruiter_ats_interviews",
+  "n": 25,
+  "interviews": [
+    {
+      "id": "R01",
+      "role": "Senior recruiter (in-house)",
+      "industry": "Educational publishing",
+      "location": "US, Midwest",
+      "company_size": "201–500 employees",
+      "ats_systems_used": "Paychex (Paycor)",
+      "match_score": {
+        "answer": null,
+        "detail": null
+      },
+      "knockout_questions": {
+        "answer": "See detail",
+        "detail": "Legally authorized to work in the U.S.? Require sponsorship now or in the future? Do you have a bachelor’s degree (if required by role)?"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — ATS does not reject based on formatting, missing keywords, or skills. Only knockout/pre-qualification questions trigger rejections"
+      },
+      "share_rejected_automatically": null,
+      "where_they_heard_the_ats_myth": "Recruiter sees candidates complain on LinkedIn that ATS automatically rejects them.",
+      "myth_busting_notes": "In her experience, this is not true — her ATS does not reject based on keywords/formatting. The only rejections come from required pre-qualification questions",
+      "advice_beyond_qualifications": "-Use LinkedIn to find mutual connections and pursue employee referrals. -Reach out directly to recruiters (via LinkedIn or email) — shows initiative and gets attention. -Tailor resume carefully (avoid mass applying, fix errors like wrong job title).",
+      "applying_early_helps": {
+        "answer": "See detail",
+        "detail": "Recruiters review resumes as they come in : Yes, applying early improves chances"
+      },
+      "what_early_means": "Within the first week",
+      "applying_early_notes": "Posting is freshest That’s when the most candidates respond Getting in early gives a better chance to be seen by the recruiter",
+      "high_volume_strategy": "Reviews first batch (first 50 resumes). Uses keyword searches in ATS to narrow the pool. Relies on ATS knockout rejections (and does not go back to review them).",
+      "trends": "Volume depends on the role. Doesn’t usually see 500–1000 applicants. High volume = entry-level or remote roles. Low volume = specialized positions.",
+      "additional_comments": null
+    },
+    {
+      "id": "R02",
+      "role": "Independent recruiter (own agency)",
+      "industry": "Engineering recruitment",
+      "location": "US",
+      "company_size": "1–10 employees",
+      "ats_systems_used": "Ashby, Adapt, Profile, GigHire, plus another unnamed one",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — Provides % match (e.g. 64%, 80%); used only as guideline, no auto-reject"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes (work permits, eligibility, certifications, via LinkedIn job ads filters)"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No auto-rejections by her ATS; only scoring/matching %"
+      },
+      "share_rejected_automatically": "N/A (she said never auto-rejects; recruiter makes the decision)",
+      "where_they_heard_the_ats_myth": "Candidates reporting instant rejection emails (within a minute of applying); LinkedIn chatter about resumes being rejected",
+      "myth_busting_notes": "-It’s a big buzz right now… people worried about format, but as long as resume is clean, it doesn’t matter. -Candidates assume ATS is more advanced than it is",
+      "advice_beyond_qualifications": "-Tailor resume to job description (don’t fabricate, but include relevant skills). -Don’t just send generic CVs. -Follow up with recruiter directly; make human connection. -She reads and replies to follow-ups because her sector is niche",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes (especially for high-volume jobs like project managers/admin roles)"
+      },
+      "what_early_means": "Same day, within first 3–5 days; ideally first 48–72 hours for urgent roles",
+      "applying_early_notes": "-We got to about 50–60 applications and I only spoke to the first batch of about 20 people.” -Later applications sometimes work, but the first batch really matters",
+      "high_volume_strategy": "-Sends automated mass rejection messages when overwhelmed. -Prioritizes first batch of applicants; later ones scanned more lightly. -Avoids relying on ATS auto-reject filters—doesn’t trust them yet\"",
+      "trends": "-Personally hasn’t seen 500–1000 applicants; max hundreds (e.g., project managers). -Notes LinkedIn sometimes shows inflated counts (clicks vs. real applicants). -Says ATS/AI auto-rejection topic is hot for last 2–3 months in recruiter discussions, but not common in her niche sector",
+      "additional_comments": null
+    },
+    {
+      "id": "R03",
+      "role": "Recruiter (in-house)",
+      "industry": "Construction",
+      "location": "US, South",
+      "company_size": "1,001–5,000 employees",
+      "ats_systems_used": "Dynamics 365 (current, in-house build), switching to Greenhouse soon, previously Bullhorn",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — Bullhorn gave % match (e.g., “93% match rate”); she used it to sort candidates and reach out. Notes it wasn’t perfect, could pull old info"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — only “legally authorized to work in the US”"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — current system does not auto-reject"
+      },
+      "share_rejected_automatically": "0% (she said no auto-rejections)",
+      "where_they_heard_the_ats_myth": "She’s heard of auto-rejections through social media (Instagram, TikTok) and from candidates; also mentioned AI recruiting in focus groups",
+      "myth_busting_notes": "“We don’t have any auto rejects.” “I’ve definitely seen [the myth] on Instagram or TikTok… candidates talking about it as well.”",
+      "advice_beyond_qualifications": "Resume format: avoid “backwards” resumes (oldest role first). Adding a photo sometimes makes a resume stand out. Willingness to relocate makes a candidate stronger, since they hire nationwide",
+      "applying_early_helps": {
+        "answer": "Depends",
+        "detail": "Mixed: For her current construction roles - No (most stay open a long time). In prior IT staffing -Yes, earlier applicants got more attention"
+      },
+      "what_early_means": "Within the first week (she usually checks mid-week if a role posts Monday)",
+      "applying_early_notes": "“I would definitely say within the first week I want to see those candidates… if I post a role on Monday, I’ll probably check them on Wednesday.”",
+      "high_volume_strategy": "Filters by salary and location. Temporarily turns off job postings when volume is too high (e.g., 300 applicants for scheduling roles). Reviews manually; reposts after clearing backlog. No auto-rejects used",
+      "trends": "Scheduling/product management roles: up to 300+ applicants. Specialized MEP roles: ~200 applicants over months. Overall average: 30–100 applicants in first weeks/months. Trend: numbers decreasing recently (construction jobs, end of year, bonuses make people stay put)",
+      "additional_comments": null
+    },
+    {
+      "id": "R04",
+      "role": "Recruitment relationship manager",
+      "industry": "Staffing and talent solutions",
+      "location": "US, South",
+      "company_size": "10,000+ employees",
+      "ats_systems_used": "Workday, StarSource, Volt Track (Volt Workforce Solutions), Bullhorn",
+      "match_score": {
+        "answer": "No",
+        "detail": "No — “Unfortunately, no”"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — depends on role; uses for work authorization, salary alignment, etc."
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — “they don’t automatically disposition people. We have to go in and do it.”"
+      },
+      "share_rejected_automatically": "0% (no auto-rejections)",
+      "where_they_heard_the_ats_myth": "Has not heard of the myth — “No, I haven’t heard that… our ATS systems don’t automatically disposition people.”",
+      "myth_busting_notes": "“They don’t automatically disposition people. We have to go in and do it.”",
+      "advice_beyond_qualifications": "Strong cover letter. Reaching out to hiring leader on LinkedIn/social media. Resume/cover letter should clearly tie relevant experience to the role",
+      "applying_early_helps": {
+        "answer": "No",
+        "detail": "No — “We wait until seven days before we look through applications… it doesn’t improve their chances.”"
+      },
+      "what_early_means": "N/A — he reviews all applications after ~7 days",
+      "applying_early_notes": "“We wait until seven days before we look through applications.”",
+      "high_volume_strategy": "Uses salary requirements and sponsorship eligibility to disposition candidates. Narrows by location/geographical area. Sometimes faces ~2,000 applicants for technical roles",
+      "trends": "High-end technical roles (software development engineers, senior analysts) → 1,000–2,000 applicants. Says this uptick has been more recent: “Just recently I’ve seen it more… it is kind of wild to get 1,000 to 2,000 candidates.”",
+      "additional_comments": null
+    },
+    {
+      "id": "R05",
+      "role": "Recruiter (recruitment process outsourcing)",
+      "industry": "Recruitment process outsourcing",
+      "location": "US, South",
+      "company_size": "Clients with 5,000–10,000+ employees",
+      "ats_systems_used": "Taleo, SmartRecruiters, Workday, iCIMS (a Workday product), plus client-specific ATS; occasionally internal CRM",
+      "match_score": {
+        "answer": "No",
+        "detail": "No — “No, they have not… I don’t tend to rely on that.”"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — basic pre-qualification questions: location, salary, work eligibility"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — has not worked with an ATS set up to reject by keywords. Only rejection case: if resume not uploaded"
+      },
+      "share_rejected_automatically": "0% (no content-based auto-rejections; only missing resume uploads trigger)",
+      "where_they_heard_the_ats_myth": "Has heard the myth in recruiter forums (LinkedIn, Facebook) and from resume writers/career counselors. She believes it’s misinformation",
+      "myth_busting_notes": "“I have never worked with an ATS system that does that… it would be biting you in the… foot.” “I’ve heard it on LinkedIn and Facebook, and from resume writers or career counselors.”",
+      "advice_beyond_qualifications": "Strong cover letter can tip decision. Resume formatting: easy-to-read, simple PDF or Word (avoid overly fancy designs). Use clear bullet points and keywords. Recruiter trusts manual review more than ATS matches",
+      "applying_early_helps": {
+        "answer": "Depends",
+        "detail": "Mixed: For high-volume roles (recruiter positions, customer service) - Yes, apply quickly. For niche roles (engineering, insurance, legal) - No, applying within weeks still works"
+      },
+      "what_early_means": "Says it often doesn’t matter for larger companies with slower processes",
+      "applying_early_notes": "“Ideal scenario… one hour, same day, one to three days. Doesn’t matter… bigger company, slower process.”",
+      "high_volume_strategy": "Doesn’t review all applicants when volume is overwhelming. Uses “buckets”: contact, consider/hold, or not reached at all (especially late applicants). Prioritizes internal sourcing and referrals first",
+      "trends": "Candidate volume usually 20–30 per role (sometimes fewer than 10, sometimes up to ~100). Has never seen 500–1000+ for a role. Niche roles = lower volume; customer service/claims adjuster = higher",
+      "additional_comments": null
+    },
+    {
+      "id": "R06",
+      "role": "Recruiter (agency), senior roles",
+      "industry": "Life sciences recruitment",
+      "location": "US, Northeast",
+      "company_size": "51–200 employees",
+      "ats_systems_used": "Previously Invenias; currently Bullhorn",
+      "match_score": {
+        "answer": "No",
+        "detail": "No"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes, but asked verbally in interviews, not built into ATS"
+      },
+      "ats_rejects_on_content": {
+        "answer": "Yes",
+        "detail": "Yes, Bullhorn can auto-reject resumes based on missing technical skills"
+      },
+      "share_rejected_automatically": "~30–40% on average (resumes lacking required technical skills)",
+      "where_they_heard_the_ats_myth": "Heard it from candidates and from clients (businesses he recruits for). Clients say AI can filter out 60–70% of applicants",
+      "myth_busting_notes": "“On average, maybe 30 to 40%.” “Clients we work with say AI can filter out 60–70%… which is why they come to us.”",
+      "advice_beyond_qualifications": "Keep resumes clear and scannable: use bullet points instead of long paragraphs. Link responsibilities to tangible outcomes. Include reasoning for leaving jobs to provide narrative/human context",
+      "applying_early_helps": {
+        "answer": "Depends",
+        "detail": "Generally does not help"
+      },
+      "what_early_means": "N/A",
+      "applying_early_notes": "says being the first applicant can even be a disadvantage As they move though candidates they fine tune the need more",
+      "high_volume_strategy": "Prioritizes candidates who are strong on paper: right location, salary expectations, and buzzwords. Creates a tiered list of candidates to review/interview. Cannot review all applicants if numbers overwhelming; groups and mass-emails tailored by reason (compensation, location, skills). Typically runs process manually, not relying on ATS auto-rejections",
+      "trends": "Typical applicant volume: 100–150 per role. Max seen: ~250. Senior-level roles used to get 20–30 applicants; now 100–150, but only ~1–5% are strong fits. Notes industry-specific issue: grant funding cuts leading to more people job hunting, many underqualified applicants",
+      "additional_comments": null
+    },
+    {
+      "id": "R07",
+      "role": "HR specialist (recruiting and onboarding)",
+      "industry": "Legal",
+      "location": "US",
+      "company_size": "51–200 employees",
+      "ats_systems_used": "ADP",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes (possible in ADP) but not used — “We can set it up to do that… but we just use it for basic stuff.”"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — GPA requirement, work authorization"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — only GPA/work authorization knockouts; all other resumes reviewed manually"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Heard through LinkedIn and news articles",
+      "myth_busting_notes": "“We want to make sure we review every resume.” “I think I’ve just heard it on LinkedIn or in the news online.”",
+      "advice_beyond_qualifications": "Sending an email to employment inbox shows initiative. Submitting a cover letter helps demonstrate interest",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — she reviews resumes daily and interviews from first few days"
+      },
+      "what_early_means": "Within ~3 days",
+      "applying_early_notes": "“The first few days, the best resumes will be the ones I’m interviewing…”",
+      "high_volume_strategy": "Can close roles early if hundreds of applicants come in. Reviews every resume that passes knockouts (personal touch at small firm)",
+      "trends": "Typical pool: entry-level roles (paralegals, legal assistants) = many applicants; legal staff = highly educated, niche. Has never seen 1,000+ applicants — too niche, smaller firm",
+      "additional_comments": null
+    },
+    {
+      "id": "R08",
+      "role": "Recruiter (in-house)",
+      "industry": "Consumer packaged goods",
+      "location": "US, Midwest",
+      "company_size": "1,001–5,000 employees",
+      "ats_systems_used": "Currently TeamTailor; previously Lever, Workday",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — TeamTailor provides a score, but she does not use it herself"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — e.g., legal authorization"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — could be set up that way, but they prefer to review all applicants manually"
+      },
+      "share_rejected_automatically": "0% — no auto-rejections used",
+      "where_they_heard_the_ats_myth": "Heard from candidates (comments after rejection emails) and on LinkedIn",
+      "myth_busting_notes": "“Absolutely not true, because we look at every resume.” “I see a lot of people post on LinkedIn, or comment after rejection emails saying ‘I doubt anyone’s even looked at this.’",
+      "advice_beyond_qualifications": "Use keywords from job description, especially under requirements/certifications. Make sure you’re eligible for the stated location — don’t apply if you’re outside required geography",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — but only sometimes (helps when postings get high volume and close early)"
+      },
+      "what_early_means": "Within first 48 hours",
+      "applying_early_notes": "“If you’re in that first bulk, like the first 300 of 1000, we’ll probably start there.”",
+      "high_volume_strategy": "For roles with 1000+ applicants: turns postings off early. Filters by “preferred” skills to prioritize strongest candidates first. Still reviews all resumes cautiously, wary AI might miss a strong fit",
+      "trends": "Accounting/finance roles: 500+ applicants minimum. Niche scientific/technical roles: ~50 applicants. Sometimes 1000+ applicants; not new, historically common for some functions",
+      "additional_comments": "She worries AI tools in TeamTailor that surface “similar candidates” aren’t very effective: “Supposed to be a good thing, but it doesn’t bring candidates that meet all the boxes… not very specific on location or skill set.” Believes recruiters still need to manually check resumes because AI can miss strong applicants"
+    },
+    {
+      "id": "R09",
+      "role": "HR generalist",
+      "industry": "Healthcare and senior living",
+      "location": "US, Northeast",
+      "company_size": "1,001–5,000 employees",
+      "ats_systems_used": "SmartRecruiters, UKG (formerly UltiPro)",
+      "match_score": {
+        "answer": "No",
+        "detail": "No"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — certifications, licenses, age requirement (must be 16+)"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Heard casually on social media (Facebook, X/Twitter)",
+      "myth_busting_notes": "“AI is more likely to reject you than somebody manually reviewing it.” (but she said this is what she’s heard, not her own system) “We tend to be more lenient — we give grace for formatting where maybe an ATS wouldn’t.”",
+      "advice_beyond_qualifications": "Submit an application early rather than trying to contact company first. Get extra eyes to review resume formatting. Avoid overly personal info (e.g., “I really need a job, please hire me” in summary).",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — especially for high-demand positions"
+      },
+      "what_early_means": "Within the first few days",
+      "applying_early_notes": "Within the first few days",
+      "high_volume_strategy": "Uses Arena Score (separate app, ~40-question assessment) to classify applicants as “likely,” “neutral,” or “unlikely” to stay. Reviews “likely” first, then others. Quick skim of all resumes, prioritizing urgent positions",
+      "trends": "Seasonal: summer taper - back-to-school surge (hundreds of applicants). Typical range: 10–20 applicants in slow periods, 140–200 at peak. Trend: numbers increasing lately",
+      "additional_comments": null
+    },
+    {
+      "id": "R10",
+      "role": "Talent acquisition manager",
+      "industry": "Renewable energy",
+      "location": "US, South",
+      "company_size": "1,001–5,000 employees (US)",
+      "ats_systems_used": "Currently SAP SuccessFactors; previously Workday, Greenhouse, Google’s G-Hire",
+      "match_score": {
+        "answer": "No",
+        "detail": "No but: Yes (via overlay CRM Phenom on SuccessFactors). She trialed it — gave match scores and AI matching — but no longer uses it. Needed dedicated integration/training and was too expensive"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — work authorization & sponsorship eligibility standard; can add custom ones (skills, location) if needed"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "no"
+      },
+      "share_rejected_automatically": "<10% (rarely uses knockout (specific skills) auto-rejects; prefers manual review)",
+      "where_they_heard_the_ats_myth": "Heard on LinkedIn, Reddit, blogs, and from candidates who thought they were auto-rejected",
+      "myth_busting_notes": "“I’ve been accused of it myself… candidates say the ATS rejected them, but no — I rejected them.” “I’ve seen it on LinkedIn, Reddit, blog posts… mostly people who are misinformed.”",
+      "advice_beyond_qualifications": "Don’t over-format resumes (Word uploads can scramble formatting). Keep resumes clean, with actionable data points that align with the role. Avoid 8-page, no-white-space resumes — makes it hard to extract key info",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — especially for high-demand/entry-level roles, since postings may close within 5 days. No/Neutral — for specialized roles, timing doesn’t matter, quality of candidate does"
+      },
+      "what_early_means": "1–3 days for high-demand roles",
+      "applying_early_notes": "“In a two-day span, I could get 300 applications… at the five-day mark, I’m locking it down and just looking at the first chunk.”",
+      "high_volume_strategy": "Filters by location first (only considers local/hybrid applicants if enough volume). Searches resumes for niche skills. Formatting used as a tie-breaker among equally qualified applicants",
+      "trends": "Entry-level/corporate roles (HR, accounting, data analytics): 100+ applicants in a few days. Niche/industry-based roles: 10–20 applicants.",
+      "additional_comments": "Wishes she could give resume feedback directly to candidates (“Please fix this!”). Automatic “no” for resumes missing years of experience. Notices surge in resumes with obvious ChatGPT formatting — “five key things, bolded theme, generic blurb… I can spot it.” Not against AI usage but urges candidates to give resumes a “human eye” to ensure accuracy"
+    },
+    {
+      "id": "R11",
+      "role": "Recruiter, veteran hiring",
+      "industry": "Multi-industry",
+      "location": "US, South",
+      "company_size": "Varies by client",
+      "ats_systems_used": "Paylocity, BambooHR, JazzHR, Workday, iCIMS, Greenhouse, ADP, Zoho, plus custom ATS builds",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — some systems provide match scores. She uses them occasionally for large pools (e.g., 300 candidates for remote role) to screen more efficiently, but prefers to review manually one by one"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — degree requirements, certifications, minimum qualifications"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — she does not use ATS to reject based on formatting/keywords; prefers manual review"
+      },
+      "share_rejected_automatically": "0% (no auto content rejections)",
+      "where_they_heard_the_ats_myth": "Candidates assume it from seeing “opt out of AI screening” options on applications, plus stories online and AI recruiter calls",
+      "myth_busting_notes": "“I’ve always been one to do it by hand and look at those resumes.” “Sometimes you see an application, it will say ‘Do you want to opt out of AI screening?’… so candidates assume AI is screening their resumes.",
+      "advice_beyond_qualifications": "Keep resumes shorter (2–3 pages, not 8). Ensure you apply to roles in the correct country. Degree requirements are crucial. Formatting preferences vary by company (Word vs PDF), so hard to predict",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — strongly. “Earlier the better… no point in applying after two days in this market.”"
+      },
+      "what_early_means": "Within 1 day (24 hours)",
+      "applying_early_notes": "“One day or less is early.” “By two days in, requisition is already flooded.”",
+      "high_volume_strategy": "Applies filters for location, degree, minimum requirements. For remote roles, often 1000–2000 applicants. Narrowed pool down to 50 from 200 with filters before manual review",
+      "trends": "Remote roles: 1000–2000 applicants. Local roles: much smaller pools (10–15 applicants). Trend: heavy volumes when remote roles are open, but hasn’t had one recently",
+      "additional_comments": "Believes >50% of companies now use AI in recruiting (vs <50% five years ago), and that % is growing. Concerned about candidate trust: robocalls from AI recruiters make people doubt resumes are read correctly. Thinks AI is here to stay because it helps with tedious tasks, but also admits it leaves a “bad taste” for candidates"
+    },
+    {
+      "id": "R12",
+      "role": "Recruiter (sole US recruiter)",
+      "industry": "Clinical-trial software",
+      "location": "US, South",
+      "company_size": "Small to mid-size",
+      "ats_systems_used": "BrassRing, Greenhouse, Lever",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — Lever has features that flag matches. She uses them to narrow pools when volume is high, but always reviews resumes manually before reaching out"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — work authorization"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — does not rely on ATS to reject based on formatting or keywords"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Heard on LinkedIn posts; candidates assume resumes rejected due to AI detection",
+      "myth_busting_notes": "“My rule when I follow the AI suggestions is that I will still look at the candidate… before I engage with the candidate.” “I would be really concerned if people were disqualifying based on format.”",
+      "advice_beyond_qualifications": "Messaging recruiter on LinkedIn is annoying but effective. Keywords and competitor names stand out in niche industries. Bullet points less important in her field; employer names signal qualifications",
+      "applying_early_helps": {
+        "answer": "Depends",
+        "detail": "Not necessarily — she reviews most resumes regardless; says it depends on recruiter. Other recruiters may ignore later applicants. (Later in interview referred to could be helpful with large volume roles)"
+      },
+      "what_early_means": "Not fixed — she referenced advice from others that “if you’re not in the first 100, don’t bother,” but disagrees personally",
+      "applying_early_notes": "“For me personally, I don’t think it really matters if you apply early or late.”",
+      "high_volume_strategy": "Uses Lever’s AI green-tag match feature when 130+ applicants. Prioritizes reviewing only the AI-flagged “match” profiles when overwhelmed. Can pause postings once she has 3–5 strong candidates to screen",
+      "trends": "Technical roles: hundreds of applicants within hours; could hit 1000 if not capped. Sales role: ~50 applicants in a few days (lower volume than expected). Caps postings around 130 applicants, reviews, then reopens if needed",
+      "additional_comments": "Concerned about resume similarity in technical/finance roles — difficult to differentiate candidates. Believes AI should be a helpful tool, not a replacement. Adapts by capping applications and working in batches"
+    },
+    {
+      "id": "R13",
+      "role": "Recruiter (in-house)",
+      "industry": "Real estate and data centers",
+      "location": "US, Midwest",
+      "company_size": "1,001–5,000 employees",
+      "ats_systems_used": "JazzHR (1 year), Lever (4 years), now Workday",
+      "match_score": {
+        "answer": "No",
+        "detail": "No — unfamiliar with “% match” scores"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — work authorization (flagged manually, not auto-rejected)"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — “None that I have used… the only way to reject is manually on our end.”"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Not really heard the AI rejection myth directly; has only heard from qualified candidates confused about why they were rejected",
+      "myth_busting_notes": "“Any and all resumes come through… the only way to reject is manually on our end.” “We scan a resume for maybe six seconds… sometimes we only look at 15 of 100.”",
+      "advice_beyond_qualifications": "Don’t copy-paste the job description word-for-word into resume (red flag). Use ChatGPT for prompts/streamlining, but make resume unique and human. Avoid grammatical errors/misspellings. Add data points/metrics (e.g., X InMails sent, 50% response rate).",
+      "applying_early_helps": {
+        "answer": "Depends",
+        "detail": "Mixed — depends on recruiter. If role is new and recruiter reviewing from top down, yes. If recruiter returns after time away and sorts by most recent, no."
+      },
+      "what_early_means": "Not fixed — situational (first applicants vs. most recent).",
+      "applying_early_notes": "“If you’re one of the first applicants and it’s a typical process, then sure, I’d see you right away.” “If I’m out of office, I might start with the most recent instead.”",
+      "high_volume_strategy": "Reviews in blocks of 20–30 resumes at a time. “Auto-rejects” manually when clearing batches to avoid burnout. Relies on LinkedIn profiles if resumes don’t parse correctl",
+      "trends": "Recruiter/HR roles = 1000+ applicants within weeks. Niche roles (e.g., data center engineer) = 30–80 applicants. Industry is booming, so applicant numbers are consistently high",
+      "additional_comments": "Warns against Canva/picture-heavy resumes: can break ATS parsing (“file not found” errors). Recommends a traditional, clean resume format. Notes LinkedIn profile is important as back up and quality/photo matters if resume fails to upload."
+    },
+    {
+      "id": "R14",
+      "role": "Recruiter (in-house)",
+      "industry": "Veterinary",
+      "location": "US, Northeast",
+      "company_size": "10,000+ employees",
+      "ats_systems_used": "Greenhouse, Workday; previously connected Greenhouse with Eightfold (AI scoring)",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — through Eightfold (overlay with Greenhouse). Checked daily, but also manually reviewed resumes. “We probably checked it every single day, but we also looked at resumes ourselves.”"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — especially for work authorization (no visa sponsorship at current company)"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — resumes are all reviewed manually"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Heard from articles on LinkedIn; not so much from candidates",
+      "myth_busting_notes": "“At my current company and at my last company, we went through every single resume. We did not use AI to go through anything.”",
+      "advice_beyond_qualifications": "Include metrics in resume (e.g., “reduced time to fill by 60%”). Use keywords relevant to role (budgeting, P&L, management experience).",
+      "applying_early_helps": {
+        "answer": "Depends",
+        "detail": "Sometimes — helps if within first week or two; otherwise less impact"
+      },
+      "what_early_means": "Within the first week or two",
+      "applying_early_notes": "“If they apply within the first week or two, maybe. But if the role’s been posted for a while, then probably not.”",
+      "high_volume_strategy": "No cap on applications. Blocks time on calendar to review resumes. Relies on keywords (budgeting, management) for scanning. Finds it harder with overly long (7-page) or reverse-ordered resumes",
+      "trends": "Application flow depends heavily on location. In cities like [location redacted] or [location redacted] - ~10 applicants/day. Remote/rural (e.g., near Canada, [location redacted] with traffic) - far fewer. No recent uptick — steady volume as expected for niche veterinary field",
+      "additional_comments": "Wants candidates to know not everyone is using AI to filter applications. “I don’t want candidates thinking that everyone’s using AI… because we’re not all doing that.”"
+    },
+    {
+      "id": "R15",
+      "role": "HR director",
+      "industry": "Electronics retail and wholesale",
+      "location": "US, Northeast",
+      "company_size": "Not specified",
+      "ats_systems_used": "BambooHR (current, ~2 years); previously ADP",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — BambooHR can provide match %; he’s tested it, but they use it only to guide manual review, not to sort or reject"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — work authorization, location, key skills depending on role"
+      },
+      "ats_rejects_on_content": {
+        "answer": "Yes",
+        "detail": "Yes — system can reject if resume is <75% match"
+      },
+      "share_rejected_automatically": "Yes — system can reject if resume is <75% match",
+      "where_they_heard_the_ats_myth": "Active on HR discussion boards (SHRM, Reddit) Reads industry publications Candidate anecdotes (though often inaccurate)",
+      "myth_busting_notes": "“If it doesn’t 75% match, then it will get rejected… I’m gonna go ahead and say that 60% of the time resumes get rejected.” “ATS is designed to save recruiters time by rejecting those not a good match.”",
+      "advice_beyond_qualifications": "Networking is critical: reach out to contacts or recruiters directly, send a personalized email/cover letter. Don’t rely solely on electronic submission",
+      "applying_early_helps": {
+        "answer": "No",
+        "detail": "Not really — they usually wait days to weeks to gather resumes before reviewing"
+      },
+      "what_early_means": "Doesn't matter",
+      "applying_early_notes": "“Whether somebody hits send within 10 minutes or the last moment, it all goes in the same pool.”",
+      "high_volume_strategy": "Easy-to-fill jobs (warehouse, sales, customer service): cap at ~50 resumes, stop collecting, send auto-rejections after. Hard-to-fill jobs (IT, finance): no cap; gather resumes for 2–3 weeks before review.",
+      "trends": "Market is “strange” right now, more applicants than 3 years ago. Average: ~40 applications per role. High-volume, lower-end jobs could reach 500–1000 if they didn’t cap early",
+      "additional_comments": "Believes AI is the future of recruiting, but must be monitored. Warns against trusting AI blindly: “It cannot be left unmoderated… people using AI must be properly trained.”"
+    },
+    {
+      "id": "R16",
+      "role": "Talent acquisition",
+      "industry": "Healthcare and senior living",
+      "location": "US",
+      "company_size": "1,001–5,000 employees",
+      "ats_systems_used": "iCIMS (current), previously Workday and Bullhorn",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — iCIMS provides a % match. He doesn’t sort by it, but uses it “at a glance” (low/high scores influence interest)"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — e.g., legal authorization, certifications"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — ATS does not reject based on resume content. Only knockout questions can block applicants"
+      },
+      "share_rejected_automatically": "No — ATS does not reject based on resume content. Only knockout questions can block applicants",
+      "where_they_heard_the_ats_myth": "He has not heard the “ATS rejection” myth before",
+      "myth_busting_notes": "“Not automatically, no… it won’t do that based on resume content.”",
+      "advice_beyond_qualifications": "Keywords are primary signal for screening. Concise, short resumes help scanning. Sometimes sends assessment questions by email before reviewing resumes — responses determine if resumes are even reviewed",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes"
+      },
+      "what_early_means": "Within same day or a couple days",
+      "applying_early_notes": null,
+      "high_volume_strategy": "Sends assessment email batches to all applicants; only works further with those who respond. This reduces pool dramatically: drop-off can be up to 95% for specialized roles",
+      "trends": "Pandemic = low volume - then spiked - now normalized. Most popular roles = 150–200 applicants, ~25% higher than last year",
+      "additional_comments": "Process sounds manual, but they are “leaning into AI” and waiting for partners to provide new solutions. Notes they haven’t figured out how to best leverage AI yet"
+    },
+    {
+      "id": "R17",
+      "role": "Senior healthcare recruiter (physician hiring)",
+      "industry": "Healthcare",
+      "location": "US, South",
+      "company_size": "201–500 employees",
+      "ats_systems_used": "~300–500 employees",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — ATS provides a % match. She checks it but always does her own assessment manually"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — 3–4 screening questions (e.g., authorization to work in the U.S., required certifications)"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — resumes are not auto-rejected. Applicants may be flagged “unqualified” but recruiters can still review them"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Heard via social media forums (LinkedIn, Glassdoor)",
+      "myth_busting_notes": "“Not to my knowledge… it might be marked as unqualified, but we still have access.”",
+      "advice_beyond_qualifications": "Physicians often have poorly written resumes; recruiter must extract qualifications through conversation. A clear, well-formatted resume would greatly improve chances. Including school accreditation, specialty keywords (urology, cardiology, mental health) makes screening easier",
+      "applying_early_helps": {
+        "answer": "See detail",
+        "detail": "Physicians often have poorly written resumes; recruiter must extract qualifications through conversation. A clear, well-formatted resume would greatly improve chances. Including school accreditation, specialty keywords (urology, cardiology, mental health) makes screening easier"
+      },
+      "what_early_means": "N/A for her niche recruiting but can see how that impacts role in admin, etc - First couple of days",
+      "applying_early_notes": "“If I open it today and they apply, I’ll call them right away.” “If they apply in two weeks… I will still call them.”",
+      "high_volume_strategy": "Rarely overwhelmed (niche field). If high volume, would first review ATS “qualified” group, then double-check screening questions",
+      "trends": "Typical flow = 5–10 qualified candidates per new physician role. Sponsored positions attract slightly more; non-sponsored yield fewer",
+      "additional_comments": "Notes disconnect between what candidates tell her vs. what resumes show; resume alignment is crucial. Emphasizes keywords and accredited schools as differentiators. Stresses that even if ATS flags “not qualified,” she still reviews manually"
+    },
+    {
+      "id": "R18",
+      "role": "Director of talent",
+      "industry": "Insurance administration",
+      "location": "US, Midwest",
+      "company_size": "501–1,000 employees",
+      "ats_systems_used": "Currently Paylocity; previously Lever, Taleo, iCIMS, Workday, Workable",
+      "match_score": {
+        "answer": "Not yet",
+        "detail": "Not yet. Paylocity is rolling out AI features, but her team has not been trained on them yet"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — used more frequently recently, especially for eligibility and authorization screening"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Candidates hear it on LinkedIn or via employee referrals.",
+      "myth_busting_notes": "“We hear it all the time… most companies are not going to do that because they don’t want to miss out on somebody qualified.” “When it comes to formatting, really try to keep that simple, like taking the images out so it does not kick it out.”",
+      "advice_beyond_qualifications": "Drive and advancement potential stand out. Entry-level candidates with transferable experience can get considered. Resume tips: key skills up top, highlight wins, don’t just paste the job description",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — especially for urgent or high-volume roles"
+      },
+      "what_early_means": "Within the first week, ideally first 5 days after posting",
+      "applying_early_notes": "“Within the first five days of the openings, that’s usually your best opportunity to get a phone conversation with myself or my team.”",
+      "high_volume_strategy": "Team uses divide and conquer after intake calls. Resumes are reviewed collectively to avoid missing qualified candidates. Entry-level roles may hit 800–900 applicants; sometimes she has to pause postings",
+      "trends": "High volume particularly for entry-level customer service roles. Hiring managers increasingly review 5–6 candidates before making offers, not just 1–2 as before",
+      "additional_comments": "She actively debunks myths with her team and hiring managers. Notes candidates often worry about formatting or images wrongly leading to rejection. Emphasizes networking + clear resume wins as critical"
+    },
+    {
+      "id": "R19",
+      "role": "Recruiter",
+      "industry": "Multi-industry",
+      "location": "US, West",
+      "company_size": "5,001–10,000 employees",
+      "ats_systems_used": "iCIMS (current), trial of Greenhouse, previously Taleo",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — iCIMS and Greenhouse offer it, but not turned on in current org. [name redacted] has used AI/match scoring tools in other contexts, but mainly for sourcing/screening, not rejection"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — iCIMS and Greenhouse offer it, but not turned on in current org. [name redacted] has used AI/match scoring tools in other contexts, but mainly for sourcing/screening, not rejection"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — ATS does not reject based on formatting/keywords"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Annoying LinkedIn posts (used to sell resume services) Articles on outlets like MSNBC/Yahoo promoting “beat the ATS” narratives",
+      "myth_busting_notes": "“It’s such a false narrative… taking advantage of people with scare tactics.” “The ATS is only going to reject you if you don’t meet position requirements… not because your resume formatting is off.”",
+      "advice_beyond_qualifications": "Candidates must be comfortable on video calls and able to present themselves well remotely. Learn to translate hobbies/side skills into resume content (e.g., computer building, race cars → technician skills). Condense resumes: 2 pages max, highlight wins and impact, not just duties",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — but situational. Timing of day/week matters (e.g., posting on Friday night = less useful). Urges balance over rushing"
+      },
+      "what_early_means": "Not fixed; suggests apply as soon as you see the job if you’re a good fit",
+      "applying_early_notes": "“If you see it, apply right away… but don’t stress if recruiter is in different time zone or schedule.” “Better to take a little more time to hire the right person than rush the wrong one.”",
+      "high_volume_strategy": "Example: IT role with 600 applicants - capped posting. Divided work among sourcers to check 3 baseline criteria. All reviews were manual (no AI filtering).",
+      "trends": "Marketing roles: very high volume (hundreds). Director-level roles: also many unqualified applicants (e.g., fresh grads applying to director roles). Notes rising mismatch between role requirements and applicant profiles",
+      "additional_comments": "Resume should show impact, not just titles (e.g., process improvements, sales increases). Prefers concise, well-laid-out resumes. Networking and direct outreach (LinkedIn) can give candidates an edge."
+    },
+    {
+      "id": "R20",
+      "role": "Tech recruiter",
+      "industry": "Technology",
+      "location": "US, West",
+      "company_size": "5,001–10,000 employees",
+      "ats_systems_used": "Greenhouse, Lever, Workday, BrassRing, UltiPro, iCIMS",
+      "match_score": {
+        "answer": "No",
+        "detail": "No — hasn’t worked with ATS match scoring yet. Notes Greenhouse and Ashby are developing it"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — certifications, work authorization. Not used on every posting, but finds them helpful"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Seen on LinkedIn (from candidates and some career coaches pushing ATS-compliant resumes)",
+      "myth_busting_notes": "“In the ATS I’ve worked with, that has not been the case.” “I see it on LinkedIn… some career coaches wanting to sell ATS versions of resumes, but in reality, it’s not a thing.”",
+      "advice_beyond_qualifications": "Show you meet qualifications from job description clearly. Resume content matters most — highlight relevant experience directly tied to posting",
+      "applying_early_helps": {
+        "answer": "Depends",
+        "detail": "Neutral — doesn’t guarantee outcome, but “doesn’t hurt.” Encourages applying even if role’s been up for weeks"
+      },
+      "what_early_means": "Not strict — just apply when you see a role, whether day 1 or 2 weeks in",
+      "applying_early_notes": "“Doesn’t hurt… but if you see a role you’re a strong fit for that’s been posted two weeks, I’d still say apply.”",
+      "high_volume_strategy": "Pauses/unposts roles when applicant numbers reach several hundred (e.g., 500 for remote finance role). Restarts after clearing backlog. Uses keyword searches to prioritize, but reviews all",
+      "trends": "Remote corporate roles (finance analyst) can get hundreds quickly (e.g., 35–40 in a day). Has seen 500+ applicants, sometimes close to 1000, but not the norm",
+      "additional_comments": "Strongly emphasizes resume content over formatting. Advises uploading resumes as PDF (to prevent formatting issues when parsed). Glad that recruiters are refuting myths about ATS rejections more actively"
+    },
+    {
+      "id": "R21",
+      "role": "VP of human resources (solo HR function)",
+      "industry": "Consumer products",
+      "location": "US, South",
+      "company_size": "Not specified",
+      "ats_systems_used": "PeopleSoft, ADP, Paycom, Bullhorn, Excel spreadsheets",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — uses LinkedIn’s skills match (e.g., 3 of 7, 5 of 7). She sorts applicants by number of matches. Not using Paycom ATS for this"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — main one: U.S. residency / visa sponsorship (knocks out ~30%)"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No formal ATS rejection, but LinkedIn sorting = functional filtering. Resumes with fewer than 4/7 skills are auto-rejected manually"
+      },
+      "share_rejected_automatically": "30% rejected via knockout (residency/sponsorship). For skills match: keeps ~25 resumes, prefers at least 5/7 skills. Others quickly rejected",
+      "where_they_heard_the_ats_myth": "Hasn’t heard the myth at all",
+      "myth_busting_notes": "“No, haven’t heard anything about that.” “I’ll sort it by the number of matches… if we’re looking for seven skills, I want to see at least five of the seven.”",
+      "advice_beyond_qualifications": "Apply early, especially for high-volume/nationwide postings. Tailor resume to the role, highlight relevant skills. Multiple resumes for different applications recommended",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — “first come, first serve” when overwhelmed by volume (mentioned without probing)"
+      },
+      "what_early_means": "Within the first 3 days",
+      "applying_early_notes": "“I hate to say it, but it’s first come, first serve, just because I don’t have time to review that many resumes.”",
+      "high_volume_strategy": "For nationwide roles: 500–1,000+ resumes. Reviews first ~50 with strong skills match (5/7 or better). Quickly rejects those with 4/7 or fewer skills",
+      "trends": "Applicant volume has spiked in last 6 months. 2 years ago: 150–250 for nationwide roles; now 500–1,000+",
+      "additional_comments": "Admits she’s a newbie to AI; wants to invest more in tools to keep up with rising volume."
+    },
+    {
+      "id": "R22",
+      "role": "Recruitment supervisor",
+      "industry": "Healthcare",
+      "location": "US, West",
+      "company_size": "10,000+ employees",
+      "ats_systems_used": "Phenom, Workday; previously [company name redacted] proprietary system",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — Phenom provides a % fit score. Currently training the AI (thumbs up/down feedback). He says it’s inconsistent: gives high scores to weak candidates and low scores to strong ones. They review all resumes manually, but hope to rely more on AI in future"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — Phenom provides a % fit score. Currently training the AI (thumbs up/down feedback). He says it’s inconsistent: gives high scores to weak candidates and low scores to strong ones. They review all resumes manually, but hope to rely more on AI in future"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — Phenom’s AI is supposed to screen for job description criteria, but trust is low, so recruiters don’t rely on it"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "He hasn’t heard the myth at all — no press, LinkedIn, or candidate mentions",
+      "myth_busting_notes": null,
+      "advice_beyond_qualifications": "Tailor resume with specific keywords from job description. Include both acronyms and full spellings (e.g., SQL and “Structured Query Language”). Make company, job title, and dates clear on page one — don’t make recruiter hunt",
+      "applying_early_helps": {
+        "answer": "No",
+        "detail": "No — he posts jobs for a fixed 2–3 day window, then reviews everyone together. Timing doesn’t affect chances"
+      },
+      "what_early_means": null,
+      "applying_early_notes": "“Applying early doesn’t matter… it all goes in the same pool.”",
+      "high_volume_strategy": "Opens postings for 2–3 days, then caps at ~150 applicants. Reviews all, communicates with overflow applicants to “keep them warm.” Reposts if needed",
+      "trends": "High-volume roles (call center): 200+ applicants in 3 days. Nurse roles: 10–15 applicants in a week. Director roles: 5 applicants in 2 weeks. Could easily hit 500–1000 if postings left open longer",
+      "additional_comments": "Focus on candidate experience — limits posting time to avoid overwhelming applicants. Stresses clarity and keywords on resumes as biggest differentiators"
+    },
+    {
+      "id": "R23",
+      "role": "Senior recruiter",
+      "industry": "Construction",
+      "location": "US, South",
+      "company_size": "1,001–5,000 employees",
+      "ats_systems_used": "Bullhorn, Taleo, Workday, Microsoft 365 internal, integrating Greenhouse (launch Jan next year)",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — Workday and Greenhouse provide % match. He uses it as a guideline only: Helps organize when many resumes flood in the first week. Looks at keywords, skills, salary range, and location. Still manually reviews for red flags (e.g., job hopping)"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — especially work authorization and sponsorship eligibility (more common in his past tech/finance roles than current construction roles)"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — does not configure auto-rejection. “It’s a dangerous space… don’t want to reject referrals without review.”"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Hasn’t heard the “ATS rejection” myth directly. Instead, he’s heard about ghost job postings being created for tax benefits",
+      "myth_busting_notes": "Hasn’t heard the “ATS rejection” myth directly. Instead, he’s heard about ghost job postings being created for tax benefits",
+      "advice_beyond_qualifications": "Recruiters prefer clean, well-structured resumes (job titles, dates, responsibilities clear). Summaries should explain day-to-day responsibilities. Keywords still important for scanning",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — especially for high-demand roles. Recruiters often want jobs filled “yesterday”"
+      },
+      "what_early_means": "Within 24–48 hours of posting",
+      "applying_early_notes": "“Earlier people get in… especially if it’s a popular role, like project manager.”",
+      "high_volume_strategy": "Uses keywords, location, and salary filters to narrow. Example: project manager role = 100 applicants within 5 days. Admin roles = several hundred applicants; occasionally close to 1,000 if left open",
+      "trends": "Strong job market in construction → applicant volume rising last 2–3 years. Typical: 40–80 applicants per week → 200+ over 2–3 weeks. Admin roles can hit several hundred; 1000 if unmanaged",
+      "additional_comments": "Notes recruiting has shifted a lot in last 5–6 years, mostly positively. AI tools helpful for organizing, but human judgment still essential"
+    },
+    {
+      "id": "R24",
+      "role": "Talent attraction partner",
+      "industry": "Technology",
+      "location": "US, South",
+      "company_size": "10,000+ employees",
+      "ats_systems_used": "Workday; previously Salesforce CRM + custom homegrown system",
+      "match_score": {
+        "answer": "Yes",
+        "detail": "Yes — uses Beamery (connected with Workday) which provides a match score. She says it’s not very accurate and she doesn’t rely on it; instead, she manually reviews applications"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — certifications, and location requirements (knocks out if not in correct on-site/hybrid area)"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — all resumes manually reviewed"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Heard mostly from LinkedIn posts and also personal candidate experience (instant rejections at other companies)",
+      "myth_busting_notes": "“Sometimes the ATS may not catch all the specifics I’m looking for, so I review all applications myself.” “I’ve applied places and got a rejection right away — there’s no way someone reviewed it. That’s probably why people think it’s automatic rejection.”",
+      "advice_beyond_qualifications": "Avoid generic resumes — show impact and specifics (e.g., quota, book of business, scope of responsibilities). Tailor resume to the actual posting; don’t reuse from another job",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — especially since postings may close early when application numbers get too high"
+      },
+      "what_early_means": "Within the first couple of hours to 1–3 days. After a month, usually too late since interviews already underway",
+      "applying_early_notes": "“Within the first couple hours.” “If a posting’s been up a month, nine times out of ten we’re already well into the interview process.”",
+      "high_volume_strategy": "Prioritizes internals, referrals, and previous workers first. Reviews 50–100+ applications daily. If overwhelmed (e.g., 1300 apps), pauses job to “do maintenance” before reopening",
+      "trends": "Large company postings = hundreds to 1300+ applicants. Of those, only 15–20% are qualified. For more specialized roles: ~15–20 applicants per day",
+      "additional_comments": "Recommends bolding certifications and key requirements so recruiters can spot them quickly. Notes many applicants apply without qualifications out of desperation."
+    },
+    {
+      "id": "R25",
+      "role": "Talent acquisition manager",
+      "industry": "Software development",
+      "location": "US, South",
+      "company_size": "5,001–10,000 employees",
+      "ats_systems_used": "Jobvite, iCIMS",
+      "match_score": {
+        "answer": "No",
+        "detail": "No — says neither ATS provides a reliable match score; his team reviews all applications manually"
+      },
+      "knockout_questions": {
+        "answer": "Yes",
+        "detail": "Yes — primarily visa sponsorship eligibility (some roles allow sponsorship, others do not)"
+      },
+      "ats_rejects_on_content": {
+        "answer": "No",
+        "detail": "No — resumes are not auto-rejected for formatting, missing keywords, or listed skills"
+      },
+      "share_rejected_automatically": "0",
+      "where_they_heard_the_ats_myth": "Heard from candidates on social media, especially during layoffs — frustration from applying widely with no responses",
+      "myth_busting_notes": "“We’re going through each and every application ourselves.” “I’ve heard it as a perception, but haven’t seen it firsthand.”",
+      "advice_beyond_qualifications": "-Include facts and figures: scale of work, complexity, metrics (# recruited, team size, results). -Bullet points preferred over paragraphs for quick scanning",
+      "applying_early_helps": {
+        "answer": "Yes",
+        "detail": "Yes — strongly believes applying early improves chances"
+      },
+      "what_early_means": "Within the first week (ideally within first 10–30 resumes reviewed)",
+      "applying_early_notes": "“We can build out a pretty deep pipeline in the first 10, 20, 30 resumes we see.” “Those people that apply later just don’t get seen because the req closes.”",
+      "high_volume_strategy": "-Reviews resumes manually (20–30 seconds each). -Uses keyword search (e.g., Golang) to help scanning. -May take postings down after ~200 applicants to catch up",
+      "trends": "-High-volume roles (e.g., data analyst) = 400–500 resumes in a week. -Recruiter role in Brazil = 250 resumes in a week. -Niche/high-level roles (e.g., Workday consultant) = much fewer. -Uptick in applicant numbers since late 2023, continuing in 2024–25",
+      "additional_comments": "-Believes resume clarity (bullet points, numbers, scale of work) makes the biggest difference. -Candidate market is highly competitive; early applicants benefit most"
+    }
+  ]
+}

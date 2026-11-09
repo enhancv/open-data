@@ -1,0 +1,576 @@
+{
+  "survey": "us_ghost_jobs_2026",
+  "id": "Q4",
+  "question_prompt": "At what stage did you realize the job was likely a 'ghost job'?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 993
+    },
+    "cells": [
+      {
+        "answer": "Applied/No response",
+        "count": 556,
+        "pct": 56
+      },
+      {
+        "answer": "First Interview",
+        "count": 179,
+        "pct": 18
+      },
+      {
+        "answer": "Recruiter Screen",
+        "count": 113,
+        "pct": 11.4
+      },
+      {
+        "answer": "Other (please specify)",
+        "count": 81,
+        "pct": 8.2
+      },
+      {
+        "answer": "Final Interview",
+        "count": 64,
+        "pct": 6.4
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 679
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 385,
+            "pct": 56.7
+          },
+          {
+            "answer": "First Interview",
+            "count": 121,
+            "pct": 17.8
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 71,
+            "pct": 10.5
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 62,
+            "pct": 9.1
+          },
+          {
+            "answer": "Final Interview",
+            "count": 40,
+            "pct": 5.9
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 314
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 171,
+            "pct": 54.5
+          },
+          {
+            "answer": "First Interview",
+            "count": 58,
+            "pct": 18.5
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 42,
+            "pct": 13.4
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 19,
+            "pct": 6.1
+          },
+          {
+            "answer": "Final Interview",
+            "count": 24,
+            "pct": 7.6
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–29",
+        "base": {
+          "n": 304
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 170,
+            "pct": 55.9
+          },
+          {
+            "answer": "First Interview",
+            "count": 68,
+            "pct": 22.4
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 32,
+            "pct": 10.5
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 14,
+            "pct": 4.6
+          },
+          {
+            "answer": "Final Interview",
+            "count": 20,
+            "pct": 6.6
+          }
+        ]
+      },
+      {
+        "group": "30–44",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 146,
+            "pct": 54.5
+          },
+          {
+            "answer": "First Interview",
+            "count": 55,
+            "pct": 20.5
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 32,
+            "pct": 11.9
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 21,
+            "pct": 7.8
+          },
+          {
+            "answer": "Final Interview",
+            "count": 14,
+            "pct": 5.2
+          }
+        ]
+      },
+      {
+        "group": "45–60",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 214,
+            "pct": 57.1
+          },
+          {
+            "answer": "First Interview",
+            "count": 49,
+            "pct": 13.1
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 44,
+            "pct": 11.7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 40,
+            "pct": 10.7
+          },
+          {
+            "answer": "Final Interview",
+            "count": 28,
+            "pct": 7.5
+          }
+        ]
+      },
+      {
+        "group": "60+",
+        "base": {
+          "n": 46
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 26,
+            "pct": 56.5
+          },
+          {
+            "answer": "First Interview",
+            "count": 7,
+            "pct": 15.2
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 5,
+            "pct": 10.9
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 6,
+            "pct": 13
+          },
+          {
+            "answer": "Final Interview",
+            "count": 2,
+            "pct": 4.3
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 66
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 36,
+            "pct": 54.5
+          },
+          {
+            "answer": "First Interview",
+            "count": 9,
+            "pct": 13.6
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 11,
+            "pct": 16.7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 5,
+            "pct": 7.6
+          },
+          {
+            "answer": "Final Interview",
+            "count": 5,
+            "pct": 7.6
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 14,
+            "pct": 60.9
+          },
+          {
+            "answer": "First Interview",
+            "count": 4,
+            "pct": 17.4
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 4,
+            "pct": 17.4
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Final Interview",
+            "count": 1,
+            "pct": 4.3
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 19
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 8,
+            "pct": 42.1
+          },
+          {
+            "answer": "First Interview",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 3,
+            "pct": 15.8
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 3,
+            "pct": 15.8
+          },
+          {
+            "answer": "Final Interview",
+            "count": 3,
+            "pct": 15.8
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 228
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 126,
+            "pct": 55.3
+          },
+          {
+            "answer": "First Interview",
+            "count": 45,
+            "pct": 19.7
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 29,
+            "pct": 12.7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 17,
+            "pct": 7.5
+          },
+          {
+            "answer": "Final Interview",
+            "count": 11,
+            "pct": 4.8
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 86
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 54,
+            "pct": 62.8
+          },
+          {
+            "answer": "First Interview",
+            "count": 10,
+            "pct": 11.6
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 5,
+            "pct": 5.8
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 11,
+            "pct": 12.8
+          },
+          {
+            "answer": "Final Interview",
+            "count": 6,
+            "pct": 7
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 571
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 318,
+            "pct": 55.7
+          },
+          {
+            "answer": "First Interview",
+            "count": 109,
+            "pct": 19.1
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 61,
+            "pct": 10.7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 45,
+            "pct": 7.9
+          },
+          {
+            "answer": "Final Interview",
+            "count": 38,
+            "pct": 6.7
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 194
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 115,
+            "pct": 59.3
+          },
+          {
+            "answer": "First Interview",
+            "count": 30,
+            "pct": 15.5
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 20,
+            "pct": 10.3
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 18,
+            "pct": 9.3
+          },
+          {
+            "answer": "Final Interview",
+            "count": 11,
+            "pct": 5.7
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 190
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 108,
+            "pct": 56.8
+          },
+          {
+            "answer": "First Interview",
+            "count": 34,
+            "pct": 17.9
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 19,
+            "pct": 10
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 16,
+            "pct": 8.4
+          },
+          {
+            "answer": "Final Interview",
+            "count": 13,
+            "pct": 6.8
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 342
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 194,
+            "pct": 56.7
+          },
+          {
+            "answer": "First Interview",
+            "count": 61,
+            "pct": 17.8
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 39,
+            "pct": 11.4
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 25,
+            "pct": 7.3
+          },
+          {
+            "answer": "Final Interview",
+            "count": 23,
+            "pct": 6.7
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 251
+        },
+        "cells": [
+          {
+            "answer": "Applied/No response",
+            "count": 135,
+            "pct": 53.8
+          },
+          {
+            "answer": "First Interview",
+            "count": 47,
+            "pct": 18.7
+          },
+          {
+            "answer": "Recruiter Screen",
+            "count": 32,
+            "pct": 12.7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 22,
+            "pct": 8.8
+          },
+          {
+            "answer": "Final Interview",
+            "count": 15,
+            "pct": 6
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "id": "RG-20",
+  "matchup": "Enhancv vs ResumeGenius",
+  "final_choice": "Enhancv",
+  "transcription": "Otter.ai transcript produced by the research agency",
+  "duration": "54:40",
+  "note": "Automatic transcription, lightly structured: speaker labels mapped to Interviewer or Participant; names, employers, schools, places, contact and login details replaced with [... redacted] tags. Wording is otherwise unedited, including transcription errors (for example 'Enhance CV' for Enhancv).",
+  "turns": [
+    {
+      "time": "00:02",
+      "speaker": "Interviewer",
+      "text": "So before we get a look at the first tool, how complete would you say your current resume feels to you?"
+    },
+    {
+      "time": "00:07",
+      "speaker": "Participant",
+      "text": "I've actually updated it fairly recently. I would say it's, yeah, it's in good shape, awesome."
+    },
+    {
+      "time": "00:13",
+      "speaker": "Interviewer",
+      "text": "And when you do picture, when you picture a resume that like you feel confident sending what matters most to you, to have in there."
+    },
+    {
+      "time": "00:20",
+      "speaker": "Participant",
+      "text": "What matters most to me is that it's pretty clean, elegant. I don't like resumes I've hired people before, and generally speaking, I don't like a resume that is too flashy or has, you know, tons of like graphic elements or even those are, those are fine. But what I want is some narrative of someone's experience and for it to feel reasonably tailored to the job that I'm hiring. Like, resume is a resume. But if they've, you know, beyond a cover letter, if they've shown the time to, like, really highlight a line or two in in their experience that really ties to exactly what I'm looking for, that that stands out."
+    },
+    {
+      "time": "01:00",
+      "speaker": "Interviewer",
+      "text": "Okay, great. And what's your industry?"
+    },
+    {
+      "time": "01:03",
+      "speaker": "Participant",
+      "text": "I'm in digital advertising. I'm in sales. Previous to that, I was on the other side. I worked in an advertising agency buying media and running digital advertising campaigns."
+    },
+    {
+      "time": "01:17",
+      "speaker": "Interviewer",
+      "text": "Okay, cool. Well, we're gonna move forward now to the tool, I'm going to drop in the chat a link, and then my account details. You'll be using that, and if you can just share your screen moving forward so I can follow along with you. Sure thing. Thanks. I let me know. If you can't see my screen,"
+    },
+    {
+      "time": "01:49",
+      "speaker": "Participant",
+      "text": "I can see it now. Yes, great. Thank you. See here, I'm gonna open that back up so I can find the going to enhance C is that? How you say it? Yes, like enhance CV, ah, I get it."
+    },
+    {
+      "time": "02:22",
+      "speaker": "Interviewer",
+      "text": "I Yeah. And are you interested in feedback on like user design, user experience interface, or is it more just like the basic, like the essential functionality of like usability, usability, mostly, and but yeah, if you have some suggestions on design here we'll go straight to login, by the way, just so you know, because I want to make sure you get into my account. But yeah, about like how your experience is. I I'm getting an incorrect email with password. Yeah, that's you're supposed to put my email."
+    },
+    {
+      "time": "03:15",
+      "speaker": "Participant",
+      "text": "Oh, sorry. Let me read that to me so I don't have to open the chat again."
+    },
+    {
+      "time": "03:19",
+      "speaker": "Interviewer",
+      "text": "Yeah. So it's if you can you see my name in the zoom. It's my last name. Says [name redacted], [name redacted], [name redacted] with 1l so [name redacted], [contact details redacted]. And yeah, you forgot the ad sign [contact details redacted], and then the password is [login details redacted] second, I'm getting a little spinny thing. That's weird. I and I'm sorry, what was that password? Again, [login details redacted], that should do it. Thank you. Yeah, problem, okay, and once we get in there, you'll see an upload Resume button exactly, and then you upload it there. And then, from this point, moving forward, I won't really be guiding you, but like, if you got stuck on something, have a question. Can be free to ask me. So as a call out, this is"
+    },
+    {
+      "time": "04:38",
+      "speaker": "Participant",
+      "text": "probably going to be different from people, but I generally wouldn't import my LinkedIn profile. LinkedIn profile. I feel like my resume, like I said, I try to tailor my resume to at least the sort of category that I'm working in as much as possible. Right? Resume is gonna be a little more on point. I. Imported that as a doc file. Generally speaking, I find that sometimes if you import a PDF, it breaks stuff like PDFs externally facing, like that's what I tend to send, not what I tend to work in a tool like this with content issue detected, interesting, not really sure what the content problems are. Okay, would be nice to say, like, a quick summary of what it saw that is an issue, because that I would be afraid to say, like, fix it with AI without knowing right what it's going to is it going to change something, and I have to go find it and do it again. I use a lot of AI tools, but I don't have a ton of trust. That's fair. So I'm reading this just kind of line by line. I like that. There's like a block here. It's interesting how this is formatted."
+    },
+    {
+      "time": "06:22",
+      "speaker": "Interviewer",
+      "text": "It yes, this is the default template. You can change templates, though. Do"
+    },
+    {
+      "time": "07:01",
+      "speaker": "Participant",
+      "text": "it didn't pull in some formatting I'm noticing here all of these news outlets from my PR days should be italicized. Okay? It looks like it checked for consistency. It took the periods off of the end of all of these, which is technically the right way to format it. This is interesting. So it's asking me, or it's suggesting these changes. I don't know. Is it seems like general feedback?"
+    },
+    {
+      "time": "08:31",
+      "speaker": "Interviewer",
+      "text": "Okay? It seems like like"
+    },
+    {
+      "time": "08:37",
+      "speaker": "Participant",
+      "text": "me using this. If I was thinking about, like, Okay, do I want to customize my, my template resume, I'd be customizing it for the job that I'm applying to based on the description or anything that I want to emphasize. So like, this is helpful, but if it would be interesting to know if, like, if the AI was reading the job description of the job that I'm applying for and making these recommendations based on that specifically, like, what I should emphasize"
+    },
+    {
+      "time": "09:05",
+      "speaker": "Interviewer",
+      "text": "that actually is an option. So if you go to ATS check on the top, you can import a job application, like, oh, no, no. So do you see where it says, improve tax ATS, check, rearrange. Got it? Yes. Oh, that's really cool. I had no idea that was there. Oh, okay, so would you like it to be more clear? Like, have those maybe"
+    },
+    {
+      "time": "09:27",
+      "speaker": "Participant",
+      "text": "absolutely, that is, that's, I mean, that's the thing that takes a ton of time, is like, you want to turn in a good resume that is as customized to the job you're applying to, but you're if you're applying to a number, especially if you're, like, unemployed at the time, like, you just got laid off or something. You're applying a lot at high volume, you still want to do a good job. And like, you know this is your professional name you're putting out there. So like, you want to show that you're making an effort. If, if that was a call out and it was saying, Hey, I'm. Yeah, if I knew that the AI was making recommendations in terms of the specific job that I'm applying for and like the actual like, what's in the job description, that would be these would make a ton more sense."
+    },
+    {
+      "time": "10:13",
+      "speaker": "Interviewer",
+      "text": "Okay, well, if you want to check out how that is, you can do a quick Google search on a job that's relevant to you, and just copy and paste that in there. Yeah, let's try that out. Do I'm just gonna pick job at OpenAI. Yeah, it doesn't have to be perfect, just something relevant, yeah, sure, sure. So I'm looking for"
+    },
+    {
+      "time": "12:07",
+      "speaker": "Participant",
+      "text": "so I'm guessing you can import job descriptions into this, or get a feed or something well."
+    },
+    {
+      "time": "12:10",
+      "speaker": "Interviewer",
+      "text": "So those are like, if you go out of that, you would just copy and paste the press on the left hand side, because those are ones that people have put in previously in other calls that I've had. So you would have to get out of that, because in the box on top is where you copy and paste the description Exactly. So now just press Continue. Oh, do you just put the link for this one you'd like? Do have to copy and paste the description or, I guess not. Maybe the link works too. They made some changes. Okay, so you got a view suggestion. I think that that worked, because I know that you can do that once you're in the left hand side. It just hadn't seen it done that way before. I Okay, this is weird, so it didn't you do have to copy and paste the description, but it's good to know that you would rather just do the link. Yeah, totally okay."
+    },
+    {
+      "time": "13:36",
+      "speaker": "Participant",
+      "text": "Let's just try something like this. Do why LinkedIn is taking so long. Okay, that's crazy people."
+    },
+    {
+      "time": "14:25",
+      "speaker": "Interviewer",
+      "text": "Yeah, so you can just open it right there, and then when it opens on the right hand side, copy and paste."
+    },
+    {
+      "time": "14:41",
+      "speaker": "Participant",
+      "text": "Just kind of thinking out loud here. But do you plan on having, like, a browser extension that can pull like, if I'm going, if I'm looking at, like, a big job board, and I want why it's not letting me click"
+    },
+    {
+      "time": "14:58",
+      "speaker": "Interviewer",
+      "text": "into this so they're actually. Is, like, there's jobs on the board. It's just that wasn't really my assignment to show you that part, just the resume situation. That's why I had you guys do like, a Google search. But just for the sake of time, maybe if this isn't working, we can just so you see how it works, use one of the jobs that somebody has put up previously. So go back Correct. Do you think maybe your browser is busy because of like all your tabs? Close those out. I don't think, actually maybe because we've already uploaded one, you would, oh, yeah, you'd go to add another job. Okay, customize for another job. Is what you would press. And then search Exactly. So you can just select either one of those to see what comes up."
+    },
+    {
+      "time": "15:58",
+      "speaker": "Participant",
+      "text": "Implementation Specialist, I know what that is. Oh, this is cool. This kind of lands, exactly where I would think it would. I yeah, I can tell that it's scraping keywords That's tricky. When I see stuff like supported or just common, just common words like SQL, Python, access, like that's very important to know that's like, clear stuff that this resume needs to communicate. But like communication or supported or questioned or oriented or gathered, streamlined, improved, that's those are like, that's just common English that's going to appear in just about every, every resume. Yeah, I'm not sure how helpful that feels. But like, when it gets to like specific tools that this needs to show that I've used, or like more, if it was thinking like iterative, like iterative user service design, like, if they're looking for someone with that quality, like, who does that iteratively, as opposed to some other sort of framework for it, like that, would tell me a lot that, and I would hone in on that. But if it's just like, question Orient, that's that I don't know, that seems less, less important, tailored title, make shorter. This totally resonates with me, because I'm like, kind of long winded when I write spelling, grammar, you mistakes. I like that. I so when this is well supported, can it take me to, oh, okay, this, like, this gray text, there's no when I when I hover over this arrow, it doesn't like, make it clear that I'm going to be able to go see the mistake in the in the context of the"
+    },
+    {
+      "time": "18:22",
+      "speaker": "Interviewer",
+      "text": "text, yeah, it's right. I It's right there and highlighted in red, well supported. Yeah, see it? Okay, but I see what you mean. Okay, so that's weird. Like, I'm sure it's probably just"
+    },
+    {
+      "time": "18:38",
+      "speaker": "Participant",
+      "text": "because this isn't still in, like, a production environment, but, like, I got the hover state for got the hover state for a second right here. Zero turns to a hand and like, I never, yeah, oh, so you think I see what you're saying. Okay, yeah. It's like, it's not a there's no it doesn't feel clickable. That's good to know I've been sending with that mistake the entire time."
+    },
+    {
+      "time": "19:12",
+      "speaker": "Interviewer",
+      "text": "Yeah, well, now that, like, you've gotten a good sense of this, just because we only have a couple more minutes more for like, this tool, if you can go to like, rearrange templates and design and fall because these are just improving text. Now we don't need to go through all of them. But did you find that helpful?"
+    },
+    {
+      "time": "19:35",
+      "speaker": "Participant",
+      "text": "I did find that helpful. This, this just wireframe is interesting. It would be cooler if it like rendered the actual content of the resume so I could see what it would look like. I realized it's probably not super easy to do. I. But it feels a little abstract, okay, like I know that I'm not going to like this because this is just going to be like a hanging two thirds of a page. New editing. Oh, so this actually shows, oh, okay, these are templates. Never mind. But still, that's a lot more helpful. Like versus the wireframe. This gives me a clear sense of, like, how this is going to lay out. Okay, I'm just going to go with a classic. I like this. So I like this formatting the Ivy League. It got a bunch of stuff wrong the content, yeah, so, like it pulled in one of my clients was [company name redacted], but it's pulled that in as the company I see in the given text. But overall, like, that's super helpful. I like this formatting a lot. Can I download this? Yes, this one you can download."
+    },
+    {
+      "time": "21:33",
+      "speaker": "Interviewer",
+      "text": "Yeah, the following one we use of free version, so you would have to count, yeah."
+    },
+    {
+      "time": "21:42",
+      "speaker": "Participant",
+      "text": "By the way, is this in beta already, like out on this is in use? Yeah, okay, cool."
+    },
+    {
+      "time": "21:52",
+      "speaker": "Interviewer",
+      "text": "So there's different subscription models that are available to the public. Branding that's interesting, yeah, that's, that's, if you wanted to add the enhanced CV branding, it shows up at the bottom of the page. Okay, well, we can backtrack about the templates. I would like to know if they're more modern or better than what you would get in Word specifically,"
+    },
+    {
+      "time": "22:50",
+      "speaker": "Participant",
+      "text": "yeah, they are. I'm I should caveat that I'm someone who is like, I like, a very straightforward resume like this. Just a kind of classic look. Yeah, I am impressed by how this looks. It must be cool if this popped out, by the way, like so I could actually read it in the example. Just great example. It definitely does look better. It looks more varied, and it's also just cleaner than what I see in Word, cool."
+    },
+    {
+      "time": "23:33",
+      "speaker": "Interviewer",
+      "text": "And what did you think about the amount of flexibility the tool gave you when you were making edits? I felt it"
+    },
+    {
+      "time": "23:40",
+      "speaker": "Participant",
+      "text": "was, I felt it was flexible. It directed me to a certain degree, to like what I should be doing. Look at how, like, you know, like, if you pick something, it was pretty sequential. I think part of that might have been our walkthrough, right? That determines that. But it, I understood how it worked generally. I think for me, the only friction was really understanding, like, why it's making the suggestions it's making. After we plugged in that job description, it totally made sense."
+    },
+    {
+      "time": "24:09",
+      "speaker": "Interviewer",
+      "text": "Okay, and did you think that the tool did a good job in validating that your resume is strong"
+    },
+    {
+      "time": "24:18",
+      "speaker": "Participant",
+      "text": "when we were looking at the digital media sales position. Yes, it was harder to tell, just because what the second one we did was implementation specialist. And I didn't actually read the job description. Implementation specialist does, and I think, like, I think it gave it like 73% as a match, which feels like I have enough generalist skill along the lines of implementation that it that that makes sense. But there's a lot of like specialty stuff to that job that I imagine was in the posting that that isn't in here, so that felt accurate. It's clearly scraping keywords. Um. Um, or it feels like it's scraping keywords. Like, when we looked at the suggested edits for implementation specialists, there was a lot of just, like, General English terms you would use conversationally, or at least, like in in the context of a of a job application and a resume that just didn't like, that didn't feel super helpful, like that's just a word that's in here that's also in the job description, or that's a word that's missing, that's in the job description, that's missing from here. But that doesn't necessarily mean it needs to just parrot the description completely. And in fact, if anything, I would want it to, in some cases, to not, and for this to be pretty distinct in the way that I speak. So yeah, it definitely felt like it was just kind of scraping the text more than thinking super critically. But there were other there were other situations where, like the conciseness or the wording felt like it was really thoughtfully thinking about the job description that I'm applying for and what my resume does or doesn't have for that, like, especially when it's suggesting changes to the text, like, significant changes to the text, not just words that are missing, right?"
+    },
+    {
+      "time": "26:11",
+      "speaker": "Interviewer",
+      "text": "And what did you like about the experience?"
+    },
+    {
+      "time": "26:15",
+      "speaker": "Participant",
+      "text": "It seems pretty clean. It seems pretty pretty simple. I imagine there probably would have been, like, a get been, like, a GET STARTED sequence or tour, if I just set this up, tour would have been or you would have expected that in the beginning, yeah, I just bought this, or licensed this, like or use the free version, just out off, out on the street. Yeah, I but I would, I would guess that that's probably part of the experience for someone who's for someone who's just doing that organically it. But once, once I was in it. I mean, all of these like this, this layout, all makes sense, with the exception of, like, a tooltip for branding. Yeah, I would want to know that enhanced CV is putting their mark at the bottom of my thing that's pretty important. And like, I don't just to be very candid. I don't want people that I'm sending this to to know that it went through an AI that's equipped tool. So like, that feels a little Not, not like skeevy, but like, why would I even want to do that, unless it's giving money off the price or something."
+    },
+    {
+      "time": "27:33",
+      "speaker": "Interviewer",
+      "text": "I just think, do, like, then, then you have the option to turn it off instead of it."
+    },
+    {
+      "time": "27:41",
+      "speaker": "Participant",
+      "text": "Just, yeah, I definitely, I'm not, like, it didn't make me mad or anything, but it just knowing that it's going, like, when it says branding, it's like, Oh, is that, like, my personal branding, that I upload that when I got started. And that's actually true for especially, like, I have a small freelance practice in addition to my job, okay, I have a brand for that, and I would, I would be thinking that, not like I see the mark here. So I guess it makes more sense, and I can put two together. But it didn't jump out to me at first, right? The other thing that I noticed that just there seemed to be not friction, but, like, I didn't know about the ATS check thing. I don't know what ATS means, or what it stands for, um, applicant tracking system. Applicant Tracking System got it. I don't know if that's like, a common, a commonly known term out in the world. I'm, like, old and kind of out of touch in some ways, and I haven't really, like, had to apply for a job for a couple of years, so that maybe, pardon, a caption, maybe to have there, yeah, absolutely, a cat, yes, a caption would, would totally do the trick and just make it like chunkier, make it bigger. That's an important like. The biggest feature of this tool is the fact that it's putting your resume into conversation with the job that you're applying to based on the job description, and that that's where I feel like I'm getting value and efficacy out of the AI. Piece of it is that it's making those connections and like doing what AI does, which is just, you know, compare pieces of information and think like a reasonable human would do, but like a kind of quantum speed, right? And that's, that's where I feel like this is saving me a lot of time and a lot of effort. I still feel like I'm going to have to check the work, but I think any reasonable person would do that with any tool, not just an AI model, but not, but knowing that that does that and that that's a feature that's huge. So like, if there's a, if there's like a tour, or like a GET STARTED sequence, or something like that, that's like, the first thing that should jump out to people, because it's if I if, like, this cost money and didn't have, like, a free version, I would that. That is the thing that would make me pay for a subscription. Now, I totally"
+    },
+    {
+      "time": "30:05",
+      "speaker": "Interviewer",
+      "text": "agree with that suggestion. I think the ATS is very valuable, so having that bigger is a great idea."
+    },
+    {
+      "time": "30:15",
+      "speaker": "Participant",
+      "text": "Just totally like, I'm actually kind of curious as like, I wouldn't think that that might make sense to have first and before improved text. It just seems like the first thing I would do is the order got it in. The first thing I want the AI to be doing is looking at the job that I'm applying to and thinking about what my resume lacks, right improved text like that's like when I QA the thing."
+    },
+    {
+      "time": "30:44",
+      "speaker": "Interviewer",
+      "text": "Okay, well, let's move on now to the second tool. I put the link in the chat and like I said, before we're gonna we want to look at the free version. So in the homepage, you'll be able to see an upload my resume button. If you have trouble opening zoom again, though, I can just tell you what it's called. It's called resume genius. Yeah, let's just do that so it'd be resume genius.com. Do you want me to leave the you can for now? Yes, because we'll go into some comparison questions after and if you need this for reference, yeah, that's totally fine. I Okay, I just want to make sure it's the right one. Yes, perfect. Okay, so here you go to upload my existing resume. Should I log in first? Or no, you don't log in. We're gonna be looking at the free version, so you'll just go straight there. Oh, so this is the free version of it. Again, CV, I got no this is a totally different tool. Sorry if I wasn't clear about that. This is one. This one is called resume genius. So after like, you take a look at this, then we'll compare the both of them. Perfect. Yes, and this one has a sort of step by step flow, if you can just follow along with that, I will be right back. Take your time. Thank you. Okay, I'm back, and I'm actually this part. You press Continue. I know some is the blinking icon. Did that make you think that you were supposed to wait in here?"
+    },
+    {
+      "time": "33:51",
+      "speaker": "Participant",
+      "text": "No, I actually I was waiting for you to get back because I just wanted to mention that this has just jumped out at me, that this feels a lot more like it's prescriptive. It's walking me through what's going to happen, which I didn't see in the other version."
+    },
+    {
+      "time": "34:05",
+      "speaker": "Interviewer",
+      "text": "Okay, yes, do you prefer a sort of step by step flow rather than the previous just dragging and dropping?"
+    },
+    {
+      "time": "34:14",
+      "speaker": "Participant",
+      "text": "If it's the first time I'm using a tool, I don't need hand holding, but I just need a road map for what I'm going to do, and that's also telling me, like, Can I do this, like, while I'm having a coffee break and I've muted my slack for 10 minutes, and can I knock that out? Versus like, Okay, what is this an open ended commitment of time? And, you know, it helps me just plan out, like, Okay, do I want to take this on now? And this is super concise and super this tells me what it does, how it works. Review each section, I immediately have a sense of like, okay, for the first time using this, I'm I know how much time it's going to take me, just to get to know it. Okay, cool. Brought you here today. I love this. I. Some of this stuff. Like, what happens if I click this like, get professionally written content from my resume. Is that going to say? Like, we'll connect you to a resume writer or or check my resume for his quality. Obviously makes sense. Get a new resume template. Is, am I browsing from templates? Is it suggesting a template? Is just going to drop it into it, the template that it thinks is best, or something update my resume? Makes sense. Other reason when I click that because I'm curious,"
+    },
+    {
+      "time": "35:33",
+      "speaker": "Interviewer",
+      "text": "yeah, just to be fair, I think that this page is more of like for them to understand why people are coming there you will get the same experience, or what you pick. Yeah, I think it's a research thing that makes more sense. Yeah, right? I'm gonna close out some tabs, worries why this is running so slowly. Okay. Resume, imported, successfully. The little gift thing here i Yeah,"
+    },
+    {
+      "time": "36:44",
+      "speaker": "Participant",
+      "text": "just feels weird. Usually those are like, you know, it's like a loading message, so seeing at 100% just not, not a big thing, but just create a little dissonance for me. Okay, so like the other one, this feels more like a pure resume editor, and I that's fine. You know, it's probably, it tells me like it's they put together a website. It's probably better than just throwing it into, like, Claude or chat GPT or something, yeah, asking for feedback. It, I don't know if it even has the feature the other one had where it's actually, like customizing your resume for a specific job posting, but if it does, I totally don't know that it does that here,"
+    },
+    {
+      "time": "37:43",
+      "speaker": "Interviewer",
+      "text": "okay, I mean, it doesn't, at least, okay. You can skip this for now, by the way. Okay, yeah, this is fine. I mean, it's"
+    },
+    {
+      "time": "38:11",
+      "speaker": "Participant",
+      "text": "let's responsibilities. This feels like it's for someone who's writing a resume for the first time. Okay, like I have a resume solid. I've been in my industry for like, 20 years, yeah, like this just seems like, like this is like an editing tool. It's not giving me suggestions that I can see at least"
+    },
+    {
+      "time": "38:37",
+      "speaker": "Interviewer",
+      "text": "the right are meant to be suggestions for what other people in that role see. How it says vice president, marketing, sales on the top, those are results of what they would suggest for that role."
+    },
+    {
+      "time": "38:49",
+      "speaker": "Participant",
+      "text": "That's crazy. This is written almost exactly like some of the stuff that I did. I've had past versions of this where I've literally used like this sounds interesting. Okay, that's useful. I don't know where they're saying that they would put that, by the way, but here, hold on. Let me move this. It's like leverage analytics tools to track website traffic and generate insights into customer behavior. I don't know where that went. Okay. Now I see it like, if that was highlighted, or if, like, we're looking to drop it was highlighted, I would feel a lot more comfortable, accepting recommendation. Okay? What I mean, like spearheaded rebranding initiative? Where should that go? Because I talk about branding work in like multiple sections of this resume. So it's just looks like it's just dropping them in sequence, okay, that's fine. I'm curious to see if those are reflected in the preview, because I've added those so that section is going to get really big. Okay?"
+    },
+    {
+      "time": "40:20",
+      "speaker": "Interviewer",
+      "text": "So you press Continue on the bottom or back if you're trying to get out of there, and yeah, you have to scroll all the way Down continue."
+    },
+    {
+      "time": "40:39",
+      "speaker": "Participant",
+      "text": "So at this point, I'm feeling like it's useful for me to think about just how my resume is constructed. I guess, yeah, it doesn't. It's not really like taking me anywhere or giving me, like, a clear direction on how it thinks I should improve it. It's just it was fine to get some suggested, suggested things to drop in. I would still need to, like, download the resume, look at it, or, like, look at in the preview here. And I would, I would actually probably end up downloading it, because I would want to see what it looks like. It's like a Word doc, and then decide whether or not I want to even, like, keep it. This is feeling a little just less this is like, this feels like going into LinkedIn and updating your your job history more than it does like solving a problem of making my resume significantly better, but that's just at this point in the in The user journey, or whatever got insert some licenses i Okay, this is interesting. We generated bullet points for vice president of marketing, sales. No, I read on my own, yes. Add them to me. I'd love to be able to see them. We'll see which ones did it generate? When it says we generated, what did you generate? And if it says, Yes, I had them for me, I would worry that it would like mess up my the template that I'm working from, without being able to, okay,"
+    },
+    {
+      "time": "42:29",
+      "speaker": "Interviewer",
+      "text": "yeah, did you have skills on your previous on your original resume?"
+    },
+    {
+      "time": "42:35",
+      "speaker": "Participant",
+      "text": "I didn't have a skills section. I have a tool. I have education and certifications, tools and systems skills are sort of buried into the career narrative part of my resume. So it's like, I don't have a dedicated skills section, okay? I tend to lead that like I tend to lead skills in the bullet points. So I'll start the the line with like media planning across multiple channels, with budgets over x, or something like that to as opposed to just, I don't know. I've never liked seeing a skill section just because it's feels redundant with what it's what should be in the resume, the body of the resume itself. That's fair. I've seen it on other people's resume. I totally get why they do it, and it makes sense in some cases, just for me, I I"
+    },
+    {
+      "time": "43:45",
+      "speaker": "Interviewer",
+      "text": "just, so you know, we have like, two, maybe three more minutes max in this before I get into some comparison questions, because I have another call after you"
+    },
+    {
+      "time": "43:55",
+      "speaker": "Participant",
+      "text": "got it. Use Enhanced summary. Is there anything you'd like me to hone in on with the time."
+    },
+    {
+      "time": "44:01",
+      "speaker": "Interviewer",
+      "text": "No, I just want to get to my questions. So no problem. I just like, keep on going through this. No worries. And if you have anything that pops in your head, let me know. But I just want to make sure I get into the questions."
+    },
+    {
+      "time": "44:20",
+      "speaker": "Participant",
+      "text": "Yeah, I mean, this all seems fine. It feels like, like I said, it feels like I'm just building my LinkedIn profile. I see"
+    },
+    {
+      "time": "44:29",
+      "speaker": "Interviewer",
+      "text": "it feels of the two builders. It's template design experience. Which one stands out more to you then the first one for"
+    },
+    {
+      "time": "44:40",
+      "speaker": "Participant",
+      "text": "template design and experience? For template actually, the first one had more interesting templates that it visualized more clearly, and they just looked modern. They looked high touch. This. One had fine templates to it. I felt like it was, yeah. I mean, it feels, this feels more like just a straight up, like word processing editor, than it does what the other tool turned out to be, the enhanced CV, yeah, yeah. I mean, it feels like it's an apples to oranges comparison too, because the other one was like, it was like, generative AI, it's telling me, like, Okay, here's it, it's putting it, it's putting this resume and whatever edits I make to it into the context of the job that I'm applying for where I didn't sense if that was a thing here. Yeah, this one resume genius. Just it feels fine this, this is something that I would have loved to have when I was, like, 20, and, like, getting serious about writing a good resume. You know what?"
+    },
+    {
+      "time": "45:54",
+      "speaker": "Interviewer",
+      "text": "I mean? Yeah. Okay. And what would you say? Well, do you want to take a second and look at what the result was? Yeah, yeah,"
+    },
+    {
+      "time": "46:06",
+      "speaker": "Participant",
+      "text": "oh, it's a guided tour of the resume. Okay, that makes sense. That was a dumb question. Choose the templates. I"
+    },
+    {
+      "time": "46:20",
+      "speaker": "Interviewer",
+      "text": "This is helpful. So what I'm going to do here, you mentioned earlier about wanting a guided tour."
+    },
+    {
+      "time": "46:31",
+      "speaker": "Participant",
+      "text": "Yeah, it's weird to have a guided tour in the middle of the process, but that just might be because of the interview structure, like we're going through step by step. It was like, I guess if you're going to do a guided tour when you're looking at the actual like formatting the final resume, I would think that there would be a guided tour the very beginning of the setup, right? That's helpful."
+    },
+    {
+      "time": "47:07",
+      "speaker": "Interviewer",
+      "text": "Well, yeah, take a look at that and then I'm hitting spell check not doing anything. Okay. Well, while that's loading, what would you say was the difference between the amount of freedom each tool gave you when you were working on your resume?"
+    },
+    {
+      "time": "47:51",
+      "speaker": "Participant",
+      "text": "That's a hard question to answer, because, well, okay, the first one enhanced CV overall felt like it was, it was on task like, I'm it's gonna, I'm gonna customize my resume for this, this thing and this AI, the AI thinking felt a lot more muscular. Resume genius was helpful for just writing a resume and maybe improving a resume. These templates are black and white. They're kind of whatever. The first one looked more modern. The first one just felt more modern. Generally, resume genius has better layout and like the text is bigger. I know what everything means. It uses very simple language. It's not like abbreviating things like ATS, but and like, it's more, you know, it's colorful, it's I like, that's also kind of a personal preference. I like, like, big, chunky buttons. I'm kind of an old dude. So, like, so many websites were sort of built with that, that esthetic 10 years ago that I used all the time. So maybe I'm just used to that the the actual user interface of enhanced CV wasn't as just stupid simple as resume genius, but enhance CV clearly does more and is a little more, not a little more. It's a lot more, I would say valuable. If I was on the job hunt, like, like, it's it resume, a genius feels like, okay, it's fine. It's gonna, like, help me freshen up my templates, enhanced CV was like, I'm going to, like, triple the number of high quality applications that I submit, because that's the thing, right? If you're looking for work, if you're motive, if you're a motivated person looking for work, not someone who's just grazing and you know you might like your job, but you're saying if there's something better out there, and you really needed to get. Volume out towards some jobs that you were interested in. Like, you came in with, like, Okay, I need to get knock out 10 applications today, and I only have a couple hours. Like, I feel like enhanced CB is it does that, whereas, like, resume builder is just going to help me sort of tweak the resume, and it looks like maybe help me write a cover letter that's useful, that's still once I'm doing this, and I've gone through it a few times, but the big the friction for me is, like, the promise, like, in getting in learning a new tool, like resume builder, like, if it's just going to help me kind of give me some suggestions and help me workshop my resume, that's fine. I don't even know if that feels like, like I said, I could, like, toss this resume into like Claude and ask for suggestions, as opposed to the templates are like the thing that, I guess, add value on top of that, but it doesn't feel like it's gonna like it doesn't feel like it's doing anything groundbreaking, whereas enhanced CV feels like it's helping me get a lot more done in a pretty quality way."
+    },
+    {
+      "time": "51:03",
+      "speaker": "Interviewer",
+      "text": "Great. And so if you had one more hour to work on both of these, which one do you think would produce a resume that's more likely to impress a recruiter?"
+    },
+    {
+      "time": "51:13",
+      "speaker": "Participant",
+      "text": "I think enhanced CV because the one the templates were more modern, they were I didn't love all of them, but I felt like there were also just more options. Okay, they definitely had, like, a range of styles, right? Like, these are all fine. These are all, like, what I'm seeing here in resume genius. These are all resume formats that I've seen. Yeah, they're good. They're of quality. I'm not really super worried about formatting. I'm more concerned with content when I'm looking at someone else's resume, like when I'm making a hire. But the the sort of the design esthetics of the resumes in enhanced CV felt new. They felt interesting. There was one that was, I think it was called, like, high performer or something like that, that had like, like a, like, a wheel chart that I'm probably breaks down to, like stuff they've accomplished, or like revenue that they've driven, or something like that. At the bottom that I like, that's like, that's the thing I like. I would have to figure out how to, it would take me a long time to figure out how to do that in whatever program, or, like, you know, with with Word or PowerPoint or or whatever I'm using just to drop that on. So that's, that's cool, that felt they just, they felt more valuable."
+    },
+    {
+      "time": "52:29",
+      "speaker": "Interviewer",
+      "text": "Great. That's good to know. Um, and did either the tools make you rethink how you tell your professional story? Then,"
+    },
+    {
+      "time": "52:42",
+      "speaker": "Participant",
+      "text": "no. No, I feel like my sort of professional narrative comes. I know what I want it to be. I would say enhanced CV helped me think about how I tell that story in the context of the job that I'm applying to a little bit better. That's fine, too, and kind of what to what's already in it that I should emphasize, or some changes that I should make, but at the end of the day, like, my story is my story, right? Like it's,"
+    },
+    {
+      "time": "53:14",
+      "speaker": "Interviewer",
+      "text": "yeah, that's a totally fair response. Well, is there anything else that you would like to add for, like, on your experience, anything that's come to mind."
+    },
+    {
+      "time": "53:26",
+      "speaker": "Participant",
+      "text": "Use it against CV. I would, I would use it. I would consider, like, paying 10 or $20 a month to use it. It's a it seemed to have a lot more value. It had a like, we talked about, like, I like the design of resume genius better, and the overall user experience. But I feel like, if that gets fixed with enhanced CV, and it becomes just a little more like, people are dumb. I'm dumb. Everybody's done like, You got to walk people through how to use something. And, you know, it's like, that's like, the literal definition of like, pedagogy that, like an actual college professor once told me, it's like, tell them what you're going to teach them, teach them, tell them what you taught and and that if that was a part of the enhanced CV experience, at least in like, the first time I used it, then I feel like I'm going to go, I'm going to knock out like 40 resumes in a day with something like that. And that is totally, totally justifies my spending my precious dollars on one more software as a service subscription. You know what I mean?"
+    },
+    {
+      "time": "54:27",
+      "speaker": "Interviewer",
+      "text": "Yeah, definitely. Okay. Well, thank you so much. That's our time. But I really appreciate the feedback you gave, and hope you have a great rest of your day. Thanks so much. Thanks. Bye. Take care."
+    }
+  ]
+}

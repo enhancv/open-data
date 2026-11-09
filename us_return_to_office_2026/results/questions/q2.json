@@ -1,0 +1,909 @@
+{
+  "survey": "us_return_to_office_2026",
+  "id": "Q2",
+  "question_prompt": "Do you believe this mandate is a \"Stealth Layoff\" designed to make people quit so the company can avoid paying severance?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "Yes, I'm certain",
+        "count": 251,
+        "pct": 25.1,
+        "weighted_pct": 24
+      },
+      {
+        "answer": "I suspect so",
+        "count": 466,
+        "pct": 46.6,
+        "weighted_pct": 46.4
+      },
+      {
+        "answer": "No",
+        "count": 187,
+        "pct": 18.7,
+        "weighted_pct": 19.6
+      },
+      {
+        "answer": "Not sure",
+        "count": 96,
+        "pct": 9.6,
+        "weighted_pct": 9.9
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 396
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 82,
+            "pct": 20.7,
+            "weighted_pct": 21.9
+          },
+          {
+            "answer": "I suspect so",
+            "count": 195,
+            "pct": 49.2,
+            "weighted_pct": 47.7
+          },
+          {
+            "answer": "No",
+            "count": 72,
+            "pct": 18.2,
+            "weighted_pct": 18.1
+          },
+          {
+            "answer": "Not sure",
+            "count": 47,
+            "pct": 11.9,
+            "weighted_pct": 12.3
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 604
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 169,
+            "pct": 28,
+            "weighted_pct": 26.2
+          },
+          {
+            "answer": "I suspect so",
+            "count": 271,
+            "pct": 44.9,
+            "weighted_pct": 45.1
+          },
+          {
+            "answer": "No",
+            "count": 115,
+            "pct": 19,
+            "weighted_pct": 21.2
+          },
+          {
+            "answer": "Not sure",
+            "count": 49,
+            "pct": 8.1,
+            "weighted_pct": 7.5
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 56
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 20,
+            "pct": 35.7,
+            "weighted_pct": 39.5
+          },
+          {
+            "answer": "I suspect so",
+            "count": 30,
+            "pct": 53.6,
+            "weighted_pct": 51.4
+          },
+          {
+            "answer": "No",
+            "count": 5,
+            "pct": 8.9,
+            "weighted_pct": 7
+          },
+          {
+            "answer": "Not sure",
+            "count": 1,
+            "pct": 1.8,
+            "weighted_pct": 2.1
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 225
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 68,
+            "pct": 30.2,
+            "weighted_pct": 31.7
+          },
+          {
+            "answer": "I suspect so",
+            "count": 114,
+            "pct": 50.7,
+            "weighted_pct": 50.6
+          },
+          {
+            "answer": "No",
+            "count": 30,
+            "pct": 13.3,
+            "weighted_pct": 11.9
+          },
+          {
+            "answer": "Not sure",
+            "count": 13,
+            "pct": 5.8,
+            "weighted_pct": 5.8
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 342
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 110,
+            "pct": 32.2,
+            "weighted_pct": 30.5
+          },
+          {
+            "answer": "I suspect so",
+            "count": 159,
+            "pct": 46.5,
+            "weighted_pct": 47.2
+          },
+          {
+            "answer": "No",
+            "count": 44,
+            "pct": 12.9,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "Not sure",
+            "count": 29,
+            "pct": 8.5,
+            "weighted_pct": 8.8
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 224
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 38,
+            "pct": 17,
+            "weighted_pct": 16.9
+          },
+          {
+            "answer": "I suspect so",
+            "count": 103,
+            "pct": 46,
+            "weighted_pct": 46
+          },
+          {
+            "answer": "No",
+            "count": 56,
+            "pct": 25,
+            "weighted_pct": 25.4
+          },
+          {
+            "answer": "Not sure",
+            "count": 27,
+            "pct": 12.1,
+            "weighted_pct": 11.7
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 142
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 14,
+            "pct": 9.9,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "I suspect so",
+            "count": 56,
+            "pct": 39.4,
+            "weighted_pct": 40.2
+          },
+          {
+            "answer": "No",
+            "count": 48,
+            "pct": 33.8,
+            "weighted_pct": 33.2
+          },
+          {
+            "answer": "Not sure",
+            "count": 24,
+            "pct": 16.9,
+            "weighted_pct": 17.2
+          }
+        ]
+      },
+      {
+        "group": "65+",
+        "base": {
+          "n": 11
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 1,
+            "pct": 9.1,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "I suspect so",
+            "count": 4,
+            "pct": 36.4,
+            "weighted_pct": 36.4
+          },
+          {
+            "answer": "No",
+            "count": 4,
+            "pct": 36.4,
+            "weighted_pct": 36.4
+          },
+          {
+            "answer": "Not sure",
+            "count": 2,
+            "pct": 18.2,
+            "weighted_pct": 18.2
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 209
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 50,
+            "pct": 23.9,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "I suspect so",
+            "count": 87,
+            "pct": 41.6,
+            "weighted_pct": 38.9
+          },
+          {
+            "answer": "No",
+            "count": 50,
+            "pct": 23.9,
+            "weighted_pct": 28.7
+          },
+          {
+            "answer": "Not sure",
+            "count": 22,
+            "pct": 10.5,
+            "weighted_pct": 12.6
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 107
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 29,
+            "pct": 27.1,
+            "weighted_pct": 28
+          },
+          {
+            "answer": "I suspect so",
+            "count": 41,
+            "pct": 38.3,
+            "weighted_pct": 38.1
+          },
+          {
+            "answer": "No",
+            "count": 24,
+            "pct": 22.4,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "Not sure",
+            "count": 13,
+            "pct": 12.1,
+            "weighted_pct": 11.1
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 76
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 17,
+            "pct": 22.4,
+            "weighted_pct": 22.4
+          },
+          {
+            "answer": "I suspect so",
+            "count": 29,
+            "pct": 38.2,
+            "weighted_pct": 35.8
+          },
+          {
+            "answer": "No",
+            "count": 18,
+            "pct": 23.7,
+            "weighted_pct": 25.7
+          },
+          {
+            "answer": "Not sure",
+            "count": 12,
+            "pct": 15.8,
+            "weighted_pct": 16.1
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 379
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 73,
+            "pct": 19.3,
+            "weighted_pct": 18.9
+          },
+          {
+            "answer": "I suspect so",
+            "count": 210,
+            "pct": 55.4,
+            "weighted_pct": 55.7
+          },
+          {
+            "answer": "No",
+            "count": 64,
+            "pct": 16.9,
+            "weighted_pct": 16.8
+          },
+          {
+            "answer": "Not sure",
+            "count": 32,
+            "pct": 8.4,
+            "weighted_pct": 8.6
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 6
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 223
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 81,
+            "pct": 36.3,
+            "weighted_pct": 35.9
+          },
+          {
+            "answer": "I suspect so",
+            "count": 98,
+            "pct": 43.9,
+            "weighted_pct": 44.1
+          },
+          {
+            "answer": "No",
+            "count": 27,
+            "pct": 12.1,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "Not sure",
+            "count": 17,
+            "pct": 7.6,
+            "weighted_pct": 7.9
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 23,
+            "pct": 19.8,
+            "weighted_pct": 17.3
+          },
+          {
+            "answer": "I suspect so",
+            "count": 60,
+            "pct": 51.7,
+            "weighted_pct": 54.1
+          },
+          {
+            "answer": "No",
+            "count": 15,
+            "pct": 12.9,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "Not sure",
+            "count": 18,
+            "pct": 15.5,
+            "weighted_pct": 17.1
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 320
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 78,
+            "pct": 24.4,
+            "weighted_pct": 24.7
+          },
+          {
+            "answer": "I suspect so",
+            "count": 151,
+            "pct": 47.2,
+            "weighted_pct": 46.8
+          },
+          {
+            "answer": "No",
+            "count": 62,
+            "pct": 19.4,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "Not sure",
+            "count": 29,
+            "pct": 9.1,
+            "weighted_pct": 8.5
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 142
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 32,
+            "pct": 22.5,
+            "weighted_pct": 21.4
+          },
+          {
+            "answer": "I suspect so",
+            "count": 66,
+            "pct": 46.5,
+            "weighted_pct": 47
+          },
+          {
+            "answer": "No",
+            "count": 32,
+            "pct": 22.5,
+            "weighted_pct": 22.6
+          },
+          {
+            "answer": "Not sure",
+            "count": 12,
+            "pct": 8.5,
+            "weighted_pct": 9
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 13
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 2,
+            "pct": 15.4,
+            "weighted_pct": 24.7
+          },
+          {
+            "answer": "I suspect so",
+            "count": 6,
+            "pct": 46.2,
+            "weighted_pct": 35.7
+          },
+          {
+            "answer": "No",
+            "count": 4,
+            "pct": 30.8,
+            "weighted_pct": 24.3
+          },
+          {
+            "answer": "Not sure",
+            "count": 1,
+            "pct": 7.7,
+            "weighted_pct": 15.3
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 14
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 1,
+            "pct": 7.1,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "I suspect so",
+            "count": 6,
+            "pct": 42.9,
+            "weighted_pct": 33.7
+          },
+          {
+            "answer": "No",
+            "count": 4,
+            "pct": 28.6,
+            "weighted_pct": 38.1
+          },
+          {
+            "answer": "Not sure",
+            "count": 3,
+            "pct": 21.4,
+            "weighted_pct": 23.8
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 37
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 8,
+            "pct": 21.6,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "I suspect so",
+            "count": 18,
+            "pct": 48.6,
+            "weighted_pct": 51.8
+          },
+          {
+            "answer": "No",
+            "count": 8,
+            "pct": 21.6,
+            "weighted_pct": 23.9
+          },
+          {
+            "answer": "Not sure",
+            "count": 3,
+            "pct": 8.1,
+            "weighted_pct": 7.3
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 6
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 171
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 52,
+            "pct": 30.4,
+            "weighted_pct": 30.9
+          },
+          {
+            "answer": "I suspect so",
+            "count": 77,
+            "pct": 45,
+            "weighted_pct": 45.4
+          },
+          {
+            "answer": "No",
+            "count": 28,
+            "pct": 16.4,
+            "weighted_pct": 15.8
+          },
+          {
+            "answer": "Not sure",
+            "count": 14,
+            "pct": 8.2,
+            "weighted_pct": 7.9
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 159
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 49,
+            "pct": 30.8,
+            "weighted_pct": 28
+          },
+          {
+            "answer": "I suspect so",
+            "count": 68,
+            "pct": 42.8,
+            "weighted_pct": 40.6
+          },
+          {
+            "answer": "No",
+            "count": 28,
+            "pct": 17.6,
+            "weighted_pct": 22.6
+          },
+          {
+            "answer": "Not sure",
+            "count": 14,
+            "pct": 8.8,
+            "weighted_pct": 8.7
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "None of the above/Prefer not to answer",
+        "base": {
+          "n": 4
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 17
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 5,
+            "pct": 29.4,
+            "weighted_pct": 19.3
+          },
+          {
+            "answer": "I suspect so",
+            "count": 8,
+            "pct": 47.1,
+            "weighted_pct": 50.1
+          },
+          {
+            "answer": "No",
+            "count": 4,
+            "pct": 23.5,
+            "weighted_pct": 30.6
+          },
+          {
+            "answer": "Not sure",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 227
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 43,
+            "pct": 18.9,
+            "weighted_pct": 20.5
+          },
+          {
+            "answer": "I suspect so",
+            "count": 108,
+            "pct": 47.6,
+            "weighted_pct": 46.2
+          },
+          {
+            "answer": "No",
+            "count": 49,
+            "pct": 21.6,
+            "weighted_pct": 20.8
+          },
+          {
+            "answer": "Not sure",
+            "count": 27,
+            "pct": 11.9,
+            "weighted_pct": 12.6
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 223
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 54,
+            "pct": 24.2,
+            "weighted_pct": 18.5
+          },
+          {
+            "answer": "I suspect so",
+            "count": 107,
+            "pct": 48,
+            "weighted_pct": 48
+          },
+          {
+            "answer": "No",
+            "count": 45,
+            "pct": 20.2,
+            "weighted_pct": 24.5
+          },
+          {
+            "answer": "Not sure",
+            "count": 17,
+            "pct": 7.6,
+            "weighted_pct": 9
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 381
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 109,
+            "pct": 28.6,
+            "weighted_pct": 27.5
+          },
+          {
+            "answer": "I suspect so",
+            "count": 167,
+            "pct": 43.8,
+            "weighted_pct": 44.9
+          },
+          {
+            "answer": "No",
+            "count": 65,
+            "pct": 17.1,
+            "weighted_pct": 17
+          },
+          {
+            "answer": "Not sure",
+            "count": 40,
+            "pct": 10.5,
+            "weighted_pct": 10.6
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 130
+        },
+        "cells": [
+          {
+            "answer": "Yes, I'm certain",
+            "count": 37,
+            "pct": 28.5,
+            "weighted_pct": 30.1
+          },
+          {
+            "answer": "I suspect so",
+            "count": 66,
+            "pct": 50.8,
+            "weighted_pct": 49.3
+          },
+          {
+            "answer": "No",
+            "count": 19,
+            "pct": 14.6,
+            "weighted_pct": 15.2
+          },
+          {
+            "answer": "Not sure",
+            "count": 8,
+            "pct": 6.2,
+            "weighted_pct": 5.4
+          }
+        ]
+      }
+    ]
+  }
+}

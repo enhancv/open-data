@@ -1,0 +1,245 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "questions": [
+    {
+      "id": "Q1",
+      "text": "Which industry does your organization primarily operate in?",
+      "type": "single",
+      "options": [
+        "Technology / Software / IT",
+        "Finance / Banking / Insurance",
+        "Consulting / Professional services",
+        "Healthcare / Pharmaceuticals / Life sciences",
+        "Education / Training",
+        "Manufacturing / Industrial / Engineering",
+        "Retail / E-commerce / Consumer goods",
+        "Marketing / Advertising / Media",
+        "Real estate / Construction",
+        "Hospitality / Travel / Food service",
+        "Transportation / Logistics",
+        "Energy / Utilities",
+        "Legal",
+        "Government / Public sector",
+        "Nonprofit / NGO",
+        "Telecommunications",
+        "Other"
+      ]
+    },
+    {
+      "id": "Q2",
+      "text": "How did you get your current position?",
+      "type": "single",
+      "options": [
+        "Promoted internally",
+        "Hired from another company",
+        "Founded / co-founded the company",
+        "Bought or acquired the business",
+        "Took over a family business",
+        "Other"
+      ]
+    },
+    {
+      "id": "Q3",
+      "text": "How many years into your career did you get your first leadership title (Director level or above)?",
+      "type": "single",
+      "options": [
+        "Less than 2",
+        "2–4",
+        "5–7",
+        "8–10",
+        "11–14",
+        "15–19",
+        "20+"
+      ]
+    },
+    {
+      "id": "Q4",
+      "text": "How many different employers had you worked for before that first leadership title?",
+      "type": "single",
+      "options": [
+        "None, it was my first employer",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5+"
+      ]
+    },
+    {
+      "id": "Q5",
+      "text": "Was your first leadership title at a company you already worked for?",
+      "type": "single",
+      "options": [
+        "Yes, internal promotion",
+        "No, I joined a new company for it",
+        "I founded the company"
+      ]
+    },
+    {
+      "id": "Q6",
+      "text": "How long had you been at that company before the promotion?",
+      "type": "single",
+      "options": [
+        "Less than 1 year",
+        "1–2 years",
+        "3–5 years",
+        "6–9 years",
+        "10+ years"
+      ]
+    },
+    {
+      "id": "Q7",
+      "text": "What is your highest completed level of education?",
+      "type": "single",
+      "options": [
+        "High school",
+        "Associate / diploma",
+        "Bachelor's",
+        "Master's (non-MBA)",
+        "MBA / Executive MBA",
+        "Doctorate (PhD, MD, JD, etc.)"
+      ]
+    },
+    {
+      "id": "Q8",
+      "text": "Which of these credentials do you hold?",
+      "type": "multi",
+      "options": [
+        "MBA",
+        "Executive MBA",
+        "Other master's",
+        "PMP / project management",
+        "CFA, CPA, ACCA or similar finance credential",
+        "Six Sigma / Lean",
+        "SHRM, CIPD or similar HR credential",
+        "Executive education certificate from a business school",
+        "Leadership or coaching certification",
+        "Industry technical certification (AWS, Cisco, etc.)"
+      ]
+    },
+    {
+      "id": "Q9",
+      "text": "How important were your degree and credentials in getting your current role?",
+      "type": "single",
+      "options": [
+        "Essential",
+        "Very important",
+        "Somewhat important",
+        "Not very important",
+        "Not important at all"
+      ]
+    },
+    {
+      "id": "Q10",
+      "text": "Which of the following can you do without approval from someone above you?",
+      "type": "multi",
+      "options": [
+        "Hire people",
+        "Let people go",
+        "Set or approve my team's budget",
+        "Approve spending over $10,000",
+        "Approve raises or promotions",
+        "Set my team's strategy and goals",
+        "Sign contracts on behalf of the company"
+      ]
+    },
+    {
+      "id": "Q11",
+      "text": "How many people report to you directly?",
+      "type": "single",
+      "options": [
+        "0",
+        "1–3",
+        "4–7",
+        "8–15",
+        "16+"
+      ]
+    },
+    {
+      "id": "Q12",
+      "text": "How well does your actual decision-making power match your job title?",
+      "type": "single",
+      "options": [
+        "Fully matches",
+        "Mostly matches",
+        "Partly, my title is bigger than my real authority",
+        "Barely, the title is largely symbolic"
+      ]
+    },
+    {
+      "id": "Q13",
+      "text": "In your industry, how common are leadership titles without real decision-making power?",
+      "type": "single",
+      "options": [
+        "Very common",
+        "Somewhat common",
+        "Rare",
+        "Almost nonexistent"
+      ]
+    },
+    {
+      "id": "Q14",
+      "text": "After accepting your current role, how long did it take until you had full authority and responsibilities?",
+      "type": "single",
+      "options": [
+        "Immediately",
+        "Less than 1 month",
+        "1–3 months",
+        "3–6 months",
+        "6–12 months",
+        "More than 12 months",
+        "I still don't have them"
+      ]
+    },
+    {
+      "id": "Q15",
+      "text": "What, if anything, delayed the handover?",
+      "type": "multi",
+      "options": [
+        "Predecessor was still in place",
+        "Probation period",
+        "Formal approval (board, investors, HQ)",
+        "Learning the business",
+        "Building trust with the team",
+        "Reorganization",
+        "Nothing delayed it"
+      ]
+    },
+    {
+      "id": "Q16",
+      "text": "Was there a formal transition or onboarding plan for your role?",
+      "type": "single",
+      "options": [
+        "Yes, structured",
+        "Informal only",
+        "None"
+      ]
+    },
+    {
+      "id": "Q17",
+      "text": "When you went for your first leadership role, what did you emphasize most about yourself?",
+      "type": "single",
+      "options": [
+        "Strategic thinking / vision",
+        "People leadership",
+        "Technical expertise",
+        "Revenue or business results",
+        "Education and credentials"
+      ]
+    },
+    {
+      "id": "Q18",
+      "text": "What was the single biggest factor in reaching leadership?",
+      "type": "single",
+      "options": [
+        "Performance and results",
+        "A sponsor or mentor",
+        "Staying with one company",
+        "Changing companies",
+        "Education / credentials",
+        "Timing and luck",
+        "Starting my own business"
+      ]
+    }
+  ]
+}

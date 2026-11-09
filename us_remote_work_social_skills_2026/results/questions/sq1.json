@@ -1,0 +1,578 @@
+{
+  "survey": "us_remote_work_social_skills_2026",
+  "id": "SQ1",
+  "question_prompt": "Which best describes your work arrangement over the past 12 months?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "Fully remote (zero required in-office days)",
+        "count": 744,
+        "pct": 74.4,
+        "weighted_pct": 72.6
+      },
+      {
+        "answer": "Predominantly remote (1 required in-office day per week or less)",
+        "count": 256,
+        "pct": 25.6,
+        "weighted_pct": 27.4
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 536
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 407,
+            "pct": 75.9,
+            "weighted_pct": 73.1
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 129,
+            "pct": 24.1,
+            "weighted_pct": 26.9
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 464
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 337,
+            "pct": 72.6,
+            "weighted_pct": 72.1
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 127,
+            "pct": 27.4,
+            "weighted_pct": 27.9
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 45
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 30,
+            "pct": 66.7,
+            "weighted_pct": 66.7
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 15,
+            "pct": 33.3,
+            "weighted_pct": 33.3
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 166
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 109,
+            "pct": 65.7,
+            "weighted_pct": 65.5
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 57,
+            "pct": 34.3,
+            "weighted_pct": 34.5
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 285
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 212,
+            "pct": 74.4,
+            "weighted_pct": 73.5
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 73,
+            "pct": 25.6,
+            "weighted_pct": 26.5
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 207,
+            "pct": 77.2,
+            "weighted_pct": 77
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 61,
+            "pct": 22.8,
+            "weighted_pct": 23
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 236
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 186,
+            "pct": 78.8,
+            "weighted_pct": 78.6
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 50,
+            "pct": 21.2,
+            "weighted_pct": 21.4
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 177
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 129,
+            "pct": 72.9,
+            "weighted_pct": 68.7
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 48,
+            "pct": 27.1,
+            "weighted_pct": 31.3
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 84
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 58,
+            "pct": 69,
+            "weighted_pct": 65.6
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 26,
+            "pct": 31,
+            "weighted_pct": 34.4
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 70
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 53,
+            "pct": 75.7,
+            "weighted_pct": 75.1
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 17,
+            "pct": 24.3,
+            "weighted_pct": 24.9
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 379
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 279,
+            "pct": 73.6,
+            "weighted_pct": 72.7
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 100,
+            "pct": 26.4,
+            "weighted_pct": 27.3
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 18
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 17,
+            "pct": 94.4,
+            "weighted_pct": 94.8
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 1,
+            "pct": 5.6,
+            "weighted_pct": 5.2
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 272
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 208,
+            "pct": 76.5,
+            "weighted_pct": 74.8
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 64,
+            "pct": 23.5,
+            "weighted_pct": 25.2
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 133
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 105,
+            "pct": 78.9,
+            "weighted_pct": 75.6
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 28,
+            "pct": 21.1,
+            "weighted_pct": 24.4
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 317
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 233,
+            "pct": 73.5,
+            "weighted_pct": 72.8
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 84,
+            "pct": 26.5,
+            "weighted_pct": 27.2
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 145
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 103,
+            "pct": 71,
+            "weighted_pct": 67.6
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 42,
+            "pct": 29,
+            "weighted_pct": 32.4
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 22
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 17,
+            "pct": 77.3,
+            "weighted_pct": 76
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 5,
+            "pct": 22.7,
+            "weighted_pct": 24
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 15
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 10,
+            "pct": 66.7,
+            "weighted_pct": 60.7
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 5,
+            "pct": 33.3,
+            "weighted_pct": 39.3
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 33
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 19,
+            "pct": 57.6,
+            "weighted_pct": 58.1
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 14,
+            "pct": 42.4,
+            "weighted_pct": 41.9
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 164
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 131,
+            "pct": 79.9,
+            "weighted_pct": 77.7
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 33,
+            "pct": 20.1,
+            "weighted_pct": 22.3
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 127
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 90,
+            "pct": 70.9,
+            "weighted_pct": 69.7
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 37,
+            "pct": 29.1,
+            "weighted_pct": 30.3
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 5
+        },
+        "suppressed": true
+      },
+      {
+        "group": "None of the above/Prefer not to answer",
+        "base": {
+          "n": 2
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 36
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 30,
+            "pct": 83.3,
+            "weighted_pct": 80.6
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 6,
+            "pct": 16.7,
+            "weighted_pct": 19.4
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 221
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 157,
+            "pct": 71,
+            "weighted_pct": 69.5
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 64,
+            "pct": 29,
+            "weighted_pct": 30.5
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 238
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 179,
+            "pct": 75.2,
+            "weighted_pct": 74.5
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 59,
+            "pct": 24.8,
+            "weighted_pct": 25.5
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 285,
+            "pct": 76,
+            "weighted_pct": 73.4
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 90,
+            "pct": 24,
+            "weighted_pct": 26.6
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 166
+        },
+        "cells": [
+          {
+            "answer": "Fully remote (zero required in-office days)",
+            "count": 123,
+            "pct": 74.1,
+            "weighted_pct": 72.3
+          },
+          {
+            "answer": "Predominantly remote (1 required in-office day per week or less)",
+            "count": 43,
+            "pct": 25.9,
+            "weighted_pct": 27.7
+          }
+        ]
+      }
+    ]
+  }
+}

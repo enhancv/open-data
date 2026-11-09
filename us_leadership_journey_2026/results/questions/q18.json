@@ -1,0 +1,872 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q18",
+  "question_prompt": "What was the single biggest factor in reaching leadership?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Performance and results",
+        "count": 310,
+        "pct": 62,
+        "weighted_pct": 60.2
+      },
+      {
+        "answer": "A sponsor or mentor",
+        "count": 37,
+        "pct": 7.4,
+        "weighted_pct": 7.8
+      },
+      {
+        "answer": "Staying with one company",
+        "count": 67,
+        "pct": 13.4,
+        "weighted_pct": 12.8
+      },
+      {
+        "answer": "Changing companies",
+        "count": 34,
+        "pct": 6.8,
+        "weighted_pct": 7.1
+      },
+      {
+        "answer": "Education / credentials",
+        "count": 30,
+        "pct": 6,
+        "weighted_pct": 6
+      },
+      {
+        "answer": "Timing and luck",
+        "count": 16,
+        "pct": 3.2,
+        "weighted_pct": 4.4
+      },
+      {
+        "answer": "Starting my own business",
+        "count": 6,
+        "pct": 1.2,
+        "weighted_pct": 1.6
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 120,
+            "pct": 60,
+            "weighted_pct": 57.6
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 15,
+            "pct": 7.5,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 26,
+            "pct": 13,
+            "weighted_pct": 12.2
+          },
+          {
+            "answer": "Changing companies",
+            "count": 17,
+            "pct": 8.5,
+            "weighted_pct": 8.5
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 10,
+            "pct": 5,
+            "weighted_pct": 5.3
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 9,
+            "pct": 4.5,
+            "weighted_pct": 5.7
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 3,
+            "pct": 1.5,
+            "weighted_pct": 2
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 190,
+            "pct": 63.3,
+            "weighted_pct": 63
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 22,
+            "pct": 7.3,
+            "weighted_pct": 6.9
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 41,
+            "pct": 13.7,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "Changing companies",
+            "count": 17,
+            "pct": 5.7,
+            "weighted_pct": 5.7
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 20,
+            "pct": 6.7,
+            "weighted_pct": 6.7
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 7,
+            "pct": 2.3,
+            "weighted_pct": 3.1
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 3,
+            "pct": 1,
+            "weighted_pct": 1.2
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 13,
+            "pct": 56.5,
+            "weighted_pct": 53.3
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Changing companies",
+            "count": 3,
+            "pct": 13,
+            "weighted_pct": 13.7
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 10.8
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 75,
+            "pct": 59.5,
+            "weighted_pct": 61.3
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 13,
+            "pct": 10.3,
+            "weighted_pct": 9.8
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 15,
+            "pct": 11.9,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "Changing companies",
+            "count": 8,
+            "pct": 6.3,
+            "weighted_pct": 6.6
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 11,
+            "pct": 8.7,
+            "weighted_pct": 7.7
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 3,
+            "pct": 2.4,
+            "weighted_pct": 2.3
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 1,
+            "pct": 0.8,
+            "weighted_pct": 0.8
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 96,
+            "pct": 66.7,
+            "weighted_pct": 66.7
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 8,
+            "pct": 5.6,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 18,
+            "pct": 12.5,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Changing companies",
+            "count": 12,
+            "pct": 8.3,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 7,
+            "pct": 4.9,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 1,
+            "pct": 0.7,
+            "weighted_pct": 0.6
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 2,
+            "pct": 1.4,
+            "weighted_pct": 1.5
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 92,
+            "pct": 64.3,
+            "weighted_pct": 64.1
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 8,
+            "pct": 5.6,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 22,
+            "pct": 15.4,
+            "weighted_pct": 15.7
+          },
+          {
+            "answer": "Changing companies",
+            "count": 8,
+            "pct": 5.6,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 7,
+            "pct": 4.9,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 6,
+            "pct": 4.2,
+            "weighted_pct": 4.8
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 34,
+            "pct": 53.1,
+            "weighted_pct": 52.9
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 6,
+            "pct": 9.4,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 11,
+            "pct": 17.2,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "Changing companies",
+            "count": 3,
+            "pct": 4.7,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 3,
+            "pct": 4.7,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 4,
+            "pct": 6.3,
+            "weighted_pct": 6.4
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 3,
+            "pct": 4.7,
+            "weighted_pct": 5.1
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 52,
+            "pct": 59.8,
+            "weighted_pct": 63.3
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 9,
+            "pct": 10.3,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 11,
+            "pct": 12.6,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "Changing companies",
+            "count": 5,
+            "pct": 5.7,
+            "weighted_pct": 4.5
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 7,
+            "pct": 8,
+            "weighted_pct": 7.1
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 1,
+            "pct": 1.1,
+            "weighted_pct": 0.6
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 2,
+            "pct": 2.3,
+            "weighted_pct": 2.2
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 31,
+            "pct": 63.3,
+            "weighted_pct": 55.7
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 5,
+            "pct": 10.2,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 5,
+            "pct": 10.2,
+            "weighted_pct": 7.3
+          },
+          {
+            "answer": "Changing companies",
+            "count": 4,
+            "pct": 8.2,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 2.4
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 2,
+            "pct": 4.1,
+            "weighted_pct": 7.7
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 3.7
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 24,
+            "pct": 77.4,
+            "weighted_pct": 68.6
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 3,
+            "pct": 9.7,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 1,
+            "pct": 3.2,
+            "weighted_pct": 7.6
+          },
+          {
+            "answer": "Changing companies",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 2,
+            "pct": 6.5,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 1,
+            "pct": 3.2,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 121,
+            "pct": 57.6,
+            "weighted_pct": 56.5
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 13,
+            "pct": 6.2,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 37,
+            "pct": 17.6,
+            "weighted_pct": 16.7
+          },
+          {
+            "answer": "Changing companies",
+            "count": 16,
+            "pct": 7.6,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 12,
+            "pct": 5.7,
+            "weighted_pct": 4.8
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 9,
+            "pct": 4.3,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 2,
+            "pct": 1,
+            "weighted_pct": 1.4
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 79,
+            "pct": 68.1,
+            "weighted_pct": 64.8
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 7,
+            "pct": 6,
+            "weighted_pct": 4.1
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 12,
+            "pct": 10.3,
+            "weighted_pct": 10.6
+          },
+          {
+            "answer": "Changing companies",
+            "count": 6,
+            "pct": 5.2,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 8,
+            "pct": 6.9,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 3,
+            "pct": 2.6,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 1,
+            "pct": 0.9,
+            "weighted_pct": 1.1
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 70,
+            "pct": 64.2,
+            "weighted_pct": 60.8
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 10,
+            "pct": 9.2,
+            "weighted_pct": 9.2
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 11,
+            "pct": 10.1,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "Changing companies",
+            "count": 6,
+            "pct": 5.5,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 6,
+            "pct": 5.5,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 3,
+            "pct": 2.8,
+            "weighted_pct": 3
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 3,
+            "pct": 2.8,
+            "weighted_pct": 4.3
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 61,
+            "pct": 58.1,
+            "weighted_pct": 55.7
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 12,
+            "pct": 11.4,
+            "weighted_pct": 13
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 16,
+            "pct": 15.2,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "Changing companies",
+            "count": 6,
+            "pct": 5.7,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 6,
+            "pct": 5.7,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 4,
+            "pct": 3.8,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 136,
+            "pct": 65.4,
+            "weighted_pct": 62.8
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 10,
+            "pct": 4.8,
+            "weighted_pct": 5.3
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 25,
+            "pct": 12,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "Changing companies",
+            "count": 18,
+            "pct": 8.7,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 14,
+            "pct": 6.7,
+            "weighted_pct": 6.5
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 5,
+            "pct": 2.4,
+            "weighted_pct": 4.3
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "Performance and results",
+            "count": 43,
+            "pct": 55.1,
+            "weighted_pct": 58
+          },
+          {
+            "answer": "A sponsor or mentor",
+            "count": 5,
+            "pct": 6.4,
+            "weighted_pct": 5.5
+          },
+          {
+            "answer": "Staying with one company",
+            "count": 15,
+            "pct": 19.2,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "Changing companies",
+            "count": 4,
+            "pct": 5.1,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "Education / credentials",
+            "count": 4,
+            "pct": 5.1,
+            "weighted_pct": 4.5
+          },
+          {
+            "answer": "Timing and luck",
+            "count": 4,
+            "pct": 5.1,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "Starting my own business",
+            "count": 3,
+            "pct": 3.8,
+            "weighted_pct": 4.2
+          }
+        ]
+      }
+    ]
+  }
+}

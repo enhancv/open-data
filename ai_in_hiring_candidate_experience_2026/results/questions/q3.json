@@ -1,0 +1,440 @@
+{
+  "survey": "ai_in_hiring_candidate_experience_2026",
+  "id": "Q3",
+  "question_prompt": "What is your total annual household income (or your target salary if currently unemployed)?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1066
+    },
+    "cells": [
+      {
+        "answer": "$50k – $100k",
+        "count": 409,
+        "pct": 38.4
+      },
+      {
+        "answer": "$100k – $200k",
+        "count": 305,
+        "pct": 28.6
+      },
+      {
+        "answer": "Under $50k",
+        "count": 272,
+        "pct": 25.5
+      },
+      {
+        "answer": "$200k+",
+        "count": 80,
+        "pct": 7.5
+      }
+    ]
+  },
+  "crosstabs": {
+    "professional_level": [
+      {
+        "group": "Entry-level / Individual Contributor",
+        "base": {
+          "n": 397
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 150,
+            "pct": 37.8
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 99,
+            "pct": 24.9
+          },
+          {
+            "answer": "Under $50k",
+            "count": 120,
+            "pct": 30.2
+          },
+          {
+            "answer": "$200k+",
+            "count": 28,
+            "pct": 7.1
+          }
+        ]
+      },
+      {
+        "group": "Freelancer / Gig Worker",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 36,
+            "pct": 34.3
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 19,
+            "pct": 18.1
+          },
+          {
+            "answer": "Under $50k",
+            "count": 46,
+            "pct": 43.8
+          },
+          {
+            "answer": "$200k+",
+            "count": 4,
+            "pct": 3.8
+          }
+        ]
+      },
+      {
+        "group": "Mid-level Management",
+        "base": {
+          "n": 385
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 158,
+            "pct": 41
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 147,
+            "pct": 38.2
+          },
+          {
+            "answer": "Under $50k",
+            "count": 48,
+            "pct": 12.5
+          },
+          {
+            "answer": "$200k+",
+            "count": 32,
+            "pct": 8.3
+          }
+        ]
+      },
+      {
+        "group": "Senior Executive / C-Suite",
+        "base": {
+          "n": 71
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 29,
+            "pct": 40.8
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 26,
+            "pct": 36.6
+          },
+          {
+            "answer": "Under $50k",
+            "count": 6,
+            "pct": 8.5
+          },
+          {
+            "answer": "$200k+",
+            "count": 10,
+            "pct": 14.1
+          }
+        ]
+      },
+      {
+        "group": "Unemployed / Currently seeking",
+        "base": {
+          "n": 108
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 36,
+            "pct": 33.3
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 14,
+            "pct": 13
+          },
+          {
+            "answer": "Under $50k",
+            "count": 52,
+            "pct": 48.1
+          },
+          {
+            "answer": "$200k+",
+            "count": 6,
+            "pct": 5.6
+          }
+        ]
+      }
+    ],
+    "age_group": [
+      {
+        "group": "18–24 (Early Career / Gen Z)",
+        "base": {
+          "n": 91
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 33,
+            "pct": 36.3
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 15,
+            "pct": 16.5
+          },
+          {
+            "answer": "Under $50k",
+            "count": 40,
+            "pct": 44
+          },
+          {
+            "answer": "$200k+",
+            "count": 3,
+            "pct": 3.3
+          }
+        ]
+      },
+      {
+        "group": "25–34 (Establishing Career / Late Gen Z & Millennial)",
+        "base": {
+          "n": 320
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 134,
+            "pct": 41.9
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 78,
+            "pct": 24.4
+          },
+          {
+            "answer": "Under $50k",
+            "count": 93,
+            "pct": 29.1
+          },
+          {
+            "answer": "$200k+",
+            "count": 15,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "group": "35–44 (Mid-Career / Management / Millennial)",
+        "base": {
+          "n": 353
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 134,
+            "pct": 38
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 124,
+            "pct": 35.1
+          },
+          {
+            "answer": "Under $50k",
+            "count": 64,
+            "pct": 18.1
+          },
+          {
+            "answer": "$200k+",
+            "count": 31,
+            "pct": 8.8
+          }
+        ]
+      },
+      {
+        "group": "45–54 (Senior Leadership / Gen X)",
+        "base": {
+          "n": 199
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 66,
+            "pct": 33.2
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 65,
+            "pct": 32.7
+          },
+          {
+            "answer": "Under $50k",
+            "count": 45,
+            "pct": 22.6
+          },
+          {
+            "answer": "$200k+",
+            "count": 23,
+            "pct": 11.6
+          }
+        ]
+      },
+      {
+        "group": "55+ (Executive / Late Career / Boomer)",
+        "base": {
+          "n": 100
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 39,
+            "pct": 39
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 23,
+            "pct": 23
+          },
+          {
+            "answer": "Under $50k",
+            "count": 30,
+            "pct": 30
+          },
+          {
+            "answer": "$200k+",
+            "count": 8,
+            "pct": 8
+          }
+        ]
+      },
+      {
+        "group": "Other",
+        "base": {
+          "n": 3
+        },
+        "suppressed": true
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100k – $200k",
+        "base": {
+          "n": 305
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 305,
+            "pct": 100
+          },
+          {
+            "answer": "Under $50k",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "$200k+",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$200k+",
+        "base": {
+          "n": 80
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Under $50k",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "$200k+",
+            "count": 80,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "group": "$50k – $100k",
+        "base": {
+          "n": 409
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 409,
+            "pct": 100
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Under $50k",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "$200k+",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Under $50k",
+        "base": {
+          "n": 272
+        },
+        "cells": [
+          {
+            "answer": "$50k – $100k",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "$100k – $200k",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Under $50k",
+            "count": 272,
+            "pct": 100
+          },
+          {
+            "answer": "$200k+",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      }
+    ]
+  }
+}

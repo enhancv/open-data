@@ -1,0 +1,20 @@
+{
+  "slug": "us_overemployment_2026",
+  "title": "US Overemployment and Multiple Jobs Survey, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "2026-04-08",
+  "fieldwork_end": "2026-04-15",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "population": "US workers who hold more than one job",
+  "topic_tags": [
+    "overemployment",
+    "multiple jobs",
+    "remote work",
+    "AI at work",
+    "job security"
+  ],
+  "weighting": "Each respondent carries the vendor's stratification weight (field: weight). results/ shows unweighted counts and percentages plus weighted_pct.",
+  "suppression_threshold": 10
+}

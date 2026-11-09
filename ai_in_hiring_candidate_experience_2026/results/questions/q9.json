@@ -1,0 +1,290 @@
+{
+  "survey": "ai_in_hiring_candidate_experience_2026",
+  "id": "Q9",
+  "question_prompt": "Have you ever abandoned a job application or declined an interview specifically because you were asked to complete a \"One-Way\" AI video interview or chatbot screening?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1066
+    },
+    "cells": [
+      {
+        "answer": "No",
+        "count": 731,
+        "pct": 68.6
+      },
+      {
+        "answer": "Yes",
+        "count": 335,
+        "pct": 31.4
+      }
+    ]
+  },
+  "crosstabs": {
+    "professional_level": [
+      {
+        "group": "Entry-level / Individual Contributor",
+        "base": {
+          "n": 397
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 286,
+            "pct": 72
+          },
+          {
+            "answer": "Yes",
+            "count": 111,
+            "pct": 28
+          }
+        ]
+      },
+      {
+        "group": "Freelancer / Gig Worker",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 77,
+            "pct": 73.3
+          },
+          {
+            "answer": "Yes",
+            "count": 28,
+            "pct": 26.7
+          }
+        ]
+      },
+      {
+        "group": "Mid-level Management",
+        "base": {
+          "n": 385
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 244,
+            "pct": 63.4
+          },
+          {
+            "answer": "Yes",
+            "count": 141,
+            "pct": 36.6
+          }
+        ]
+      },
+      {
+        "group": "Senior Executive / C-Suite",
+        "base": {
+          "n": 71
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 41,
+            "pct": 57.7
+          },
+          {
+            "answer": "Yes",
+            "count": 30,
+            "pct": 42.3
+          }
+        ]
+      },
+      {
+        "group": "Unemployed / Currently seeking",
+        "base": {
+          "n": 108
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 83,
+            "pct": 76.9
+          },
+          {
+            "answer": "Yes",
+            "count": 25,
+            "pct": 23.1
+          }
+        ]
+      }
+    ],
+    "age_group": [
+      {
+        "group": "18–24 (Early Career / Gen Z)",
+        "base": {
+          "n": 91
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 58,
+            "pct": 63.7
+          },
+          {
+            "answer": "Yes",
+            "count": 33,
+            "pct": 36.3
+          }
+        ]
+      },
+      {
+        "group": "25–34 (Establishing Career / Late Gen Z & Millennial)",
+        "base": {
+          "n": 320
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 208,
+            "pct": 65
+          },
+          {
+            "answer": "Yes",
+            "count": 112,
+            "pct": 35
+          }
+        ]
+      },
+      {
+        "group": "35–44 (Mid-Career / Management / Millennial)",
+        "base": {
+          "n": 353
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 241,
+            "pct": 68.3
+          },
+          {
+            "answer": "Yes",
+            "count": 112,
+            "pct": 31.7
+          }
+        ]
+      },
+      {
+        "group": "45–54 (Senior Leadership / Gen X)",
+        "base": {
+          "n": 199
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 142,
+            "pct": 71.4
+          },
+          {
+            "answer": "Yes",
+            "count": 57,
+            "pct": 28.6
+          }
+        ]
+      },
+      {
+        "group": "55+ (Executive / Late Career / Boomer)",
+        "base": {
+          "n": 100
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 79,
+            "pct": 79
+          },
+          {
+            "answer": "Yes",
+            "count": 21,
+            "pct": 21
+          }
+        ]
+      },
+      {
+        "group": "Other",
+        "base": {
+          "n": 3
+        },
+        "suppressed": true
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100k – $200k",
+        "base": {
+          "n": 305
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 199,
+            "pct": 65.2
+          },
+          {
+            "answer": "Yes",
+            "count": 106,
+            "pct": 34.8
+          }
+        ]
+      },
+      {
+        "group": "$200k+",
+        "base": {
+          "n": 80
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 66,
+            "pct": 82.5
+          },
+          {
+            "answer": "Yes",
+            "count": 14,
+            "pct": 17.5
+          }
+        ]
+      },
+      {
+        "group": "$50k – $100k",
+        "base": {
+          "n": 409
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 286,
+            "pct": 69.9
+          },
+          {
+            "answer": "Yes",
+            "count": 123,
+            "pct": 30.1
+          }
+        ]
+      },
+      {
+        "group": "Under $50k",
+        "base": {
+          "n": 272
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 180,
+            "pct": 66.2
+          },
+          {
+            "answer": "Yes",
+            "count": 92,
+            "pct": 33.8
+          }
+        ]
+      }
+    ]
+  }
+}

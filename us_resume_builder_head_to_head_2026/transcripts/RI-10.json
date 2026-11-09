@@ -1,0 +1,940 @@
+{
+  "id": "RI-10",
+  "matchup": "Enhancv vs Resume.io",
+  "final_choice": "Enhancv",
+  "transcription": "Otter.ai transcript produced by the research agency",
+  "duration": null,
+  "note": "Automatic transcription, lightly structured: speaker labels mapped to Interviewer or Participant; names, employers, schools, places, contact and login details replaced with [... redacted] tags. Wording is otherwise unedited, including transcription errors (for example 'Enhance CV' for Enhancv).",
+  "turns": [
+    {
+      "time": "0:02",
+      "speaker": "Interviewer",
+      "text": "Alright, so before we look at the first tool, how complete would you say your current resume feels to you?"
+    },
+    {
+      "time": "0:08",
+      "speaker": "Participant",
+      "text": "How, what kind of person would say pretty complete?"
+    },
+    {
+      "time": "0:14",
+      "speaker": "Interviewer",
+      "text": "Okay, is it like at 100% then in your eyes?"
+    },
+    {
+      "time": "0:20",
+      "speaker": "Participant",
+      "text": "Um, yeah, I mean, I updated it fairly recently, so I think it would have everything I would need it to have in there."
+    },
+    {
+      "time": "0:27",
+      "speaker": "Interviewer",
+      "text": "Okay, and when, let's say, you were submitting an application, when you picture like feeling confident, what matters most to you to have in your"
+    },
+    {
+      "time": "0:39",
+      "speaker": "Participant",
+      "text": "resume? I definitely customize it to whatever job I'm applying to, so I'll change up descriptions, I'll change up like the bullet points, probably maybe reorder some stuff."
+    },
+    {
+      "time": "0:49",
+      "speaker": "Interviewer",
+      "text": "Okay, to"
+    },
+    {
+      "time": "0:50",
+      "speaker": "Participant",
+      "text": "make more relevant,"
+    },
+    {
+      "time": "0:52",
+      "speaker": "Interviewer",
+      "text": "right? Yeah, so you tailor it for the rules. Okay, so we're going to look at the first tool, and the way we'll do this is I'm going to screen share and then give you remote control, so give me a moment while I do that. And this first platform is called Enhanced CV. Okay, so let me give you remote control, and then you'll upload it. Okay, so you can just select upload resume, yeah, do okay. And here I don't think you can see, so I'm just going to select it for you."
+    },
+    {
+      "time": "1:31",
+      "speaker": "Participant",
+      "text": "Yeah, okay, I"
+    },
+    {
+      "time": "1:53",
+      "speaker": "Interviewer",
+      "text": "We'll just give it a moment to think I Okay."
+    },
+    {
+      "time": "2:23",
+      "speaker": "Participant",
+      "text": "I guess I'll improve with the AI. Let's see what it does. One thing that's weird is that's not how my resume looks at"
+    },
+    {
+      "time": "2:34",
+      "speaker": "Interviewer",
+      "text": "all. Yes, this is default template."
+    },
+    {
+      "time": "2:39",
+      "speaker": "Participant",
+      "text": "Gotcha. Okay, do The first part was a little confusing, because I do have a summary on top of my resume, so it made it sound like I don't have what I have, so that's a little weird,"
+    },
+    {
+      "time": "3:00",
+      "speaker": "Interviewer",
+      "text": "okay,"
+    },
+    {
+      "time": "3:00",
+      "speaker": "Participant",
+      "text": "the Don't necessarily like the picture. There's a lot of, like, I guess you could delete it, maybe, or hide it. I don't know if that necessarily should be a default thing, though, because a lot of times people get discriminated based on their pictures historically, let's see, like, it didn't really change much of, like, the summary section, which is interesting."
+    },
+    {
+      "time": "3:40",
+      "speaker": "Interviewer",
+      "text": "Okay,"
+    },
+    {
+      "time": "3:44",
+      "speaker": "Participant",
+      "text": "doesn't even seem like it changed a lot anywhere. Custom, I guess. Custom, you would customize what the title would be I'm curious, if you could like switch out the icons. Yeah, that's nice. Making this is a lot of wasted space on the side here, so if they're going to end a column here, it should have this continue on to that side, just so the resume doesn't go on to like three pages, right? Resume love, it's a little confusing because it said so much about, like, oh, your bullet points are too long, but these seem just as long, if not longer, and even more cramped together, so I'm a little surprised by that. Okay, let's see. Right, let's say I guess these are like little prompts, scale budget main risk field pronoun, let's see ATS scan I'm If I ignored the spelling of something, it should reflect in multiple places, so like, here's the same word, or same, it should remember that. Okay, it needs a specific job ad,"
+    },
+    {
+      "time": "5:57",
+      "speaker": "Interviewer",
+      "text": "yeah. So, if"
+    },
+    {
+      "time": "5:57",
+      "speaker": "Participant",
+      "text": "it should have said that first before having me do that, because now I'm just kind of wasting my time"
+    },
+    {
+      "time": "6:08",
+      "speaker": "Interviewer",
+      "text": "for the ATS check. We do need to go to the top and open that up, so next to improve text in the toolbar, you'll see ATS check in Taylor,"
+    },
+    {
+      "time": "6:22",
+      "speaker": "Participant",
+      "text": "yeah, an adaptive on the job,"
+    },
+    {
+      "time": "6:27",
+      "speaker": "Interviewer",
+      "text": "yeah. So, if you"
+    },
+    {
+      "time": "6:28",
+      "speaker": "Participant",
+      "text": "just try one of these, maybe,"
+    },
+    {
+      "time": "6:31",
+      "speaker": "Interviewer",
+      "text": "yeah, you can select one of those. Those are reflecting from the resume I was using previously for someone else, but just to see what the offerings are."
+    },
+    {
+      "time": "6:42",
+      "speaker": "Participant",
+      "text": "Yeah, it's probably gonna be really different. That's kind of cool. So, it says how many times the words earn each resume."
+    },
+    {
+      "time": "6:57",
+      "speaker": "Interviewer",
+      "text": "Yeah, that's the frequency of the words."
+    },
+    {
+      "time": "6:59",
+      "speaker": "Participant",
+      "text": "That's that's a nice tool. Add a title on your name if it's relevant, spelling, grammar. I do like that, like showing often you repeat things, indication. Then I'm pretty sure I had my LinkedIn in my original. I do have my LinkedIn in here, so that's not reflecting or understanding that my LinkedIn isn't here. Interesting PDF is good for LinkedIn header, okay. Okay, that's pretty good."
+    },
+    {
+      "time": "7:44",
+      "speaker": "Interviewer",
+      "text": "Do you think"
+    },
+    {
+      "time": "7:45",
+      "speaker": "Participant",
+      "text": "that"
+    },
+    {
+      "time": "7:45",
+      "speaker": "Interviewer",
+      "text": "within the ATS check those suggestions were helpful, or were you looking for or expecting more?"
+    },
+    {
+      "time": "7:54",
+      "speaker": "Participant",
+      "text": "They're a little generic, I would say. Okay, I would expect it to be a little bit more nuanced, or have prompts that help you guide to see if it's the right fit or not. So, if there's a bullet point in the job description that's like managed a big budget, maybe you should have a prompt, if it's not in your resume, of like, how big of a budget did you manage, what qualifiers, or what impact did you make with that budget, so it could kind of get more info out of you rather than use what's just in your resume, because a lot of times, like behind the scenes, I'll know what I did, and I'll customize my resume with the additional information or inputs, but like this system's not going to know it."
+    },
+    {
+      "time": "8:46",
+      "speaker": "Interviewer",
+      "text": "Yes,"
+    },
+    {
+      "time": "8:47",
+      "speaker": "Participant",
+      "text": "so I would almost think that it's better, almost not even to start with a resume, but start with your broad experience, and then it pulls in the resume based on specific bullet points, or like a big, big list of different inputs. Do like this a lot, the repetition part, because I think that's that's important. Make sure it says present. Make sure you tailor the summary to focus on the requirements of the role. I guess that makes sense. Yeah, let's see, Taylor, somewhere. I'm curious, what.. what do we do for this generating? I would want it to show maybe versioning that this was changed, it's a little hard to see what was the original versus what was like AI generated,"
+    },
+    {
+      "time": "9:46",
+      "speaker": "Interviewer",
+      "text": "right? So side by side would be helpful,"
+    },
+    {
+      "time": "9:50",
+      "speaker": "Participant",
+      "text": "or like a little like number in the corner that says like v v,"
+    },
+    {
+      "time": "9:55",
+      "speaker": "Interviewer",
+      "text": "okay,"
+    },
+    {
+      "time": "9:58",
+      "speaker": "Participant",
+      "text": "seeking a marketing director position at Inc. I was just, this seems a little weird. I don't think you would ever put that in a resume,"
+    },
+    {
+      "time": "10:03",
+      "speaker": "Interviewer",
+      "text": "right?"
+    },
+    {
+      "time": "10:04",
+      "speaker": "Participant",
+      "text": "And maybe I'm wrong, but I don't think you would say in your resume, I'm like looking for a job at this company, that seems like more something you would put in your cover letter. Maybe I'm wrong about that. I don't"
+    },
+    {
+      "time": "10:16",
+      "speaker": "Interviewer",
+      "text": "know. No, that's very like it doesn't seem natural. Do you think that that would.. it sounds too AI."
+    },
+    {
+      "time": "10:25",
+      "speaker": "Participant",
+      "text": "Let me read this again a little bit. This is also weird, because it's changing the tenses. Marketing professional, my key achievements, like I don't think I have first person anywhere else, I see, and the rest is third person, and a resume should usually be third person, not first, so that's a big red flag, I It's part of measure of delivering value and business transformation services. I guess that's okay. Let's see, 68% I'm curious, does this mean I reviewed 68% of the, oh, I see, it's like a score of how good it would get,"
+    },
+    {
+      "time": "11:25",
+      "speaker": "Interviewer",
+      "text": "that's your match score to the applicant tracking system."
+    },
+    {
+      "time": "11:29",
+      "speaker": "Participant",
+      "text": "Gotcha. Okay, is that a standard feature in ATSS?"
+    },
+    {
+      "time": "11:34",
+      "speaker": "Interviewer",
+      "text": "Yes, I believe so."
+    },
+    {
+      "time": "11:39",
+      "speaker": "Participant",
+      "text": "I would be curious to see like different templates in here too, I really single column. This is more like my. I mean, that's it. Seems like nice features where you could like easily edit things and keep kind of the layouts and the functions a little hard to see, like the actual page formatting, like the the margins and things like that, like this just ends here, and then that's a huge amount of blank space at the bottom."
+    },
+    {
+      "time": "12:25",
+      "speaker": "Interviewer",
+      "text": "Yeah,"
+    },
+    {
+      "time": "12:28",
+      "speaker": "Participant",
+      "text": "I would assume you would just go into, right, the next job, and it would spill over page three. Yeah, and I would never put my resume onto three pages, and I feel like it should have an alert, unless you're like super, super senior, even if you are. I don't, I don't think they would recommend like a three page resume that seems very, very long. I'm surprised that's not flagged. Let's see, other things I can prove. Text this one visible now. That's the name of a podcast, so I would ignore a bunch of these. This does seem like a pretty good tool. It seems a little basic, but maybe that's what's needed. You've listed too many bullets. Okay, so like this type of thing, like what would their recommendation be for the proper number of bullets, I guess that's what I'd be curious to say. Summarize bullets, that's true. Okay, and some curious hide this page. Okay, view it as a full page. These might want little like labels next to them, or at least when you hover a preview document. Okay, that's good. Download, share, I and I'm assuming you could just type burn in here. Yes, templates I would want the ability to, yep, do like bolding and stuff like that, which looks like you can paste select direction, that's cool,"
+    },
+    {
+      "time": "14:51",
+      "speaker": "Interviewer",
+      "text": "and there's some an AI assistant on the left side, the purple blinking icon, you. Yeah, highlighted if you want to take a look at that."
+    },
+    {
+      "time": "15:03",
+      "speaker": "Participant",
+      "text": "I'm assuming it would be just for whatever I'm highlighting, or the whole section"
+    },
+    {
+      "time": "15:12",
+      "speaker": "Interviewer",
+      "text": "for the whole section, but you can write"
+    },
+    {
+      "time": "15:19",
+      "speaker": "Participant",
+      "text": "it. Let's see, one second, I might just have to get my watch, my baby, here, cry in the background. Don't feel like it didn't really change that much, okay. I'm I'll be right there, someone more human specific and senior show changes. Yeah, this would I be curious to see, like what did they change, I Again, the third person, first person, I think, is a big thing to flag."
+    },
+    {
+      "time": "16:29",
+      "speaker": "Interviewer",
+      "text": "Yeah, that's a great note. It"
+    },
+    {
+      "time": "16:31",
+      "speaker": "Participant",
+      "text": "doesn't really feel.. it feels like it's just rejiggering words. I think it would be more input from me to be able to really like improve it, otherwise it just sounds like an AI rewritten change up of words. Okay, I would need to like prompt it more, or say like who's the ideal target, or maybe compared to other resumes might be top candidate, something like that, but otherwise it doesn't. I mean, I guess it's a little bit different. It doesn't seem that different, though."
+    },
+    {
+      "time": "17:10",
+      "speaker": "Interviewer",
+      "text": "Okay,"
+    },
+    {
+      "time": "17:15",
+      "speaker": "Participant",
+      "text": "I guess. Here's Taylor for job, I would have to find a job description. I guess"
+    },
+    {
+      "time": "17:29",
+      "speaker": "Interviewer",
+      "text": "I think we've taken a look at pretty much everything here, but yeah, review the version history, but I'm sure you get the picture."
+    },
+    {
+      "time": "17:40",
+      "speaker": "Participant",
+      "text": "Yeah, that's nice. I'm actually surprised there's not more versions, considering, like, I don't know what they consider a version if I'm saving it at a certain point, because there were multiple section edits, so maybe they'd want to show exactly what changes, like more like a track change type thing, maybe helpful."
+    },
+    {
+      "time": "18:01",
+      "speaker": "Interviewer",
+      "text": "Okay, yeah. Because here, the version histories, I think, are just the changes you made with the templates."
+    },
+    {
+      "time": "18:09",
+      "speaker": "Participant",
+      "text": "Gotcha. Yeah,"
+    },
+    {
+      "time": "18:10",
+      "speaker": "Interviewer",
+      "text": "and when you were looking at the templates, did you feel like they were better or more modern than what you could get in Word?"
+    },
+    {
+      "time": "18:20",
+      "speaker": "Participant",
+      "text": "Yeah, probably, because we're super limited, and I think work is really hard to customize, so if you want a more polished design, I think that would be the way to go."
+    },
+    {
+      "time": "18:31",
+      "speaker": "Interviewer",
+      "text": "Okay, and with your overall experience, what did you think about the amount of flexibility the tool gives you?"
+    },
+    {
+      "time": "18:42",
+      "speaker": "Participant",
+      "text": "Seems to use decent, like you can rearrange stuff. I didn't really see a, I guess, design a font here. You could change the fonts of the whole pages, which would be nice. It would be nice to have, like, a header font versus a paragraph font. That'd be a nice adjustment."
+    },
+    {
+      "time": "19:03",
+      "speaker": "Interviewer",
+      "text": "Okay,"
+    },
+    {
+      "time": "19:03",
+      "speaker": "Participant",
+      "text": "I don't think you would ever want to put backgrounds in a resume, because those are some of the things that, like ATSs, might not recognize, or could break if there's, like, a lot of pictures or things like that."
+    },
+    {
+      "time": "19:13",
+      "speaker": "Interviewer",
+      "text": "Well, so I don't, if you saw it before, this all of the templates and edits are ATS friendly, and before, when you were looking at the preview, it shows you what recruiters see and what ATS sees."
+    },
+    {
+      "time": "19:28",
+      "speaker": "Participant",
+      "text": "Oh, okay."
+    },
+    {
+      "time": "19:29",
+      "speaker": "Interviewer",
+      "text": "Yes, is there anything that stood out to you that you really liked, like a specific function,"
+    },
+    {
+      "time": "19:40",
+      "speaker": "Participant",
+      "text": "specifically with, like, design part,"
+    },
+    {
+      "time": "19:43",
+      "speaker": "Interviewer",
+      "text": "no, not design, just overall experience could be design, if that's what stood out to you."
+    },
+    {
+      "time": "19:50",
+      "speaker": "Participant",
+      "text": "You know, I mean, it seems pretty straightforward and basic. I think this would be helpful if you didn't have Word or Google Docs or something like that, or some. One who maybe didn't have a ton of experience with resume writing, I think it would be helpful."
+    },
+    {
+      "time": "20:08",
+      "speaker": "Interviewer",
+      "text": "So, the the ATS suggestions, did you, you found them to be generic, then not particularly helpful?"
+    },
+    {
+      "time": "20:19",
+      "speaker": "Participant",
+      "text": "Pretty generic, yeah. I would say they should be a little bit more tailored to me and kind of prompt me to draft a better version of my resume, or with more specific stats or information, rather than just rewording things and making it sound fancier."
+    },
+    {
+      "time": "20:36",
+      "speaker": "Interviewer",
+      "text": "I see. Okay. Well, we're gonna move on to the next tool, then so I'll just take over and put us there, and here I'll just upload the resume for you, but we go to create new upload existing"
+    },
+    {
+      "time": "20:55",
+      "speaker": "Participant",
+      "text": "totally different tool."
+    },
+    {
+      "time": "20:57",
+      "speaker": "Interviewer",
+      "text": "Yes, this is a different tool. This one's called Resume IO, so you can select done, and then we'll take a look at this"
+    },
+    {
+      "time": "21:16",
+      "speaker": "Participant",
+      "text": "one"
+    },
+    {
+      "time": "21:18",
+      "speaker": "Interviewer",
+      "text": "that's interesting. Okay, well, it's"
+    },
+    {
+      "time": "21:20",
+      "speaker": "Participant",
+      "text": "weird. Yeah, it seems like it didn't upload correctly,"
+    },
+    {
+      "time": "21:23",
+      "speaker": "Interviewer",
+      "text": "yeah. Okay, I'm gonna go back, I'm just gonna take over for a second,"
+    },
+    {
+      "time": "21:28",
+      "speaker": "Participant",
+      "text": "yeah, go for"
+    },
+    {
+      "time": "21:31",
+      "speaker": "Interviewer",
+      "text": "very odd. How old is your baby?"
+    },
+    {
+      "time": "21:41",
+      "speaker": "Participant",
+      "text": "Four months, I'm actually gonna attempt to feed her. Well, I'll be on this call at once."
+    },
+    {
+      "time": "21:47",
+      "speaker": "Interviewer",
+      "text": "Good luck."
+    },
+    {
+      "time": "21:47",
+      "speaker": "Participant",
+      "text": "Yeah, I'm on paternity leave right now, so I'm working, but not 100%"
+    },
+    {
+      "time": "22:00",
+      "speaker": "Interviewer",
+      "text": "I see"
+    },
+    {
+      "time": "22:00",
+      "speaker": "Participant",
+      "text": "quite as issues."
+    },
+    {
+      "time": "22:03",
+      "speaker": "Interviewer",
+      "text": "I did fix it"
+    },
+    {
+      "time": "22:05",
+      "speaker": "Participant",
+      "text": "there. Okay, cool. Marketing leader, okay? So it looks like it completely changed up my resume again. This right off the bat, the UI UX of the other platform was way better. I think it was a lot easier to review. This seems like a lot of wasted space, especially this power statement that's like locked, allegedly, which I feel like that should have info in there, or if it's like a subscription feature or paid feature, it should say like paid or have it blurred out or something. It would never.. it's weird to have marketing leader with leader not in caps. That's odd. There's a lot of incorrect information, like I'm not [location redacted]. That's one of my jobs in [location redacted], so it seems like it's not parsing the data correctly at all. Wrong email address right up the bat. This gives me bad, like bad vibes, just because it's not parsing everything correctly. Yeah, it wouldn't make sense to have website as a link without it written out, because like, if someone prints it out and they're looking at it, they want to just type it in. Same thing with LinkedIn, the design is really bad on the bottom. The more I look at this, it's all it's chopped up the bullet points completely. Yeah, this looks pretty bad,"
+    },
+    {
+      "time": "23:41",
+      "speaker": "Interviewer",
+      "text": "you've lost like trust or in the tool already."
+    },
+    {
+      "time": "23:45",
+      "speaker": "Participant",
+      "text": "Yeah,"
+    },
+    {
+      "time": "23:46",
+      "speaker": "Interviewer",
+      "text": "quite a few mistakes,"
+    },
+    {
+      "time": "23:48",
+      "speaker": "Participant",
+      "text": "especially because my resume was formatted really carefully, and I don't think there is any weird breaks or anything like that. So she's been able to just parse it right off the bat. I would go through this and see, let's see, marketing lead or job target, and [name redacted]. Yeah, I don't know where it got this email from."
+    },
+    {
+      "time": "24:08",
+      "speaker": "Interviewer",
+      "text": "That's my email, so"
+    },
+    {
+      "time": "24:12",
+      "speaker": "Participant",
+      "text": "that makes more sense than you stay details. A power statement. Here's what this actually is not available for this template to make it. I don't think it should show if it's not available for this template, or or if it's going to do that, at least condense it to be way smaller. It's wasting a lot of space for a two to four energetic energetic sentences. How great you are mentioning the role. This seems a little kind of like unprofessional energetic sentences about how great you are, the. Like, but yeah, that's that's nice and friendly, but like it doesn't seem very professional."
+    },
+    {
+      "time": "25:06",
+      "speaker": "Interviewer",
+      "text": "Yeah, that makes sense."
+    },
+    {
+      "time": "25:08",
+      "speaker": "Participant",
+      "text": "Mention the role, what you did, what were the biggest achievements? Describe your motivation and mr. Skills. It's a little hard to tell if, like, you're inputting also the stuff that's directly going to go into the right, or if you're giving it like more like a prompt that it's then, and then I guess says get help with writing, it'll help generate whatever change. Let's see, curious to see."
+    },
+    {
+      "time": "25:38",
+      "speaker": "Interviewer",
+      "text": "Well, so yes, everything that you write on the left-hand side is what shows up on the"
+    },
+    {
+      "time": "25:45",
+      "speaker": "Participant",
+      "text": "right. Okay, real estate, so it's just parsing different parts of my resume, yeah. I do like on the bottom it said like here's different ways to like change your resume, more impact driven this and that, I that's a pretty good feature again, like these links should be, they shouldn't just be links, they should like type out the whole word. Yes, take your range. Give me two seconds, I just want to grab something right. Sorry about that. National activities affiliations, well you can't just like scroll down to the next page, you could click the button, which is fine, I guess this also seems like a lot of wasted space, like technical sales all split out like that."
+    },
+    {
+      "time": "28:07",
+      "speaker": "Interviewer",
+      "text": "Did you have any technical skills on your original document, or did it add more?"
+    },
+    {
+      "time": "28:14",
+      "speaker": "Participant",
+      "text": "Uh, it didn't add more, but it, it sectioned them out, like I had, I think, I had like social media, LinkedIn, Instagram, Facebook, blah blah. It didn't, it didn't have like social media, LinkedIn, social media, Instagram,"
+    },
+    {
+      "time": "28:28",
+      "speaker": "Interviewer",
+      "text": "right?"
+    },
+    {
+      "time": "28:29",
+      "speaker": "Participant",
+      "text": "So it feels like it should understand that, that if there's different sections for skills and clumping them together, that'd be helpful, because it would save a lot of space,"
+    },
+    {
+      "time": "28:39",
+      "speaker": "Interviewer",
+      "text": "definitely."
+    },
+    {
+      "time": "28:40",
+      "speaker": "Participant",
+      "text": "Yeah, I like June, so it's like typos in here, I think it says it's a, it's a little hard to see, but yeah, if"
+    },
+    {
+      "time": "29:03",
+      "speaker": "Interviewer",
+      "text": "that's a typo or just the shortened, if they use the shortened version of months,"
+    },
+    {
+      "time": "29:10",
+      "speaker": "Participant",
+      "text": "yeah, weird though,"
+    },
+    {
+      "time": "29:15",
+      "speaker": "Interviewer",
+      "text": "yeah, it is weird because it's just one more letter, okay,"
+    },
+    {
+      "time": "29:19",
+      "speaker": "Participant",
+      "text": "and even [location redacted], okay? Like, should say [location redacted], New York, on the right, okay? Just because, like, it's not polished at all, like with these little sections, like speaking and thought leadership, I think, should be in bold, and the volunteering should be in bold, but I'd be curious to see other resume templates, which I assume"
+    },
+    {
+      "time": "29:42",
+      "speaker": "Interviewer",
+      "text": "yes under"
+    },
+    {
+      "time": "29:42",
+      "speaker": "Participant",
+      "text": "customized. It seems a little out of order, because I think you would normally pick a template first and then start editing it, versus like customizing it or editing it and then picking a template, because it might not have those sections, so I would probably swap those. Um,"
+    },
+    {
+      "time": "30:02",
+      "speaker": "Interviewer",
+      "text": "yeah, that makes sense. The"
+    },
+    {
+      "time": "30:03",
+      "speaker": "Participant",
+      "text": "other templates seem a little more professional. I mean, this actually, I mean, this has more options, which is nice. Does seem like there's more to choose from. Doc X, that's all confusing too, because, like, I know DocX, obviously, is a Word doc. Like, does that mean you could download it as a Word doc versus, like, the rest of these you can't download as a Word doc? Maybe."
+    },
+    {
+      "time": "30:31",
+      "speaker": "Interviewer",
+      "text": "Yeah, I think so."
+    },
+    {
+      "time": "30:34",
+      "speaker": "Participant",
+      "text": "Yeah, I'm not really sure what that means, or just exports as a PDF, and that's it. Yeah, I guess these are just PDF."
+    },
+    {
+      "time": "30:40",
+      "speaker": "Interviewer",
+      "text": "Yes,"
+    },
+    {
+      "time": "30:41",
+      "speaker": "Participant",
+      "text": "I would expect everything to be able to download in both formats, so I change it. Okay, I like that. It shows right away. What's gonna look like I They just don't feel refined at all. Okay,"
+    },
+    {
+      "time": "31:08",
+      "speaker": "Interviewer",
+      "text": "did, and so"
+    },
+    {
+      "time": "31:09",
+      "speaker": "Participant",
+      "text": "designer from a design perspective."
+    },
+    {
+      "time": "31:13",
+      "speaker": "Interviewer",
+      "text": "Okay, did it enhance CVS feel more polished? Then,"
+    },
+    {
+      "time": "31:17",
+      "speaker": "Participant",
+      "text": "yeah, think so, like the kerning and the paragraph spacing, all that stuff just seemed a little tighter, especially for a marketing job. I know I'm in marketing, but like those things are super important,"
+    },
+    {
+      "time": "31:30",
+      "speaker": "Interviewer",
+      "text": "right?"
+    },
+    {
+      "time": "31:33",
+      "speaker": "Participant",
+      "text": "Mean color, I'm surprised it's even suggesting other.. well, I guess just for the lengths, the colors I so"
+    },
+    {
+      "time": "32:02",
+      "speaker": "Interviewer",
+      "text": "here we have to select get review"
+    },
+    {
+      "time": "32:07",
+      "speaker": "Participant",
+      "text": "great again, if there's like a step you have to take, I think it should be like front and center first, almost like the page is gated, and then it lets you into it, otherwise it's just kind of confusing from a UI UX flow summary. Excellent. Okay, I mean, this is good to see that I have allegedly an excellent resume. It's nice to see. Make these changes and specific dates. It just feels very generic advice again. Okay, like I would want to see specifically what bullet points to change and where to trim things down versus just generic high-level advice. Maybe if you clicked on it, it would jump to that section specifically would be helpful."
+    },
+    {
+      "time": "33:23",
+      "speaker": "Interviewer",
+      "text": "Okay,"
+    },
+    {
+      "time": "33:24",
+      "speaker": "Participant",
+      "text": "I also can't see my resume here, like the photo, so it's hard to, like, compare. I guess it's here on the left, split up version, but that's not like the true version of the resume. So perfect match, hey. perfect. Okay, that's nice feature. I do like that it has, like, cover letter thing too. I'd be curious to see what that cover letter feature looks like. I actually read a big LinkedIn post this morning that someone who is hiring for a job and he got like 50 different cover letters or something, and they all sounded exactly the same, because like every single person was using AI or Chat GPT, so I think while these features and tools are helpful, it could get really dangerous if everyone's inputting the same stuff, and everyone's just getting spit out the same. Everyone's a marketing leader who's exceptional at blah blah blah"
+    },
+    {
+      "time": "34:28",
+      "speaker": "Interviewer",
+      "text": "blah. Like, I'm"
+    },
+    {
+      "time": "34:28",
+      "speaker": "Participant",
+      "text": "almost weird that, and there might be more room for variation and like creativity because of that, because everything's going to look the same. Everyone's going to make them sound amazing."
+    },
+    {
+      "time": "34:43",
+      "speaker": "Interviewer",
+      "text": "I've actually been hearing that cover letters are leaning more towards becoming obsolete because of that,"
+    },
+    {
+      "time": "34:49",
+      "speaker": "Participant",
+      "text": "or that too. Yeah, I could either see it becoming obsolete because everyone's writing the same stuff, or really the only way you can stand out. It, because of that, I would assume these jobs, and maybe it's just because it's like your account or something. These don't seem very relevant to my resume at all. They're not marketing jobs."
+    },
+    {
+      "time": "35:19",
+      "speaker": "Interviewer",
+      "text": "Yes, normally it would submit for your industry, but it's sort of locked on past experiences, because I've had multiple people use the same account, so you have to update your profile. It's just, yeah,"
+    },
+    {
+      "time": "35:35",
+      "speaker": "Participant",
+      "text": "yeah, I kind of, I kind of figured that. Um, let's, let's see, but it needs a good test, though. Yay, because I'm probably not very relevant for these jobs, so I would assume. Let's see what it says. Like, if I tailor for this job, it might say, like, \"You're not a fit for this, you shouldn't apply to this. Yeah, your match scored 37% essentially your sales experience, customer service. Yeah, okay, so that's good that it shows that very like lit up."
+    },
+    {
+      "time": "36:14",
+      "speaker": "Interviewer",
+      "text": "Sorry, it's very"
+    },
+    {
+      "time": "36:16",
+      "speaker": "Participant",
+      "text": "everything's very like dispersed throughout the page, which is kind of odd. Just gonna grab a little more food for her one sec. Yeah, I'm I'm sorry, I keep spinning here."
+    },
+    {
+      "time": "37:33",
+      "speaker": "Interviewer",
+      "text": "No problem."
+    },
+    {
+      "time": "37:36",
+      "speaker": "Participant",
+      "text": "Okay, these are a little confusing, because, like, key requirement, okay. so it asks you to like fill in how you fit for that specific, that's kind of a nice feature, so you can go one by one to make sure everything lines up. I do like that. I would assume it already would try to fill in some of this information, especially for the ones that are question marks. It implies, like, maybe I have a fit for that somewhere in my resume, so I would want it to at least attempt to fill out some info, versus like the X ones. I'm assuming it either doesn't know if I'm a fit, or it specifically knows I'm not a fit, so I don't fully understand the X's versus the question marks, I guess."
+    },
+    {
+      "time": "38:35",
+      "speaker": "Interviewer",
+      "text": "Okay,"
+    },
+    {
+      "time": "38:38",
+      "speaker": "Participant",
+      "text": "and if I'm a 37% fit, like where I Where's the fit part? I would assume there'd be check marks in here for a couple things, at least."
+    },
+    {
+      "time": "38:48",
+      "speaker": "Interviewer",
+      "text": "Did you scroll all? Maybe"
+    },
+    {
+      "time": "38:50",
+      "speaker": "Participant",
+      "text": "it's"
+    },
+    {
+      "time": "38:50",
+      "speaker": "Interviewer",
+      "text": "the bottom, just"
+    },
+    {
+      "time": "38:51",
+      "speaker": "Participant",
+      "text": "in the summary. Yeah,"
+    },
+    {
+      "time": "38:53",
+      "speaker": "Interviewer",
+      "text": "okay, yeah. Just wanted to make sure,"
+    },
+    {
+      "time": "38:56",
+      "speaker": "Participant",
+      "text": "yeah, right around here."
+    },
+    {
+      "time": "38:57",
+      "speaker": "Interviewer",
+      "text": "Okay. Well, we've gone through everything, so I think we can compare them now. You already said that the template design experience - this one was not polished, didn't give you that professional sense, but the first one did, right?"
+    },
+    {
+      "time": "39:15",
+      "speaker": "Participant",
+      "text": "Yeah, and I like that. In the other one, you could type directly onto the resume and see how things are going to spill over or change fonts, stuff like that. This was a little bit more rigid, more of like a builder tool, so definitely prefer the other one. But this, this did have a couple nice features that I see in the other tool."
+    },
+    {
+      "time": "39:33",
+      "speaker": "Interviewer",
+      "text": "Did either of them make you rethink how you tell your professional story in any way?"
+    },
+    {
+      "time": "39:41",
+      "speaker": "Participant",
+      "text": "I don't think I saw anything that really stood out that much, that that's really glaring. It felt very generic, this advice, and it feels like I have used, like, Claude and ChatGPT on my resume a little bit, and it feels like some of the same suggestions. I really think like it's got to get deeper into storytelling, into what you did, into softwares that you launched, or whatever your background is, to be able to advance it a little bit more to like extrapolate more out of you."
+    },
+    {
+      "time": "40:15",
+      "speaker": "Interviewer",
+      "text": "Okay, and which one was more user friendly, or what is the difference between the amount of flexibility each of these tools had?"
+    },
+    {
+      "time": "40:26",
+      "speaker": "Participant",
+      "text": "The other one definitely seems a little bit easier or more intuitive. This one seems like a lot of wasted space."
+    },
+    {
+      "time": "40:33",
+      "speaker": "Interviewer",
+      "text": "Okay,"
+    },
+    {
+      "time": "40:34",
+      "speaker": "Participant",
+      "text": "the other one seemed also like to have a little bit more flexibility in terms of like how you can look at the screen and adjust things. This one's a little more basic, I guess. Okay, yeah. This one definitely seems a little more like freeware kind of thing,"
+    },
+    {
+      "time": "41:00",
+      "speaker": "Interviewer",
+      "text": "I see. and which one gave you, like, validated that you have a strong resume? Which one did a better job at that?"
+    },
+    {
+      "time": "41:13",
+      "speaker": "Participant",
+      "text": "I mean, the second one, I think, said specifically, like, oh, excellent, you have an excellent resume, which is nice to know, but if I don't trust the rest of it, or if I don't like,"
+    },
+    {
+      "time": "41:24",
+      "speaker": "Interviewer",
+      "text": "yeah,"
+    },
+    {
+      "time": "41:25",
+      "speaker": "Participant",
+      "text": "it feels like empty praise, almost."
+    },
+    {
+      "time": "41:28",
+      "speaker": "Interviewer",
+      "text": "Okay,"
+    },
+    {
+      "time": "41:30",
+      "speaker": "Participant",
+      "text": "I'd also want more data behind this, like I want to see other people who are my level marketing directors, or whatever. How do their resumes compare? What makes them stand out, or what are people putting in nowadays? So,"
+    },
+    {
+      "time": "41:48",
+      "speaker": "Interviewer",
+      "text": "like a built-in competitive analysis,"
+    },
+    {
+      "time": "41:51",
+      "speaker": "Participant",
+      "text": "kinda. Yeah, cool. And especially if these tools have tons of resumes that they're getting every day."
+    },
+    {
+      "time": "42:00",
+      "speaker": "Interviewer",
+      "text": "Well, let's say you were applying to two or three different jobs right now and needed to tailor your resume, which one would you trust more to create multiple strong versions?"
+    },
+    {
+      "time": "42:13",
+      "speaker": "Participant",
+      "text": "Probably the first one, I think, just because I think it would be easier to to adjust and get the hang of I did like the specific part of this one where it had like each key responsibility and you could respond one to one, maybe the other tool had that as well, but I don't know if it's necessarily like I think it might be easier just to try to edit it myself."
+    },
+    {
+      "time": "42:40",
+      "speaker": "Interviewer",
+      "text": "Okay, just not use the tools at all."
+    },
+    {
+      "time": "42:45",
+      "speaker": "Participant",
+      "text": "It depends. I think I would give it a shot, but"
+    },
+    {
+      "time": "42:49",
+      "speaker": "Interviewer",
+      "text": "okay. And I know that we like went through this kind of quickly, but let's say you, you needed.. okay. Sorry, hold on. My mind, I was thinking about something else. Um, which one do you think would produce a resume that's more likely to impress a recruiter? Like, it's already passed through the ATS system with fine colors, but now it's in the high, like there's a human looking at it,"
+    },
+    {
+      "time": "43:18",
+      "speaker": "Participant",
+      "text": "probably the first, because this has so many like design flaws, and even the fact that it likes to build onto three pages. I just don't trust this as much."
+    },
+    {
+      "time": "43:28",
+      "speaker": "Interviewer",
+      "text": "Okay, which tool better matches where you are in your career right now?"
+    },
+    {
+      "time": "43:36",
+      "speaker": "Participant",
+      "text": "Probably the first, but the copy itself doesn't seem that different between the two, like I don't think there's that big of a difference. It was more about the design features than anything."
+    },
+    {
+      "time": "43:50",
+      "speaker": "Interviewer",
+      "text": "Okay, Who do you think should not use these tools?"
+    },
+    {
+      "time": "44:02",
+      "speaker": "Participant",
+      "text": "No. think it would be helpful for anyone who may need help with their resume, or maybe doesn't have as many years of experience in this area, maybe if there's like really specific job requirements, and you have to like build a resume from scratch or something for like a really niche job or maybe something like that."
+    },
+    {
+      "time": "44:27",
+      "speaker": "Interviewer",
+      "text": "Okay,"
+    },
+    {
+      "time": "44:28",
+      "speaker": "Participant",
+      "text": "but I could see it being useful for a lot of people."
+    },
+    {
+      "time": "44:31",
+      "speaker": "Interviewer",
+      "text": "Great. And would you be willing to pay for access to either of these or both of them?"
+    },
+    {
+      "time": "44:40",
+      "speaker": "Participant",
+      "text": "Maybe a trial basis, I'd be curious, how much it is, but I don't think I'd be spending a lot of money on it,"
+    },
+    {
+      "time": "44:48",
+      "speaker": "Interviewer",
+      "text": "right? So, you wouldn't be interested in, like, a subscription model, just"
+    },
+    {
+      "time": "44:53",
+      "speaker": "Participant",
+      "text": "probably not, especially if I'm already paying for other AI platforms, like ChatGPT or Quad. Mm-hmm. Which I am like, this is a lot of this is covered in there, and you could even, depending on your skill level, you could like code your own version of this."
+    },
+    {
+      "time": "45:11",
+      "speaker": "Interviewer",
+      "text": "Okay, yeah, that makes sense. If you're already paying for other AI tools, okay? Well, then it'll"
+    },
+    {
+      "time": "45:17",
+      "speaker": "Participant",
+      "text": "have your whole background and experience and everything,"
+    },
+    {
+      "time": "45:19",
+      "speaker": "Interviewer",
+      "text": "right? Okay, well, those are all the questions that I had. Thank you so much for your feedback, your time. Hope you enjoyed it. Is there anything else that you want to share?"
+    },
+    {
+      "time": "45:30",
+      "speaker": "Participant",
+      "text": "No,"
+    },
+    {
+      "time": "45:31",
+      "speaker": "Interviewer",
+      "text": "okay."
+    },
+    {
+      "time": "45:31",
+      "speaker": "Participant",
+      "text": "Thanks for being patient with me while I had baby in the way. No"
+    },
+    {
+      "time": "45:35",
+      "speaker": "Interviewer",
+      "text": "problem at all. Take care."
+    },
+    {
+      "time": "45:38",
+      "speaker": "Participant",
+      "text": "You too. Thanks. Transcribed by [contact details redacted]"
+    }
+  ]
+}

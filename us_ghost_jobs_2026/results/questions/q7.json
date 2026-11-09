@@ -1,0 +1,576 @@
+{
+  "survey": "us_ghost_jobs_2026",
+  "id": "Q7",
+  "question_prompt": "In the past 6 months, approximately how many of your total job applications do you believe went to ghost or fake listings?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 993
+    },
+    "cells": [
+      {
+        "answer": "1-10%",
+        "count": 302,
+        "pct": 30.4
+      },
+      {
+        "answer": "11-25%",
+        "count": 247,
+        "pct": 24.9
+      },
+      {
+        "answer": "0",
+        "count": 212,
+        "pct": 21.3
+      },
+      {
+        "answer": "26-50%",
+        "count": 134,
+        "pct": 13.5
+      },
+      {
+        "answer": "More than 50%",
+        "count": 98,
+        "pct": 9.9
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 679
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 216,
+            "pct": 31.8
+          },
+          {
+            "answer": "11-25%",
+            "count": 172,
+            "pct": 25.3
+          },
+          {
+            "answer": "0",
+            "count": 152,
+            "pct": 22.4
+          },
+          {
+            "answer": "26-50%",
+            "count": 82,
+            "pct": 12.1
+          },
+          {
+            "answer": "More than 50%",
+            "count": 57,
+            "pct": 8.4
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 314
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 86,
+            "pct": 27.4
+          },
+          {
+            "answer": "11-25%",
+            "count": 75,
+            "pct": 23.9
+          },
+          {
+            "answer": "0",
+            "count": 60,
+            "pct": 19.1
+          },
+          {
+            "answer": "26-50%",
+            "count": 52,
+            "pct": 16.6
+          },
+          {
+            "answer": "More than 50%",
+            "count": 41,
+            "pct": 13.1
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–29",
+        "base": {
+          "n": 304
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 81,
+            "pct": 26.6
+          },
+          {
+            "answer": "11-25%",
+            "count": 102,
+            "pct": 33.6
+          },
+          {
+            "answer": "0",
+            "count": 39,
+            "pct": 12.8
+          },
+          {
+            "answer": "26-50%",
+            "count": 53,
+            "pct": 17.4
+          },
+          {
+            "answer": "More than 50%",
+            "count": 29,
+            "pct": 9.5
+          }
+        ]
+      },
+      {
+        "group": "30–44",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 80,
+            "pct": 29.9
+          },
+          {
+            "answer": "11-25%",
+            "count": 66,
+            "pct": 24.6
+          },
+          {
+            "answer": "0",
+            "count": 58,
+            "pct": 21.6
+          },
+          {
+            "answer": "26-50%",
+            "count": 42,
+            "pct": 15.7
+          },
+          {
+            "answer": "More than 50%",
+            "count": 22,
+            "pct": 8.2
+          }
+        ]
+      },
+      {
+        "group": "45–60",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 125,
+            "pct": 33.3
+          },
+          {
+            "answer": "11-25%",
+            "count": 71,
+            "pct": 18.9
+          },
+          {
+            "answer": "0",
+            "count": 104,
+            "pct": 27.7
+          },
+          {
+            "answer": "26-50%",
+            "count": 34,
+            "pct": 9.1
+          },
+          {
+            "answer": "More than 50%",
+            "count": 41,
+            "pct": 10.9
+          }
+        ]
+      },
+      {
+        "group": "60+",
+        "base": {
+          "n": 46
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 16,
+            "pct": 34.8
+          },
+          {
+            "answer": "11-25%",
+            "count": 8,
+            "pct": 17.4
+          },
+          {
+            "answer": "0",
+            "count": 11,
+            "pct": 23.9
+          },
+          {
+            "answer": "26-50%",
+            "count": 5,
+            "pct": 10.9
+          },
+          {
+            "answer": "More than 50%",
+            "count": 6,
+            "pct": 13
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 66
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 17,
+            "pct": 25.8
+          },
+          {
+            "answer": "11-25%",
+            "count": 18,
+            "pct": 27.3
+          },
+          {
+            "answer": "0",
+            "count": 12,
+            "pct": 18.2
+          },
+          {
+            "answer": "26-50%",
+            "count": 13,
+            "pct": 19.7
+          },
+          {
+            "answer": "More than 50%",
+            "count": 6,
+            "pct": 9.1
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 6,
+            "pct": 26.1
+          },
+          {
+            "answer": "11-25%",
+            "count": 8,
+            "pct": 34.8
+          },
+          {
+            "answer": "0",
+            "count": 3,
+            "pct": 13
+          },
+          {
+            "answer": "26-50%",
+            "count": 6,
+            "pct": 26.1
+          },
+          {
+            "answer": "More than 50%",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 19
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 7,
+            "pct": 36.8
+          },
+          {
+            "answer": "11-25%",
+            "count": 6,
+            "pct": 31.6
+          },
+          {
+            "answer": "0",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "26-50%",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "More than 50%",
+            "count": 2,
+            "pct": 10.5
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 228
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 76,
+            "pct": 33.3
+          },
+          {
+            "answer": "11-25%",
+            "count": 58,
+            "pct": 25.4
+          },
+          {
+            "answer": "0",
+            "count": 40,
+            "pct": 17.5
+          },
+          {
+            "answer": "26-50%",
+            "count": 33,
+            "pct": 14.5
+          },
+          {
+            "answer": "More than 50%",
+            "count": 21,
+            "pct": 9.2
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 86
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 27,
+            "pct": 31.4
+          },
+          {
+            "answer": "11-25%",
+            "count": 16,
+            "pct": 18.6
+          },
+          {
+            "answer": "0",
+            "count": 28,
+            "pct": 32.6
+          },
+          {
+            "answer": "26-50%",
+            "count": 6,
+            "pct": 7
+          },
+          {
+            "answer": "More than 50%",
+            "count": 9,
+            "pct": 10.5
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 571
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 169,
+            "pct": 29.6
+          },
+          {
+            "answer": "11-25%",
+            "count": 141,
+            "pct": 24.7
+          },
+          {
+            "answer": "0",
+            "count": 127,
+            "pct": 22.2
+          },
+          {
+            "answer": "26-50%",
+            "count": 74,
+            "pct": 13
+          },
+          {
+            "answer": "More than 50%",
+            "count": 60,
+            "pct": 10.5
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 194
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 71,
+            "pct": 36.6
+          },
+          {
+            "answer": "11-25%",
+            "count": 48,
+            "pct": 24.7
+          },
+          {
+            "answer": "0",
+            "count": 46,
+            "pct": 23.7
+          },
+          {
+            "answer": "26-50%",
+            "count": 15,
+            "pct": 7.7
+          },
+          {
+            "answer": "More than 50%",
+            "count": 14,
+            "pct": 7.2
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 190
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 59,
+            "pct": 31.1
+          },
+          {
+            "answer": "11-25%",
+            "count": 55,
+            "pct": 28.9
+          },
+          {
+            "answer": "0",
+            "count": 37,
+            "pct": 19.5
+          },
+          {
+            "answer": "26-50%",
+            "count": 22,
+            "pct": 11.6
+          },
+          {
+            "answer": "More than 50%",
+            "count": 17,
+            "pct": 8.9
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 342
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 94,
+            "pct": 27.5
+          },
+          {
+            "answer": "11-25%",
+            "count": 81,
+            "pct": 23.7
+          },
+          {
+            "answer": "0",
+            "count": 69,
+            "pct": 20.2
+          },
+          {
+            "answer": "26-50%",
+            "count": 58,
+            "pct": 17
+          },
+          {
+            "answer": "More than 50%",
+            "count": 40,
+            "pct": 11.7
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 251
+        },
+        "cells": [
+          {
+            "answer": "1-10%",
+            "count": 74,
+            "pct": 29.5
+          },
+          {
+            "answer": "11-25%",
+            "count": 57,
+            "pct": 22.7
+          },
+          {
+            "answer": "0",
+            "count": 58,
+            "pct": 23.1
+          },
+          {
+            "answer": "26-50%",
+            "count": 35,
+            "pct": 13.9
+          },
+          {
+            "answer": "More than 50%",
+            "count": 27,
+            "pct": 10.8
+          }
+        ]
+      }
+    ]
+  }
+}

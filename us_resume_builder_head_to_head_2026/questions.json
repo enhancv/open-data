@@ -1,0 +1,126 @@
+{
+  "dataset": "us_resume_builder_head_to_head_2026",
+  "title": "Interview questions",
+  "note": "The interviewer asked these questions in every session, and asked the per-tool questions once for each builder.",
+  "sections": [
+    {
+      "id": "before",
+      "title": "Before using the tools",
+      "questions": [
+        {
+          "id": "B1",
+          "text": "How complete does your current resume feel to you right now?",
+          "follow_up": "What feels missing?"
+        },
+        {
+          "id": "B2",
+          "text": "When you picture a resume you'd feel good (confident) sending, what matters most to you?"
+        }
+      ]
+    },
+    {
+      "id": "per_tool",
+      "title": "While using each tool",
+      "questions": [
+        {
+          "id": "T1",
+          "theme": "Template and design",
+          "text": "Do you feel this template is modern or better than what you get in Word, why?"
+        },
+        {
+          "id": "T2",
+          "theme": "Editing and interaction",
+          "text": "What do you think about the amount of freedom/flexibility this tool gives you when creating your resume? Do you feel constrained by the tool, or can you create a resume that's truly yours?"
+        },
+        {
+          "id": "T3",
+          "theme": "Editing and interaction",
+          "text": "What do you like about the experience (e.g., drag-and-drop, step-by-step instructional flow)? Why?"
+        },
+        {
+          "id": "T4",
+          "theme": "Content, AI and tailoring",
+          "text": "Does this tool do a good job validating that your resume is strong while you work on it?"
+        },
+        {
+          "id": "T5",
+          "theme": "Content, AI and tailoring",
+          "text": "Does it struggle to present your experience cleanly on one page? If so, which one and how?"
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "title": "Direct comparison",
+      "questions": [
+        {
+          "id": "C1",
+          "theme": "Template and design",
+          "text": "Which of these two builders have a template design experience that stands out, and which one feels more generic according to you? Are there any significant differences?"
+        },
+        {
+          "id": "C2",
+          "theme": "Template and design",
+          "text": "Do you feel this template is modern or better than what you get in Word, compared to the other one, and vice versa? Which one would you choose to help you stand out in a pile of candidates?"
+        },
+        {
+          "id": "C3",
+          "theme": "Editing and interaction",
+          "text": "What is the difference between the amount of freedom each tool gives to you when creating your resume? Do you feel constrained by the tool, or can you create a resume that's truly yours?"
+        },
+        {
+          "id": "C4",
+          "theme": "Editing and interaction",
+          "text": "Do you prefer the drag-and-drop experience freedom of one tool, or the more step-by-step instructional flow of the other? Why?"
+        },
+        {
+          "id": "C5",
+          "theme": "Editing and interaction",
+          "text": "Did either tool make you rethink how you tell your professional story? Which one?"
+        },
+        {
+          "id": "C6",
+          "theme": "Content, AI and tailoring",
+          "text": "Which tool does a better job validating that your resume is strong while you work on it?"
+        },
+        {
+          "id": "C7",
+          "theme": "Content, AI and tailoring",
+          "text": "Do you feel either tool struggles to present your experience cleanly on one page? If so, which one and how?"
+        },
+        {
+          "id": "C8",
+          "theme": "Content, AI and tailoring",
+          "text": "If you were applying to two different roles, which tool would you trust more to tailor your resume and create multiple strong versions?"
+        }
+      ]
+    },
+    {
+      "id": "final",
+      "title": "Final comparison",
+      "questions": [
+        {
+          "id": "F1",
+          "text": "I understand the resume may not be complete, and you would need a bit more time, but after spending 1 hour more with each of these resume builders, which one would produce a resume that is more likely to give you confidence and impress recruiters?",
+          "primary_outcome": true
+        },
+        {
+          "id": "F2",
+          "text": "Which tool better matches where you are in your career right now?"
+        },
+        {
+          "id": "F3",
+          "text": "Who do you think should not use each of these tools?"
+        },
+        {
+          "id": "F4",
+          "text": "Anything else to add that you would like, that you think we should know?"
+        },
+        {
+          "id": "F5",
+          "text": "Would you be willing to pay for access to either of these platforms or both?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2021 @@
+{
+  "survey": "us_ghost_jobs_2026",
+  "id": "Q1",
+  "question_prompt": "What industry do you work in?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1005
+    },
+    "cells": [
+      {
+        "answer": "I am currently not employed",
+        "count": 312,
+        "pct": 31
+      },
+      {
+        "answer": "Health Care & Pharmaceuticals",
+        "count": 91,
+        "pct": 9.1
+      },
+      {
+        "answer": "Other (please specify)",
+        "count": 77,
+        "pct": 7.7
+      },
+      {
+        "answer": "Education",
+        "count": 72,
+        "pct": 7.2
+      },
+      {
+        "answer": "Retail & Consumer Durables",
+        "count": 61,
+        "pct": 6.1
+      },
+      {
+        "answer": "Food & Beverages",
+        "count": 52,
+        "pct": 5.2
+      },
+      {
+        "answer": "Agriculture",
+        "count": 35,
+        "pct": 3.5
+      },
+      {
+        "answer": "Advertising & Marketing",
+        "count": 32,
+        "pct": 3.2
+      },
+      {
+        "answer": "Business Support & Logistics",
+        "count": 28,
+        "pct": 2.8
+      },
+      {
+        "answer": "Telecommunications, Technology, Internet & Electronics",
+        "count": 28,
+        "pct": 2.8
+      },
+      {
+        "answer": "Entertainment & Leisure",
+        "count": 26,
+        "pct": 2.6
+      },
+      {
+        "answer": "Finance & Financial Services",
+        "count": 24,
+        "pct": 2.4
+      },
+      {
+        "answer": "Manufacturing",
+        "count": 23,
+        "pct": 2.3
+      },
+      {
+        "answer": "Construction, Machinery and Homes",
+        "count": 22,
+        "pct": 2.2
+      },
+      {
+        "answer": "Nonprofit",
+        "count": 19,
+        "pct": 1.9
+      },
+      {
+        "answer": "Government",
+        "count": 19,
+        "pct": 1.9
+      },
+      {
+        "answer": "Automotive",
+        "count": 19,
+        "pct": 1.9
+      },
+      {
+        "answer": "Transportation & Delivery",
+        "count": 17,
+        "pct": 1.7
+      },
+      {
+        "answer": "Airlines & Aerospace (including Defense)",
+        "count": 17,
+        "pct": 1.7
+      },
+      {
+        "answer": "Insurance",
+        "count": 13,
+        "pct": 1.3
+      },
+      {
+        "answer": "Real Estate",
+        "count": 10,
+        "pct": 1
+      },
+      {
+        "answer": "Utilities, Energy, and Extraction",
+        "count": 8,
+        "pct": 0.8
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 679
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 223,
+            "pct": 32.8
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 72,
+            "pct": 10.6
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 59,
+            "pct": 8.7
+          },
+          {
+            "answer": "Education",
+            "count": 62,
+            "pct": 9.1
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 42,
+            "pct": 6.2
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 40,
+            "pct": 5.9
+          },
+          {
+            "answer": "Agriculture",
+            "count": 18,
+            "pct": 2.7
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 25,
+            "pct": 3.7
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 16,
+            "pct": 2.4
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 6,
+            "pct": 0.9
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 13,
+            "pct": 1.9
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 15,
+            "pct": 2.2
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 14,
+            "pct": 2.1
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 11,
+            "pct": 1.6
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 10,
+            "pct": 1.5
+          },
+          {
+            "answer": "Government",
+            "count": 15,
+            "pct": 2.2
+          },
+          {
+            "answer": "Automotive",
+            "count": 6,
+            "pct": 0.9
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 5,
+            "pct": 0.7
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 8,
+            "pct": 1.2
+          },
+          {
+            "answer": "Insurance",
+            "count": 10,
+            "pct": 1.5
+          },
+          {
+            "answer": "Real Estate",
+            "count": 6,
+            "pct": 0.9
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 3,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 314
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 84,
+            "pct": 26.8
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 18,
+            "pct": 5.7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 17,
+            "pct": 5.4
+          },
+          {
+            "answer": "Education",
+            "count": 9,
+            "pct": 2.9
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 18,
+            "pct": 5.7
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 12,
+            "pct": 3.8
+          },
+          {
+            "answer": "Agriculture",
+            "count": 17,
+            "pct": 5.4
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 7,
+            "pct": 2.2
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 12,
+            "pct": 3.8
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 21,
+            "pct": 6.7
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 12,
+            "pct": 3.8
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 9,
+            "pct": 2.9
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 9,
+            "pct": 2.9
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 11,
+            "pct": 3.5
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 8,
+            "pct": 2.5
+          },
+          {
+            "answer": "Government",
+            "count": 4,
+            "pct": 1.3
+          },
+          {
+            "answer": "Automotive",
+            "count": 13,
+            "pct": 4.1
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 12,
+            "pct": 3.8
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 9,
+            "pct": 2.9
+          },
+          {
+            "answer": "Insurance",
+            "count": 3,
+            "pct": 1
+          },
+          {
+            "answer": "Real Estate",
+            "count": 4,
+            "pct": 1.3
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 5,
+            "pct": 1.6
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–29",
+        "base": {
+          "n": 304
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 73,
+            "pct": 24
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 32,
+            "pct": 10.5
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 11,
+            "pct": 3.6
+          },
+          {
+            "answer": "Education",
+            "count": 23,
+            "pct": 7.6
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 29,
+            "pct": 9.5
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 21,
+            "pct": 6.9
+          },
+          {
+            "answer": "Agriculture",
+            "count": 19,
+            "pct": 6.3
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 18,
+            "pct": 5.9
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 10,
+            "pct": 3.3
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 11,
+            "pct": 3.6
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 8,
+            "pct": 2.6
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 8,
+            "pct": 2.6
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 5,
+            "pct": 1.6
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 2,
+            "pct": 0.7
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 4,
+            "pct": 1.3
+          },
+          {
+            "answer": "Government",
+            "count": 6,
+            "pct": 2
+          },
+          {
+            "answer": "Automotive",
+            "count": 5,
+            "pct": 1.6
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 6,
+            "pct": 2
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 9,
+            "pct": 3
+          },
+          {
+            "answer": "Insurance",
+            "count": 1,
+            "pct": 0.3
+          },
+          {
+            "answer": "Real Estate",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 3,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "group": "30–44",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 71,
+            "pct": 26.5
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 32,
+            "pct": 11.9
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 25,
+            "pct": 9.3
+          },
+          {
+            "answer": "Education",
+            "count": 21,
+            "pct": 7.8
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 11,
+            "pct": 4.1
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 18,
+            "pct": 6.7
+          },
+          {
+            "answer": "Agriculture",
+            "count": 9,
+            "pct": 3.4
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 11,
+            "pct": 4.1
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 7,
+            "pct": 2.6
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 6,
+            "pct": 2.2
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 8,
+            "pct": 3
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 4,
+            "pct": 1.5
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 4,
+            "pct": 1.5
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 8,
+            "pct": 3
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 4,
+            "pct": 1.5
+          },
+          {
+            "answer": "Government",
+            "count": 7,
+            "pct": 2.6
+          },
+          {
+            "answer": "Automotive",
+            "count": 5,
+            "pct": 1.9
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 4,
+            "pct": 1.5
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 6,
+            "pct": 2.2
+          },
+          {
+            "answer": "Insurance",
+            "count": 4,
+            "pct": 1.5
+          },
+          {
+            "answer": "Real Estate",
+            "count": 2,
+            "pct": 0.7
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 1,
+            "pct": 0.4
+          }
+        ]
+      },
+      {
+        "group": "45–60",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 143,
+            "pct": 38.1
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 21,
+            "pct": 5.6
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 35,
+            "pct": 9.3
+          },
+          {
+            "answer": "Education",
+            "count": 26,
+            "pct": 6.9
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 19,
+            "pct": 5.1
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 11,
+            "pct": 2.9
+          },
+          {
+            "answer": "Agriculture",
+            "count": 7,
+            "pct": 1.9
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 3,
+            "pct": 0.8
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 8,
+            "pct": 2.1
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 10,
+            "pct": 2.7
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 8,
+            "pct": 2.1
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 12,
+            "pct": 3.2
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 12,
+            "pct": 3.2
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 12,
+            "pct": 3.2
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 9,
+            "pct": 2.4
+          },
+          {
+            "answer": "Government",
+            "count": 6,
+            "pct": 1.6
+          },
+          {
+            "answer": "Automotive",
+            "count": 8,
+            "pct": 2.1
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 7,
+            "pct": 1.9
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 1,
+            "pct": 0.3
+          },
+          {
+            "answer": "Insurance",
+            "count": 7,
+            "pct": 1.9
+          },
+          {
+            "answer": "Real Estate",
+            "count": 6,
+            "pct": 1.6
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 4,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "group": "60+",
+        "base": {
+          "n": 46
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 20,
+            "pct": 43.5
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 5,
+            "pct": 10.9
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 5,
+            "pct": 10.9
+          },
+          {
+            "answer": "Education",
+            "count": 1,
+            "pct": 2.2
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 1,
+            "pct": 2.2
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 2,
+            "pct": 4.3
+          },
+          {
+            "answer": "Agriculture",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 3,
+            "pct": 6.5
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 1,
+            "pct": 2.2
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 2,
+            "pct": 4.3
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 1,
+            "pct": 2.2
+          },
+          {
+            "answer": "Government",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Automotive",
+            "count": 1,
+            "pct": 2.2
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 1,
+            "pct": 2.2
+          },
+          {
+            "answer": "Insurance",
+            "count": 1,
+            "pct": 2.2
+          },
+          {
+            "answer": "Real Estate",
+            "count": 2,
+            "pct": 4.3
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 66
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 11,
+            "pct": 16.7
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 4,
+            "pct": 6.1
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 1,
+            "pct": 1.5
+          },
+          {
+            "answer": "Education",
+            "count": 7,
+            "pct": 10.6
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 3,
+            "pct": 4.5
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 3,
+            "pct": 4.5
+          },
+          {
+            "answer": "Agriculture",
+            "count": 4,
+            "pct": 6.1
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 4,
+            "pct": 6.1
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 2,
+            "pct": 3
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 3,
+            "pct": 4.5
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 5,
+            "pct": 7.6
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 3,
+            "pct": 4.5
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 3,
+            "pct": 4.5
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 3,
+            "pct": 4.5
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 1,
+            "pct": 1.5
+          },
+          {
+            "answer": "Government",
+            "count": 3,
+            "pct": 4.5
+          },
+          {
+            "answer": "Automotive",
+            "count": 1,
+            "pct": 1.5
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 1,
+            "pct": 1.5
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 1,
+            "pct": 1.5
+          },
+          {
+            "answer": "Insurance",
+            "count": 1,
+            "pct": 1.5
+          },
+          {
+            "answer": "Real Estate",
+            "count": 2,
+            "pct": 3
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 10,
+            "pct": 43.5
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 2,
+            "pct": 8.7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 1,
+            "pct": 4.3
+          },
+          {
+            "answer": "Education",
+            "count": 2,
+            "pct": 8.7
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 1,
+            "pct": 4.3
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Agriculture",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 1,
+            "pct": 4.3
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Government",
+            "count": 1,
+            "pct": 4.3
+          },
+          {
+            "answer": "Automotive",
+            "count": 1,
+            "pct": 4.3
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 1,
+            "pct": 4.3
+          },
+          {
+            "answer": "Insurance",
+            "count": 1,
+            "pct": 4.3
+          },
+          {
+            "answer": "Real Estate",
+            "count": 1,
+            "pct": 4.3
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 1,
+            "pct": 4.3
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 19
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 4,
+            "pct": 21.1
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Education",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Agriculture",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 1,
+            "pct": 5.3
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "Government",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Automotive",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 1,
+            "pct": 5.3
+          },
+          {
+            "answer": "Insurance",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Real Estate",
+            "count": 1,
+            "pct": 5.3
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 228
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 56,
+            "pct": 24.6
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 24,
+            "pct": 10.5
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 24,
+            "pct": 10.5
+          },
+          {
+            "answer": "Education",
+            "count": 16,
+            "pct": 7
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 16,
+            "pct": 7
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 10,
+            "pct": 4.4
+          },
+          {
+            "answer": "Agriculture",
+            "count": 8,
+            "pct": 3.5
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 3,
+            "pct": 1.3
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 9,
+            "pct": 3.9
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 3,
+            "pct": 1.3
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 3,
+            "pct": 1.3
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 7,
+            "pct": 3.1
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 9,
+            "pct": 3.9
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 6,
+            "pct": 2.6
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 8,
+            "pct": 3.5
+          },
+          {
+            "answer": "Government",
+            "count": 5,
+            "pct": 2.2
+          },
+          {
+            "answer": "Automotive",
+            "count": 3,
+            "pct": 1.3
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 4,
+            "pct": 1.8
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 5,
+            "pct": 2.2
+          },
+          {
+            "answer": "Insurance",
+            "count": 3,
+            "pct": 1.3
+          },
+          {
+            "answer": "Real Estate",
+            "count": 3,
+            "pct": 1.3
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 3,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 86
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 31,
+            "pct": 36
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 7,
+            "pct": 8.1
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 6,
+            "pct": 7
+          },
+          {
+            "answer": "Education",
+            "count": 4,
+            "pct": 4.7
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 4,
+            "pct": 4.7
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 3,
+            "pct": 3.5
+          },
+          {
+            "answer": "Agriculture",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 3,
+            "pct": 3.5
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 2,
+            "pct": 2.3
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 4,
+            "pct": 4.7
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 2,
+            "pct": 2.3
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 3,
+            "pct": 3.5
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 1,
+            "pct": 1.2
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 2,
+            "pct": 2.3
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 2,
+            "pct": 2.3
+          },
+          {
+            "answer": "Government",
+            "count": 3,
+            "pct": 3.5
+          },
+          {
+            "answer": "Automotive",
+            "count": 1,
+            "pct": 1.2
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 1,
+            "pct": 1.2
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 2,
+            "pct": 2.3
+          },
+          {
+            "answer": "Insurance",
+            "count": 2,
+            "pct": 2.3
+          },
+          {
+            "answer": "Real Estate",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 3,
+            "pct": 3.5
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 571
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 195,
+            "pct": 34.2
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 53,
+            "pct": 9.3
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 44,
+            "pct": 7.7
+          },
+          {
+            "answer": "Education",
+            "count": 40,
+            "pct": 7
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 34,
+            "pct": 6
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 36,
+            "pct": 6.3
+          },
+          {
+            "answer": "Agriculture",
+            "count": 23,
+            "pct": 4
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 20,
+            "pct": 3.5
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 13,
+            "pct": 2.3
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 15,
+            "pct": 2.6
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 13,
+            "pct": 2.3
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 11,
+            "pct": 1.9
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 10,
+            "pct": 1.8
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 11,
+            "pct": 1.9
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 5,
+            "pct": 0.9
+          },
+          {
+            "answer": "Government",
+            "count": 7,
+            "pct": 1.2
+          },
+          {
+            "answer": "Automotive",
+            "count": 13,
+            "pct": 2.3
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 11,
+            "pct": 1.9
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 7,
+            "pct": 1.2
+          },
+          {
+            "answer": "Insurance",
+            "count": 6,
+            "pct": 1.1
+          },
+          {
+            "answer": "Real Estate",
+            "count": 3,
+            "pct": 0.5
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 1,
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 194
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 53,
+            "pct": 27.3
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 16,
+            "pct": 8.2
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 13,
+            "pct": 6.7
+          },
+          {
+            "answer": "Education",
+            "count": 13,
+            "pct": 6.7
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 19,
+            "pct": 9.8
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 8,
+            "pct": 4.1
+          },
+          {
+            "answer": "Agriculture",
+            "count": 6,
+            "pct": 3.1
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 10,
+            "pct": 5.2
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 6,
+            "pct": 3.1
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 6,
+            "pct": 3.1
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 7,
+            "pct": 3.6
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 4,
+            "pct": 2.1
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 2,
+            "pct": 1
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 5,
+            "pct": 2.6
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 5,
+            "pct": 2.6
+          },
+          {
+            "answer": "Government",
+            "count": 6,
+            "pct": 3.1
+          },
+          {
+            "answer": "Automotive",
+            "count": 6,
+            "pct": 3.1
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 2,
+            "pct": 1
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 3,
+            "pct": 1.5
+          },
+          {
+            "answer": "Insurance",
+            "count": 1,
+            "pct": 0.5
+          },
+          {
+            "answer": "Real Estate",
+            "count": 2,
+            "pct": 1
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 190
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 62,
+            "pct": 32.6
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 22,
+            "pct": 11.6
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 17,
+            "pct": 8.9
+          },
+          {
+            "answer": "Education",
+            "count": 16,
+            "pct": 8.4
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 9,
+            "pct": 4.7
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 10,
+            "pct": 5.3
+          },
+          {
+            "answer": "Agriculture",
+            "count": 7,
+            "pct": 3.7
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 3,
+            "pct": 1.6
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 3,
+            "pct": 1.6
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 3,
+            "pct": 1.6
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 4,
+            "pct": 2.1
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 6,
+            "pct": 3.2
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 6,
+            "pct": 3.2
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 2,
+            "pct": 1.1
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 3,
+            "pct": 1.6
+          },
+          {
+            "answer": "Government",
+            "count": 5,
+            "pct": 2.6
+          },
+          {
+            "answer": "Automotive",
+            "count": 1,
+            "pct": 0.5
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 4,
+            "pct": 2.1
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 3,
+            "pct": 1.6
+          },
+          {
+            "answer": "Insurance",
+            "count": 3,
+            "pct": 1.6
+          },
+          {
+            "answer": "Real Estate",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 1,
+            "pct": 0.5
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 342
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 108,
+            "pct": 31.6
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 29,
+            "pct": 8.5
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 31,
+            "pct": 9.1
+          },
+          {
+            "answer": "Education",
+            "count": 25,
+            "pct": 7.3
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 20,
+            "pct": 5.8
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 20,
+            "pct": 5.8
+          },
+          {
+            "answer": "Agriculture",
+            "count": 11,
+            "pct": 3.2
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 12,
+            "pct": 3.5
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 12,
+            "pct": 3.5
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 8,
+            "pct": 2.3
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 6,
+            "pct": 1.8
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 5,
+            "pct": 1.5
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 8,
+            "pct": 2.3
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 8,
+            "pct": 2.3
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 4,
+            "pct": 1.2
+          },
+          {
+            "answer": "Government",
+            "count": 3,
+            "pct": 0.9
+          },
+          {
+            "answer": "Automotive",
+            "count": 6,
+            "pct": 1.8
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 2,
+            "pct": 0.6
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 7,
+            "pct": 2
+          },
+          {
+            "answer": "Insurance",
+            "count": 8,
+            "pct": 2.3
+          },
+          {
+            "answer": "Real Estate",
+            "count": 5,
+            "pct": 1.5
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 4,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 251
+        },
+        "cells": [
+          {
+            "answer": "I am currently not employed",
+            "count": 83,
+            "pct": 33.1
+          },
+          {
+            "answer": "Health Care & Pharmaceuticals",
+            "count": 23,
+            "pct": 9.2
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 15,
+            "pct": 6
+          },
+          {
+            "answer": "Education",
+            "count": 14,
+            "pct": 5.6
+          },
+          {
+            "answer": "Retail & Consumer Durables",
+            "count": 11,
+            "pct": 4.4
+          },
+          {
+            "answer": "Food & Beverages",
+            "count": 13,
+            "pct": 5.2
+          },
+          {
+            "answer": "Agriculture",
+            "count": 9,
+            "pct": 3.6
+          },
+          {
+            "answer": "Advertising & Marketing",
+            "count": 7,
+            "pct": 2.8
+          },
+          {
+            "answer": "Business Support & Logistics",
+            "count": 6,
+            "pct": 2.4
+          },
+          {
+            "answer": "Telecommunications, Technology, Internet & Electronics",
+            "count": 10,
+            "pct": 4
+          },
+          {
+            "answer": "Entertainment & Leisure",
+            "count": 7,
+            "pct": 2.8
+          },
+          {
+            "answer": "Finance & Financial Services",
+            "count": 9,
+            "pct": 3.6
+          },
+          {
+            "answer": "Manufacturing",
+            "count": 7,
+            "pct": 2.8
+          },
+          {
+            "answer": "Construction, Machinery and Homes",
+            "count": 5,
+            "pct": 2
+          },
+          {
+            "answer": "Nonprofit",
+            "count": 6,
+            "pct": 2.4
+          },
+          {
+            "answer": "Government",
+            "count": 4,
+            "pct": 1.6
+          },
+          {
+            "answer": "Automotive",
+            "count": 4,
+            "pct": 1.6
+          },
+          {
+            "answer": "Transportation & Delivery",
+            "count": 9,
+            "pct": 3.6
+          },
+          {
+            "answer": "Airlines & Aerospace (including Defense)",
+            "count": 3,
+            "pct": 1.2
+          },
+          {
+            "answer": "Insurance",
+            "count": 1,
+            "pct": 0.4
+          },
+          {
+            "answer": "Real Estate",
+            "count": 3,
+            "pct": 1.2
+          },
+          {
+            "answer": "Utilities, Energy, and Extraction",
+            "count": 2,
+            "pct": 0.8
+          }
+        ]
+      }
+    ]
+  }
+}

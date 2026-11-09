@@ -1,0 +1,515 @@
+{
+  "survey": "ai_in_hiring_candidate_experience_2026",
+  "id": "Q1",
+  "question_prompt": "Which of the following best describes your current professional level?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1066
+    },
+    "cells": [
+      {
+        "answer": "Entry-level / Individual Contributor",
+        "count": 397,
+        "pct": 37.2
+      },
+      {
+        "answer": "Mid-level Management",
+        "count": 385,
+        "pct": 36.1
+      },
+      {
+        "answer": "Unemployed / Currently seeking",
+        "count": 108,
+        "pct": 10.1
+      },
+      {
+        "answer": "Freelancer / Gig Worker",
+        "count": 105,
+        "pct": 9.8
+      },
+      {
+        "answer": "Senior Executive / C-Suite",
+        "count": 71,
+        "pct": 6.7
+      }
+    ]
+  },
+  "crosstabs": {
+    "professional_level": [
+      {
+        "group": "Entry-level / Individual Contributor",
+        "base": {
+          "n": 397
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 397,
+            "pct": 100
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Freelancer / Gig Worker",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 105,
+            "pct": 100
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Mid-level Management",
+        "base": {
+          "n": 385
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 385,
+            "pct": 100
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Senior Executive / C-Suite",
+        "base": {
+          "n": 71
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 71,
+            "pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Unemployed / Currently seeking",
+        "base": {
+          "n": 108
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 108,
+            "pct": 100
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      }
+    ],
+    "age_group": [
+      {
+        "group": "18–24 (Early Career / Gen Z)",
+        "base": {
+          "n": 91
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 45,
+            "pct": 49.5
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 14,
+            "pct": 15.4
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 20,
+            "pct": 22
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 9,
+            "pct": 9.9
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 3,
+            "pct": 3.3
+          }
+        ]
+      },
+      {
+        "group": "25–34 (Establishing Career / Late Gen Z & Millennial)",
+        "base": {
+          "n": 320
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 138,
+            "pct": 43.1
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 117,
+            "pct": 36.6
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 29,
+            "pct": 9.1
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 26,
+            "pct": 8.1
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 10,
+            "pct": 3.1
+          }
+        ]
+      },
+      {
+        "group": "35–44 (Mid-Career / Management / Millennial)",
+        "base": {
+          "n": 353
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 127,
+            "pct": 36
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 144,
+            "pct": 40.8
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 31,
+            "pct": 8.8
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 28,
+            "pct": 7.9
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 23,
+            "pct": 6.5
+          }
+        ]
+      },
+      {
+        "group": "45–54 (Senior Leadership / Gen X)",
+        "base": {
+          "n": 199
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 58,
+            "pct": 29.1
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 78,
+            "pct": 39.2
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 12,
+            "pct": 6
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 28,
+            "pct": 14.1
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 23,
+            "pct": 11.6
+          }
+        ]
+      },
+      {
+        "group": "55+ (Executive / Late Career / Boomer)",
+        "base": {
+          "n": 100
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 28,
+            "pct": 28
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 32,
+            "pct": 32
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 14,
+            "pct": 14
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 14,
+            "pct": 14
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 12,
+            "pct": 12
+          }
+        ]
+      },
+      {
+        "group": "Other",
+        "base": {
+          "n": 3
+        },
+        "suppressed": true
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100k – $200k",
+        "base": {
+          "n": 305
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 99,
+            "pct": 32.5
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 147,
+            "pct": 48.2
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 14,
+            "pct": 4.6
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 19,
+            "pct": 6.2
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 26,
+            "pct": 8.5
+          }
+        ]
+      },
+      {
+        "group": "$200k+",
+        "base": {
+          "n": 80
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 28,
+            "pct": 35
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 32,
+            "pct": 40
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 6,
+            "pct": 7.5
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 4,
+            "pct": 5
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 10,
+            "pct": 12.5
+          }
+        ]
+      },
+      {
+        "group": "$50k – $100k",
+        "base": {
+          "n": 409
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 150,
+            "pct": 36.7
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 158,
+            "pct": 38.6
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 36,
+            "pct": 8.8
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 36,
+            "pct": 8.8
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 29,
+            "pct": 7.1
+          }
+        ]
+      },
+      {
+        "group": "Under $50k",
+        "base": {
+          "n": 272
+        },
+        "cells": [
+          {
+            "answer": "Entry-level / Individual Contributor",
+            "count": 120,
+            "pct": 44.1
+          },
+          {
+            "answer": "Mid-level Management",
+            "count": 48,
+            "pct": 17.6
+          },
+          {
+            "answer": "Unemployed / Currently seeking",
+            "count": 52,
+            "pct": 19.1
+          },
+          {
+            "answer": "Freelancer / Gig Worker",
+            "count": 46,
+            "pct": 16.9
+          },
+          {
+            "answer": "Senior Executive / C-Suite",
+            "count": 6,
+            "pct": 2.2
+          }
+        ]
+      }
+    ]
+  }
+}

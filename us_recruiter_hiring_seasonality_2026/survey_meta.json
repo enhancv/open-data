@@ -1,0 +1,20 @@
+{
+  "slug": "us_recruiter_hiring_seasonality_2026",
+  "title": "US Recruiter Survey on Hiring Seasonality, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "2026-09-01",
+  "fieldwork_end": "2026-09-03",
+  "sample_n": 500,
+  "vendor": "Pollfish",
+  "population": "US recruiters and hiring professionals",
+  "topic_tags": [
+    "recruiters",
+    "hiring seasonality",
+    "job search timing",
+    "job postings",
+    "time to hire"
+  ],
+  "weighting": "Each respondent carries the vendor's stratification weight (field: weight). results/ shows unweighted counts and percentages plus weighted_pct.",
+  "suppression_threshold": 10
+}

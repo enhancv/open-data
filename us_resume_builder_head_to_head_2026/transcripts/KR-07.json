@@ -1,0 +1,535 @@
+{
+  "id": "KR-07",
+  "matchup": "Enhancv vs Kickresume",
+  "final_choice": "Enhancv",
+  "transcription": "Otter.ai transcript produced by the research agency",
+  "duration": "32:59",
+  "note": "Automatic transcription, lightly structured: speaker labels mapped to Interviewer or Participant; names, employers, schools, places, contact and login details replaced with [... redacted] tags. Wording is otherwise unedited, including transcription errors (for example 'Enhance CV' for Enhancv).",
+  "turns": [
+    {
+      "time": "00:02",
+      "speaker": "Interviewer",
+      "text": "Okay, just a couple questions about your resume. How complete does your current one feel to you?"
+    },
+    {
+      "time": "00:09",
+      "speaker": "Participant",
+      "text": "It feels pretty complete. Yeah, you use it actively."
+    },
+    {
+      "time": "00:13",
+      "speaker": "Interviewer",
+      "text": "Okay, so 100% Is there any maybe tweaks you would like to make?"
+    },
+    {
+      "time": "00:21",
+      "speaker": "Participant",
+      "text": "Most most tweaks I use AI to like when I am customizing per job, so it's pretty dialed, I think. But I'm excited to see what these tools can do."
+    },
+    {
+      "time": "00:30",
+      "speaker": "Interviewer",
+      "text": "Okay, and when you picture a resume that you feel confident sending out, what matters most to you to have in there?"
+    },
+    {
+      "time": "00:38",
+      "speaker": "Participant",
+      "text": "I think most is keep it to one page and tune your total resume to be focused for the job that you're applying for. Right, so there might be many different bullet points from your previous positions, but it's most important to match the ones that they're looking for in the job description."
+    },
+    {
+      "time": "00:57",
+      "speaker": "Interviewer",
+      "text": "Okay, I'm gonna send the link now to the first tool, and for this one, I want you to go through the first steps that they have without logging in, and then we'll log in after. But this builder is called Enhanced CV."
+    },
+    {
+      "time": "01:15",
+      "speaker": "Participant",
+      "text": "Okay, great. So. Let's grab this. Okay, we're gonna log in."
+    },
+    {
+      "time": "01:36",
+      "speaker": "Interviewer",
+      "text": "Well, let's go backwards because we'll log in later. There's just some prompts to go through first, no problem. So here we'll go to build your resume."
+    },
+    {
+      "time": "01:47",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "01:52",
+      "speaker": "Interviewer",
+      "text": "Yeah, and then you'll just follow along with the steps."
+    },
+    {
+      "time": "02:16",
+      "speaker": "Participant",
+      "text": "I don't know what ATS is."
+    },
+    {
+      "time": "02:19",
+      "speaker": "Interviewer",
+      "text": "It's the app tracking system. So come. use it to parse through resumes looking for keywords,"
+    },
+    {
+      "time": "02:27",
+      "speaker": "Participant",
+      "text": "like greenhouse that kind of stuff. Okay, probably pass ATS since recruiters get impressed by LinkedIn, not your resume. Okay, enhanced templates are perfectly readable by. Okay, yep. Next, please select a template for your resume. You can always change it later. There's a lot of these. Most of these are too busy. And they're going to confuse the automated system that's supposed to read it, although it says they're all compatible. Let's try this. Missing high impact. Okay, go ahead. Improve what they added. So already, it's too many pages, and they've wasted too much with my giant font Name. Is I don't know if there's a way to change this."
+    },
+    {
+      "time": "03:55",
+      "speaker": "Interviewer",
+      "text": "Yeah, so we can go through everything in the toolbar."
+    },
+    {
+      "time": "04:00",
+      "speaker": "Participant",
+      "text": "Let's try this map. It's better. Still not fitting. Maybe this one. That somehow fitted on one page, which is better. Okay, let's keep this one. All right. So now wants us to do the login. Take this part out."
+    },
+    {
+      "time": "04:57",
+      "speaker": "Interviewer",
+      "text": "Okay. Here I'll guide you. If you can scroll down, you should be able to find your document. Let's open that one up. Oh, okay. Let's go backwards because I guess the way we did this, you'll put create,"
+    },
+    {
+      "time": "05:16",
+      "speaker": "Participant",
+      "text": "yeah,"
+    },
+    {
+      "time": "05:17",
+      "speaker": "Interviewer",
+      "text": "new resume, and then just upload it Again,"
+    },
+    {
+      "time": "05:38",
+      "speaker": "Participant",
+      "text": "yes. I somehow remembered the template we wanted. I think. No, it didn't. Just picked one. I think here, which is fine. All right. So who wants to improve this? Okay, so made some changes, which is fine. Just one AI's preference over another, but now we've wrapped to a second page, which isn't ideal, which is why it was previously formatted that way. This is way too big because they've decided to include a picture, which isn't necessary on a resume."
+    },
+    {
+      "time": "06:39",
+      "speaker": "Interviewer",
+      "text": "Why don't we remove the picture to see if that makes more space."
+    },
+    {
+      "time": "06:45",
+      "speaker": "Participant",
+      "text": "Okay, trying to do that, but it doesn't seem to. It's the red button. There we go. Yeah, there we go. Still, they've made the basically on my previous one. I had optimized all the things to be a single line so that it would fit without line wrapping or without page wrapping, and when AI rewrote those, which were already written by AI to be more minimal, it kind of blew it up a little bit. But that's okay. It's only being read by an information system. Maybe it doesn't matter if it's more than one page."
+    },
+    {
+      "time": "07:20",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "07:25",
+      "speaker": "Participant",
+      "text": "Okay, I'm gonna give it a thumbs down. I'm just gonna say I prefer all experience to be limited to one page or total Resume one page, whatever that is meant to be done when tuning per job. Maybe not on the template, since appears you auto tune resumes for each opportunity, so I think that's what it's trying to do here. It's trying to like make a template that has basically all bullets that it can then trim and and revise when it like auto trims and applies to jobs for you in theory, based on the other page I saw where it has job listings."
+    },
+    {
+      "time": "08:30",
+      "speaker": "Interviewer",
+      "text": "Okay, and here we can go to the top where it says fix resume, check and tailor, etc. And if you can just go through those, please."
+    },
+    {
+      "time": "08:42",
+      "speaker": "Participant",
+      "text": "Okay, so we'll say fixed resume link. You mean spends use clout? I do not need main spends. All right, do you mean IAC? again. That is also incorrect. Want to include quantifiable metric if possible. No number. That doesn't look like it's supposed to have a number. Okay. Again, that's what. to have a number. Incorrect. Your risk. It says there's a seven-month gap between [company name redacted] and [company name redacted] rules, which is incorrect. It goes 1120 18, and then it starts on 1120"
+    },
+    {
+      "time": "09:45",
+      "speaker": "Interviewer",
+      "text": "18."
+    },
+    {
+      "time": "09:47",
+      "speaker": "Participant",
+      "text": "So this isn't a very good AI. Would be my first take, and I said these are red flags. All the things it's flagging are false so far. So I'm a little concerned if it's going to be automatically sub. On my behalf and and modifying things to send out to people."
+    },
+    {
+      "time": "10:05",
+      "speaker": "Interviewer",
+      "text": "All"
+    },
+    {
+      "time": "10:07",
+      "speaker": "Participant",
+      "text": "right, bank statement. Okay. Okay. Team leadership. Okay. Education section shows degree, but no graduation year. Sounds unlikely. That's just because it trimmed it. Let me look at the original. Yeah, had a year on it, but it it trimmed it and then complained about it. So, I would at this point I would no longer be using this service."
+    },
+    {
+      "time": "10:46",
+      "speaker": "Interviewer",
+      "text": "I see."
+    },
+    {
+      "time": "10:50",
+      "speaker": "Participant",
+      "text": "Paste the full job description. Okay, so we want to try the LinkedIn. We'll try this off LinkedIn. Go to jobs. Same over. Grab this up to here. Okay, paste. Add new job. Now this is useful because usually I have to just prompt my own AI. Usually I would just say Gemini do this right."
+    },
+    {
+      "time": "11:59",
+      "speaker": "Interviewer",
+      "text": "You use Gemini"
+    },
+    {
+      "time": "12:02",
+      "speaker": "Participant",
+      "text": "for like resume stuff, just because it's already integrated to Google Docs. Okay. Resume needs to be better tailored to. Okay. Yep. This is so we have the"
+    },
+    {
+      "time": "12:15",
+      "speaker": "Interviewer",
+      "text": "first time that I see this actually. Can we try again with you just copy and pasting the whole description because I've never seen a zero suggestions. Oh, it did work. Okay."
+    },
+    {
+      "time": "12:29",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "12:30",
+      "speaker": "Interviewer",
+      "text": "Odd."
+    },
+    {
+      "time": "12:30",
+      "speaker": "Participant",
+      "text": "Bookmark customer. All right. Add a title under your name that's relevant to the chat you're applying for. Go ahead. That might be a bit much. Okay. Yeah. Taylor's summary. Okay. These are all things I would normally expect AI. Yes, it's saying it wants that or it doesn't want that. That's and is it removing it somewhere?"
+    },
+    {
+      "time": "13:15",
+      "speaker": "Interviewer",
+      "text": "Ignoring the suggestion."
+    },
+    {
+      "time": "13:18",
+      "speaker": "Participant",
+      "text": "Okay. Okay. I mean, it's not giving me an option to like auto fix that, which is frustrating if it's not happy with that, right? It says I don't have a phone number, but my original resume before I put it in here, I'm pretty sure did have a phone number. I'll just check that out. Maybe not. Okay, but it says 86% integrity. It's not telling me what it wants me to do about integrity. Yeah, integrity."
+    },
+    {
+      "time": "14:07",
+      "speaker": "Interviewer",
+      "text": "Those are just keywords that it's such. Oh, it"
+    },
+    {
+      "time": "14:09",
+      "speaker": "Participant",
+      "text": "thinks I should add integrity in here. Okay, I think I think what I would be looking for there is AI suggesting how it these words that I'm missing should be worked in right, and I would have thought they would have done that in the summary, not necessarily in my experience, since like integrity doesn't really fit into like a bullet of something you did, generally speaking,"
+    },
+    {
+      "time": "14:33",
+      "speaker": "Interviewer",
+      "text": "right?"
+    },
+    {
+      "time": "14:34",
+      "speaker": "Participant",
+      "text": "Like it would be like in summary, high integrity infrastructure engineer, I guess, or something if you're trying to get that in there, But so, I guess that's where I would expect it to try to put in these words. All right, what do you? What's so we just"
+    },
+    {
+      "time": "14:54",
+      "speaker": "Interviewer",
+      "text": "have rearrange and design and font. We've already taken a look at the templates."
+    },
+    {
+      "time": "15:00",
+      "speaker": "Participant",
+      "text": "All right. Yeah, let's rearrange. Okay, so I can change where I want some of this stuff: education skills, key achievements. I guess we'll just try moving this in between here and see what that does. I think that worked, and we want design and font. Okay, so if I didn't want blue all over this, I'm guessing if I yeah right okay section one spacing so looks like I can make the font it made it worse somehow maybe not is it fitting more on the page okay maybe it did fit more on the page. So it took the margins down, fit it all, which is good. Font style. It's kind of weird that it's using custom fonts here rather than just Times New Roman and Courier, etc. Probably so. I can't take this and use it somewhere else where I don't own those fonts. Would be my my guess here. I don't need Tinos when there's Times New Roman, I guess, right? Or Gelazio instead of Georgia. But yeah, okay. So we changed the fonts. We changed the design a little bit. I do like that font better."
+    },
+    {
+      "time": "16:47",
+      "speaker": "Interviewer",
+      "text": "Did you think that this platform is flexible, or what did you think about the amount of freedom it gave you when creating your resume?"
+    },
+    {
+      "time": "16:58",
+      "speaker": "Participant",
+      "text": "It's you know it's definitely it's flexible in that it has templates, and I can drag things around a little bit, and it can change fonts and etc. So I think that's all all there."
+    },
+    {
+      "time": "17:16",
+      "speaker": "Interviewer",
+      "text": "And did the templates seem more modern or better than what you could find in Word."
+    },
+    {
+      "time": "17:27",
+      "speaker": "Participant",
+      "text": "I I don't think so. Like I like my template better. It's just clean into the point, and that is cluttered. Like if I'm a human looking at this, I don't know where to start. A robot's just gonna, or a platform's gonna pull the the key information, so I think it's mostly just like wasted color and overdesigned."
+    },
+    {
+      "time": "17:49",
+      "speaker": "Interviewer",
+      "text": "Gotcha. Were there any features that you did like?"
+    },
+    {
+      "time": "17:54",
+      "speaker": "Participant",
+      "text": "I I do like the well, not in the part that we used when we were on this other screen, and it showed that it showed jobs that were like if we were over here in the find jobs, it looks like it finds jabs and will auto tune this and maybe auto apply to them if if you're looking without you having to like do a bunch of stuff, which could be interesting if it's like eat into LinkedIn and is pulling jobs from there, but not if it's just like got a terrible chat board of other selections,"
+    },
+    {
+      "time": "18:25",
+      "speaker": "Interviewer",
+      "text": "right? And did it do a good job validating that your resume is strong? Uh,"
+    },
+    {
+      "time": "18:36",
+      "speaker": "Participant",
+      "text": "yeah, mostly. You know, it it just it's common that AI any AI will want to rewrite what another AI wrote. Like if I took this to Gemini and told it to make this ready, it would reword it again, or Claude, or whatever else. So it's pretty common that it would get slightly reworded once. But yeah, I would say it kept most of the stuff and just changed it slightly, so yeah."
+    },
+    {
+      "time": "19:04",
+      "speaker": "Interviewer",
+      "text": "Fair. We're gonna move on to the next tool. So I'm gonna drop the link in the chat, and the login info is the same."
+    },
+    {
+      "time": "19:14",
+      "speaker": "Participant",
+      "text": "All right. That again. So start the same way. Create my resume."
+    },
+    {
+      "time": "19:33",
+      "speaker": "Interviewer",
+      "text": "For this one, we can just go straight to login, so that we we don't lose your progress like last time."
+    },
+    {
+      "time": "19:41",
+      "speaker": "Participant",
+      "text": "Sounds good. There, put this on top. Okay, get this out of there. I got a space at the beginning. I think there we go. Okay. Go. All right. Did you want me to do resume or import from LinkedIn or?"
+    },
+    {
+      "time": "20:07",
+      "speaker": "Interviewer",
+      "text": "Yes. So you can click resume and then just import the PDF."
+    },
+    {
+      "time": "20:12",
+      "speaker": "Participant",
+      "text": "Okay. Sounds good. I don't like how sort of documents instead of downloads, but that could be the Mac doing it. Use to better use cookies. All right, fine. Seemed like when I accepted cookies, it then lost where I was. So I'm just gonna try this again. Nope. Oh, maybe it has. Is it maybe? Maybe."
+    },
+    {
+      "time": "20:45",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "20:46",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "20:47",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "20:47",
+      "speaker": "Participant",
+      "text": "All right. This is where you want it. Yeah."
+    },
+    {
+      "time": "20:50",
+      "speaker": "Interviewer",
+      "text": "So we can go through this part where it's the fill in. Then we'll do design, improve, proofread, and translate."
+    },
+    {
+      "time": "20:57",
+      "speaker": "Participant",
+      "text": "Okay. All right. So fill in's already done. It looks like, which is good. And design. I'm okay. Like I don't mind the current design. I just wish the skills were listed horizontally instead of making a page wrap, but maybe I can handle that in the improve portion of things. This already looks like the most simple layout, maybe. All right, so we go to improve. All right, so we got an 84 structure. Click here to see detailed analysis font type. Some creative fonts may use characters that are hard to differentiate. Okay, let's change the font. Again, it looks like we're using fake fonts or paid fonts to make it so I can't take this somewhere else and edit it locally because I won't have the fonts, which I find upsetting, but that's fine. Let's do a lot of sans serif, so we'll say fear of sans. It likes that for some reason better, I think. It wants a phone number? Never use your work number. Okay, of course, use a disposable number. Put a burner burner phone on your resume is the advice. Bad advice. Okay, so we got 93 out of 100 now, just by changing the font to a font that you have to pay for. Okay, it wants strengths and hobbies potentially, and a phone number it thinks will make make this next level. I don't think hobbies should be added to a resume, so I'm going to pass on that. Okay. Proofread and translate. Meet our proofreaders, professional sign language teacher. Okay, and Spanish consult. Okay, translate your resume. I don't need to do that. Okay, so it's offering that I could have a person proofread it for an extra 30. Would that be"
+    },
+    {
+      "time": "23:27",
+      "speaker": "Interviewer",
+      "text": "something that you're interested in, or"
+    },
+    {
+      "time": "23:30",
+      "speaker": "Participant",
+      "text": "no,"
+    },
+    {
+      "time": "23:30",
+      "speaker": "Interviewer",
+      "text": "no,"
+    },
+    {
+      "time": "23:31",
+      "speaker": "Participant",
+      "text": "nope, nope. Okay, and and then it lets you download and share, which download is PDF because they don't want you editing it outside of their platform. That's the closed fonts, I would say, right? Because I can't download it as Google Doc or Microsoft Word or anything that would be editable by me if I canceled the platform after I generated"
+    },
+    {
+      "time": "24:04",
+      "speaker": "Interviewer",
+      "text": "it. Exactly."
+    },
+    {
+      "time": "24:06",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "24:06",
+      "speaker": "Interviewer",
+      "text": "Okay. Well, which of the builders had a template design experience that stood out more to you?"
+    },
+    {
+      "time": "24:15",
+      "speaker": "Participant",
+      "text": "Well, I'll say that this one was better in that, like my resume by default still fits on one page. It didn't just reword things to no advantage that had already been kind of optimized by AI previously, but it also by doing those things in the other platform, maybe I feel like it's earning my money. Like I feel like this one didn't do anything other than just like put a blue bar on the left and some pinky on the right tab, and maybe put a a custom font on it. So I so I think like if I was paying one of these services, I'd feel better about the first service because it like reworded a bunch of. Even though that I I personally didn't care for that, this one feels like I'd be like, \"What am I paying this thing for? Like it didn't, it just didn't do much."
+    },
+    {
+      "time": "25:11",
+      "speaker": "Interviewer",
+      "text": "Okay, so you'd be more willing to pay for the first platform, just not this one."
+    },
+    {
+      "time": "25:17",
+      "speaker": "Participant",
+      "text": "I think so, but yeah. Well, at least if I had paid for if I had paid for either one of them, the other one felt like it was doing something, and that we were heading in the direction of getting a job. This one feels more like somebody vibe coded it, and specifically these people to get $30 upcharges for human resume reviews is how it feels."
+    },
+    {
+      "time": "25:46",
+      "speaker": "Interviewer",
+      "text": "Okay, and well, did either of them make you rethink how you tell your professional story?"
+    },
+    {
+      "time": "25:56",
+      "speaker": "Participant",
+      "text": "I don't think so. I'm already pretty dialed on how I want to tell my professional story. I think that so the first one was kind of problematic because it like imported my stuff, but then made it worse fundamentally, and then sought to improve it. Like it took, for instance, it took my education date for graduation off, and then it said you don't have your your graduation date on here. So I think they need to fix the AI on the first site, but it's closer to what somebody would want than than maybe this site, which looks like I asked Claude to make one of these, and it's been about an hour, and this is what we have"
+    },
+    {
+      "time": "26:35",
+      "speaker": "Interviewer",
+      "text": "there. And what was the difference between amount of freedom the platforms gave you."
+    },
+    {
+      "time": "26:43",
+      "speaker": "Participant",
+      "text": "Yeah, I think the other. So let me go back to design. The other one. Okay, so we can do layout. I think the other one because it let me move things around after it was together, and I think the other one again had a better like felt like when I was customizing the last little bits that I could easily change things. So yeah, I think the first one was better in that regard."
+    },
+    {
+      "time": "27:11",
+      "speaker": "Interviewer",
+      "text": "Okay, and if you had to pick one, which did a better job validating that your resume is strong?"
+    },
+    {
+      "time": "27:18",
+      "speaker": "Participant",
+      "text": "Well, this one left my resume exactly how it was, so it validated that my, in in my opinion, that the the resume is strong. But again, like if I'm paying this site, I go, eh, you already said my resume is exactly good, so what? I'm not going to continue after this trial or pay for month two. Maybe I'm also like the other one accidentally showed me that it was going to auto tune my resume for jobs, which this one maybe does too. But I don't haven't seen any of that in my process so far. They didn't casually make me go by that part, so it's not in my mind that it's going to do that. And so when I see my resume basically the same, I go, I don't know that this one's doing it compared to the other one, where I got the hint by seeing that other portion, whether intentional or not, that it's going to do something which may be important to me, which is time-consuming, where I have to talk to Gemini and go, \"Hey, change these things, do this, this, this, where it may just like pull in all these jobs and like auto apply to them for me, which would be a time saver if I was heavily looking,"
+    },
+    {
+      "time": "28:23",
+      "speaker": "Interviewer",
+      "text": "right? So you would trust the enhanced CV platform more for tailoring your resume to the rules."
+    },
+    {
+      "time": "28:32",
+      "speaker": "Participant",
+      "text": "Yeah, I think mostly the thing I want most from a platform is automatically using AI based on job descriptions to tailor my tailor my resume so that I get past the whatever we call it SDR or essentially the bot the greenhouse yeah ATS right that's that's doing all the screening because people can't screen 1000s of resumes right it's always going to be ATS for big company jobs,"
+    },
+    {
+      "time": "29:03",
+      "speaker": "Interviewer",
+      "text": "right? Well, I know we went through this quickly, but if you were to spend more time on these platforms, which do you think would produce a resume that's more likely to impress a recruiter? Like after it's been checked by ATS, and now a human is looking at it."
+    },
+    {
+      "time": "29:21",
+      "speaker": "Participant",
+      "text": "Yeah. So, which one has a better? We're saying like, which one has a better like total experience?"
+    },
+    {
+      "time": "29:28",
+      "speaker": "Interviewer",
+      "text": "Yes. Well, no. Like, first, which do you think if a hiring manager was looking at your resume is more likely to impress them?"
+    },
+    {
+      "time": "29:41",
+      "speaker": "Participant",
+      "text": "I'm I'm gonna be a little biased here because this one basically used my same resume."
+    },
+    {
+      "time": "29:45",
+      "speaker": "Interviewer",
+      "text": "Okay,"
+    },
+    {
+      "time": "29:46",
+      "speaker": "Participant",
+      "text": "and and so my problem with the other one is like a lot of the templates are way too busy. If a if an actual hiring manager or a person's looking at it, like the other one was like blue over here and boxes everywhere. Yeah, and so like that the person. Isn't they're gonna be like they may just go half ass like they've got a bunch of these and that they want something that's concise once it gets to the human level. So I think in in my at least my opinion I think you have to have something that gets past the ATS and then then gets in front of the hiring manager with the final like you're the final five out of 1000 that they're going to look at, and you want them to they're busy like they've got also they've got interviews going on for other positions and they get you know reviews to do of of like how those interviews went those multi interviews for these types of levels, so like they don't have all day to like spend looking at 19 tables that you've laid out to try to find the information. They just want to know like really quickly what's your last position and like did it have the bullets that match the keywords. Does the summary look good? And then that part's interesting. Maybe they scan the rest, right? But if it's real busy, I feel like they're just gonna be like next,"
+    },
+    {
+      "time": "31:04",
+      "speaker": "Interviewer",
+      "text": "right? Who do you think should not use these builders?"
+    },
+    {
+      "time": "31:11",
+      "speaker": "Participant",
+      "text": "Who should not?"
+    },
+    {
+      "time": "31:12",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "31:14",
+      "speaker": "Participant",
+      "text": "Like what types of like"
+    },
+    {
+      "time": "31:15",
+      "speaker": "Interviewer",
+      "text": "who wouldn't benefit"
+    },
+    {
+      "time": "31:17",
+      "speaker": "Participant",
+      "text": "job applicants?"
+    },
+    {
+      "time": "31:18",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "31:20",
+      "speaker": "Participant",
+      "text": "Okay. I guess who should not use AI resume builders"
+    },
+    {
+      "time": "31:29",
+      "speaker": "Interviewer",
+      "text": "could be industry experience level."
+    },
+    {
+      "time": "31:36",
+      "speaker": "Participant",
+      "text": "I mean, it's it's a good question. I I guess anyone who's applying for a job where they've specifically asked you not to use AI because they're going to quickly suss out from the the language that it's been generated."
+    },
+    {
+      "time": "31:56",
+      "speaker": "Interviewer",
+      "text": "Okay, yeah, that that's fair. Come across a couple of Those applications, great. Well, thank you for your feedback. We are all done here. Is there anything else that you think I should know about your experience with these platforms?"
+    },
+    {
+      "time": "32:13",
+      "speaker": "Participant",
+      "text": "I don't. I don't think so. Like, I I think that the the first one was a good a good experience, but like they just need to tune their AI model a little better, or its skills. Since we we caught it doing some incorrect things, right? Like it tried to correct things that weren't weren't inaccurate, and then it like removed things from my initial resume and complained that they weren't there. So if they fix that up, I think they're probably that that layout is probably better positioned than this layout because I assume the same platform is running underneath both of them, the back end."
+    },
+    {
+      "time": "32:50",
+      "speaker": "Interviewer",
+      "text": "Okay, thank you so much, and I hope you have a great rest of your day."
+    },
+    {
+      "time": "32:55",
+      "speaker": "Participant",
+      "text": "All right, same to you. Thanks for your time."
+    },
+    {
+      "time": "32:57",
+      "speaker": "Interviewer",
+      "text": "Thanks. Bye."
+    }
+  ]
+}

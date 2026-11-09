@@ -1,0 +1,733 @@
+{
+  "survey": "us_overemployment_2026",
+  "id": "Q3",
+  "question_prompt": "How would you classify the cost of living in your current location?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+        "count": 223,
+        "pct": 22.3,
+        "weighted_pct": 22.3
+      },
+      {
+        "answer": "Mid-tier city / suburban area",
+        "count": 627,
+        "pct": 62.7,
+        "weighted_pct": 63.4
+      },
+      {
+        "answer": "Low-cost or rural area",
+        "count": 150,
+        "pct": 15,
+        "weighted_pct": 14.3
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 550
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 93,
+            "pct": 16.9,
+            "weighted_pct": 16.1
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 362,
+            "pct": 65.8,
+            "weighted_pct": 67.1
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 95,
+            "pct": 17.3,
+            "weighted_pct": 16.8
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 450
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 130,
+            "pct": 28.9,
+            "weighted_pct": 28.6
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 265,
+            "pct": 58.9,
+            "weighted_pct": 59.5
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 55,
+            "pct": 12.2,
+            "weighted_pct": 11.8
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 28
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 7,
+            "pct": 25,
+            "weighted_pct": 25
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 16,
+            "pct": 57.1,
+            "weighted_pct": 57.1
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 5,
+            "pct": 17.9,
+            "weighted_pct": 17.9
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 174
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 51,
+            "pct": 29.3,
+            "weighted_pct": 29.8
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 109,
+            "pct": 62.6,
+            "weighted_pct": 62.7
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 14,
+            "pct": 8,
+            "weighted_pct": 7.5
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 330
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 93,
+            "pct": 28.2,
+            "weighted_pct": 28.8
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 186,
+            "pct": 56.4,
+            "weighted_pct": 56.1
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 51,
+            "pct": 15.5,
+            "weighted_pct": 15.1
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 293
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 50,
+            "pct": 17.1,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 194,
+            "pct": 66.2,
+            "weighted_pct": 66
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 49,
+            "pct": 16.7,
+            "weighted_pct": 16.9
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 175
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 22,
+            "pct": 12.6,
+            "weighted_pct": 11.7
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 122,
+            "pct": 69.7,
+            "weighted_pct": 71.4
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 31,
+            "pct": 17.7,
+            "weighted_pct": 16.9
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 209
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 45,
+            "pct": 21.5,
+            "weighted_pct": 23.7
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 135,
+            "pct": 64.6,
+            "weighted_pct": 62.5
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 29,
+            "pct": 13.9,
+            "weighted_pct": 13.8
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 80
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 22,
+            "pct": 27.5,
+            "weighted_pct": 22.4
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 50,
+            "pct": 62.5,
+            "weighted_pct": 69.8
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 8,
+            "pct": 10,
+            "weighted_pct": 7.8
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 67
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 18,
+            "pct": 26.9,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 45,
+            "pct": 67.2,
+            "weighted_pct": 71.7
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 4,
+            "pct": 6,
+            "weighted_pct": 5.5
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 435
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 94,
+            "pct": 21.6,
+            "weighted_pct": 22.6
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 280,
+            "pct": 64.4,
+            "weighted_pct": 64.8
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 61,
+            "pct": 14,
+            "weighted_pct": 12.6
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 11
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 1,
+            "pct": 9.1,
+            "weighted_pct": 5.3
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 7,
+            "pct": 63.6,
+            "weighted_pct": 75.1
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 3,
+            "pct": 27.3,
+            "weighted_pct": 19.5
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 198
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 43,
+            "pct": 21.7,
+            "weighted_pct": 21.3
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 110,
+            "pct": 55.6,
+            "weighted_pct": 56.1
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 45,
+            "pct": 22.7,
+            "weighted_pct": 22.6
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 99
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 19,
+            "pct": 19.2,
+            "weighted_pct": 18.3
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 62,
+            "pct": 62.6,
+            "weighted_pct": 64.2
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 18,
+            "pct": 18.2,
+            "weighted_pct": 17.5
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 336
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 81,
+            "pct": 24.1,
+            "weighted_pct": 24.6
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 214,
+            "pct": 63.7,
+            "weighted_pct": 63.5
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 41,
+            "pct": 12.2,
+            "weighted_pct": 11.9
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 138
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 28,
+            "pct": 20.3,
+            "weighted_pct": 19.3
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 81,
+            "pct": 58.7,
+            "weighted_pct": 64.4
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 29,
+            "pct": 21,
+            "weighted_pct": 16.3
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 14
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 4,
+            "pct": 28.6,
+            "weighted_pct": 34.6
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 9,
+            "pct": 64.3,
+            "weighted_pct": 60.4
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 1,
+            "pct": 7.1,
+            "weighted_pct": 4.9
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 16
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 3,
+            "pct": 18.8,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 11,
+            "pct": 68.8,
+            "weighted_pct": 75.3
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 2,
+            "pct": 12.5,
+            "weighted_pct": 9.7
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 38
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 9,
+            "pct": 23.7,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 26,
+            "pct": 68.4,
+            "weighted_pct": 73.2
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 3,
+            "pct": 7.9,
+            "weighted_pct": 9.4
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 3
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 113
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 20,
+            "pct": 17.7,
+            "weighted_pct": 20.4
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 64,
+            "pct": 56.6,
+            "weighted_pct": 55.8
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 29,
+            "pct": 25.7,
+            "weighted_pct": 23.8
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 215
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 53,
+            "pct": 24.7,
+            "weighted_pct": 25.2
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 139,
+            "pct": 64.7,
+            "weighted_pct": 64.5
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 23,
+            "pct": 10.7,
+            "weighted_pct": 10.3
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 2
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 26
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 5,
+            "pct": 19.2,
+            "weighted_pct": 20
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 18,
+            "pct": 69.2,
+            "weighted_pct": 69.1
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 3,
+            "pct": 11.5,
+            "weighted_pct": 10.9
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 223
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 21,
+            "pct": 9.4,
+            "weighted_pct": 10.8
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 151,
+            "pct": 67.7,
+            "weighted_pct": 66.6
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 51,
+            "pct": 22.9,
+            "weighted_pct": 22.5
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 256
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 76,
+            "pct": 29.7,
+            "weighted_pct": 28.2
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 145,
+            "pct": 56.6,
+            "weighted_pct": 58.1
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 35,
+            "pct": 13.7,
+            "weighted_pct": 13.7
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 348
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 63,
+            "pct": 18.1,
+            "weighted_pct": 19
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 234,
+            "pct": 67.2,
+            "weighted_pct": 67.7
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 51,
+            "pct": 14.7,
+            "weighted_pct": 13.3
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 156
+        },
+        "cells": [
+          {
+            "answer": "High-cost city (e.g., NYC, San Francisco, London)",
+            "count": 61,
+            "pct": 39.1,
+            "weighted_pct": 37.4
+          },
+          {
+            "answer": "Mid-tier city / suburban area",
+            "count": 84,
+            "pct": 53.8,
+            "weighted_pct": 55.4
+          },
+          {
+            "answer": "Low-cost or rural area",
+            "count": 11,
+            "pct": 7.1,
+            "weighted_pct": 7.2
+          }
+        ]
+      }
+    ]
+  }
+}

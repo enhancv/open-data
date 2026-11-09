@@ -1,0 +1,423 @@
+{
+  "survey": "us_return_to_office_2026",
+  "id": "SQ1",
+  "question_prompt": "Has your employer implemented a new or stricter return-to-office policy in the past 12 months?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "Yes",
+        "count": 1000,
+        "pct": 100,
+        "weighted_pct": 100
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 396
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 396,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 604
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 604,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 56
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 56,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 225
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 225,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 342
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 342,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 224
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 224,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 142
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 142,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "65+",
+        "base": {
+          "n": 11
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 11,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 209
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 209,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 107
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 107,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 76
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 76,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 379
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 379,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 6
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 223
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 223,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 116,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 320
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 320,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 142
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 142,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 13
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 13,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 14
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 14,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 37
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 37,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 6
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 171
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 171,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 159
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 159,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "None of the above/Prefer not to answer",
+        "base": {
+          "n": 4
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 17
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 17,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 227
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 227,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 223
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 223,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 381
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 381,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 130
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 130,
+            "pct": 100,
+            "weighted_pct": 100
+          }
+        ]
+      }
+    ]
+  }
+}

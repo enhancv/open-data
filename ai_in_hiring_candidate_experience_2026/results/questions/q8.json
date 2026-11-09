@@ -1,0 +1,440 @@
+{
+  "survey": "ai_in_hiring_candidate_experience_2026",
+  "id": "Q8",
+  "question_prompt": "Did the company explicitly disclose that an AI was used to evaluate your application?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1066
+    },
+    "cells": [
+      {
+        "answer": "No",
+        "count": 730,
+        "pct": 68.5
+      },
+      {
+        "answer": "I don't know",
+        "count": 173,
+        "pct": 16.2
+      },
+      {
+        "answer": "Yes, it was clearly stated",
+        "count": 103,
+        "pct": 9.7
+      },
+      {
+        "answer": "Yes, it was in the fine print",
+        "count": 60,
+        "pct": 5.6
+      }
+    ]
+  },
+  "crosstabs": {
+    "professional_level": [
+      {
+        "group": "Entry-level / Individual Contributor",
+        "base": {
+          "n": 397
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 273,
+            "pct": 68.8
+          },
+          {
+            "answer": "I don't know",
+            "count": 73,
+            "pct": 18.4
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 28,
+            "pct": 7.1
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 23,
+            "pct": 5.8
+          }
+        ]
+      },
+      {
+        "group": "Freelancer / Gig Worker",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 77,
+            "pct": 73.3
+          },
+          {
+            "answer": "I don't know",
+            "count": 16,
+            "pct": 15.2
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 9,
+            "pct": 8.6
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 3,
+            "pct": 2.9
+          }
+        ]
+      },
+      {
+        "group": "Mid-level Management",
+        "base": {
+          "n": 385
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 266,
+            "pct": 69.1
+          },
+          {
+            "answer": "I don't know",
+            "count": 42,
+            "pct": 10.9
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 54,
+            "pct": 14
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 23,
+            "pct": 6
+          }
+        ]
+      },
+      {
+        "group": "Senior Executive / C-Suite",
+        "base": {
+          "n": 71
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 39,
+            "pct": 54.9
+          },
+          {
+            "answer": "I don't know",
+            "count": 18,
+            "pct": 25.4
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 7,
+            "pct": 9.9
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 7,
+            "pct": 9.9
+          }
+        ]
+      },
+      {
+        "group": "Unemployed / Currently seeking",
+        "base": {
+          "n": 108
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 75,
+            "pct": 69.4
+          },
+          {
+            "answer": "I don't know",
+            "count": 24,
+            "pct": 22.2
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 5,
+            "pct": 4.6
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 4,
+            "pct": 3.7
+          }
+        ]
+      }
+    ],
+    "age_group": [
+      {
+        "group": "18–24 (Early Career / Gen Z)",
+        "base": {
+          "n": 91
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 61,
+            "pct": 67
+          },
+          {
+            "answer": "I don't know",
+            "count": 10,
+            "pct": 11
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 16,
+            "pct": 17.6
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 4,
+            "pct": 4.4
+          }
+        ]
+      },
+      {
+        "group": "25–34 (Establishing Career / Late Gen Z & Millennial)",
+        "base": {
+          "n": 320
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 224,
+            "pct": 70
+          },
+          {
+            "answer": "I don't know",
+            "count": 35,
+            "pct": 10.9
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 39,
+            "pct": 12.2
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 22,
+            "pct": 6.9
+          }
+        ]
+      },
+      {
+        "group": "35–44 (Mid-Career / Management / Millennial)",
+        "base": {
+          "n": 353
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 245,
+            "pct": 69.4
+          },
+          {
+            "answer": "I don't know",
+            "count": 65,
+            "pct": 18.4
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 24,
+            "pct": 6.8
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 19,
+            "pct": 5.4
+          }
+        ]
+      },
+      {
+        "group": "45–54 (Senior Leadership / Gen X)",
+        "base": {
+          "n": 199
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 130,
+            "pct": 65.3
+          },
+          {
+            "answer": "I don't know",
+            "count": 37,
+            "pct": 18.6
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 18,
+            "pct": 9
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 14,
+            "pct": 7
+          }
+        ]
+      },
+      {
+        "group": "55+ (Executive / Late Career / Boomer)",
+        "base": {
+          "n": 100
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 68,
+            "pct": 68
+          },
+          {
+            "answer": "I don't know",
+            "count": 25,
+            "pct": 25
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 6,
+            "pct": 6
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 1,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "group": "Other",
+        "base": {
+          "n": 3
+        },
+        "suppressed": true
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100k – $200k",
+        "base": {
+          "n": 305
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 213,
+            "pct": 69.8
+          },
+          {
+            "answer": "I don't know",
+            "count": 51,
+            "pct": 16.7
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 29,
+            "pct": 9.5
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 12,
+            "pct": 3.9
+          }
+        ]
+      },
+      {
+        "group": "$200k+",
+        "base": {
+          "n": 80
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 53,
+            "pct": 66.3
+          },
+          {
+            "answer": "I don't know",
+            "count": 16,
+            "pct": 20
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 6,
+            "pct": 7.5
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 5,
+            "pct": 6.3
+          }
+        ]
+      },
+      {
+        "group": "$50k – $100k",
+        "base": {
+          "n": 409
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 272,
+            "pct": 66.5
+          },
+          {
+            "answer": "I don't know",
+            "count": 72,
+            "pct": 17.6
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 43,
+            "pct": 10.5
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 22,
+            "pct": 5.4
+          }
+        ]
+      },
+      {
+        "group": "Under $50k",
+        "base": {
+          "n": 272
+        },
+        "cells": [
+          {
+            "answer": "No",
+            "count": 192,
+            "pct": 70.6
+          },
+          {
+            "answer": "I don't know",
+            "count": 34,
+            "pct": 12.5
+          },
+          {
+            "answer": "Yes, it was clearly stated",
+            "count": 25,
+            "pct": 9.2
+          },
+          {
+            "answer": "Yes, it was in the fine print",
+            "count": 21,
+            "pct": 7.7
+          }
+        ]
+      }
+    ]
+  }
+}

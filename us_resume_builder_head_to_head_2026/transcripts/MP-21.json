@@ -1,0 +1,655 @@
+{
+  "id": "MP-21",
+  "matchup": "Enhancv vs MyPerfectResume",
+  "final_choice": "Enhancv",
+  "transcription": "Gemini transcript produced by Enhancv from the session recording",
+  "duration": null,
+  "note": "Automatic transcription, lightly structured: speaker labels mapped to Interviewer or Participant; names, employers, schools, places, contact and login details replaced with [... redacted] tags. Wording is otherwise unedited, including transcription errors (for example 'Enhance CV' for Enhancv).",
+  "turns": [
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "So before we look at the first tool, how complete would you say your current resume feels to you?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Hopefully pretty complete. Um, I've done a lot of different versions um of it. I'm in technology, so I have a, uh, I've been in the industry about 20 years, so over 20 years, so I have a lot of different skill sets, so I can apply to different jobs. Um, so this is my, uh, resume for a security um, like cyber security engineering manager."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. So you tailor your resume to different roles. Cool. And when you picture a resume that you'd feel most confident sending out, what matters most to you to, like, have in there?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Whatever will get it to the top of the recruiter's list—that the, uh, what is it? The applicant tracking system will pick up. I mean, honestly, that's the only way you get any call backs. So, I don't know. Too much information, not enough information. Uh, adding keywords into your skills section. I don't know. I've tried all different tricks.78910111213"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Great. Okay. Well, we can move on to the first tool now. Um, I'm going to drop the link in the chat. This one's called Enhancv. And you'll be using my account to log in. Also, once you log in, if you can share your screen moving forward. Thanks.141516171819"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "And I've used a lot of different tools from LinkedIn to, oh gosh, like newer AI tools. When I was looking for a job about a year ago, I, uh, I had subscriptions to things. Um, so tried lots of different stuff. That's what kind of interested me in the study. I was like, \"Oh, maybe they have a new tool that, uh, is, uh, is good.\" Okay.2021222324"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "I hope you like one of them or both. We'll see.2526"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. Can you see my—2728"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah, it—it has to load. I can see it now. Perfect.2930"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. Okay. Good. Okay. So, should I create a new—3132"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Um... well, I see like a Microsoft usability study..."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Oh, shoot. You're on the wrong— Okay, hold on.3435"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Oh, it's a different window."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I shared the wrong screen. Sorry. Hold on. Screen two. Okay, now you can see the right screen.37383940"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yes. Perfect. Okay. Yeah. So, here, like you said, go to create new, and then you'll go to new resume, upload an existing, and from here, I'll just sit back and let you play around with the tool.4142"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. I'll be interested to see how it extracts it, too, because, like, sometimes it extracts better if it's a PDF, sometimes it extracts better if it's a Word doc.4344"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Mhm. And which one did you have again? Sorry.4546"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "This one is a Word doc."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "It's a Word. Okay."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Mhm. We'll see. It didn't specify what file type.495051"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah. No, PDF or Word is fine."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. Yeah. This is good because it's—this is kind of like if your resume gets to the recruiters, like literally the top of your resume, because they're—they're only taking... where did I see the stat? It was like 15 seconds to scan your resume. Um, so, um, let me... I don't know. Should I do work with AI?535455565758"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Um, yeah. If you want to, like, if you're curious about that one, if not, either option is fine.5960"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I don't really know what it did. Okay.6162"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Um, so when you say you don't know what it did, would you like it more to have, like, a prompt when you open?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Well, I'm not sure. It—it said it was going to do something with a summary, but it didn't tell me, like, \"I changed it from this to this.\" So I guess... where... just— I'll just open my original so we can see what— maybe it's this summary that it took. Yeah, that's what it took. Cyber security architect. Not that impressed with it because it worked— it didn't put, like, a comma in here or in the bar. Okay. That didn't add much value, I think.64656667686970"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Um...7172"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. Um, so, let's see. I like the two columns. Um, one of my friends that gets contacted a lot, her resume is in two columns. Uh, like has the columns like this. Mhm. Um, so it's interesting that it put it in that format. Um, and then it's got templates. Oh, interesting. This is helpful. Um, because a lot of people buy templates off, like, Pin— Etsy. People sell templates. So, people buy— that's my friend bought her template off um—72737475767778798081"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Oh, that's interesting. I haven't heard of that before.8283"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Oh, yeah. People do it all the time. So, it's nice that there's a couple templates here. Um, because I often wonder— my structure has stayed the same. Um, kind of like single— single page like this. And so I wonder if it's easier— Oh, sorry. I have too many windows open. I wonder if it's easier to read in two columns. Um, I was actually thinking of changing my format to my friend's. Um, in the double columns like this, um, like she has hers really reduced down to, like, one page. Which is really tough to do to share all your experience. Um, so it's—it's, uh, cool that it does it for you.8485868788899091929394"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Great. Awesome. And, uh, if you can just look through all the different tools in the toolbar, that would be perfect. Thanks.9596"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "This one is this design and font. Oh, that's good because we always try and do the margins so we can fit more on the page. Uh, file column layout. Oh, and that's good. Oh, backgrounds. Who has a background? Okay, that looks cool. Um, let's see. Improve text. Uh, where is— I see. Okay. So, it's— Oh, that's nice. Where it says the sentence is hard to read. Okay, that's cool. All right. And then there's this ATS check. Um, I've done this before. So, okay. Uh, select and copy the description of the job. Okay. Do you want me to go find a job quick?979899100101102103104105106107108109110111112"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah, if you can. Um, like if you're interested in the ATS check, just something like applicable to you.113114"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Go, like, Google LinkedIn search. Hold on a sec. Sorry. I got to sign into something. I'll just show you what I'm doing. I'm looking for a— I've got some job alerts from Google that come in. Okay, this is a good one. Oh, I love [company name redacted].115116117118119120121"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "I know. Me, too. That'd be a cool company to work for, right?122123"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah. Just— so usually I would go to [company name redacted] website and find the job there. Um, but I'll just copy this here. Right. Of course, for here you just need like the description, right? Hope it's long. Hope it takes all this.124125126127128129"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah, it will. It's fine."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. All right. Okay. So, I just say continue. Okay, so I used another tool, um, that did this matching to an application before, um, and it made some great suggestions. Um, what was that called? Let me get the other tool name for you. Um, it's called Jobscan.131132133134135136137"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Now, it was— I used it through a career coach, but it did a similar thing where it— it did this 75% match and then it gave me suggestions."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Mhm. Like similar to this— like the keywords and—140141"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Uh, it didn't give keywords. It kind of gave like what skills were missing. So, let me see here. Okay. So— so I don't— Okay, if I click that. Oh, okay. I don't want to do that. Oh, that's nice. It automatically adds it. Oh, that's good. Oh, okay. Now, how do I go back? Oh, no. Okay. All right. Oh, this is good. \"Try replacing with this implemented.\" \"Try replacing with this ad and find.\" That's good suggestions because it's hard when you're writing it. I tailor the summary. That's really interesting. Okay. So, I think what I would do now is ask it— Oh, so it— it updated it because wasn't it 75% before?142143144145146147148149150151152153154155156157158159160"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Sorry, what? It was at what percentage before?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I think it was 75% before and then I— I had it changed the summary. No, this is good. What is it saying here? Oh no. Okay. So, played with that a little bit. Looks— looks pretty good. I'd like to keep playing with it to see if I can get it up to, of course, 100%. Um, what does that do? Oh, interesting. Okay. Extension. That's kind of nice. It's kind of what Jobscan did, too. It— it kept ones I had applied for. Okay. Uh, let's see. Rearrange. Oh, that's nice, too. It'll rearrange the sections. That's nice. Yeah. Okay. So, let's see this buttons. Preview the document. Download. Share. Okay. So, I think I went through everything there.162163164165166167168169170171172173174175176177178179180181"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "I'm sorry. I might have not noticed, but did you look at design and font also?182183"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yes."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay, great. Awesome."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yep. No, I said it's good. This page margins is always good because we're always trying to get as much on the page, right?186187"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay, perfect. So, we can get into questions then. Um, what did you think about, like, the amount of flexibility that the tool gave you when you were editing?187188189"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Pretty good. Um, I like the templates, uh, being able to move sections around, uh, because, you know, formatting in Word is a pain in the butt. Um, so I liked that.190191192"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Great. And did you, like, at any point feel constrained by the tool?193194"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Um, I think in this ATS check with this keyword here, I'm not sure. So in job ad, there's three in the job ad, but I didn't have in my resume. So it's kind of like... I guess, do I need to go in and edit it and then it would re— I don't know if I add— Yeah, this is a little confusing to me right here. The— okay, the— this part. So that was— that's the one thing I saw that was a little, um, like—195196197198199200"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Um, so the keywords— it confuses you about how to implement them into the resume, like if it does it itself or if you have to manually input it?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Well, like if I put— let me see if I just drop \"exceeded\" here. Okay. Like, would it register? What would happen? Oh, okay. So it did update. See?202203204205206"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. So that's how it works. Like if I add, like, teamwork here, then it added it and then see, my— my ACS check percentage went up. Okay. So I just have to play with it a little bit to get used to it.208209210"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Right. Okay. And, um, I know you mentioned Word. Do— did you think that the— of the templates that you saw, like, were they more modern or better than what you would find in Word?211212213"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Oh, for sure. For sure."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Cool."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, they— they remind me of the ones that people buy on Etsy."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah, that's— I'm going to have to look that up. That's interesting."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Oh, yeah. There's a whole bunch of stuff out there. There's, like, LinkedIn headers. You can buy all kinds of stuff.218219220"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Oh, okay. And, uh, does the tool— like, did you think it did a good job at validating that your resume is strong?221222"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Uh, yeah. Yeah.223224"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "With, like, the ATS score or what, like, specifically made you think like, \"Hey, I have a good resume\"?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Uh, I think the ATS score is really helpful."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay, great. And, um, does it struggle to, like, present your experience cleanly on one page? I know you said you had, like, a lot of experience, so that might be two pages for you.227228229"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, I mean, I think it's— I mean, it's pretty much copying the sections, right? Check. One, two, three, four bullets under there. Yeah, I mean, I think that's— if I could use the AI— I don't know— to, like, go through— like, here's a bot here, AI assistant. So maybe I could go through and— and help reduce it down, um, with— with that assistant. So... but yeah, I think it did a good job with presenting it. Okay. And I can go through and, like, I think make, like, this section— the key achievements section— I could, like, go through probably make the design and font a little bit smaller in this section if I wanted to. So, you know, just to, like, move things around. So I think it seems kind of intuitive there.230231232233234235236237238239"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. And is there anything else that you liked about the experience?240241"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Um, just the ease of editing it, like uploading it was pretty good. Okay. Um, I like the different colors it put in. It makes it pop a little bit. I never thought about adding color.242243244245"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah. Awesome. Well, um, we can move on to the second tool. So, this one is called MyPerfectResume. So, the one we just worked on is called Enhancv. And then I dropped the link in the chat for this. This one we won't be using an account. So you'll just go directly to the free version. But, um, after this we'll go into some comparison questions and just for the transcript it would be easiest if you, um, refer to them by name.246247248249250251252"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. Got it."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah. Thank you. Here. So here we'll go to improve existing resume.254255"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Whoa. Okay. Huh? But this is kind of what my friend's looks like. Somebody used this one. Okay. Didn't pull in my zip code.256257258259260"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Would you say, um— just like going through this already— do you prefer this, like, step-by-step instructional flow or did you like more of the drag and drop from Enhancv?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "[Was called Enhancv]. Okay. Um, I kind of like Enhancv because, like, right here I feel like it's in the— MyPerfectResume... this is kind of what LinkedIn does where it says \"add this, add that.\" And so I could just keep adding things, but I know I don't have that much space. And like when I worked with a career coach, basically, like, all the projects and things that I've done imply that I've done relationship building and conflict resolution. So, like, we didn't add those specific skills. Um, like this one. So I wouldn't add these here because it's really just kind of a more technical terms of, like, different systems I've worked through. So, like, yeah, I could add all this, but I don't—262263264265266267268"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "It's kind of a given with your experience."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah. So it— it just takes up a lot of space. So I think I would just kind of— just go— just leave it as is. Um, okay. So this is... these seem too generic for me. Okay. I'll just pick this one. See where it goes. I don't think I have room for anything else. Okay. Oh jeez. Is that one big page? It's weird. Okay, I know some of the spacing looks weird on this one— um, in MyPerfectResume. Like this is a whole bunch of white space in the middle. Um, I probably would have to play around with the bullet points. Okay. See— like, why? Yeah. I just don't know why there's so much space in that.270271272273274275276277278279280281282283284285286287288"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah. Leaving out some good real estate there.289290"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Exactly. And I don't really know how it looks on two pages. Like if I go to print it. Oh, it wants me to log in, of course. Um, let me just see what it looks like. It wants me to create a login again. Okay. Yeah. So, in MyPerfectResume, I— I'm not really sure how it looks on the page because there's, again, so much white space. So, I mean, let me pick a different— I just don't think it looks as good as this Enhancv. Uh, the Enhancv... I mean, like, that kind of popped to me. Um, this one seems... there's just a lot. I mean, like, look at all this white space. Like, that's just— I mean like and up here, too. Um, yeah, this one's a little bit better. But again, I— I'm not sure how a page breaks, anything like that. And that's important, um, because you also want your— like, if it's two pages, you want your second page to at least have, like, your name on it. It's page two of two, you know, contact information, things like that.291292293294295296297298299300301302303304305306307308"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "So, of the two builders then, for, like, a template design experience, which stands out more to you and which feels more generic?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Uh, I like the, um, Enhancv. Um, Enhancv stands out more to me and that's— MyPerfectResume seems more generic.310311"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Generic. Okay. And what would you say is, like, the difference between the amount of flexibility that the tool gives you when creating a resume that's ultimately you feel like yours?312313"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Um, like when I go to edit a section here, it takes me back in the MyPerfectResume— it takes me back to kind of just this generic, um, piece, but when I'm in the Enhancv, I can edit directly on the page. Um, so I like Enhancv in that aspect.314315"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay, that makes sense. And did either of the tools make you rethink how you tell your professional story?316317"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Uh, yeah, because I could see it in different— both of them allowed me to take my current resume. So, Enhancv, um, allowed me to take my current resume and, like, view it in different, um, layouts with different templates, and so did MyPerfectResume. I just didn't like MyPerfectResume's templates as much because they had too much white space.318319320"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. And okay, I know you mentioned before you tailor your resume to different roles. If you had to do that now, which one would you trust more to, like, make multiple strong versions?321322323"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Uh, the Enhancv."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Enhancv. Uh, why— why would you say that?325326"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Just the way of, like— honestly, for, like, when you're doing resumes and you're tailoring it to different jobs, you're— time is of the essence because you don't want to waste too much time applying for a job where you're, like, formatting your resume. Um, so I would usually have multiple types of resumes ready and then I would quickly edit them. So, just the way that the sections work in the Enhancv, um, and the way it was able to, uh, do the ATS check quickly. Um, I don't— in Enhancv I really like— um, in MyPerfectResume, I don't know where that ATS check is ready. It is— I don't see it anywhere. Oh, here it is down here. See, it's, like, hiding.327328329330331332"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. See suggestions list. Okay. I mean, I already did this. Okay. I mean, I didn't make any changes. Okay.334335336337338339"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Oh, so you see where it says \"see suggestions\"? It's very small, but if you open that up and there's, like, a— in, like— So, for example, the suggestions and then on the right-hand side, like, there are some things to improve that would, like, up your score.340341"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Do I have a date? I don't have a date on it. I don't have dates on it.342343344"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Mhm. And it's asking you to add dates."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "No, it's asking me to remove them and I— and I don't have a date."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "That's odd."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah. So already, like, my— Oh, wait. See, no. Hold on. Oh, it says graduation date missing. So they would want you to include that. Do you think that that's, like, a good suggestion or something that you—348349350351352 Oh, yeah, that's fine. Um, let me think. I think that's fine.353354"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Let me see what happens. Um, okay. So, now it's got up to 90. Okay. That's a good suggestion.356357358359360"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Of the scores, which do you trust more? This one or the— the one on Enhancv?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Enhancv was comparing it to an actual, um, job description."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I don't know what this is comparing it to right now. It's just— it's just doing a score for my resume, which is fine. I mean, I've— when I worked with the, uh, career counselor, career coach, um, I mean, they got my resume up to 95 and I still wasn't getting hits. So I think comparing in Enhancv how it's compared to the actual job description is really helpful.364365366367"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay, great. And, um, I know that we went through this kind of quickly, but let's say you had one more hour to work on both of the platforms. Which do you think would produce an end result that is most likely to impress recruiters?368369370"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I think the Enhancv."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Enhancv. Okay. And is there anyone that you think should not use these tools— like, would have a hard time or not benefit?371372"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "No, I mean, I think it's, um— I think they're good because it's, like, keeping you in a format. You know, sometimes people get really discouraged with the formatting— Word gets very frustrating. Um, so this is, um, definitely a lot better. I like the checks that it does for, um— like, you know, the dates of my education and things like that, um, are really helpful. So I think it would be good. It's good for, um, beginner, you know, early in their career and late in their career.373374375376377378"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay, great."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "And— and I would say probably my— in my opinion, I would say MyPerfectResume is probably better for people earlier in their career."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I think the Enhancv gave better suggestions. Like, for instance, it rewrote the cyber security piece in the summary, and the, um, MyPerfectResume... I mean, this is a very generic personal summary, which is great for people early in career, but for later and specific tech positions, um, I think the, um, Enhancv is better.382383"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Got it. Um, would you say it's because, like, the MyPerfectResume holds your hand a little bit more, so, like, people starting out, it's, like, easier?384385"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Exactly. Yeah."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "And would you be willing to pay for access to either of these tools, or both of them, or not?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Uh, the Enhancv because it also can keep the jobs that I've applied for, um, that I used Jobscan for. Um, so I think that is good. Oh, okay. Looks like it has a find jobs functionality, too. So that's kind of nice.388389390391392"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Great. And is there anything else that you would like to add about your experience that I— that I may have not asked?393394"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "No, I think it's good."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Well, those are all the questions I have for you.396397"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "All right."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah. I hope you enjoyed your experience.399400"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah. Are these tools available to the public now?401402"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yes. Yeah, they are. There's, um— so Enhancv has, like— they both have free trials. Enhancv has several different options. There's, like, three different options for subscription base. Um, like depending on which one you'd want to get, how long you'd want to keep it for, but it's, like, $14 up until, like, 26, I think, per month.403404405406407"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. But yeah, I might look into that because it's, like— I've been wanting to re— re-do the columns like my friend's who gets called all the time. Um, I just haven't had a chance to do it. Even though she sent me her resume, so I have the template, but this just uploading it and changing in different templates is really interesting.408409410411"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah. Yes. It's pretty cool, too.412413"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah. All right. Well, thank you so much, [name redacted]. It was nice to meet you.414415"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Thank you for your feedback. Likewise. And have a great rest of your day.416417"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "You, too. Take care. Goodbye."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "I—"
+    }
+  ]
+}

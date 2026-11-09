@@ -1,0 +1,29 @@
+{
+  "slug": "us_leadership_journey_2026",
+  "title": "US Leadership Journey Survey, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "2026-09-24",
+  "fieldwork_end": "2026-09-24",
+  "sample_n": 500,
+  "vendor": "Pollfish",
+  "population": "US professionals in management and leadership roles",
+  "topic_tags": [
+    "leadership",
+    "career progression",
+    "promotions",
+    "credentials",
+    "management"
+  ],
+  "weighting": "Each respondent carries the vendor's stratification weight (field: weight). results/ shows unweighted counts and percentages plus weighted_pct.",
+  "suppression_threshold": 10,
+  "not_published": {
+    "reason": "Open-ended text answers can contain identifying details.",
+    "questions": [
+      {
+        "id": "Q19",
+        "text": "What's one piece of advice you'd give someone aiming for their first leadership role?"
+      }
+    ]
+  }
+}

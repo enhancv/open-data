@@ -1,0 +1,29 @@
+{
+  "slug": "us_remote_work_social_skills_2026",
+  "title": "US Remote Work and Social Skills Survey, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "2026-06-10",
+  "fieldwork_end": "2026-06-10",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "population": "US workers who worked fully or mostly remotely over the past 12 months",
+  "topic_tags": [
+    "remote work",
+    "social skills",
+    "job search",
+    "interviews",
+    "AI tools"
+  ],
+  "weighting": "Each respondent carries the vendor's stratification weight (field: weight). results/ shows unweighted counts and percentages plus weighted_pct.",
+  "suppression_threshold": 10,
+  "not_published": {
+    "reason": "Open-ended text answers can contain identifying details.",
+    "questions": [
+      {
+        "id": "Q11",
+        "text": "In one sentence: What's something you used to do at work easily that now feels surprisingly hard — and what (if anything) are you doing about it?"
+      }
+    ]
+  }
+}

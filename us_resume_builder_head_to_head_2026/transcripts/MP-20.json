@@ -1,0 +1,485 @@
+{
+  "id": "MP-20",
+  "matchup": "Enhancv vs MyPerfectResume",
+  "final_choice": "MyPerfectResume",
+  "transcription": "Gemini transcript produced by Enhancv from the session recording",
+  "duration": null,
+  "note": "Automatic transcription, lightly structured: speaker labels mapped to Interviewer or Participant; names, employers, schools, places, contact and login details replaced with [... redacted] tags. Wording is otherwise unedited, including transcription errors (for example 'Enhance CV' for Enhancv).",
+  "turns": [
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "So before we look at the first tool, how complete would you say your current resume feels to you?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I would say it's pretty complete. Um, I think it accurately describes my experience."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Um, is there anything that you feel that's missing? Could use some tweaks?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, I feel like, um, my resume, it kind of is good for a niche role, but I feel like for, like, applying to more general positions, it might need some tweaking."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. And when you picture a resume that you'd feel, like, most confident sending out, what, what matters most to you to have in there?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I would say, um, the keywords because I know a lot of the resumes are, uh, reviewed by AI. So having something that passes that tracker is very important."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Yeah, like the ATS check. Okay. Um, so we're gonna look at the first platform. This one's called Enhancv. And I'm going to drop the link and my account information in the chat. Once you are able to log in, if you can share your screen moving forward, that would be great. Okay. So, here you'll go to the \"create new,\" um, purple button, \"new resume.\" \"Upload an existing,\" and then I'll take a step back here and let you explore."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. Interesting. So, it's giving me some information on wordiness and poor readability and missing high impact, um, content. Okay. I guess I'll try to improve with AI. Is that all right if I click that?"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yes. Whatever you want to do."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah. Um, this is interesting because a lot of the experience I have here, it's like in the wrong section right now. So, and I'm kind of trying to understand how my experience got conflated with my projects."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "So, did some of your work history just, um, get divided into projects or would you say that, like, some of the bullets are in the wrong role?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Um, I would say some of, a lot of the bullets are in the wrong role."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Interesting."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "So, um, yeah, I guess this would make it tough to work with. Like, if I'm honest, if I do this, either I would go away from this tool or I would, um, try uploading my resume again and hoping that it looks better than this."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. So, you kind of, like, lost trust in this tool, essentially."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah. Because it kind of messed up the entire organization of it, like—"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah, that's fair."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Well, um, if you can just—that's good to know. If you can go through the tools in the toolbar and then I'll get into my questions. But that was a good call out. Thank you."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, I'll try, uh, rearrange. Okay, so this is like rearranging the big columns. So I guess that's not really an issue. Okay. Um, okay. The misspelling makes sense. Um, so I'm clicking on this and I'm expecting it to resolve, but I guess that's not happening. Oh, when you click on it, it doesn't—oh, okay. That's weird."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Or maybe it does, but I don't exactly see where it issues at."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Well, if it did, it should go away. So, gotcha. Something going on there. And then design and font. I'm just trying out new designs. Okay. I guess plain is better. Like, because I feel like if you're an actor or, um, someone in a more creative field, this resume format looks good. But I think if you're, you know, in tech or finance or more traditional industry, um, having it as like experience and then you have your experience and education and then skills is probably best. I think having too much like this is, or having it fill out too much space is not a good sign because I heard that recruiters and hiring managers only like one page, especially for someone like myself because I don't have, like, more than 10 years of experience."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "So I think, um, this format is not the best for my industry."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Right. Do you want to take a look at the templates, the other options that they have?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, maybe. Yeah, I guess the Ivy League would be the best one."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Think something more conservative for your field."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, exactly. Yeah, I think that's the best template I could see. Um, okay. A4, US letter. Okay. Doesn't make a difference. Continue editing. Um, yeah, this is still interesting. I guess this won't change unless, like, I manually go through it. Like if there was a chatbot where I could, you know, explain, \"All right, um, that's not a project. That's actually my experience,\" I think that would help. But I feel like I probably won't use this tool anymore after seeing how much it changed. Um, well, I guess not changed my content. Sorry. It put my content in the wrong categories."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Yeah, that makes sense. Um, okay. So then what did you think? Let's say the content was accurate. What would you think about, like, the flexibility that the tool gave you in editing?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Um, okay. So here's the AI assistant. Uh-huh. Um, I guess let me try recruiter review. Yeah, this is a pretty useful tool. Like, I might use this. I'm not, not like use this resume directly, but I'll use this to see, like, what a recruiter might think. This, this is pretty, uh, it's a pretty cool tool to have."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. So, you like the AI assistant?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, that makes sense. I'll also try this here. Okay, that makes sense. But there's no AI here, I guess. Okay, I guess I have to click on it first. Mhm. But there's no AI here. That's pretty interesting, right? And the key achievements, I feel like that's redundant because I, you know, in a resume, you can only add so much. So if you add the same thing twice, it kind of kills—it kind of just is extra. So I think having this is not good, right? But I think that AI tool was pretty nice, though."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Um, do you think that the tool does a good job in validating that your resume is strong?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "It can. Yeah."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Um, well, you kind of answered some of my questions. Uh, about the templates, do you think that they're more modern or better than what you would find in Word?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "No, I don't think so. No. Because the only one I find that's even kind of aligns to my requirements is Ivy League. Everything else is a bit extraneous."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "That's fair. Okay. Is there anything else besides, like, the AI assistant that you liked about the experience?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I think the improved text was pretty nice, like, you know, the—I guess spell check, because you know, for example right here, \"[company name redacted],\" there should be a \"P.\" Mhm. So, okay. I guess it fixes it like that. And then, yeah, I think the spell check is pretty good because, um, it goes by context, like \"[company name redacted]\" is not a real world—sorry, real word—but, um, it recognizes that it's talking about the enterprise solution. So, I think that's pretty—that's a pretty good catch by it."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Great. Awesome. Um, we can move on to the second platform then. Uh, I'm going to drop the link in the chat. And for this one, you won't be using an account. It's just like a free version. Yeah. So, you go to \"import existing resume.\""
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Okay. Next. Going to make sense. Good summary."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "How long have you been working?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Uh, 3 to 5 years. Yeah, some of these, um, templates are—they're too—they're too creative, I think."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I'd prefer to go with, like, the Ivy League one that was there on the other website. Uh-huh. Trying to find, like, the most simple one to use, but can't really find one. I guess I'll put \"without photo.\" Columns: \"One column.\" Okay, that's better. Trying to find a place to put, like, my work history or education at the top. I think that's—that makes the most sense because skills should be at the bottom. And that's just my opinion. Maybe the times have changed, but—"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Well, would it—would that—something that maybe you use the template and I don't know if you remember the rearrange function, but you could just rearrange it yourself."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, for sure. Um, I think these two might be the best. Okay. Um, I'll probably go for this one. \"Use this template.\" Okay. So, it's kind of, like, filling out my information. \"Job seeking.\" Next. Okay, that's fine. Work history. Cool. Bachelors. Okay. Skills. Yeah. I feel like these skills are not good because they're not really provable. You know, like anyone can say \"I have critical thinking skills,\" but saying you have skills in Docker, for example, that's a specific technology. Like, you—you can kind of speak about critical skills and BS it, in my opinion, but if you say you know Docker, they can ask you specific questions about it. So I feel like the skill section is lacking, in my opinion."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, that's fine. I—I'll go to summary next. Okay. Um, see, I—I never really heard of a professional summary before. Like, I've seen other people do it, but um, I never heard of like my friends or people I know using it, but I could try it and see how it looks. I don't have certs. I don't really know any other languages. Well, accomplishment should be skills. Okay, that's fine. Next. Got it. Okay. Um, it still looks a bit messy. Um, like text-heavy, right? Well, I guess the spacings are weird. Um, I guess I'll show you my resume."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah, that helpful without all that. I guess that—that'll help you understand what I'm talking about."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Mhm. So, this is my resume right now."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay, I see."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "So, like, there's a lot of words, but at the same time, it's just divided into like three sections right now."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah, it's very straight to the point."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Exactly. And, um, I used something called LaTeX to build this because I wanted to put a lot of content into one place. Like in Word, like, there's just too much space between the bullet points. So LaTeX really helped with that. But I feel like this one use—I guess the tool that we're looking at, it uses a Word type of spacing, and the format just looks a bit wonky for that reason."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "That's fair."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "But yeah, this—this one's a bit better though because it got all my work history in one place. Got my education. I guess I could try to—sorry—find a way to rearrange skills, um, at the bottom. I guess I'll put education at top because I'm used to that. I recently switched it to—um, to the second one."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Try a few fonts. Okay, that's not good at all. That Times New Roman safe. Okay. Yeah. Okay. Let's see the spacing. Oh, I really like this tool. This one is really good for adjusting line spacing. Maybe a little more. Yeah, something like that. Um, let's go to advanced. Okay, that's not really that useful, but I think it's good to have paragraph indent, no indent, side margins. I don't know why the date is here. Like, that's a really odd thing for me. I think the date should always be on the right-hand side."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "But yeah, though, this—this looks decent. Like, I—I think the resume I originally uploaded was a bit better, but this was the closest to it compared to the other one."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "That's fair. Um, when would you say, though, experience-wise, did you prefer this more like step-by-step instructional flow or the just drag and drop of Enhancv?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "The—the step-by-step—like, if it—if it kept my format, I—I think I would have liked Enhancv, but it completely screwed that up. So I think, um, just going step-by-step would be better unless the—the AI is just so advanced that it keeps the format properly."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. And what would you say is like the difference of the amount of freedom that you had working with these tools?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I think, um, I don't know if I had more freedom here, but I feel like I had more customization on MyPerfectResume."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. So, you felt like the resume was more yours in MyPerfectResume?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yes, exactly."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Um, were there points of constraint on MyPerfectResume?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, like, um, the date right here—like, I—I don't know how to change it to this, to the right-hand side. Maybe I have to change the template, but there's not many templates I like either. So—"
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. And did either of the tools make you, like, rethink how you tell your professional story?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, they did. I think having the professional summary right there is, um, it—it made me consider, \"Okay, maybe I should have it if that's the correct thing.\" I—I didn't really look into it, but I—I didn't think about having this for—in a while."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. And if you were, let's say you were applying to two different roles, right? And you needed to tailor your resume. Which one do you think would do a better job at creating multiple strong versions?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I think this one because the format is correct. And I know if, um, the content matters a lot, too, but the format is really weird that it's really tough to work with. So, I feel like this one is better because I feel like I could adjust the format a little more."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. And I know that we went through this kind of quickly, but if you had more hour, one more hour to work on both, which one do you think would produce an end result that's more likely to impress recruiters?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Probably this one if I can get the format correct and, um, I could change some of the—the wording here."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "To fit the ATS system. Got it. I—I guess, like, I'm assuming I can put the job description and then they can tailor my resume and use the correct language."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Well, did you see that anywhere on this tool or the other one?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I—I did not. No, but I feel like if I explored the tool more, I could probably find it as a feature."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay, got it. And is there anyone that you think shouldn't use these tools that might struggle or not benefit from it?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, I think these tools are a good idea and a good concept, but I think just doing it yourself in Word and copying someone else's template is probably a better idea than this."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "And of course, like, you can use ChatGPT or a large language model to get your bullet points, but the formatting has to be strong in order to give a good impression to the recruiter."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Got it. Which tool would you say better matches where you are in your career right now?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "I guess both of them did because, um, they both understood that, you know, I'm kind of an early professional, but I have several years of experience, and they both, um, have language or they both suggested language that defines that."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. And if you were in the job hunting phase, would you be willing to pay for access to either of these tools or both of them?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "No, not really because I feel like I can do a better job using Word or LaTeX."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Gotcha. Okay. And well, those are my questions. I mean, is there anything else that you would like to add that I may have not asked?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yeah, I think, um, for the templates, I—I would like something that's, you know, like I would like categories, right? Like I want to see, \"Okay, this is professional, this is for an artist resume, this is for a professor at a university.\" Like I—I think having those categories defined directly would be ideal."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Yeah, that's fair. It's like more industry specific. Okay, great. Is there anything else?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Yes, it is there. Um, I—I saw \"executive\" for a second. I don't know. I guess I have to hover over it. Okay, so—but instead of having it there, maybe have the words below as a caption."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay, got it. Yeah, I actually haven't noticed that before, so it's first time seeing that. Great. Well, um, anything else or is—is that all?"
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Sorry. Yeah, I think that's it."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Okay. Well, thank you so much for your feedback. I mean, I hope you enjoyed your experience. But yeah, that's all for me. Have a nice rest of your day."
+    },
+    {
+      "time": null,
+      "speaker": "Participant",
+      "text": "Thank you for having me. You, too. Yeah."
+    },
+    {
+      "time": null,
+      "speaker": "Interviewer",
+      "text": "Thanks. Bye."
+    }
+  ]
+}

@@ -1,0 +1,902 @@
+{
+  "survey": "us_remote_work_social_skills_2026",
+  "id": "Q4",
+  "question_prompt": "Would you accept lower pay in order to keep working fully remotely?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "Yes, I would accept more than 20% less",
+        "count": 124,
+        "pct": 12.4,
+        "weighted_pct": 13.6
+      },
+      {
+        "answer": "Yes, I would accept 10–20% less",
+        "count": 191,
+        "pct": 19.1,
+        "weighted_pct": 19.9
+      },
+      {
+        "answer": "Yes, I would accept less than 10% less",
+        "count": 283,
+        "pct": 28.3,
+        "weighted_pct": 28.1
+      },
+      {
+        "answer": "No, I would not accept less pay to stay remote",
+        "count": 402,
+        "pct": 40.2,
+        "weighted_pct": 38.4
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 536
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 74,
+            "pct": 13.8,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 79,
+            "pct": 14.7,
+            "weighted_pct": 14.5
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 152,
+            "pct": 28.4,
+            "weighted_pct": 28.4
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 231,
+            "pct": 43.1,
+            "weighted_pct": 41.1
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 464
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 50,
+            "pct": 10.8,
+            "weighted_pct": 11.1
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 112,
+            "pct": 24.1,
+            "weighted_pct": 25.5
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 131,
+            "pct": 28.2,
+            "weighted_pct": 27.8
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 171,
+            "pct": 36.9,
+            "weighted_pct": 35.6
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 45
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 12,
+            "pct": 26.7,
+            "weighted_pct": 26.7
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 9,
+            "pct": 20,
+            "weighted_pct": 20
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 12,
+            "pct": 26.7,
+            "weighted_pct": 26.7
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 12,
+            "pct": 26.7,
+            "weighted_pct": 26.7
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 166
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 26,
+            "pct": 15.7,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 43,
+            "pct": 25.9,
+            "weighted_pct": 26.3
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 45,
+            "pct": 27.1,
+            "weighted_pct": 28.4
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 52,
+            "pct": 31.3,
+            "weighted_pct": 30.3
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 285
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 39,
+            "pct": 13.7,
+            "weighted_pct": 13.9
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 65,
+            "pct": 22.8,
+            "weighted_pct": 23.4
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 85,
+            "pct": 29.8,
+            "weighted_pct": 30
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 96,
+            "pct": 33.7,
+            "weighted_pct": 32.6
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 33,
+            "pct": 12.3,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 43,
+            "pct": 16,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 85,
+            "pct": 31.7,
+            "weighted_pct": 31.2
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 107,
+            "pct": 39.9,
+            "weighted_pct": 40.4
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 236
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 14,
+            "pct": 5.9,
+            "weighted_pct": 5.6
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 31,
+            "pct": 13.1,
+            "weighted_pct": 13
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 56,
+            "pct": 23.7,
+            "weighted_pct": 23.7
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 135,
+            "pct": 57.2,
+            "weighted_pct": 57.6
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 177
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 21,
+            "pct": 11.9,
+            "weighted_pct": 10.8
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 48,
+            "pct": 27.1,
+            "weighted_pct": 30.3
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 42,
+            "pct": 23.7,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 66,
+            "pct": 37.3,
+            "weighted_pct": 36
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 84
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 11,
+            "pct": 13.1,
+            "weighted_pct": 12.8
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 16,
+            "pct": 19,
+            "weighted_pct": 17.3
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 30,
+            "pct": 35.7,
+            "weighted_pct": 35.6
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 27,
+            "pct": 32.1,
+            "weighted_pct": 34.4
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 70
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 8,
+            "pct": 11.4,
+            "weighted_pct": 13.5
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 10,
+            "pct": 14.3,
+            "weighted_pct": 12.4
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 23,
+            "pct": 32.9,
+            "weighted_pct": 32.5
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 29,
+            "pct": 41.4,
+            "weighted_pct": 41.6
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 379
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 43,
+            "pct": 11.3,
+            "weighted_pct": 13.3
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 70,
+            "pct": 18.5,
+            "weighted_pct": 19
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 107,
+            "pct": 28.2,
+            "weighted_pct": 28.8
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 159,
+            "pct": 42,
+            "weighted_pct": 38.9
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 18
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 1,
+            "pct": 5.6,
+            "weighted_pct": 3.3
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 1,
+            "pct": 5.6,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 6,
+            "pct": 33.3,
+            "weighted_pct": 25.4
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 10,
+            "pct": 55.6,
+            "weighted_pct": 56.2
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 272
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 40,
+            "pct": 14.7,
+            "weighted_pct": 16.4
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 46,
+            "pct": 16.9,
+            "weighted_pct": 17.7
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 75,
+            "pct": 27.6,
+            "weighted_pct": 27.4
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 111,
+            "pct": 40.8,
+            "weighted_pct": 38.4
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 133
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 15,
+            "pct": 11.3,
+            "weighted_pct": 11.7
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 24,
+            "pct": 18,
+            "weighted_pct": 22.1
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 33,
+            "pct": 24.8,
+            "weighted_pct": 24.2
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 61,
+            "pct": 45.9,
+            "weighted_pct": 42.1
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 317
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 36,
+            "pct": 11.4,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 69,
+            "pct": 21.8,
+            "weighted_pct": 20.2
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 99,
+            "pct": 31.2,
+            "weighted_pct": 32.7
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 113,
+            "pct": 35.6,
+            "weighted_pct": 34.5
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 145
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 13,
+            "pct": 9,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 24,
+            "pct": 16.6,
+            "weighted_pct": 19.3
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 46,
+            "pct": 31.7,
+            "weighted_pct": 29.1
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 62,
+            "pct": 42.8,
+            "weighted_pct": 40.1
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 22
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 4,
+            "pct": 18.2,
+            "weighted_pct": 20.5
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 1,
+            "pct": 4.5,
+            "weighted_pct": 4.5
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 6,
+            "pct": 27.3,
+            "weighted_pct": 26.8
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 11,
+            "pct": 50,
+            "weighted_pct": 48.2
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 15
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 2,
+            "pct": 13.3,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 5,
+            "pct": 33.3,
+            "weighted_pct": 47.1
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 2,
+            "pct": 13.3,
+            "weighted_pct": 10.3
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 6,
+            "pct": 40,
+            "weighted_pct": 32.4
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 33
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 4,
+            "pct": 12.1,
+            "weighted_pct": 10.8
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 6,
+            "pct": 18.2,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 9,
+            "pct": 27.3,
+            "weighted_pct": 25.9
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 14,
+            "pct": 42.4,
+            "weighted_pct": 45.5
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 164
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 23,
+            "pct": 14,
+            "weighted_pct": 15.4
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 24,
+            "pct": 14.6,
+            "weighted_pct": 16.6
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 40,
+            "pct": 24.4,
+            "weighted_pct": 25.6
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 77,
+            "pct": 47,
+            "weighted_pct": 42.4
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 127
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 24,
+            "pct": 18.9,
+            "weighted_pct": 19.8
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 30,
+            "pct": 23.6,
+            "weighted_pct": 22.9
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 34,
+            "pct": 26.8,
+            "weighted_pct": 24.6
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 39,
+            "pct": 30.7,
+            "weighted_pct": 32.7
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 5
+        },
+        "suppressed": true
+      },
+      {
+        "group": "None of the above/Prefer not to answer",
+        "base": {
+          "n": 2
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 36
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 1,
+            "pct": 2.8,
+            "weighted_pct": 2.7
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 7,
+            "pct": 19.4,
+            "weighted_pct": 18.1
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 13,
+            "pct": 36.1,
+            "weighted_pct": 37.1
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 15,
+            "pct": 41.7,
+            "weighted_pct": 42.1
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 221
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 18,
+            "pct": 8.1,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 47,
+            "pct": 21.3,
+            "weighted_pct": 24.2
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 53,
+            "pct": 24,
+            "weighted_pct": 22.6
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 103,
+            "pct": 46.6,
+            "weighted_pct": 43.7
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 238
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 24,
+            "pct": 10.1,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 42,
+            "pct": 17.6,
+            "weighted_pct": 18.6
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 79,
+            "pct": 33.2,
+            "weighted_pct": 32.7
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 93,
+            "pct": 39.1,
+            "weighted_pct": 35.2
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 55,
+            "pct": 14.7,
+            "weighted_pct": 14.5
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 70,
+            "pct": 18.7,
+            "weighted_pct": 18.7
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 105,
+            "pct": 28,
+            "weighted_pct": 28.5
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 145,
+            "pct": 38.7,
+            "weighted_pct": 38.3
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 166
+        },
+        "cells": [
+          {
+            "answer": "Yes, I would accept more than 20% less",
+            "count": 27,
+            "pct": 16.3,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "Yes, I would accept 10–20% less",
+            "count": 32,
+            "pct": 19.3,
+            "weighted_pct": 18.9
+          },
+          {
+            "answer": "Yes, I would accept less than 10% less",
+            "count": 46,
+            "pct": 27.7,
+            "weighted_pct": 27.9
+          },
+          {
+            "answer": "No, I would not accept less pay to stay remote",
+            "count": 61,
+            "pct": 36.7,
+            "weighted_pct": 36.1
+          }
+        ]
+      }
+    ]
+  }
+}

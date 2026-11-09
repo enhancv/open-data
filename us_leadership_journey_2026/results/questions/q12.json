@@ -1,0 +1,566 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q12",
+  "question_prompt": "How well does your actual decision-making power match your job title?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Fully matches",
+        "count": 256,
+        "pct": 51.2,
+        "weighted_pct": 50.3
+      },
+      {
+        "answer": "Mostly matches",
+        "count": 206,
+        "pct": 41.2,
+        "weighted_pct": 40.4
+      },
+      {
+        "answer": "Partly, my title is bigger than my real authority",
+        "count": 26,
+        "pct": 5.2,
+        "weighted_pct": 6.5
+      },
+      {
+        "answer": "Barely, the title is largely symbolic",
+        "count": 12,
+        "pct": 2.4,
+        "weighted_pct": 2.7
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 107,
+            "pct": 53.5,
+            "weighted_pct": 51.5
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 76,
+            "pct": 38,
+            "weighted_pct": 37.1
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 10,
+            "pct": 5,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 7,
+            "pct": 3.5,
+            "weighted_pct": 4.1
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 149,
+            "pct": 49.7,
+            "weighted_pct": 49.1
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 130,
+            "pct": 43.3,
+            "weighted_pct": 43.9
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 16,
+            "pct": 5.3,
+            "weighted_pct": 5.6
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 5,
+            "pct": 1.7,
+            "weighted_pct": 1.4
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 11,
+            "pct": 47.8,
+            "weighted_pct": 48.6
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 10,
+            "pct": 43.5,
+            "weighted_pct": 41.2
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 72,
+            "pct": 57.1,
+            "weighted_pct": 58.6
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 49,
+            "pct": 38.9,
+            "weighted_pct": 37.8
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 3,
+            "pct": 2.4,
+            "weighted_pct": 2.5
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 2,
+            "pct": 1.6,
+            "weighted_pct": 1.1
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 76,
+            "pct": 52.8,
+            "weighted_pct": 53.5
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 59,
+            "pct": 41,
+            "weighted_pct": 40.5
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 7,
+            "pct": 4.9,
+            "weighted_pct": 4.8
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 2,
+            "pct": 1.4,
+            "weighted_pct": 1.2
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 71,
+            "pct": 49.7,
+            "weighted_pct": 49.9
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 61,
+            "pct": 42.7,
+            "weighted_pct": 41.5
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 6,
+            "pct": 4.2,
+            "weighted_pct": 4.2
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 5,
+            "pct": 3.5,
+            "weighted_pct": 4.5
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 26,
+            "pct": 40.6,
+            "weighted_pct": 39.8
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 27,
+            "pct": 42.2,
+            "weighted_pct": 41.7
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 8,
+            "pct": 12.5,
+            "weighted_pct": 12.7
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 3,
+            "pct": 4.7,
+            "weighted_pct": 5.8
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 46,
+            "pct": 52.9,
+            "weighted_pct": 50.7
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 33,
+            "pct": 37.9,
+            "weighted_pct": 32.9
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 7,
+            "pct": 8,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 1,
+            "pct": 1.1,
+            "weighted_pct": 2.6
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 19,
+            "pct": 38.8,
+            "weighted_pct": 40.1
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 26,
+            "pct": 53.1,
+            "weighted_pct": 48.8
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 3.7
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 7.3
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 16,
+            "pct": 51.6,
+            "weighted_pct": 45.8
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 15,
+            "pct": 48.4,
+            "weighted_pct": 54.2
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 110,
+            "pct": 52.4,
+            "weighted_pct": 51.7
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 79,
+            "pct": 37.6,
+            "weighted_pct": 38.4
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 15,
+            "pct": 7.1,
+            "weighted_pct": 7.1
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 6,
+            "pct": 2.9,
+            "weighted_pct": 2.8
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 60,
+            "pct": 51.7,
+            "weighted_pct": 52.1
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 51,
+            "pct": 44,
+            "weighted_pct": 42.7
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 3,
+            "pct": 2.6,
+            "weighted_pct": 3.5
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 2,
+            "pct": 1.7,
+            "weighted_pct": 1.6
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 49,
+            "pct": 45,
+            "weighted_pct": 47.4
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 50,
+            "pct": 45.9,
+            "weighted_pct": 41.7
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 7,
+            "pct": 6.4,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 3,
+            "pct": 2.8,
+            "weighted_pct": 3.4
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 49,
+            "pct": 46.7,
+            "weighted_pct": 41.5
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 47,
+            "pct": 44.8,
+            "weighted_pct": 49
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 6,
+            "pct": 5.7,
+            "weighted_pct": 7.2
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 3,
+            "pct": 2.9,
+            "weighted_pct": 2.3
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 121,
+            "pct": 58.2,
+            "weighted_pct": 56.9
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 72,
+            "pct": 34.6,
+            "weighted_pct": 34.3
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 9,
+            "pct": 4.3,
+            "weighted_pct": 5.4
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 6,
+            "pct": 2.9,
+            "weighted_pct": 3.5
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "Fully matches",
+            "count": 37,
+            "pct": 47.4,
+            "weighted_pct": 48.3
+          },
+          {
+            "answer": "Mostly matches",
+            "count": 37,
+            "pct": 47.4,
+            "weighted_pct": 44.4
+          },
+          {
+            "answer": "Partly, my title is bigger than my real authority",
+            "count": 4,
+            "pct": 5.1,
+            "weighted_pct": 7.3
+          },
+          {
+            "answer": "Barely, the title is largely symbolic",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      }
+    ]
+  }
+}

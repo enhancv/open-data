@@ -1,0 +1,510 @@
+{
+  "id": "RG-10",
+  "matchup": "Enhancv vs ResumeGenius",
+  "final_choice": "Enhancv",
+  "transcription": "Whisper transcript produced by Enhancv from the session recording",
+  "duration": null,
+  "note": "Automatic transcription, lightly structured: speaker labels mapped to Interviewer or Participant; names, employers, schools, places, contact and login details replaced with [... redacted] tags. Wording is otherwise unedited, including transcription errors (for example 'Enhance CV' for Enhancv).",
+  "turns": [
+    {
+      "time": "00:00",
+      "speaker": "Interviewer",
+      "text": "Alright, well, before we look at the first tool, how complete would you say your current resume feels to you?"
+    },
+    {
+      "time": "00:09",
+      "speaker": "Participant",
+      "text": "I mean, I would say it's completed based on the timeline of the last time I was kind of looking at a new career. It definitely needs to be, I would say, refreshed. And as I was pulling it up here, I was thinking, man, I really should throw this into like a Gemini or a Chad GPD or a Gronk or something and just see what it spits back out. So, yeah, I'm definitely excited about doing this."
+    },
+    {
+      "time": "00:36",
+      "speaker": "Interviewer",
+      "text": "Great. And if let's say you were in the job plan, um, like when you picture submitting a resume that makes you feel confident, what matters most for you to have in there?"
+    },
+    {
+      "time": "00:50",
+      "speaker": "Participant",
+      "text": "I think honestly, what it comes down to is, uh, more of the explanation of what the title is. I think a lot of times people will see a specific title and just automatically assume, oh, this is what that person did. And it doesn't really correlate. If you're applying for a director type role and your previous role didn't say like any type of management on it or like you were an account executive or anything like that, it doesn't quite correlate the same if you just look at those hot topic words, whereas break down the explanation and everything, you can really explain what you did there."
+    },
+    {
+      "time": "01:37",
+      "speaker": "Interviewer",
+      "text": "Okay, great. Thank you for sharing. From this part, moving forward, if you could share your screen, please. I'm going to drop the link in the chat to our first platform. This one is called Enhanced CV, and my account details are in there as well. We'll be using that for this page."
+    },
+    {
+      "time": "01:57",
+      "speaker": "Participant",
+      "text": "So sure. All right, let me just get..."
+    },
+    {
+      "time": "02:22",
+      "speaker": "Interviewer",
+      "text": "Yeah, so here you'll just bypass the questions and go straight to the login button on the top right-hand corner."
+    },
+    {
+      "time": "02:31",
+      "speaker": "Participant",
+      "text": "And then just sign in with?"
+    },
+    {
+      "time": "02:33",
+      "speaker": "Interviewer",
+      "text": "With the email and password [login details redacted]."
+    },
+    {
+      "time": "02:36",
+      "speaker": "Participant",
+      "text": "Okay, gotcha. Sorry."
+    },
+    {
+      "time": "02:38",
+      "speaker": "Interviewer",
+      "text": "That's fine."
+    },
+    {
+      "time": "02:53",
+      "speaker": "Participant",
+      "text": "Looks like it just kind of quick little process here, and it looks like it'll let you do it from LinkedIn. That's kind of nice, especially if that's updated more frequently. I wonder if it will pull off of a PDF."
+    },
+    {
+      "time": "03:15",
+      "speaker": "Interviewer",
+      "text": "Yeah, a PDF or a docs file works fine. Or at least it should, as before."
+    },
+    {
+      "time": "03:25",
+      "speaker": "Participant",
+      "text": "Let me try with my LinkedIn."
+    },
+    {
+      "time": "03:32",
+      "speaker": "Interviewer",
+      "text": "So I'm not sure if that's completely working well right now. What they told us to do is to use, like, an upload. They want to see, like, the never docs version."
+    },
+    {
+      "time": "03:43",
+      "speaker": "Participant",
+      "text": "Not a problem. 03:44 Yeah. Let me just pull it from my, not from a PDF. Looks like the PDF didn't work. So I want to try. Okay. There we go. Oh, you know what? I think it's my corporate email or computer here. Let me, is there."
+    },
+    {
+      "time": "04:44",
+      "speaker": "Interviewer",
+      "text": "Do you want to go on LinkedIn and download, like you can download a PDF of your profile. It's pretty, it's pretty quick."
+    },
+    {
+      "time": "04:54",
+      "speaker": "Participant",
+      "text": "Yeah. I'll do that here."
+    },
+    {
+      "time": "04:57",
+      "speaker": "Interviewer",
+      "text": "Yeah, when you go to the resources tab, it says save as PDF. And then it saves your whole profile in a PDF document. Yeah, so open your profile. So you go to me. And then the three buttons. Yeah, save to PDF."
+    },
+    {
+      "time": "05:35",
+      "speaker": "Participant",
+      "text": "So I did that. Is there a way to copy and paste upload, or is it only uploading?"
+    },
+    {
+      "time": "05:55",
+      "speaker": "Interviewer",
+      "text": "Yeah, it has to be a PDF for a doc. It's weird, though, because other people in previous calls have put up a PDF and we've never had a problem. Do you have? Is it a PDF? Or is this something else?"
+    },
+    {
+      "time": "06:23",
+      "speaker": "Participant",
+      "text": "Yeah, it's, it's PDF. Let's go. Keep on getting."
+    },
+    {
+      "time": "06:34",
+      "speaker": "Interviewer",
+      "text": "Please try again or start with the. Let me try on my end very quickly and make sure there's nothing going on with this site. Hmm. Um, okay. It worked for me. So I'm going to have you give me a second, scroll down, maybe trying it from a different button might work. If you just go down and see like the purple button that says create, try uploading it that way. Cause I just put out my PDF and it worked."
+    },
+    {
+      "time": "07:19",
+      "speaker": "Participant",
+      "text": "I did that. Um, should I try with a blank document?"
+    },
+    {
+      "time": "07:25",
+      "speaker": "Interviewer",
+      "text": "No, try doing the upload and existing. If not, then yes, we'll just go to straight to blank document and you can just explore the function. Ah, it's working. Okay."
+    },
+    {
+      "time": "07:37",
+      "speaker": "Participant",
+      "text": "Nope."
+    },
+    {
+      "time": "07:38",
+      "speaker": "Interviewer",
+      "text": "No, it didn't. All right. Well, then I'm going to put in, go to new resume and then blank document."
+    },
+    {
+      "time": "07:48",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "07:50",
+      "speaker": "Interviewer",
+      "text": "The password is [login details redacted]. I think because I logged in, it logged you out."
+    },
+    {
+      "time": "07:55",
+      "speaker": "Participant",
+      "text": "Check me out."
+    },
+    {
+      "time": "07:56",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "07:58",
+      "speaker": "Participant",
+      "text": "Gotcha."
+    },
+    {
+      "time": "07:59",
+      "speaker": "Interviewer",
+      "text": "Yeah, so start with blank document. Or if anything, you can use my resume."
+    },
+    {
+      "time": "08:04",
+      "speaker": "Participant",
+      "text": "Add new section."
+    },
+    {
+      "time": "08:06",
+      "speaker": "Interviewer",
+      "text": "Yeah, so you can just play with the functions there. Maybe type in some things. Or you can copy and paste if you have your PDF open."
+    },
+    {
+      "time": "08:26",
+      "speaker": "Participant",
+      "text": "Okay, I like how it actually has the ability to just kind of go in and add the top features. It's nice that I kind of chuckle at the books here because the last time I was in an interview, one of the questions was, what was the last three books you read? So they definitely wanted to know if you were actually – upskilling during everything. Additional skills. Okay. Bridge. Let's put in some of the basic stuff here. Now, you said you can copy and paste. Does it do it? If you copy and paste, will it actually sort?"
+    },
+    {
+      "time": "09:39",
+      "speaker": "Interviewer",
+      "text": "You know, I'm going to just upload my resume. It might log you out, and then you can log back in. But I'm going to put my resume in so that you can actually play around with, like, words. Hold on."
+    },
+    {
+      "time": "09:53",
+      "speaker": "Participant",
+      "text": "I am just going to try something real quick."
+    },
+    {
+      "time": "09:58",
+      "speaker": "Interviewer",
+      "text": "Yeah, that's fine. What are you trying out? Oh, okay, that thing."
+    },
+    {
+      "time": "10:06",
+      "speaker": "Participant",
+      "text": "I wanted to see if I could just paste something directly on here and how it would look."
+    },
+    {
+      "time": "10:11",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "10:11",
+      "speaker": "Participant",
+      "text": "New section."
+    },
+    {
+      "time": "10:12",
+      "speaker": "Interviewer",
+      "text": "So summary, if I just take"
+    },
+    {
+      "time": "10:24",
+      "speaker": "Participant",
+      "text": "My summary here, put it here. Okay, and then if I take all my education, will it sort it out? Okay, it says it's too long, so it won't let me paste all that information. What if I break it down into smaller groups here? All right."
+    },
+    {
+      "time": "10:52",
+      "speaker": "Interviewer",
+      "text": "Yeah, you have to do it by section if you're copying and pasting it in there. Gotcha."
+    },
+    {
+      "time": "10:59",
+      "speaker": "Participant",
+      "text": "It's got that date period. I mean, I do like how it's very simplified. It's kind of straightforward with a lot of the items. If I do this, degree and field of study. And then it looks like you can add an additional Just curious if I copy and paste my dates, if it'll automatically do the date period. No, okay. I was just seeing if I, because I got it already set up on my end with the dates, if I just was able to go in and just copy and paste and if it would pull it from that. But I mean, realistically, it's nice with how straightforward this is. And I got to say, I do like with... how this is broken down into within the same screen. And now you see it is to toggle back and forth on this. I think a lot of times what ends up happening is with those little screens, you end up like there's multiple pages of it that you have to go back and forth. So it's nice to actually have it where it's straightforward like that. Do a new section here and okay. Experience. So with that, then that's where, I do like how this that I'm curious on the blue makes me think it's like a hyperlink. Oh, yep. Okay, there it is. So you can actually link it that way. I'm kind of curious about this. The hyperlink doesn't look like it does anything with the hyperlink on the school side. But it did on here. Okay, what does AI improve? Improve writing. Okay. Use industry. Buzzwords. Whoa. What did I do there? OK. Oh, I bet it was industry buzzwords. See what it does with just that. And then you can pick which ones you want to add. That's kind of neat. So if you want to do this, so if you want to change the prompts for each one, so focus on individual leadership. And then the one thing I saw that I was curious about is the recruiter review, what that does. So it gives you a quick little AI review of what it thinks. So I like how it gives you with the recruiter review, it actually gives you a breakdown of kind of a quick way of how you can make it sound stronger, especially with the more of a timeline based on it. And also just being able to quantify how my leadership involvement was based off of just that individual prompt. So let's look at what else under sections. Moment, skills, strengths. Just out of curiosity with the books, what that looks like. OK, so you upload it from there. I was kind of hoping that. Just because trying to find a book cover or anything, it would be nice if you could just type in the book and then it sources the information. Maybe it does. I should try that. I was wondering if it did the same hyperlink where it popped up for the [company name redacted] side instead of uploading. That is a cool little feature there. Looks like you put here. Also be kind of nice if it had with here, like if you could maybe like rank it or I guess you're putting it on here. You're probably ranking it as one of your favorite books anyways, but if you could put, you know, quite like a little bit of what you pulled from it, why you liked it or something across that line. How does the signature work? Okay, that's cool. You can actually upload your signature. So I'm assuming this would be, yeah, just read it out, take a picture and send it."
+    },
+    {
+      "time": "18:36",
+      "speaker": "Interviewer",
+      "text": "Yeah, you can also type it in."
+    },
+    {
+      "time": "18:39",
+      "speaker": "Participant",
+      "text": "Oh, you can?"
+    },
+    {
+      "time": "18:40",
+      "speaker": "Interviewer",
+      "text": "Yeah. I see it says type signature."
+    },
+    {
+      "time": "18:46",
+      "speaker": "Participant",
+      "text": "Now this is going to make it look like I actually have nice handwriting in that chicken scratch."
+    },
+    {
+      "time": "18:53",
+      "speaker": "Interviewer",
+      "text": "And then on the left-hand side, like where the document is, you can move the signature where you want it to be."
+    },
+    {
+      "time": "19:00",
+      "speaker": "Participant",
+      "text": "OK. Then you can go through. That's neat. I like that. Just adds a little bit more personality, especially to the digital form. And then I do like how you can kind of rank yourself. Now, can you change this? Yes. OK. I do like that you can change the slider style. OK, so no. Let's do this. I'm just using the basic terms for right now. I definitely like, I think, this style better because it's more of a visual, quantitative base, like how much of a ranking you would give yourself versus these other styles that are essentially the same with just a bar. So I mean, you can see how full it is, but I like the, it's almost like a star ranking. Rearrange group text. Ignore that. Remove fillers. I like how this actually lets you change it based on, and it'll actually auto detect. That's pretty slick. Oh, there's also templates. So what if I change my template? OK, so it keeps everything. That was one of the things I was going to be concerned about. Is it going to just remove everything? But it looks like it keeps everything in there. I do like the templates."
+    },
+    {
+      "time": "21:07",
+      "speaker": "Interviewer",
+      "text": "Right. Do you think that the templates are more modern or better than what you would get in Word?"
+    },
+    {
+      "time": "21:14",
+      "speaker": "Participant",
+      "text": "I think they're more modern. I would say with some of these, they look very much similar or not very much similar, but kind of the same thing as what you can do in Word. I mean, for example, with my screen here, this is something I did in Word. So it's got that same structure. But what I do like about this is it's got a little bit more... vibrancy to it, a little bit more character than what you would find in Word. And even if you wanted to go through and kind of set it up your own there, you would have to be dinking around quite a bit to just get it to line up and everything here. So I definitely like these, especially with the little backgrounds. The image, I think, is key, too. That's kind of nice just for, I think, sometimes... It's nice to just have a picture go with a name. Same thing like being on a video call. It's beneficial. I mean, you can do a phone call, but it's nice to actually see who you might be working with. So I do like that from this aspect. And I also think, too, with the color schemes that it has here, it... I mean, I would venture to guess, I mean, based off of this, these are templates that have been used time and time again. And with how these look, especially with color schemes and things like that, I normally, I tend to, you know, if you look at mine, my current templates, black and blue is what I kind of went with. And I was very nervous of that just because it's like, okay, is it supposed to be colorful? And it looks like there's a lot more modern resumes that have some character to it, which I, I definitely like. I think being kind of bland like this, obviously I understand if you're applying for a job that's using an Ivy league type resume, it's, it's going to be a little bit more of a, you know, probably a legal type status or a government type status role that they don't want any additional color or clarity. But as within my industry, they want to know that you have some personality. And I think something like this would look a whole lot better."
+    },
+    {
+      "time": "23:44",
+      "speaker": "Interviewer",
+      "text": "Okay. And what did you think about the amount of flexibility the tool gave you?"
+    },
+    {
+      "time": "23:52",
+      "speaker": "Participant",
+      "text": "I liked it. And I do like that within this design and fonts that you can go and change all the color tones and it looks like you can create your own, which is really nice, too. It's got all the spacing and everything. I mean, honestly, what I like a lot about this is from a customization standpoint, just even diving into here with the margins. I mean, that's one of the frustrating things about using something like a Google Doc or a Word doc, trying to get all the margins and everything in line and consistently across the board, especially as you're adding additional skill sets here. And as you go through here and you do a new section, I mean, it's putting it directly in a nice area and then... I mean, with the rearrange, you can go through and actually change it around and not worry about trying to reformat it for that area. So I do like that flexibility. I mean, I actually think, too, with the rearrange, I'm curious if I can get it all to be... Yep, I was going to say curious if I can get it all to be one page. And it looks like you can once it gives you that idea. So, yeah, I mean, this is definitely... A really slick tool."
+    },
+    {
+      "time": "25:17",
+      "speaker": "Interviewer",
+      "text": "OK, great. And did you feel, on the other hand, like constrained at any point by the tool?"
+    },
+    {
+      "time": "25:24",
+      "speaker": "Participant",
+      "text": "No, there was nothing that I felt constrained. I mean, I think the only thing is there is a couple of things that. I like that it's got the hyperlink thing. It looks like I'm gathering that this tool is still kind of in the new process. I would like it to maybe pull that information as well, especially with the implementation of the AI stuff that's on here, too. I'm sure it'd be kind of nice if it pulled that and maybe cross-referenced. I mean, I know I'm asking for a lot here, but I think that's kind of what you guys are looking for, like a grant scheme thing. It'd be nice if it actually like maybe pulled that job title and then matched, you know, from job openings and maybe matched it based on what you have out there to see if it aligns a little bit better there, especially as it's giving you eye feedback on it from a recruiter standpoint."
+    },
+    {
+      "time": "26:28",
+      "speaker": "Interviewer",
+      "text": "Great feedback. Thank you. So we're going to move on to the second tool. I just put the link in the chat. And for this one, we wanted to take a look at the free version. So once you open it, you'll just go directly to that upload page. Upload my existing, and we'll see if your PDF works here."
+    },
+    {
+      "time": "26:49",
+      "speaker": "Participant",
+      "text": "If it doesn't, I'm wondering if it's on. If it doesn't, it's got to be my computer at that point."
+    },
+    {
+      "time": "27:01",
+      "speaker": "Interviewer",
+      "text": "resume open okay seems to be working"
+    },
+    {
+      "time": "27:39",
+      "speaker": "Participant",
+      "text": "Okay, so it's got tone of the year with graphics. I was wondering about here. if it actually pulled up some AI involvement to kind of help make things sound, make me sound smarter than I actually am. You can go through and actually add these and then, for example, just Spell check. Sorry, I got that. Add URL. Is there any type of thing that pops up here? AI side. So everything here, but I can go and kind of change this. So it looks like it's more generic responses."
+    },
+    {
+      "time": "30:10",
+      "speaker": "Interviewer",
+      "text": "OK. They're not tailored to your resume specifically. I think they're more for the titles."
+    },
+    {
+      "time": "30:20",
+      "speaker": "Participant",
+      "text": "Yeah. Yeah, that's what it looks like more than kind of like it. In my head, I was thinking that it was going to. So like you put in the title and then it would kind of look at this and figure out kind of like the other one, the other one with the enhanced V or enhanced CV, where it took what you had and figure out how to make it better. sound more professional or have a better spin on it. So I like that from that aspect. But I mean, honestly, this from... I'm assuming the Enhance is not a free one, whereas from this, with this being a free one, this does have some nice tools on it. I do like that it has the experience where you can actually go in and enter in as you're going in and editing this. It keeps this all separate, so it's still kind of the same thing. kind of the one thing that I liked about the, I'm assuming, do you want me to kind of compare the two or should I stray away from that?"
+    },
+    {
+      "time": "31:29",
+      "speaker": "Interviewer",
+      "text": "No, you can compare my, my next questions will be comparison questions. Like, well, I do want to know what is your preference? Did you like more of this step-by-step instructional flow or the like drag and drop of enhanced CV? Yeah."
+    },
+    {
+      "time": "31:46",
+      "speaker": "Participant",
+      "text": "I think I liked the more drag and drop. It is nice with this where you could pick the side and then it looks like it kind of put everything together and kind of made a recommendation. But it still doesn't seem like... I can go in and add another position. Let me kind of jump through here too. It looks like education I can go through. Okay, so it does have areas where it does give you this, but the one thing I'm kind of wondering is as we get to And what I liked about the enhance over this from the drag and drop style is it gave me some other areas that I could add in to maybe customize the resume to myself. So like, you know, for example, like the books, the skills, the volunteering where it showed the, I know I didn't click into it, but I saw it where it showed how much of your time is dedicated here and there. Things that you don't necessarily always think of when putting together a resume. And it looked like it gave you a little bit of a chance to maybe highlight some other areas that you wouldn't typically think about that you should involve in it, where this just kind of looks like it. It does a great job of. taking what i have and uploading it and putting it in a form factor um and especially from i'll say you know from a free side it does a great job of improving improving it for a free product but i think i like the drag and drop a whole lot better um"
+    },
+    {
+      "time": "33:48",
+      "speaker": "Interviewer",
+      "text": "We want to let you know, even though it's free, if you want to actually download it, make an account. It takes you through the whole process, but eventually you do have to make an account if you actually want to download the PDF."
+    },
+    {
+      "time": "34:01",
+      "speaker": "Participant",
+      "text": "Gotcha. Okay. So you do have... Gotcha. So kind of one of those that gets you... You get going and then you have to set it up at that point, which sometimes, and again, maybe with that too... sometimes I get frustrated with that too, where if it doesn't make it clear that it's a required paid service, assuming potentially it is, if you want to, you know, after you go through all the effort here of updating it, if it then turns around and says, Hey, you have to make a payment to then actually do it. Then it's like, well, what, what was I doing here in the first place?"
+    },
+    {
+      "time": "34:42",
+      "speaker": "Interviewer",
+      "text": "Yeah. Yeah."
+    },
+    {
+      "time": "34:44",
+      "speaker": "Participant",
+      "text": "Yeah, which I don't think there's a lot of people out there that would have any qualms with paying for the service, but I think whenever you're searching for it and it's like, oh, hey, look, upload it for free and all this stuff, and then it allows you to do a lot of access to it, then it's kind of like, wait a minute. So if that is the case, it'd be nice for that to be kind of notified, like, hey, we'll help update, like, we're going to update it. But if you want to download it afterwards, like you have to pay for the so-and-so. But I do like the, I mean, if I were between the two, I do like the drag and drop of the enhance. And I do like that. Like, it just seems like the, the request on the enhance, like just, it seems like it incorporated the AI a little bit better. It does look like it does give me, so I, I kind of put the cart before the horse. So it does give me some areas where I can highlight some additional sections. But I think a lot of times, like what I, again, what I like about the enhance is you could actually go and see, Kind of a brief idea of what it looked like before you Add it because now it's right here like go in and add it I can go in and you know So let's get that So it does have everything here. I mean, this is kind of nice that with the other templates, like you can just highlight and it just automatically shows. So it's not, I mean, not that clicking it on the other one was any difficult, but I mean, it's definitely a cool."
+    },
+    {
+      "time": "37:32",
+      "speaker": "Interviewer",
+      "text": "You like the hovering."
+    },
+    {
+      "time": "37:34",
+      "speaker": "Participant",
+      "text": "Yeah, I like the hovering. I like how as you, I mean, it makes it clear what you're defining here too, where this pops out."
+    },
+    {
+      "time": "37:45",
+      "speaker": "Interviewer",
+      "text": "So when it comes to like template design experience, which of these two builders stands out more to you?"
+    },
+    {
+      "time": "37:51",
+      "speaker": "Participant",
+      "text": "I would say the first one."
+    },
+    {
+      "time": "37:56",
+      "speaker": "Interviewer",
+      "text": "Enhanced CV?"
+    },
+    {
+      "time": "37:58",
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": "37:58",
+      "speaker": "Interviewer",
+      "text": "Why?"
+    },
+    {
+      "time": "37:59",
+      "speaker": "Participant",
+      "text": "Um, I think with their templates, um, I liked how when you click the templates and it showed all the templates, it had the formatting color scheme along with at the top. So you could click that right away instead of kind of toggling back and forth to see what it would look like. Kind of the same thing what I liked about the enhance with the dates where it had all the dates pulled up. with the calendar right below it so you could just toggle back and forth and it would show you I think it was eight dates at a time so or eight years and then it had the the toggle or the the months below it whereas with this you had to click the drop-down and then scroll so depending on I, you know, I'm relatively young in this, but 1988, but I can think of, you know, older, the older generation that definitely would benefit from using something like this, where they might have to scroll, you know, an additional 30 years. You do that across the board between all the different areas that you're, you know, your different careers, your different careers. titles and things like that, especially if you're not uploading a resume. It's just a lot of clicking and scrolling. Yeah. Little things like that. I mean, nothing I would say is a deal breaker, but just from a usability standpoint."
+    },
+    {
+      "time": "39:45",
+      "speaker": "Interviewer",
+      "text": "Okay. And did either of the tools make you rethink how you tell your professional story?"
+    },
+    {
+      "time": "39:50",
+      "speaker": "Participant",
+      "text": "I think I would have to spend a little bit more time with both of them to really be able to tell. I do think with the enhanced that it has a little bit more. With the AI involvement, especially with the recruiter AI where it kind of breaks it down, I liked that from that standpoint. It does a good job of kind of giving you what information based on your title, but it hasn't helped me review what I actually have put in there, like my actual highlights, whereas I like that the enhance actually updates worked with my my highlights my my story at that time to tell it so if anything i would say just from the you know 10 or 15 minutes we did on each one of these i think the enhance gives you a little bit more uh storytelling capability okay"
+    },
+    {
+      "time": "41:12",
+      "speaker": "Interviewer",
+      "text": "Great. And I know we did go through it pretty quickly, but let's say you had one more hour to use for Enhanced CV and another hour on Resume Genius. Which do you think would produce a resume that's more likely to impress a recruiter?"
+    },
+    {
+      "time": "41:29",
+      "speaker": "Participant",
+      "text": "I would say, I mean, just off of the... you know, if I'm quantifying the amount of time I've spent and kind of how quickly I was able to see between the two things, I think enhance would be more impressive to a recruiter. And I think that's just because it, it correlates a lot of the AI stuff to kind of help clean things up. Whereas resume genius looks like it's got a lot of the tools to kind of make the the product look nice. If I were to sum up what I see the difference between these is I think Enhanced CV ties into really useful tools together. It ties in the template as well as like a Gemini or ChatGPT to make it kind of that next tier. Whereas Resume Genius, if you're confident with your story and everything that you have and how your information is, I think Resume Genius does a great job of making a product that looks good. I think it does a really good job of, you know, making a resume look very professional. It's got kind of the same modern looks on it. The one thing I see that it doesn't have is it doesn't have like a spot for like a picture or anything like that. And maybe that's under formatting. But it doesn't have that image there. So I would say, I think enhance just ties in everything. Whereas with resume genius, you kind of have to utilize a separate tool with it. Uh, if you want to enhance your story."
+    },
+    {
+      "time": "43:27",
+      "speaker": "Interviewer",
+      "text": "So then would you say if you were applying to two different roles, would you trust enhance CV to tailor your resume more than, um, the resume genius, if you had to make multiple versions of your resume?"
+    },
+    {
+      "time": "43:42",
+      "speaker": "Participant",
+      "text": "I would say yes."
+    },
+    {
+      "time": "43:43",
+      "speaker": "Interviewer",
+      "text": "Yes? Okay."
+    },
+    {
+      "time": "43:44",
+      "speaker": "Participant",
+      "text": "Yes. And I think, again, with that too, with... how the the ai is involved now obviously ai you have to go and kind of re read everything but i think especially with the the prompts and things like that within as it's pulling your details you can put it in and as you mentioned if i'm applying for multiple different roles that are all different i could go in and i i'm assuming again uh If I took the job title and career, you know, for the references and put in what their top priorities are, if it would then build a story based off of the information that I put in that matched with that. So I could I could potentially if I'm applying for multiple different roles. I could probably process multiple different applications per role a lot quicker with enhanced than I would with resume where it's more tailored for each role versus with, again, with resume, I feel like it does a great job of me putting in my information and then trusting that this is how I want to tell my story."
+    },
+    {
+      "time": "44:59",
+      "speaker": "Interviewer",
+      "text": "Yeah. Okay. And which tool would you say better matches where you are in your career right now?"
+    },
+    {
+      "time": "45:10",
+      "speaker": "Participant",
+      "text": "Enhance. 45:12 Okay."
+    },
+    {
+      "time": "45:12",
+      "speaker": "Interviewer",
+      "text": "Enhance TV?"
+    },
+    {
+      "time": "45:13",
+      "speaker": "Participant",
+      "text": "Yeah. Where I'm diving deep into the AI world. So it's just... it just seems like it's, it's kind of trending in the direction where everyone's going."
+    },
+    {
+      "time": "45:24",
+      "speaker": "Interviewer",
+      "text": "Right. And would you be willing to pay for access to either of these platforms or both of them if you were in the job hunting phase?"
+    },
+    {
+      "time": "45:34",
+      "speaker": "Participant",
+      "text": "Yes."
+    },
+    {
+      "time": "45:35",
+      "speaker": "Interviewer",
+      "text": "Yes. For one of them specifically or both of them?"
+    },
+    {
+      "time": "45:39",
+      "speaker": "Participant",
+      "text": "Um, I would say, I, I, I feel like, uh, I would say if you would have shown me Resume Genius first and I didn't see Enhance, I would have paid for Resume. But I honestly would probably not utilize that. I wouldn't pay for it, but I would definitely pay for Enhance."
+    },
+    {
+      "time": "46:17",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "46:18",
+      "speaker": "Participant",
+      "text": "Sorry for the hesitation there. As I'm sitting here and beating up resume, I'm hoping I'm not saying anything bad about your product. I don't know which product you're..."
+    },
+    {
+      "time": "46:31",
+      "speaker": "Interviewer",
+      "text": "you know what's yours sitting here feeling like i'm beating resume up but i i think it's a good product so i'm a third party researcher so not affiliated with either of them i don't know i maybe skipped over mentioning that before my bad but you're good yeah so no right or wrong answers here just wanted your perspective well is there anything else that you would like to add about your experience those are all my questions"
+    },
+    {
+      "time": "46:56",
+      "speaker": "Participant",
+      "text": "um no i mean everything's great i i guess i i don't know if you're allowed to share this information or not but you've probably have gone through this quite a few times with multiple people um what what would you prefer out of the two based on what you're seeing again i don't know if you can share that but i don't think i can so yeah just gonna err on the side of caution here but i do have a preference well not a problem i i will i'll uh I'll leave it at that then. No, but yeah, thank you very much for going through this. Something I'm definitely going to, you know, investigate a little bit more."
+    },
+    {
+      "time": "47:34",
+      "speaker": "Interviewer",
+      "text": "Great. Thank you so much, [name redacted]. And I hope you have a great rest of your day."
+    },
+    {
+      "time": "47:39",
+      "speaker": "Participant",
+      "text": "Yes, you too. Take care."
+    }
+  ]
+}

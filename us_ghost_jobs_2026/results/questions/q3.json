@@ -1,0 +1,406 @@
+{
+  "survey": "us_ghost_jobs_2026",
+  "id": "Q3",
+  "question_prompt": "Have you ever applied to a job that you later suspected was never actually open or had no real intent to hire?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1005
+    },
+    "cells": [
+      {
+        "answer": "Yes",
+        "count": 612,
+        "pct": 60.9
+      },
+      {
+        "answer": "No",
+        "count": 223,
+        "pct": 22.2
+      },
+      {
+        "answer": "Not Sure",
+        "count": 170,
+        "pct": 16.9
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 679
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 393,
+            "pct": 57.9
+          },
+          {
+            "answer": "No",
+            "count": 168,
+            "pct": 24.7
+          },
+          {
+            "answer": "Not Sure",
+            "count": 118,
+            "pct": 17.4
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 314
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 213,
+            "pct": 67.8
+          },
+          {
+            "answer": "No",
+            "count": 53,
+            "pct": 16.9
+          },
+          {
+            "answer": "Not Sure",
+            "count": 48,
+            "pct": 15.3
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–29",
+        "base": {
+          "n": 304
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 200,
+            "pct": 65.8
+          },
+          {
+            "answer": "No",
+            "count": 54,
+            "pct": 17.8
+          },
+          {
+            "answer": "Not Sure",
+            "count": 50,
+            "pct": 16.4
+          }
+        ]
+      },
+      {
+        "group": "30–44",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 159,
+            "pct": 59.3
+          },
+          {
+            "answer": "No",
+            "count": 70,
+            "pct": 26.1
+          },
+          {
+            "answer": "Not Sure",
+            "count": 39,
+            "pct": 14.6
+          }
+        ]
+      },
+      {
+        "group": "45–60",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 221,
+            "pct": 58.9
+          },
+          {
+            "answer": "No",
+            "count": 86,
+            "pct": 22.9
+          },
+          {
+            "answer": "Not Sure",
+            "count": 68,
+            "pct": 18.1
+          }
+        ]
+      },
+      {
+        "group": "60+",
+        "base": {
+          "n": 46
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 26,
+            "pct": 56.5
+          },
+          {
+            "answer": "No",
+            "count": 11,
+            "pct": 23.9
+          },
+          {
+            "answer": "Not Sure",
+            "count": 9,
+            "pct": 19.6
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 66
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 45,
+            "pct": 68.2
+          },
+          {
+            "answer": "No",
+            "count": 12,
+            "pct": 18.2
+          },
+          {
+            "answer": "Not Sure",
+            "count": 9,
+            "pct": 13.6
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 17,
+            "pct": 73.9
+          },
+          {
+            "answer": "No",
+            "count": 3,
+            "pct": 13
+          },
+          {
+            "answer": "Not Sure",
+            "count": 3,
+            "pct": 13
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 19
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 14,
+            "pct": 73.7
+          },
+          {
+            "answer": "No",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "Not Sure",
+            "count": 3,
+            "pct": 15.8
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 228
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 140,
+            "pct": 61.4
+          },
+          {
+            "answer": "No",
+            "count": 53,
+            "pct": 23.2
+          },
+          {
+            "answer": "Not Sure",
+            "count": 35,
+            "pct": 15.4
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 86
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 40,
+            "pct": 46.5
+          },
+          {
+            "answer": "No",
+            "count": 22,
+            "pct": 25.6
+          },
+          {
+            "answer": "Not Sure",
+            "count": 24,
+            "pct": 27.9
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 571
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 350,
+            "pct": 61.3
+          },
+          {
+            "answer": "No",
+            "count": 129,
+            "pct": 22.6
+          },
+          {
+            "answer": "Not Sure",
+            "count": 92,
+            "pct": 16.1
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 194
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 109,
+            "pct": 56.2
+          },
+          {
+            "answer": "No",
+            "count": 45,
+            "pct": 23.2
+          },
+          {
+            "answer": "Not Sure",
+            "count": 40,
+            "pct": 20.6
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 190
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 119,
+            "pct": 62.6
+          },
+          {
+            "answer": "No",
+            "count": 43,
+            "pct": 22.6
+          },
+          {
+            "answer": "Not Sure",
+            "count": 28,
+            "pct": 14.7
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 342
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 211,
+            "pct": 61.7
+          },
+          {
+            "answer": "No",
+            "count": 74,
+            "pct": 21.6
+          },
+          {
+            "answer": "Not Sure",
+            "count": 57,
+            "pct": 16.7
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 251
+        },
+        "cells": [
+          {
+            "answer": "Yes",
+            "count": 154,
+            "pct": 61.4
+          },
+          {
+            "answer": "No",
+            "count": 57,
+            "pct": 22.7
+          },
+          {
+            "answer": "Not Sure",
+            "count": 40,
+            "pct": 15.9
+          }
+        ]
+      }
+    ]
+  }
+}

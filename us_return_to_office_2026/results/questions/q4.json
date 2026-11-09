@@ -1,0 +1,1071 @@
+{
+  "survey": "us_return_to_office_2026",
+  "id": "Q4",
+  "question_prompt": "Which of the following have you done since the mandate was announced? (Select all that apply)",
+  "type": "multi",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "Applied for a new job while at my office desk",
+        "count": 363,
+        "pct": 36.3,
+        "weighted_pct": 35.9
+      },
+      {
+        "answer": "Intentionally reduced my daily output",
+        "count": 318,
+        "pct": 31.8,
+        "weighted_pct": 31.9
+      },
+      {
+        "answer": "Ignored the policy",
+        "count": 177,
+        "pct": 17.7,
+        "weighted_pct": 18.3
+      },
+      {
+        "answer": "Negotiated an exception",
+        "count": 278,
+        "pct": 27.8,
+        "weighted_pct": 29.1
+      },
+      {
+        "answer": "Started a side hustle for extra security",
+        "count": 358,
+        "pct": 35.8,
+        "weighted_pct": 35.1
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 396
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 120,
+            "pct": 30.3,
+            "weighted_pct": 33.2
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 109,
+            "pct": 27.5,
+            "weighted_pct": 29.3
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 75,
+            "pct": 18.9,
+            "weighted_pct": 19.2
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 104,
+            "pct": 26.3,
+            "weighted_pct": 29.2
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 150,
+            "pct": 37.9,
+            "weighted_pct": 36.9
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 604
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 243,
+            "pct": 40.2,
+            "weighted_pct": 38.6
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 209,
+            "pct": 34.6,
+            "weighted_pct": 34.5
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 102,
+            "pct": 16.9,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 174,
+            "pct": 28.8,
+            "weighted_pct": 29
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 208,
+            "pct": 34.4,
+            "weighted_pct": 33.2
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 56
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 27,
+            "pct": 48.2,
+            "weighted_pct": 51.4
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 27,
+            "pct": 48.2,
+            "weighted_pct": 49.4
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 14,
+            "pct": 25,
+            "weighted_pct": 27.7
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 20,
+            "pct": 35.7,
+            "weighted_pct": 36
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 18,
+            "pct": 32.1,
+            "weighted_pct": 34.1
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 225
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 98,
+            "pct": 43.6,
+            "weighted_pct": 44.1
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 96,
+            "pct": 42.7,
+            "weighted_pct": 43.1
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 47,
+            "pct": 20.9,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 54,
+            "pct": 24,
+            "weighted_pct": 25.9
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 74,
+            "pct": 32.9,
+            "weighted_pct": 31.9
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 342
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 137,
+            "pct": 40.1,
+            "weighted_pct": 37.7
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 113,
+            "pct": 33,
+            "weighted_pct": 31.6
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 57,
+            "pct": 16.7,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 106,
+            "pct": 31,
+            "weighted_pct": 30.1
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 129,
+            "pct": 37.7,
+            "weighted_pct": 39.2
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 224
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 68,
+            "pct": 30.4,
+            "weighted_pct": 28.9
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 58,
+            "pct": 25.9,
+            "weighted_pct": 25.3
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 33,
+            "pct": 14.7,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 43,
+            "pct": 19.2,
+            "weighted_pct": 18.5
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 90,
+            "pct": 40.2,
+            "weighted_pct": 39.7
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 142
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 28,
+            "pct": 19.7,
+            "weighted_pct": 20.2
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 20,
+            "pct": 14.1,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 26,
+            "pct": 18.3,
+            "weighted_pct": 17.6
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 50,
+            "pct": 35.2,
+            "weighted_pct": 34.5
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 43,
+            "pct": 30.3,
+            "weighted_pct": 30.4
+          }
+        ]
+      },
+      {
+        "group": "65+",
+        "base": {
+          "n": 11
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 5,
+            "pct": 45.5,
+            "weighted_pct": 45.5
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 4,
+            "pct": 36.4,
+            "weighted_pct": 36.4
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 5,
+            "pct": 45.5,
+            "weighted_pct": 45.5
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 4,
+            "pct": 36.4,
+            "weighted_pct": 36.4
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 209
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 78,
+            "pct": 37.3,
+            "weighted_pct": 30.5
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 75,
+            "pct": 35.9,
+            "weighted_pct": 32
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 33,
+            "pct": 15.8,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 67,
+            "pct": 32.1,
+            "weighted_pct": 34.3
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 84,
+            "pct": 40.2,
+            "weighted_pct": 40
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 107
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 38,
+            "pct": 35.5,
+            "weighted_pct": 36.5
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 27,
+            "pct": 25.2,
+            "weighted_pct": 25.2
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 21,
+            "pct": 19.6,
+            "weighted_pct": 18.5
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 38,
+            "pct": 35.5,
+            "weighted_pct": 30.1
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 37,
+            "pct": 34.6,
+            "weighted_pct": 34
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 76
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 23,
+            "pct": 30.3,
+            "weighted_pct": 30.5
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 22,
+            "pct": 28.9,
+            "weighted_pct": 25.7
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 17,
+            "pct": 22.4,
+            "weighted_pct": 23.3
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 22,
+            "pct": 28.9,
+            "weighted_pct": 30.6
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 28,
+            "pct": 36.8,
+            "weighted_pct": 30.8
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 379
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 135,
+            "pct": 35.6,
+            "weighted_pct": 35.1
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 116,
+            "pct": 30.6,
+            "weighted_pct": 30.7
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 63,
+            "pct": 16.6,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 98,
+            "pct": 25.9,
+            "weighted_pct": 29.2
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 134,
+            "pct": 35.4,
+            "weighted_pct": 33.3
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 6
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 223
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 89,
+            "pct": 39.9,
+            "weighted_pct": 44.2
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 77,
+            "pct": 34.5,
+            "weighted_pct": 38.9
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 42,
+            "pct": 18.8,
+            "weighted_pct": 21.5
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 51,
+            "pct": 22.9,
+            "weighted_pct": 23.5
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 72,
+            "pct": 32.3,
+            "weighted_pct": 35.5
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 43,
+            "pct": 37.1,
+            "weighted_pct": 39.2
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 39,
+            "pct": 33.6,
+            "weighted_pct": 39.8
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 16,
+            "pct": 13.8,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 35,
+            "pct": 30.2,
+            "weighted_pct": 31
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 41,
+            "pct": 35.3,
+            "weighted_pct": 35.1
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 320
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 106,
+            "pct": 33.1,
+            "weighted_pct": 32.8
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 90,
+            "pct": 28.1,
+            "weighted_pct": 25.7
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 55,
+            "pct": 17.2,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 89,
+            "pct": 27.8,
+            "weighted_pct": 29.2
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 117,
+            "pct": 36.6,
+            "weighted_pct": 37
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 142
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 45,
+            "pct": 31.7,
+            "weighted_pct": 31.7
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 41,
+            "pct": 28.9,
+            "weighted_pct": 29
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 29,
+            "pct": 20.4,
+            "weighted_pct": 24.5
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 29,
+            "pct": 20.4,
+            "weighted_pct": 25.9
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 57,
+            "pct": 40.1,
+            "weighted_pct": 35.8
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 13
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 5,
+            "pct": 38.5,
+            "weighted_pct": 22.1
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 3,
+            "pct": 23.1,
+            "weighted_pct": 40.6
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 1,
+            "pct": 7.7,
+            "weighted_pct": 4
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 1,
+            "pct": 7.7,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 4,
+            "pct": 30.8,
+            "weighted_pct": 33.3
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 14
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 2,
+            "pct": 14.3,
+            "weighted_pct": 12.2
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 3,
+            "pct": 21.4,
+            "weighted_pct": 32.7
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 1,
+            "pct": 7.1,
+            "weighted_pct": 9.3
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 7,
+            "pct": 50,
+            "weighted_pct": 36.4
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 5,
+            "pct": 35.7,
+            "weighted_pct": 29.4
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 37
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 11,
+            "pct": 29.7,
+            "weighted_pct": 27.9
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 12,
+            "pct": 32.4,
+            "weighted_pct": 33.5
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 8,
+            "pct": 21.6,
+            "weighted_pct": 24.2
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 11,
+            "pct": 29.7,
+            "weighted_pct": 27.5
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 12,
+            "pct": 32.4,
+            "weighted_pct": 32.4
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 6
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 171
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 73,
+            "pct": 42.7,
+            "weighted_pct": 45
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 62,
+            "pct": 36.3,
+            "weighted_pct": 37.8
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 30,
+            "pct": 17.5,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 43,
+            "pct": 25.1,
+            "weighted_pct": 27.8
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 50,
+            "pct": 29.2,
+            "weighted_pct": 29.3
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 159
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 72,
+            "pct": 45.3,
+            "weighted_pct": 42.4
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 60,
+            "pct": 37.7,
+            "weighted_pct": 33.7
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 30,
+            "pct": 18.9,
+            "weighted_pct": 16.5
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 53,
+            "pct": 33.3,
+            "weighted_pct": 34.1
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 64,
+            "pct": 40.3,
+            "weighted_pct": 40
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "None of the above/Prefer not to answer",
+        "base": {
+          "n": 4
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 17
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 4,
+            "pct": 23.5,
+            "weighted_pct": 20.7
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 5,
+            "pct": 29.4,
+            "weighted_pct": 23.2
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 5,
+            "pct": 29.4,
+            "weighted_pct": 33
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 4,
+            "pct": 23.5,
+            "weighted_pct": 20.9
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 5,
+            "pct": 29.4,
+            "weighted_pct": 28.8
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 227
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 75,
+            "pct": 33,
+            "weighted_pct": 30.4
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 75,
+            "pct": 33,
+            "weighted_pct": 30.5
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 45,
+            "pct": 19.8,
+            "weighted_pct": 22.2
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 60,
+            "pct": 26.4,
+            "weighted_pct": 31.8
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 79,
+            "pct": 34.8,
+            "weighted_pct": 32.3
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 223
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 78,
+            "pct": 35,
+            "weighted_pct": 28.6
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 70,
+            "pct": 31.4,
+            "weighted_pct": 31.1
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 32,
+            "pct": 14.3,
+            "weighted_pct": 15.2
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 68,
+            "pct": 30.5,
+            "weighted_pct": 30.1
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 80,
+            "pct": 35.9,
+            "weighted_pct": 35.9
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 381
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 149,
+            "pct": 39.1,
+            "weighted_pct": 40.7
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 119,
+            "pct": 31.2,
+            "weighted_pct": 32.7
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 57,
+            "pct": 15,
+            "weighted_pct": 15.1
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 97,
+            "pct": 25.5,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 144,
+            "pct": 37.8,
+            "weighted_pct": 37.9
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 130
+        },
+        "cells": [
+          {
+            "answer": "Applied for a new job while at my office desk",
+            "count": 49,
+            "pct": 37.7,
+            "weighted_pct": 43.4
+          },
+          {
+            "answer": "Intentionally reduced my daily output",
+            "count": 40,
+            "pct": 30.8,
+            "weighted_pct": 31.2
+          },
+          {
+            "answer": "Ignored the policy",
+            "count": 30,
+            "pct": 23.1,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "Negotiated an exception",
+            "count": 43,
+            "pct": 33.1,
+            "weighted_pct": 38.8
+          },
+          {
+            "answer": "Started a side hustle for extra security",
+            "count": 45,
+            "pct": 34.6,
+            "weighted_pct": 32.6
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,770 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q7",
+  "question_prompt": "What is your highest completed level of education?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "High school",
+        "count": 107,
+        "pct": 21.4,
+        "weighted_pct": 21.2
+      },
+      {
+        "answer": "Associate / diploma",
+        "count": 114,
+        "pct": 22.8,
+        "weighted_pct": 21.7
+      },
+      {
+        "answer": "Bachelor's",
+        "count": 199,
+        "pct": 39.8,
+        "weighted_pct": 40.8
+      },
+      {
+        "answer": "Master's (non-MBA)",
+        "count": 60,
+        "pct": 12,
+        "weighted_pct": 12.2
+      },
+      {
+        "answer": "MBA / Executive MBA",
+        "count": 13,
+        "pct": 2.6,
+        "weighted_pct": 2.8
+      },
+      {
+        "answer": "Doctorate (PhD, MD, JD, etc.)",
+        "count": 7,
+        "pct": 1.4,
+        "weighted_pct": 1.2
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 37,
+            "pct": 18.5,
+            "weighted_pct": 19
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 50,
+            "pct": 25,
+            "weighted_pct": 23.8
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 72,
+            "pct": 36,
+            "weighted_pct": 37
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 28,
+            "pct": 14,
+            "weighted_pct": 14.4
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 7,
+            "pct": 3.5,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 6,
+            "pct": 3,
+            "weighted_pct": 2.2
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 70,
+            "pct": 23.3,
+            "weighted_pct": 23.4
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 64,
+            "pct": 21.3,
+            "weighted_pct": 19.6
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 127,
+            "pct": 42.3,
+            "weighted_pct": 44.8
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 32,
+            "pct": 10.7,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 6,
+            "pct": 2,
+            "weighted_pct": 1.9
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 1,
+            "pct": 0.3,
+            "weighted_pct": 0.3
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 7,
+            "pct": 30.4,
+            "weighted_pct": 30.8
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 4,
+            "pct": 17.4,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 11,
+            "pct": 47.8,
+            "weighted_pct": 48.6
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 3.5
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 34,
+            "pct": 27,
+            "weighted_pct": 26.8
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 24,
+            "pct": 19,
+            "weighted_pct": 18.9
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 50,
+            "pct": 39.7,
+            "weighted_pct": 40.9
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 15,
+            "pct": 11.9,
+            "weighted_pct": 11.3
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 1,
+            "pct": 0.8,
+            "weighted_pct": 0.8
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 2,
+            "pct": 1.6,
+            "weighted_pct": 1.4
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 28,
+            "pct": 19.4,
+            "weighted_pct": 19.2
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 35,
+            "pct": 24.3,
+            "weighted_pct": 24.3
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 55,
+            "pct": 38.2,
+            "weighted_pct": 37.6
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 17,
+            "pct": 11.8,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 7,
+            "pct": 4.9,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 2,
+            "pct": 1.4,
+            "weighted_pct": 1.8
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 29,
+            "pct": 20.3,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 40,
+            "pct": 28,
+            "weighted_pct": 27.6
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 53,
+            "pct": 37.1,
+            "weighted_pct": 36.3
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 16,
+            "pct": 11.2,
+            "weighted_pct": 11.9
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 2,
+            "pct": 1.4,
+            "weighted_pct": 2
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 3,
+            "pct": 2.1,
+            "weighted_pct": 2.5
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 9,
+            "pct": 14.1,
+            "weighted_pct": 13.2
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 11,
+            "pct": 17.2,
+            "weighted_pct": 19
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 30,
+            "pct": 46.9,
+            "weighted_pct": 44.1
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 11,
+            "pct": 17.2,
+            "weighted_pct": 18.7
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 3,
+            "pct": 4.7,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 9,
+            "pct": 10.3,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 12,
+            "pct": 13.8,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 44,
+            "pct": 50.6,
+            "weighted_pct": 53.7
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 19,
+            "pct": 21.8,
+            "weighted_pct": 22.1
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 1,
+            "pct": 1.1,
+            "weighted_pct": 0.8
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 2,
+            "pct": 2.3,
+            "weighted_pct": 2
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 5,
+            "pct": 10.2,
+            "weighted_pct": 10.5
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 7,
+            "pct": 14.3,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 20,
+            "pct": 40.8,
+            "weighted_pct": 45.9
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 11,
+            "pct": 22.4,
+            "weighted_pct": 20.2
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 4,
+            "pct": 8.2,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 2,
+            "pct": 4.1,
+            "weighted_pct": 2.6
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 1,
+            "pct": 3.2,
+            "weighted_pct": 1.7
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 2,
+            "pct": 6.5,
+            "weighted_pct": 5.5
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 17,
+            "pct": 54.8,
+            "weighted_pct": 52.9
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 4,
+            "pct": 12.9,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 5,
+            "pct": 16.1,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 2,
+            "pct": 6.5,
+            "weighted_pct": 6.5
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 43,
+            "pct": 20.5,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 62,
+            "pct": 29.5,
+            "weighted_pct": 29.7
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 87,
+            "pct": 41.4,
+            "weighted_pct": 40.9
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 17,
+            "pct": 8.1,
+            "weighted_pct": 9.3
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 1,
+            "pct": 0.5,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 49,
+            "pct": 42.2,
+            "weighted_pct": 42.6
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 30,
+            "pct": 25.9,
+            "weighted_pct": 24
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 26,
+            "pct": 22.4,
+            "weighted_pct": 24.4
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 9,
+            "pct": 7.8,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 1,
+            "pct": 0.9,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 1,
+            "pct": 0.9,
+            "weighted_pct": 1
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 32,
+            "pct": 29.4,
+            "weighted_pct": 29.8
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 24,
+            "pct": 22,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 39,
+            "pct": 35.8,
+            "weighted_pct": 38.8
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 8,
+            "pct": 7.3,
+            "weighted_pct": 7.3
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 1,
+            "pct": 0.9,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 5,
+            "pct": 4.6,
+            "weighted_pct": 3.8
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 17,
+            "pct": 16.2,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 20,
+            "pct": 19,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 42,
+            "pct": 40,
+            "weighted_pct": 41.5
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 22,
+            "pct": 21,
+            "weighted_pct": 24
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 3,
+            "pct": 2.9,
+            "weighted_pct": 5
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 1,
+            "pct": 1,
+            "weighted_pct": 0.7
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 44,
+            "pct": 21.2,
+            "weighted_pct": 20.4
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 57,
+            "pct": 27.4,
+            "weighted_pct": 28.6
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 81,
+            "pct": 38.9,
+            "weighted_pct": 39
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 21,
+            "pct": 10.1,
+            "weighted_pct": 9.6
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 4,
+            "pct": 1.9,
+            "weighted_pct": 2
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 1,
+            "pct": 0.5,
+            "weighted_pct": 0.4
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "High school",
+            "count": 14,
+            "pct": 17.9,
+            "weighted_pct": 19.2
+          },
+          {
+            "answer": "Associate / diploma",
+            "count": 13,
+            "pct": 16.7,
+            "weighted_pct": 14.8
+          },
+          {
+            "answer": "Bachelor's",
+            "count": 37,
+            "pct": 47.4,
+            "weighted_pct": 49
+          },
+          {
+            "answer": "Master's (non-MBA)",
+            "count": 9,
+            "pct": 11.5,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "MBA / Executive MBA",
+            "count": 5,
+            "pct": 6.4,
+            "weighted_pct": 5.9
+          },
+          {
+            "answer": "Doctorate (PhD, MD, JD, etc.)",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      }
+    ]
+  }
+}

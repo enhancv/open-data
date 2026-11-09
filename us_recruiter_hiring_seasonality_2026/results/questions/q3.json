@@ -1,0 +1,1951 @@
+{
+  "survey": "us_recruiter_hiring_seasonality_2026",
+  "id": "Q3",
+  "question_prompt": "Which single month do you post the most openings?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 338
+    },
+    "cells": [
+      {
+        "answer": "June",
+        "count": 41,
+        "pct": 12.1,
+        "weighted_pct": 13.4
+      },
+      {
+        "answer": "April",
+        "count": 43,
+        "pct": 12.7,
+        "weighted_pct": 12.4
+      },
+      {
+        "answer": "May",
+        "count": 46,
+        "pct": 13.6,
+        "weighted_pct": 12.9
+      },
+      {
+        "answer": "November",
+        "count": 12,
+        "pct": 3.6,
+        "weighted_pct": 6.5
+      },
+      {
+        "answer": "October",
+        "count": 20,
+        "pct": 5.9,
+        "weighted_pct": 5.3
+      },
+      {
+        "answer": "March",
+        "count": 23,
+        "pct": 6.8,
+        "weighted_pct": 5.7
+      },
+      {
+        "answer": "September",
+        "count": 22,
+        "pct": 6.5,
+        "weighted_pct": 7.2
+      },
+      {
+        "answer": "August",
+        "count": 34,
+        "pct": 10.1,
+        "weighted_pct": 9
+      },
+      {
+        "answer": "July",
+        "count": 27,
+        "pct": 8,
+        "weighted_pct": 7.3
+      },
+      {
+        "answer": "December",
+        "count": 12,
+        "pct": 3.6,
+        "weighted_pct": 4.4
+      },
+      {
+        "answer": "January",
+        "count": 23,
+        "pct": 6.8,
+        "weighted_pct": 7.3
+      },
+      {
+        "answer": "February",
+        "count": 23,
+        "pct": 6.8,
+        "weighted_pct": 5.3
+      },
+      {
+        "answer": "No single peak month",
+        "count": 12,
+        "pct": 3.6,
+        "weighted_pct": 3.2
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 257
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 31,
+            "pct": 12.1,
+            "weighted_pct": 14.8
+          },
+          {
+            "answer": "April",
+            "count": 33,
+            "pct": 12.8,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "May",
+            "count": 39,
+            "pct": 15.2,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "November",
+            "count": 7,
+            "pct": 2.7,
+            "weighted_pct": 6.9
+          },
+          {
+            "answer": "October",
+            "count": 16,
+            "pct": 6.2,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "March",
+            "count": 17,
+            "pct": 6.6,
+            "weighted_pct": 5
+          },
+          {
+            "answer": "September",
+            "count": 15,
+            "pct": 5.8,
+            "weighted_pct": 5.5
+          },
+          {
+            "answer": "August",
+            "count": 26,
+            "pct": 10.1,
+            "weighted_pct": 8.2
+          },
+          {
+            "answer": "July",
+            "count": 21,
+            "pct": 8.2,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "December",
+            "count": 11,
+            "pct": 4.3,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "January",
+            "count": 15,
+            "pct": 5.8,
+            "weighted_pct": 5.3
+          },
+          {
+            "answer": "February",
+            "count": 18,
+            "pct": 7,
+            "weighted_pct": 5.3
+          },
+          {
+            "answer": "No single peak month",
+            "count": 8,
+            "pct": 3.1,
+            "weighted_pct": 2.2
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 81
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 10,
+            "pct": 12.3,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "April",
+            "count": 10,
+            "pct": 12.3,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "May",
+            "count": 7,
+            "pct": 8.6,
+            "weighted_pct": 10.9
+          },
+          {
+            "answer": "November",
+            "count": 5,
+            "pct": 6.2,
+            "weighted_pct": 6.1
+          },
+          {
+            "answer": "October",
+            "count": 4,
+            "pct": 4.9,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "March",
+            "count": 6,
+            "pct": 7.4,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "September",
+            "count": 7,
+            "pct": 8.6,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "August",
+            "count": 8,
+            "pct": 9.9,
+            "weighted_pct": 9.9
+          },
+          {
+            "answer": "July",
+            "count": 6,
+            "pct": 7.4,
+            "weighted_pct": 6.8
+          },
+          {
+            "answer": "December",
+            "count": 1,
+            "pct": 1.2,
+            "weighted_pct": 4.3
+          },
+          {
+            "answer": "January",
+            "count": 8,
+            "pct": 9.9,
+            "weighted_pct": 9.3
+          },
+          {
+            "answer": "February",
+            "count": 5,
+            "pct": 6.2,
+            "weighted_pct": 5.3
+          },
+          {
+            "answer": "No single peak month",
+            "count": 4,
+            "pct": 4.9,
+            "weighted_pct": 4.2
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 21
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 4,
+            "pct": 19,
+            "weighted_pct": 21.6
+          },
+          {
+            "answer": "April",
+            "count": 3,
+            "pct": 14.3,
+            "weighted_pct": 18.8
+          },
+          {
+            "answer": "May",
+            "count": 4,
+            "pct": 19,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "November",
+            "count": 2,
+            "pct": 9.5,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "October",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "March",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "September",
+            "count": 1,
+            "pct": 4.8,
+            "weighted_pct": 2.8
+          },
+          {
+            "answer": "August",
+            "count": 1,
+            "pct": 4.8,
+            "weighted_pct": 2.8
+          },
+          {
+            "answer": "July",
+            "count": 2,
+            "pct": 9.5,
+            "weighted_pct": 5.6
+          },
+          {
+            "answer": "December",
+            "count": 3,
+            "pct": 14.3,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "January",
+            "count": 1,
+            "pct": 4.8,
+            "weighted_pct": 2.8
+          },
+          {
+            "answer": "February",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "No single peak month",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 93
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 16,
+            "pct": 17.2,
+            "weighted_pct": 22.5
+          },
+          {
+            "answer": "April",
+            "count": 11,
+            "pct": 11.8,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "May",
+            "count": 13,
+            "pct": 14,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "November",
+            "count": 1,
+            "pct": 1.1,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "October",
+            "count": 9,
+            "pct": 9.7,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "March",
+            "count": 5,
+            "pct": 5.4,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "September",
+            "count": 8,
+            "pct": 8.6,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "August",
+            "count": 5,
+            "pct": 5.4,
+            "weighted_pct": 6.7
+          },
+          {
+            "answer": "July",
+            "count": 8,
+            "pct": 8.6,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "December",
+            "count": 3,
+            "pct": 3.2,
+            "weighted_pct": 1.6
+          },
+          {
+            "answer": "January",
+            "count": 7,
+            "pct": 7.5,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "February",
+            "count": 5,
+            "pct": 5.4,
+            "weighted_pct": 6.4
+          },
+          {
+            "answer": "No single peak month",
+            "count": 2,
+            "pct": 2.2,
+            "weighted_pct": 2.9
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 94
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 9,
+            "pct": 9.6,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "April",
+            "count": 14,
+            "pct": 14.9,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "May",
+            "count": 6,
+            "pct": 6.4,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "November",
+            "count": 5,
+            "pct": 5.3,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "October",
+            "count": 3,
+            "pct": 3.2,
+            "weighted_pct": 1.5
+          },
+          {
+            "answer": "March",
+            "count": 11,
+            "pct": 11.7,
+            "weighted_pct": 12.7
+          },
+          {
+            "answer": "September",
+            "count": 5,
+            "pct": 5.3,
+            "weighted_pct": 7.7
+          },
+          {
+            "answer": "August",
+            "count": 13,
+            "pct": 13.8,
+            "weighted_pct": 11.6
+          },
+          {
+            "answer": "July",
+            "count": 7,
+            "pct": 7.4,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "December",
+            "count": 1,
+            "pct": 1.1,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "January",
+            "count": 8,
+            "pct": 8.5,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "February",
+            "count": 6,
+            "pct": 6.4,
+            "weighted_pct": 6.5
+          },
+          {
+            "answer": "No single peak month",
+            "count": 6,
+            "pct": 6.4,
+            "weighted_pct": 6.7
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 88
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 8,
+            "pct": 9.1,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "April",
+            "count": 12,
+            "pct": 13.6,
+            "weighted_pct": 13.2
+          },
+          {
+            "answer": "May",
+            "count": 16,
+            "pct": 18.2,
+            "weighted_pct": 13.2
+          },
+          {
+            "answer": "November",
+            "count": 2,
+            "pct": 2.3,
+            "weighted_pct": 1.6
+          },
+          {
+            "answer": "October",
+            "count": 7,
+            "pct": 8,
+            "weighted_pct": 9.2
+          },
+          {
+            "answer": "March",
+            "count": 3,
+            "pct": 3.4,
+            "weighted_pct": 4.1
+          },
+          {
+            "answer": "September",
+            "count": 3,
+            "pct": 3.4,
+            "weighted_pct": 6.1
+          },
+          {
+            "answer": "August",
+            "count": 10,
+            "pct": 11.4,
+            "weighted_pct": 12.9
+          },
+          {
+            "answer": "July",
+            "count": 6,
+            "pct": 6.8,
+            "weighted_pct": 3.8
+          },
+          {
+            "answer": "December",
+            "count": 3,
+            "pct": 3.4,
+            "weighted_pct": 2.1
+          },
+          {
+            "answer": "January",
+            "count": 5,
+            "pct": 5.7,
+            "weighted_pct": 12.8
+          },
+          {
+            "answer": "February",
+            "count": 10,
+            "pct": 11.4,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "No single peak month",
+            "count": 3,
+            "pct": 3.4,
+            "weighted_pct": 4.1
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 42
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 4,
+            "pct": 9.5,
+            "weighted_pct": 8.5
+          },
+          {
+            "answer": "April",
+            "count": 3,
+            "pct": 7.1,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "May",
+            "count": 7,
+            "pct": 16.7,
+            "weighted_pct": 28
+          },
+          {
+            "answer": "November",
+            "count": 2,
+            "pct": 4.8,
+            "weighted_pct": 10.3
+          },
+          {
+            "answer": "October",
+            "count": 1,
+            "pct": 2.4,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "March",
+            "count": 4,
+            "pct": 9.5,
+            "weighted_pct": 5.6
+          },
+          {
+            "answer": "September",
+            "count": 5,
+            "pct": 11.9,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "August",
+            "count": 5,
+            "pct": 11.9,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "July",
+            "count": 4,
+            "pct": 9.5,
+            "weighted_pct": 6.6
+          },
+          {
+            "answer": "December",
+            "count": 2,
+            "pct": 4.8,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "January",
+            "count": 2,
+            "pct": 4.8,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "February",
+            "count": 2,
+            "pct": 4.8,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "No single peak month",
+            "count": 1,
+            "pct": 2.4,
+            "weighted_pct": 1.1
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 4,
+            "pct": 8.2,
+            "weighted_pct": 6.5
+          },
+          {
+            "answer": "April",
+            "count": 8,
+            "pct": 16.3,
+            "weighted_pct": 13.5
+          },
+          {
+            "answer": "May",
+            "count": 7,
+            "pct": 14.3,
+            "weighted_pct": 23
+          },
+          {
+            "answer": "November",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "October",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 1
+          },
+          {
+            "answer": "March",
+            "count": 6,
+            "pct": 12.2,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "September",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 6.1
+          },
+          {
+            "answer": "August",
+            "count": 5,
+            "pct": 10.2,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "July",
+            "count": 2,
+            "pct": 4.1,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "December",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 5.5
+          },
+          {
+            "answer": "January",
+            "count": 4,
+            "pct": 8.2,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "February",
+            "count": 2,
+            "pct": 4.1,
+            "weighted_pct": 1.9
+          },
+          {
+            "answer": "No single peak month",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 3.9
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 34
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 4,
+            "pct": 11.8,
+            "weighted_pct": 16.1
+          },
+          {
+            "answer": "April",
+            "count": 7,
+            "pct": 20.6,
+            "weighted_pct": 12.2
+          },
+          {
+            "answer": "May",
+            "count": 4,
+            "pct": 11.8,
+            "weighted_pct": 11.9
+          },
+          {
+            "answer": "November",
+            "count": 1,
+            "pct": 2.9,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "October",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "March",
+            "count": 3,
+            "pct": 8.8,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "September",
+            "count": 2,
+            "pct": 5.9,
+            "weighted_pct": 7
+          },
+          {
+            "answer": "August",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "July",
+            "count": 3,
+            "pct": 8.8,
+            "weighted_pct": 7.1
+          },
+          {
+            "answer": "December",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "January",
+            "count": 3,
+            "pct": 8.8,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "February",
+            "count": 5,
+            "pct": 14.7,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "No single peak month",
+            "count": 2,
+            "pct": 5.9,
+            "weighted_pct": 2.2
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 16
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 1,
+            "pct": 6.3,
+            "weighted_pct": 2.1
+          },
+          {
+            "answer": "April",
+            "count": 2,
+            "pct": 12.5,
+            "weighted_pct": 10.8
+          },
+          {
+            "answer": "May",
+            "count": 2,
+            "pct": 12.5,
+            "weighted_pct": 13.6
+          },
+          {
+            "answer": "November",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "October",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "March",
+            "count": 3,
+            "pct": 18.8,
+            "weighted_pct": 12.5
+          },
+          {
+            "answer": "September",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "August",
+            "count": 2,
+            "pct": 12.5,
+            "weighted_pct": 31.2
+          },
+          {
+            "answer": "July",
+            "count": 1,
+            "pct": 6.3,
+            "weighted_pct": 1.9
+          },
+          {
+            "answer": "December",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "January",
+            "count": 2,
+            "pct": 12.5,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "February",
+            "count": 2,
+            "pct": 12.5,
+            "weighted_pct": 14
+          },
+          {
+            "answer": "No single peak month",
+            "count": 1,
+            "pct": 6.3,
+            "weighted_pct": 1.8
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 131
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 19,
+            "pct": 14.5,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "April",
+            "count": 15,
+            "pct": 11.5,
+            "weighted_pct": 14.4
+          },
+          {
+            "answer": "May",
+            "count": 19,
+            "pct": 14.5,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "November",
+            "count": 6,
+            "pct": 4.6,
+            "weighted_pct": 10.3
+          },
+          {
+            "answer": "October",
+            "count": 13,
+            "pct": 9.9,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "March",
+            "count": 4,
+            "pct": 3.1,
+            "weighted_pct": 2.8
+          },
+          {
+            "answer": "September",
+            "count": 13,
+            "pct": 9.9,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "August",
+            "count": 15,
+            "pct": 11.5,
+            "weighted_pct": 8.4
+          },
+          {
+            "answer": "July",
+            "count": 7,
+            "pct": 5.3,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "December",
+            "count": 4,
+            "pct": 3.1,
+            "weighted_pct": 1.3
+          },
+          {
+            "answer": "January",
+            "count": 6,
+            "pct": 4.6,
+            "weighted_pct": 4.5
+          },
+          {
+            "answer": "February",
+            "count": 7,
+            "pct": 5.3,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "No single peak month",
+            "count": 3,
+            "pct": 2.3,
+            "weighted_pct": 2.2
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 8
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 100
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 13,
+            "pct": 13,
+            "weighted_pct": 18.3
+          },
+          {
+            "answer": "April",
+            "count": 9,
+            "pct": 9,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "May",
+            "count": 14,
+            "pct": 14,
+            "weighted_pct": 6.6
+          },
+          {
+            "answer": "November",
+            "count": 2,
+            "pct": 2,
+            "weighted_pct": 2.1
+          },
+          {
+            "answer": "October",
+            "count": 6,
+            "pct": 6,
+            "weighted_pct": 5.5
+          },
+          {
+            "answer": "March",
+            "count": 7,
+            "pct": 7,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "September",
+            "count": 4,
+            "pct": 4,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "August",
+            "count": 11,
+            "pct": 11,
+            "weighted_pct": 10.9
+          },
+          {
+            "answer": "July",
+            "count": 13,
+            "pct": 13,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "December",
+            "count": 5,
+            "pct": 5,
+            "weighted_pct": 10.9
+          },
+          {
+            "answer": "January",
+            "count": 7,
+            "pct": 7,
+            "weighted_pct": 6.5
+          },
+          {
+            "answer": "February",
+            "count": 7,
+            "pct": 7,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "No single peak month",
+            "count": 2,
+            "pct": 2,
+            "weighted_pct": 1
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 46
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 6,
+            "pct": 13,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "April",
+            "count": 4,
+            "pct": 8.7,
+            "weighted_pct": 9.9
+          },
+          {
+            "answer": "May",
+            "count": 7,
+            "pct": 15.2,
+            "weighted_pct": 24.4
+          },
+          {
+            "answer": "November",
+            "count": 1,
+            "pct": 2.2,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "October",
+            "count": 2,
+            "pct": 4.3,
+            "weighted_pct": 1.8
+          },
+          {
+            "answer": "March",
+            "count": 3,
+            "pct": 6.5,
+            "weighted_pct": 3.1
+          },
+          {
+            "answer": "September",
+            "count": 3,
+            "pct": 6.5,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "August",
+            "count": 8,
+            "pct": 17.4,
+            "weighted_pct": 12.5
+          },
+          {
+            "answer": "July",
+            "count": 3,
+            "pct": 6.5,
+            "weighted_pct": 5.4
+          },
+          {
+            "answer": "December",
+            "count": 1,
+            "pct": 2.2,
+            "weighted_pct": 1
+          },
+          {
+            "answer": "January",
+            "count": 2,
+            "pct": 4.3,
+            "weighted_pct": 3.5
+          },
+          {
+            "answer": "February",
+            "count": 4,
+            "pct": 8.7,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "No single peak month",
+            "count": 2,
+            "pct": 4.3,
+            "weighted_pct": 2.2
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 13,
+            "pct": 11.2,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "April",
+            "count": 18,
+            "pct": 15.5,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "May",
+            "count": 14,
+            "pct": 12.1,
+            "weighted_pct": 12.4
+          },
+          {
+            "answer": "November",
+            "count": 5,
+            "pct": 4.3,
+            "weighted_pct": 6.7
+          },
+          {
+            "answer": "October",
+            "count": 8,
+            "pct": 6.9,
+            "weighted_pct": 7.8
+          },
+          {
+            "answer": "March",
+            "count": 9,
+            "pct": 7.8,
+            "weighted_pct": 6.7
+          },
+          {
+            "answer": "September",
+            "count": 8,
+            "pct": 6.9,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "August",
+            "count": 12,
+            "pct": 10.3,
+            "weighted_pct": 12.9
+          },
+          {
+            "answer": "July",
+            "count": 7,
+            "pct": 6,
+            "weighted_pct": 9.3
+          },
+          {
+            "answer": "December",
+            "count": 4,
+            "pct": 3.4,
+            "weighted_pct": 2
+          },
+          {
+            "answer": "January",
+            "count": 8,
+            "pct": 6.9,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "February",
+            "count": 5,
+            "pct": 4.3,
+            "weighted_pct": 2.5
+          },
+          {
+            "answer": "No single peak month",
+            "count": 5,
+            "pct": 4.3,
+            "weighted_pct": 4.8
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 56
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 5,
+            "pct": 8.9,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "April",
+            "count": 9,
+            "pct": 16.1,
+            "weighted_pct": 25
+          },
+          {
+            "answer": "May",
+            "count": 10,
+            "pct": 17.9,
+            "weighted_pct": 10.8
+          },
+          {
+            "answer": "November",
+            "count": 2,
+            "pct": 3.6,
+            "weighted_pct": 3.7
+          },
+          {
+            "answer": "October",
+            "count": 1,
+            "pct": 1.8,
+            "weighted_pct": 0.6
+          },
+          {
+            "answer": "March",
+            "count": 2,
+            "pct": 3.6,
+            "weighted_pct": 2.8
+          },
+          {
+            "answer": "September",
+            "count": 2,
+            "pct": 3.6,
+            "weighted_pct": 2.9
+          },
+          {
+            "answer": "August",
+            "count": 5,
+            "pct": 8.9,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "July",
+            "count": 7,
+            "pct": 12.5,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "December",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "January",
+            "count": 5,
+            "pct": 8.9,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "February",
+            "count": 6,
+            "pct": 10.7,
+            "weighted_pct": 9.3
+          },
+          {
+            "answer": "No single peak month",
+            "count": 2,
+            "pct": 3.6,
+            "weighted_pct": 4.7
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 8
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 4
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 4
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 59
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 9,
+            "pct": 15.3,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "April",
+            "count": 2,
+            "pct": 3.4,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "May",
+            "count": 10,
+            "pct": 16.9,
+            "weighted_pct": 9.8
+          },
+          {
+            "answer": "November",
+            "count": 2,
+            "pct": 3.4,
+            "weighted_pct": 11.6
+          },
+          {
+            "answer": "October",
+            "count": 5,
+            "pct": 8.5,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "March",
+            "count": 2,
+            "pct": 3.4,
+            "weighted_pct": 3.4
+          },
+          {
+            "answer": "September",
+            "count": 7,
+            "pct": 11.9,
+            "weighted_pct": 13.3
+          },
+          {
+            "answer": "August",
+            "count": 6,
+            "pct": 10.2,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "July",
+            "count": 6,
+            "pct": 10.2,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "December",
+            "count": 5,
+            "pct": 8.5,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "January",
+            "count": 2,
+            "pct": 3.4,
+            "weighted_pct": 3.1
+          },
+          {
+            "answer": "February",
+            "count": 3,
+            "pct": 5.1,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "No single peak month",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 37
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 2,
+            "pct": 5.4,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "April",
+            "count": 5,
+            "pct": 13.5,
+            "weighted_pct": 11.3
+          },
+          {
+            "answer": "May",
+            "count": 5,
+            "pct": 13.5,
+            "weighted_pct": 16.8
+          },
+          {
+            "answer": "November",
+            "count": 2,
+            "pct": 5.4,
+            "weighted_pct": 2.7
+          },
+          {
+            "answer": "October",
+            "count": 3,
+            "pct": 8.1,
+            "weighted_pct": 3.7
+          },
+          {
+            "answer": "March",
+            "count": 4,
+            "pct": 10.8,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "September",
+            "count": 1,
+            "pct": 2.7,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "August",
+            "count": 2,
+            "pct": 5.4,
+            "weighted_pct": 7.8
+          },
+          {
+            "answer": "July",
+            "count": 2,
+            "pct": 5.4,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "December",
+            "count": 1,
+            "pct": 2.7,
+            "weighted_pct": 1
+          },
+          {
+            "answer": "January",
+            "count": 6,
+            "pct": 16.2,
+            "weighted_pct": 16.6
+          },
+          {
+            "answer": "February",
+            "count": 3,
+            "pct": 8.1,
+            "weighted_pct": 3
+          },
+          {
+            "answer": "No single peak month",
+            "count": 1,
+            "pct": 2.7,
+            "weighted_pct": 0.9
+          }
+        ]
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 68
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 6,
+            "pct": 8.8,
+            "weighted_pct": 10.5
+          },
+          {
+            "answer": "April",
+            "count": 4,
+            "pct": 5.9,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "May",
+            "count": 13,
+            "pct": 19.1,
+            "weighted_pct": 22.4
+          },
+          {
+            "answer": "November",
+            "count": 1,
+            "pct": 1.5,
+            "weighted_pct": 0.7
+          },
+          {
+            "answer": "October",
+            "count": 4,
+            "pct": 5.9,
+            "weighted_pct": 3.7
+          },
+          {
+            "answer": "March",
+            "count": 6,
+            "pct": 8.8,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "September",
+            "count": 3,
+            "pct": 4.4,
+            "weighted_pct": 2.5
+          },
+          {
+            "answer": "August",
+            "count": 11,
+            "pct": 16.2,
+            "weighted_pct": 18.8
+          },
+          {
+            "answer": "July",
+            "count": 4,
+            "pct": 5.9,
+            "weighted_pct": 3.1
+          },
+          {
+            "answer": "December",
+            "count": 2,
+            "pct": 2.9,
+            "weighted_pct": 3.7
+          },
+          {
+            "answer": "January",
+            "count": 6,
+            "pct": 8.8,
+            "weighted_pct": 10.6
+          },
+          {
+            "answer": "February",
+            "count": 5,
+            "pct": 7.4,
+            "weighted_pct": 7
+          },
+          {
+            "answer": "No single peak month",
+            "count": 3,
+            "pct": 4.4,
+            "weighted_pct": 3.1
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 63
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 10,
+            "pct": 15.9,
+            "weighted_pct": 20.2
+          },
+          {
+            "answer": "April",
+            "count": 16,
+            "pct": 25.4,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "May",
+            "count": 9,
+            "pct": 14.3,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "November",
+            "count": 4,
+            "pct": 6.3,
+            "weighted_pct": 14
+          },
+          {
+            "answer": "October",
+            "count": 2,
+            "pct": 3.2,
+            "weighted_pct": 4.5
+          },
+          {
+            "answer": "March",
+            "count": 3,
+            "pct": 4.8,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "September",
+            "count": 5,
+            "pct": 7.9,
+            "weighted_pct": 7.1
+          },
+          {
+            "answer": "August",
+            "count": 5,
+            "pct": 7.9,
+            "weighted_pct": 8.4
+          },
+          {
+            "answer": "July",
+            "count": 3,
+            "pct": 4.8,
+            "weighted_pct": 3.8
+          },
+          {
+            "answer": "December",
+            "count": 1,
+            "pct": 1.6,
+            "weighted_pct": 1
+          },
+          {
+            "answer": "January",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "February",
+            "count": 3,
+            "pct": 4.8,
+            "weighted_pct": 4.1
+          },
+          {
+            "answer": "No single peak month",
+            "count": 2,
+            "pct": 3.2,
+            "weighted_pct": 2.9
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 147
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 20,
+            "pct": 13.6,
+            "weighted_pct": 12.7
+          },
+          {
+            "answer": "April",
+            "count": 20,
+            "pct": 13.6,
+            "weighted_pct": 14.9
+          },
+          {
+            "answer": "May",
+            "count": 18,
+            "pct": 12.2,
+            "weighted_pct": 12.4
+          },
+          {
+            "answer": "November",
+            "count": 3,
+            "pct": 2,
+            "weighted_pct": 2.7
+          },
+          {
+            "answer": "October",
+            "count": 9,
+            "pct": 6.1,
+            "weighted_pct": 5
+          },
+          {
+            "answer": "March",
+            "count": 12,
+            "pct": 8.2,
+            "weighted_pct": 6.5
+          },
+          {
+            "answer": "September",
+            "count": 9,
+            "pct": 6.1,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "August",
+            "count": 14,
+            "pct": 9.5,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "July",
+            "count": 12,
+            "pct": 8.2,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "December",
+            "count": 6,
+            "pct": 4.1,
+            "weighted_pct": 7.3
+          },
+          {
+            "answer": "January",
+            "count": 13,
+            "pct": 8.8,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "February",
+            "count": 8,
+            "pct": 5.4,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "No single peak month",
+            "count": 3,
+            "pct": 2,
+            "weighted_pct": 1.8
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 60
+        },
+        "cells": [
+          {
+            "answer": "June",
+            "count": 5,
+            "pct": 8.3,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "April",
+            "count": 3,
+            "pct": 5,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "May",
+            "count": 6,
+            "pct": 10,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "November",
+            "count": 4,
+            "pct": 6.7,
+            "weighted_pct": 11.9
+          },
+          {
+            "answer": "October",
+            "count": 5,
+            "pct": 8.3,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "March",
+            "count": 2,
+            "pct": 3.3,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "September",
+            "count": 5,
+            "pct": 8.3,
+            "weighted_pct": 9.2
+          },
+          {
+            "answer": "August",
+            "count": 4,
+            "pct": 6.7,
+            "weighted_pct": 5
+          },
+          {
+            "answer": "July",
+            "count": 8,
+            "pct": 13.3,
+            "weighted_pct": 13.5
+          },
+          {
+            "answer": "December",
+            "count": 3,
+            "pct": 5,
+            "weighted_pct": 2.3
+          },
+          {
+            "answer": "January",
+            "count": 4,
+            "pct": 6.7,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "February",
+            "count": 7,
+            "pct": 11.7,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "No single peak month",
+            "count": 4,
+            "pct": 6.7,
+            "weighted_pct": 6.9
+          }
+        ]
+      }
+    ]
+  }
+}

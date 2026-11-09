@@ -1,0 +1,131 @@
+{
+  "survey": "us_remote_work_social_skills_2026",
+  "questions": [
+    {
+      "id": "SQ1",
+      "text": "Which best describes your work arrangement over the past 12 months?",
+      "type": "single",
+      "options": [
+        "Fully remote (zero required in-office days)",
+        "Predominantly remote (1 required in-office day per week or less)"
+      ]
+    },
+    {
+      "id": "Q2",
+      "text": "How long have you been working primarily remotely (≤1 day per week in office)?",
+      "type": "single",
+      "options": [
+        "Less than 1 year",
+        "1–2 years",
+        "3–4 years",
+        "5+ years (started during COVID or earlier and stayed)"
+      ]
+    },
+    {
+      "id": "Q3",
+      "text": "In the past 12 months, have you done any of the following because the in-person component felt uncomfortable, exhausting, or anxiety-inducing?",
+      "type": "multi",
+      "options": [
+        "Declined a job interview that required showing up in person",
+        "Withdrew from a hiring process when I learned it was on-site",
+        "Skipped a professional networking event that could have helped my career",
+        "Avoided applying for a promotion that involves managing people in person",
+        "Avoided applying for a role with any in-office or hybrid requirements",
+        "Skipped a work conference or industry event",
+        "Declined to present, lead a meeting, or speak in front of a group",
+        "Turned down a client-facing assignment",
+        "None of the above"
+      ]
+    },
+    {
+      "id": "Q4",
+      "text": "Would you accept lower pay in order to keep working fully remotely?",
+      "type": "single",
+      "options": [
+        "Yes, I would accept more than 20% less",
+        "Yes, I would accept 10–20% less",
+        "Yes, I would accept less than 10% less",
+        "No, I would not accept less pay to stay remote"
+      ]
+    },
+    {
+      "id": "Q5",
+      "text": "If your company announced a mandatory return to office (5 days per week) starting next month, how prepared would you feel to handle it socially and emotionally?",
+      "type": "single",
+      "options": [
+        "Very prepared",
+        "Somewhat prepared",
+        "Somewhat unprepared",
+        "Very unprepared",
+        "I would quit before returning"
+      ]
+    },
+    {
+      "id": "Q6",
+      "text": "How often do you have unscripted, in-person interactions with someone outside your household in a typical week?",
+      "type": "single",
+      "options": [
+        "0 times",
+        "1–2 times",
+        "3–5 times",
+        "6–10 times",
+        "More than 10 times"
+      ]
+    },
+    {
+      "id": "Q7",
+      "text": "Have you done any of the following because a work interaction felt too exhausting, awkward, or anxiety-inducing?",
+      "type": "multi",
+      "options": [
+        "Pretended my camera or microphone was broken",
+        "\"Forgot\" to join a meeting I could have attended",
+        "Kept my camera off when I was supposed to have it on",
+        "Sent a message when I should have called",
+        "Called in sick to avoid an in-person event",
+        "Asked a colleague to attend in my place",
+        "Faked a scheduling conflict",
+        "Avoided eye contact during video calls",
+        "None of the above"
+      ]
+    },
+    {
+      "id": "Q8",
+      "text": "In the past 12 months, have you used AI tools (ChatGPT, Claude, etc.) for any of these communication needs you would have handled on your own before working remotely?",
+      "type": "multi",
+      "options": [
+        "Drafting a difficult work message (asking for a raise, pushing back, conflict)",
+        "Practicing what to say in an interview",
+        "Writing a LinkedIn outreach or networking message",
+        "Rehearsing a difficult conversation before having it",
+        "Translating my feelings into \"professional\" language",
+        "Drafting a sympathy or condolence note to a colleague",
+        "Coming up with small-talk or networking openers",
+        "None of the above"
+      ]
+    },
+    {
+      "id": "Q9",
+      "text": "Compared to job interviews you did before you started working remotely, how do in-person interviews compare for you now?",
+      "type": "single",
+      "options": [
+        "I haven't done an in-person interview since I went remote",
+        "They go better now",
+        "About the same",
+        "They go somewhat worse",
+        "They go significantly worse"
+      ]
+    },
+    {
+      "id": "Q10",
+      "text": "When job-searching today, do you filter out roles that would require in-person work?",
+      "type": "single",
+      "options": [
+        "Yes — I filter out anything that isn't fully remote",
+        "Yes — I filter out anything more than 1 office day per week",
+        "Somewhat — I'd consider in-person for the right role and pay",
+        "No — I apply broadly regardless of location",
+        "I'm not currently job-searching "
+      ]
+    }
+  ]
+}

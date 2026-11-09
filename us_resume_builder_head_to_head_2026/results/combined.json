@@ -1,0 +1,160 @@
+{
+  "dataset": "us_resume_builder_head_to_head_2026",
+  "generated_at": "2026-10-29",
+  "questions": [
+    {
+      "id": "F1",
+      "question_prompt": "I understand the resume may not be complete, and you would need a bit more time, but after spending 1 hour more with each of these resume builders, which one would produce a resume that is more likely to give you confidence and impress recruiters?",
+      "type": "single_choice",
+      "answers": [
+        "Enhancv",
+        "Competitor"
+      ],
+      "overall": {
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "Enhancv",
+            "count": 155,
+            "pct": 74
+          },
+          {
+            "answer": "Competitor",
+            "count": 55,
+            "pct": 26
+          }
+        ]
+      },
+      "by_matchup": [
+        {
+          "matchup": "Enhancv vs Zety",
+          "base": {
+            "n": 30
+          },
+          "cells": [
+            {
+              "answer": "Enhancv",
+              "count": 17,
+              "pct": 57
+            },
+            {
+              "answer": "Zety",
+              "count": 13,
+              "pct": 43
+            }
+          ]
+        },
+        {
+          "matchup": "Enhancv vs MyPerfectResume",
+          "base": {
+            "n": 30
+          },
+          "cells": [
+            {
+              "answer": "Enhancv",
+              "count": 19,
+              "pct": 63
+            },
+            {
+              "answer": "MyPerfectResume",
+              "count": 11,
+              "pct": 37
+            }
+          ]
+        },
+        {
+          "matchup": "Enhancv vs ResumeGenius",
+          "base": {
+            "n": 30
+          },
+          "cells": [
+            {
+              "answer": "Enhancv",
+              "count": 21,
+              "pct": 70
+            },
+            {
+              "answer": "ResumeGenius",
+              "count": 9,
+              "pct": 30
+            }
+          ]
+        },
+        {
+          "matchup": "Enhancv vs Teal",
+          "base": {
+            "n": 30
+          },
+          "cells": [
+            {
+              "answer": "Enhancv",
+              "count": 24,
+              "pct": 80
+            },
+            {
+              "answer": "Teal",
+              "count": 6,
+              "pct": 20
+            }
+          ]
+        },
+        {
+          "matchup": "Enhancv vs Resume.io",
+          "base": {
+            "n": 30
+          },
+          "cells": [
+            {
+              "answer": "Enhancv",
+              "count": 21,
+              "pct": 70
+            },
+            {
+              "answer": "Resume.io",
+              "count": 9,
+              "pct": 30
+            }
+          ]
+        },
+        {
+          "matchup": "Enhancv vs Kickresume",
+          "base": {
+            "n": 30
+          },
+          "cells": [
+            {
+              "answer": "Enhancv",
+              "count": 24,
+              "pct": 80
+            },
+            {
+              "answer": "Kickresume",
+              "count": 6,
+              "pct": 20
+            }
+          ]
+        },
+        {
+          "matchup": "Enhancv vs Novorésumé",
+          "base": {
+            "n": 30
+          },
+          "cells": [
+            {
+              "answer": "Enhancv",
+              "count": 29,
+              "pct": 97
+            },
+            {
+              "answer": "Novorésumé",
+              "count": 1,
+              "pct": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

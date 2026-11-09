@@ -1,0 +1,29 @@
+{
+  "slug": "us_return_to_office_2026",
+  "title": "US Return-to-Office Mandates Survey, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "2026-03-05",
+  "fieldwork_end": "2026-03-05",
+  "sample_n": 1000,
+  "vendor": "Pollfish",
+  "population": "US employees whose employer introduced a new or stricter return-to-office policy in the past 12 months",
+  "topic_tags": [
+    "return to office",
+    "remote work",
+    "workplace policy",
+    "employee trust",
+    "job search"
+  ],
+  "weighting": "Each respondent carries the vendor's stratification weight (field: weight). results/ shows unweighted counts and percentages plus weighted_pct.",
+  "suppression_threshold": 10,
+  "not_published": {
+    "reason": "Open-ended text answers can contain identifying details.",
+    "questions": [
+      {
+        "id": "Q5",
+        "text": "If you could send an anonymous message to your CEO about the true impact this policy has had on your life and loyalty, what would you say?"
+      }
+    ]
+  }
+}

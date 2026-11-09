@@ -1,0 +1,1178 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q8",
+  "question_prompt": "Which of these credentials do you hold?",
+  "type": "multi",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "MBA",
+        "count": 76,
+        "pct": 15.2,
+        "weighted_pct": 14.6
+      },
+      {
+        "answer": "Executive MBA",
+        "count": 32,
+        "pct": 6.4,
+        "weighted_pct": 6
+      },
+      {
+        "answer": "Other master's",
+        "count": 33,
+        "pct": 6.6,
+        "weighted_pct": 7.9
+      },
+      {
+        "answer": "PMP / project management",
+        "count": 65,
+        "pct": 13,
+        "weighted_pct": 12.9
+      },
+      {
+        "answer": "CFA, CPA, ACCA or similar finance credential",
+        "count": 44,
+        "pct": 8.8,
+        "weighted_pct": 9.1
+      },
+      {
+        "answer": "Six Sigma / Lean",
+        "count": 21,
+        "pct": 4.2,
+        "weighted_pct": 4.2
+      },
+      {
+        "answer": "SHRM, CIPD or similar HR credential",
+        "count": 26,
+        "pct": 5.2,
+        "weighted_pct": 5.6
+      },
+      {
+        "answer": "Executive education certificate from a business school",
+        "count": 76,
+        "pct": 15.2,
+        "weighted_pct": 15
+      },
+      {
+        "answer": "Leadership or coaching certification",
+        "count": 201,
+        "pct": 40.2,
+        "weighted_pct": 40
+      },
+      {
+        "answer": "Industry technical certification (AWS, Cisco, etc.)",
+        "count": 112,
+        "pct": 22.4,
+        "weighted_pct": 20
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 28,
+            "pct": 14,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 12,
+            "pct": 6,
+            "weighted_pct": 5.6
+          },
+          {
+            "answer": "Other master's",
+            "count": 20,
+            "pct": 10,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 18,
+            "pct": 9,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 17,
+            "pct": 8.5,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 4,
+            "pct": 2,
+            "weighted_pct": 2.8
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 10,
+            "pct": 5,
+            "weighted_pct": 6.4
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 38,
+            "pct": 19,
+            "weighted_pct": 17.5
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 79,
+            "pct": 39.5,
+            "weighted_pct": 39.5
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 33,
+            "pct": 16.5,
+            "weighted_pct": 14.7
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 48,
+            "pct": 16,
+            "weighted_pct": 14.6
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 20,
+            "pct": 6.7,
+            "weighted_pct": 6.4
+          },
+          {
+            "answer": "Other master's",
+            "count": 13,
+            "pct": 4.3,
+            "weighted_pct": 5.9
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 47,
+            "pct": 15.7,
+            "weighted_pct": 17
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 27,
+            "pct": 9,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 17,
+            "pct": 5.7,
+            "weighted_pct": 5.8
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 16,
+            "pct": 5.3,
+            "weighted_pct": 4.8
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 38,
+            "pct": 12.7,
+            "weighted_pct": 12.4
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 122,
+            "pct": 40.7,
+            "weighted_pct": 40.5
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 79,
+            "pct": 26.3,
+            "weighted_pct": 25.6
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Other master's",
+            "count": 3,
+            "pct": 13,
+            "weighted_pct": 10.4
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 4,
+            "pct": 17.4,
+            "weighted_pct": 15.5
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 4,
+            "pct": 17.4,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 7
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 9,
+            "pct": 39.1,
+            "weighted_pct": 40
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 4,
+            "pct": 17.4,
+            "weighted_pct": 15.5
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 17,
+            "pct": 13.5,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 16,
+            "pct": 12.7,
+            "weighted_pct": 12.7
+          },
+          {
+            "answer": "Other master's",
+            "count": 3,
+            "pct": 2.4,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 17,
+            "pct": 13.5,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 14,
+            "pct": 11.1,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 5,
+            "pct": 4,
+            "weighted_pct": 3.5
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 8,
+            "pct": 6.3,
+            "weighted_pct": 7
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 20,
+            "pct": 15.9,
+            "weighted_pct": 18
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 49,
+            "pct": 38.9,
+            "weighted_pct": 40.9
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 28,
+            "pct": 22.2,
+            "weighted_pct": 21.4
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 26,
+            "pct": 18.1,
+            "weighted_pct": 18
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 6,
+            "pct": 4.2,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Other master's",
+            "count": 8,
+            "pct": 5.6,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 19,
+            "pct": 13.2,
+            "weighted_pct": 12.7
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 11,
+            "pct": 7.6,
+            "weighted_pct": 7.8
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 6,
+            "pct": 4.2,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 9,
+            "pct": 6.3,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 24,
+            "pct": 16.7,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 61,
+            "pct": 42.4,
+            "weighted_pct": 42
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 33,
+            "pct": 22.9,
+            "weighted_pct": 21.7
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 21,
+            "pct": 14.7,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 6,
+            "pct": 4.2,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "Other master's",
+            "count": 11,
+            "pct": 7.7,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 13,
+            "pct": 9.1,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 11,
+            "pct": 7.7,
+            "weighted_pct": 6.6
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 4,
+            "pct": 2.8,
+            "weighted_pct": 2.5
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 5,
+            "pct": 3.5,
+            "weighted_pct": 3.7
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 23,
+            "pct": 16.1,
+            "weighted_pct": 17.3
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 60,
+            "pct": 42,
+            "weighted_pct": 43
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 35,
+            "pct": 24.5,
+            "weighted_pct": 22.7
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 10,
+            "pct": 15.6,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 3,
+            "pct": 4.7,
+            "weighted_pct": 3.8
+          },
+          {
+            "answer": "Other master's",
+            "count": 8,
+            "pct": 12.5,
+            "weighted_pct": 14
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 12,
+            "pct": 18.8,
+            "weighted_pct": 17.2
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 4,
+            "pct": 6.3,
+            "weighted_pct": 5.7
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 6,
+            "pct": 9.4,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 2,
+            "pct": 3.1,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 7,
+            "pct": 10.9,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 22,
+            "pct": 34.4,
+            "weighted_pct": 34
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 12,
+            "pct": 18.8,
+            "weighted_pct": 16.7
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 16,
+            "pct": 18.4,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 12,
+            "pct": 13.8,
+            "weighted_pct": 10.9
+          },
+          {
+            "answer": "Other master's",
+            "count": 8,
+            "pct": 9.2,
+            "weighted_pct": 12.7
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 17,
+            "pct": 19.5,
+            "weighted_pct": 19.1
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 13,
+            "pct": 14.9,
+            "weighted_pct": 14.9
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 7,
+            "pct": 8,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 8,
+            "pct": 9.2,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 14,
+            "pct": 16.1,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 34,
+            "pct": 39.1,
+            "weighted_pct": 35.5
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 20,
+            "pct": 23,
+            "weighted_pct": 20.5
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 10,
+            "pct": 20.4,
+            "weighted_pct": 19
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 2,
+            "pct": 4.1,
+            "weighted_pct": 7.7
+          },
+          {
+            "answer": "Other master's",
+            "count": 6,
+            "pct": 12.2,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 6,
+            "pct": 12.2,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 4,
+            "pct": 8.2,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 5,
+            "pct": 10.2,
+            "weighted_pct": 11.6
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 4,
+            "pct": 8.2,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 6,
+            "pct": 12.2,
+            "weighted_pct": 12.8
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 15,
+            "pct": 30.6,
+            "weighted_pct": 30.9
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 10,
+            "pct": 20.4,
+            "weighted_pct": 19.2
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 6,
+            "pct": 19.4,
+            "weighted_pct": 21.2
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 1,
+            "pct": 3.2,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "Other master's",
+            "count": 4,
+            "pct": 12.9,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 3,
+            "pct": 9.7,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 4,
+            "pct": 12.9,
+            "weighted_pct": 9
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 1,
+            "pct": 3.2,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 6,
+            "pct": 19.4,
+            "weighted_pct": 23.1
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 9,
+            "pct": 29,
+            "weighted_pct": 31.6
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 10,
+            "pct": 32.3,
+            "weighted_pct": 24.1
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 28,
+            "pct": 13.3,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 10,
+            "pct": 4.8,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "Other master's",
+            "count": 6,
+            "pct": 2.9,
+            "weighted_pct": 4.3
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 32,
+            "pct": 15.2,
+            "weighted_pct": 16.1
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 16,
+            "pct": 7.6,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 7,
+            "pct": 3.3,
+            "weighted_pct": 3.4
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 8,
+            "pct": 3.8,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 24,
+            "pct": 11.4,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 92,
+            "pct": 43.8,
+            "weighted_pct": 42.2
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 52,
+            "pct": 24.8,
+            "weighted_pct": 22.8
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 15,
+            "pct": 12.9,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 6,
+            "pct": 5.2,
+            "weighted_pct": 4.3
+          },
+          {
+            "answer": "Other master's",
+            "count": 9,
+            "pct": 7.8,
+            "weighted_pct": 6.9
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 6,
+            "pct": 5.2,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 7,
+            "pct": 6,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 2,
+            "pct": 1.7,
+            "weighted_pct": 1.2
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 5,
+            "pct": 4.3,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 25,
+            "pct": 21.6,
+            "weighted_pct": 20.5
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 48,
+            "pct": 41.4,
+            "weighted_pct": 44.4
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 19,
+            "pct": 16.4,
+            "weighted_pct": 14.9
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 9,
+            "pct": 8.3,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 4,
+            "pct": 3.7,
+            "weighted_pct": 2.9
+          },
+          {
+            "answer": "Other master's",
+            "count": 7,
+            "pct": 6.4,
+            "weighted_pct": 7.7
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 9,
+            "pct": 8.3,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 10,
+            "pct": 9.2,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 5,
+            "pct": 4.6,
+            "weighted_pct": 4.1
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 3,
+            "pct": 2.8,
+            "weighted_pct": 2.7
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 16,
+            "pct": 14.7,
+            "weighted_pct": 14.6
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 50,
+            "pct": 45.9,
+            "weighted_pct": 45.7
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 22,
+            "pct": 20.2,
+            "weighted_pct": 18
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 17,
+            "pct": 16.2,
+            "weighted_pct": 18.2
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 10,
+            "pct": 9.5,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "Other master's",
+            "count": 10,
+            "pct": 9.5,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 13,
+            "pct": 12.4,
+            "weighted_pct": 11.9
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 12,
+            "pct": 11.4,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 6,
+            "pct": 5.7,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 2,
+            "pct": 1.9,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 8,
+            "pct": 7.6,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 41,
+            "pct": 39,
+            "weighted_pct": 36.5
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 23,
+            "pct": 21.9,
+            "weighted_pct": 19.1
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 41,
+            "pct": 19.7,
+            "weighted_pct": 17.7
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 11,
+            "pct": 5.3,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "Other master's",
+            "count": 11,
+            "pct": 5.3,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 29,
+            "pct": 13.9,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 16,
+            "pct": 7.7,
+            "weighted_pct": 6.7
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 8,
+            "pct": 3.8,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 19,
+            "pct": 9.1,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 37,
+            "pct": 17.8,
+            "weighted_pct": 16.1
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 82,
+            "pct": 39.4,
+            "weighted_pct": 40.1
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 45,
+            "pct": 21.6,
+            "weighted_pct": 18.8
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "MBA",
+            "count": 9,
+            "pct": 11.5,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "Executive MBA",
+            "count": 7,
+            "pct": 9,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "Other master's",
+            "count": 5,
+            "pct": 6.4,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "PMP / project management",
+            "count": 14,
+            "pct": 17.9,
+            "weighted_pct": 18.7
+          },
+          {
+            "answer": "CFA, CPA, ACCA or similar finance credential",
+            "count": 6,
+            "pct": 7.7,
+            "weighted_pct": 8.4
+          },
+          {
+            "answer": "Six Sigma / Lean",
+            "count": 2,
+            "pct": 2.6,
+            "weighted_pct": 3.8
+          },
+          {
+            "answer": "SHRM, CIPD or similar HR credential",
+            "count": 2,
+            "pct": 2.6,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "Executive education certificate from a business school",
+            "count": 15,
+            "pct": 19.2,
+            "weighted_pct": 22
+          },
+          {
+            "answer": "Leadership or coaching certification",
+            "count": 28,
+            "pct": 35.9,
+            "weighted_pct": 35
+          },
+          {
+            "answer": "Industry technical certification (AWS, Cisco, etc.)",
+            "count": 22,
+            "pct": 28.2,
+            "weighted_pct": 28.5
+          }
+        ]
+      }
+    ]
+  }
+}

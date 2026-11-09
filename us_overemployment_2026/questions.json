@@ -1,0 +1,136 @@
+{
+  "survey": "us_overemployment_2026",
+  "questions": [
+    {
+      "id": "SQ1",
+      "text": "Which of the following best describes your current employment situation?",
+      "type": "single",
+      "options": [
+        "I have one full-time job and one or more part-time roles",
+        "I have two or more full-time jobs, but they do NOT overlap",
+        "I have two or more full-time jobs with overlapping working hours"
+      ]
+    },
+    {
+      "id": "Q1",
+      "text": "Which of the following best describes your primary type of work?",
+      "type": "single",
+      "options": [
+        "Software Engineering / Development",
+        "Data / Analytics (Data Science, BI, AI/ML)",
+        "IT / DevOps / Infrastructure",
+        "Product Management",
+        "Marketing / Creative (Content, Design, Growth)",
+        "Sales / Business Development",
+        "Finance / Accounting",
+        "Legal / Compliance",
+        "Human Resources / Recruiting",
+        "Customer Support / Customer Success",
+        "Operations / Project Management",
+        "Consulting / Strategy",
+        "Education / Training",
+        "Healthcare / Medical",
+        "Other"
+      ]
+    },
+    {
+      "id": "Q2",
+      "text": "How would you describe your current work arrangement?",
+      "type": "single",
+      "options": [
+        "Fully remote for 5+ years",
+        "Fully remote (started since 2020)",
+        "Hybrid (2–3 days per week in office)",
+        "Mostly in-office"
+      ]
+    },
+    {
+      "id": "Q3",
+      "text": "How would you classify the cost of living in your current location?",
+      "type": "single",
+      "options": [
+        "High-cost city (e.g., NYC, San Francisco, London)",
+        "Mid-tier city / suburban area",
+        "Low-cost or rural area"
+      ]
+    },
+    {
+      "id": "Q4",
+      "text": "For your primary role, how many hours of active work are typically required per week to meet all your KPIs?",
+      "type": "single",
+      "options": [
+        "0–10 hours",
+        "11–20 hours",
+        "21–30 hours",
+        "31–40 hours",
+        "40+ hours",
+        "Not sure"
+      ]
+    },
+    {
+      "id": "Q5",
+      "text": "Has Generative AI or automation reduced your weekly workload by more than 50% in the last 12 months?",
+      "type": "single",
+      "options": [
+        "Yes — significantly reduced (>50%)",
+        "Somewhat reduced (but less than 50%)",
+        "No noticeable impact",
+        "My workload has increased",
+        "Not applicable to my role"
+      ]
+    },
+    {
+      "id": "Q6",
+      "text": "Which of the following tools or methods do you use to maintain the appearance of being “online” across multiple jobs? (Select all that apply)",
+      "type": "multi",
+      "options": [
+        "Hardware mouse movers / activity simulators",
+        "AI meeting summarizers (e.g., Otter, Fireflies)",
+        "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+        "AI-generated voice or video for meetings",
+        "Calendar blocking / scheduling strategies",
+        "Status automation tools (Slack/Teams auto-status)",
+        "I do not use any tools",
+        "Prefer not to say",
+        "Other"
+      ]
+    },
+    {
+      "id": "Q7",
+      "text": "To what extent do you agree with the following statement: “Having a second (undisclosed) job serves as a form of financial or job security (“unemployment insurance”).”",
+      "type": "single",
+      "options": [
+        "Strongly agree",
+        "Somewhat agree",
+        "Neither agree nor disagree",
+        "Somewhat disagree",
+        "Strongly disagree"
+      ]
+    },
+    {
+      "id": "Q8",
+      "text": "What minimum salary increase would your primary employer need to offer for you to give up a second job and focus exclusively on one role?",
+      "type": "single",
+      "options": [
+        "No increase — I would not give up a second job",
+        "Less than 10% increase",
+        "10–20% increase",
+        "21–30% increase",
+        "31–50% increase",
+        "More than 50% increase",
+        "Prefer not to say"
+      ]
+    },
+    {
+      "id": "Q9",
+      "text": "In the past 12 months, have you received “Meeting Expectations” or higher performance ratings at more than one job at the same time?",
+      "type": "single",
+      "options": [
+        "Yes — at two or more jobs simultaneously",
+        "Yes — but only at one job",
+        "No",
+        "Prefer not to say"
+      ]
+    }
+  ]
+}

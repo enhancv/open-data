@@ -1,0 +1,395 @@
+{
+  "id": "ZT-22",
+  "matchup": "Enhancv vs Zety",
+  "final_choice": "Enhancv",
+  "transcription": "Whisper transcript produced by Enhancv from the session recording",
+  "duration": null,
+  "note": "Automatic transcription, lightly structured: speaker labels mapped to Interviewer or Participant; names, employers, schools, places, contact and login details replaced with [... redacted] tags. Wording is otherwise unedited, including transcription errors (for example 'Enhance CV' for Enhancv).",
+  "turns": [
+    {
+      "time": "00:02",
+      "speaker": "Interviewer",
+      "text": "And I just, before we get into the tools, how complete does your current resume feel to you? I know. Okay, so this is the thing. I..."
+    },
+    {
+      "time": "00:18",
+      "speaker": "Participant",
+      "text": "I have about 17 years of experience in engineering. Okay. So depending on the position, I adjust my resume. Okay. So if it's for a military one, I have almost a separate resume for that. So I wouldn't say it's complete. I would say it's... maybe 30 or 40% of what it could be. I understand. Make sense. Yes. Okay."
+    },
+    {
+      "time": "00:43",
+      "speaker": "Interviewer",
+      "text": "And so when you do picture a resume, depending on the job that you're applying to, that you feel confident sending out what matters most to you? certifications."
+    },
+    {
+      "time": "00:54",
+      "speaker": "Participant",
+      "text": "Okay. Um, project volume, and degree of those volumes. So how many projects do I have per year? And then what's the dollar amount of those projects? Are they going to be $30,000? Are they going to be $50 million? And that way other places can see, okay, she does meet the specifications that we're looking for. She can handle bigger projects better."
+    },
+    {
+      "time": "01:31",
+      "speaker": "Interviewer",
+      "text": "Right. I understand. Okay. So that's all I had. We can get into the first tool. This one's called Enhance Me. I'm going to drop the link, and then you'll be using my account information. Okay. You could just share your screen so I'll be able to follow along with you. Sure thing. Okay. Okay."
+    },
+    {
+      "time": "01:55",
+      "speaker": "Participant",
+      "text": "I think this is, can you see my whole, you're sharing the screen. I wonder if it's, hold up."
+    },
+    {
+      "time": "02:03",
+      "speaker": "Interviewer",
+      "text": "Online, the window. I can see your whole screen, just the window. Yeah, that's perfectly fine."
+    },
+    {
+      "time": "02:11",
+      "speaker": "Participant",
+      "text": "Okay, there we go. okay um okay so i have my resume on the right you see my resume on the right yes okay and yours and your login information you sent me via chat do i have an existing resume as a certain point um just go directly to login here to make sure that it's associated with my account okay um Where do I, um, okay. Where was the chat? Okay. 02:52 Yes."
+    },
+    {
+      "time": "02:59",
+      "speaker": "Interviewer",
+      "text": "Okay. So we'll be going to the new. Do you want to make the window, actually, can you just make it the whole screen? Sure thing."
+    },
+    {
+      "time": "03:11",
+      "speaker": "Participant",
+      "text": "Let me save this. Save. Enable saving. This is such an old picture. I'm just going to stick it on my desktop real quick. Okay. That way, because I presume I will be uploading it. Yes."
+    },
+    {
+      "time": "03:32",
+      "speaker": "Interviewer",
+      "text": "This one and the next one."
+    },
+    {
+      "time": "03:34",
+      "speaker": "Participant",
+      "text": "Okay. Okay. Oh, stupid zoom the things drop down. Okay. Is that good. Yeah. Okay. Okay, so this is kind of the tool that you're putting together or whatever?"
+    },
+    {
+      "time": "03:54",
+      "speaker": "Interviewer",
+      "text": "So this is one of the tools that we'll be looking at. So here you'll upload your resume and create new. And then once it has uploaded, you'll go through all the functions. And then I'll take a step back, like just think out loud or whatever pops up. And then once you feel that you have a good sense of the tool, let me know and we'll get into some questions."
+    },
+    {
+      "time": "04:17",
+      "speaker": "Participant",
+      "text": "Okay. And can it take PDFs or Word or what?"
+    },
+    {
+      "time": "04:51",
+      "speaker": "Interviewer",
+      "text": "It can take both PDF or like a file. Yeah, it should be fine. It just sometimes takes a moment."
+    },
+    {
+      "time": "04:59",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "05:00",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "05:02",
+      "speaker": "Participant",
+      "text": "Here we go. Okay. So essentially I'm taking a look at this and I'm kind of using this layout and seeing if it's, if I liked the layout to the resume builder or if it imported The correct stuff."
+    },
+    {
+      "time": "05:22",
+      "speaker": "Interviewer",
+      "text": "So, you're basically just using this for the first time. This tool is supposed to help you, like, better your existing resume. I guess, like, update it. So, you're just going to look through it if you think that that's good. But, yeah, I can't really guide you on much else."
+    },
+    {
+      "time": "05:46",
+      "speaker": "Participant",
+      "text": "Yeah, because you want a regular, like, a non- Like biased. But yes, yes, non-biased opinion and kind of like giving a toy to a kid. Okay, what do they do with it?"
+    },
+    {
+      "time": "06:00",
+      "speaker": "Interviewer",
+      "text": "Right."
+    },
+    {
+      "time": "06:02",
+      "speaker": "Participant",
+      "text": "Okay. Okay, good picture. And I can move things around, right? Or edit? Yeah, you just look for the function. Upload picture. Okay, if I want to upload. Try that. I believe if this is a resume that's, can you remove the picture? Oh, wait. Yes. Okay, cool. Because I know some have to remove the picture. Okay, yeah, it brought in everything of certifications, training course, not quite right, but I guess I would have to edit that. I'm not quite sure what the training or courses came from because skills, I have no idea what this is. um other than i mean rails yeah like railroads google sheets i do but i have no idea where i pulled grunt groovy java spring or pmo from okay um let's see if this is semi decent um yeah uh it's pulling in the project engineer correct that information Yeah, this stuff over here, it's kind of pulling in right. I'm not quite sure what the [company name redacted] is. I don't remember. Oh, it's trying to pull over a separate thing. That could have been my resume, though. Okay. Because I would edit it and then send it back to our marketing team. But I'd have to look at the original phase one stuff. Yeah, it's pulling too much. I'd have to redo this whole thing. So these three top things I'd have to redo. There is no education on here, though. Maybe scroll more to the bottom. Yeah, experience. That stuff is good. Wait, what was on page one? I presume cover letter. Yeah. Hold on. This would, this would be page one. Okay. So page two is the, so the title is on the top. Okay. I automatically think of when I say page one, page two, it's on the bottom of this page. Add a new section. Experience, experience, experience. Education. Ooh. Okay."
+    },
+    {
+      "time": "09:13",
+      "speaker": "Interviewer",
+      "text": "If you want, you can explore some of the functions on the left-hand side, the white box that says different things."
+    },
+    {
+      "time": "09:19",
+      "speaker": "Participant",
+      "text": "Yeah, check. ATS screenings. I'm not sure what ATS stands for."
+    },
+    {
+      "time": "09:32",
+      "speaker": "Interviewer",
+      "text": "I don't know exactly what it stands for, but ATS is essentially... Like a program that companies use to file through resumes when they're submitted. Oh. Yeah."
+    },
+    {
+      "time": "09:51",
+      "speaker": "Participant",
+      "text": "Oh, I like this. Okay. So depending on what the looks you have, I like that. Polish contemporary. Okay. Kind of like, I like it. I like the templates, design fonts, sections, oh, okay. Yeah, in case you have to get under one, you know, one sheet or two sheets, whatever. Okay, so a quick, yeah, quick margin thing. Let's see, let's add a section. Languages. Okay. So it's just that. Okay. So I can just do skills training. I like the little decals. Languages. Okay. Entry. So English. Let's do that. Native. Okay. And then if I want to delete that one. Very nice. I like that. Ew. I like it. um improve text let's see here okay the spelling um can i click on that oh no nope okay ignore okay ignore so it's kind of like a spell check um history let's see in here Okay, so it's looking at different revisions of it. Oh, okay, I like that. Vision history. Okay. So I want to restore this. Okay. Yeah, it's decent."
+    },
+    {
+      "time": "11:58",
+      "speaker": "Interviewer",
+      "text": "Okay, so you kind of understand everything now?"
+    },
+    {
+      "time": "12:03",
+      "speaker": "Participant",
+      "text": "Yeah, I would say so."
+    },
+    {
+      "time": "12:05",
+      "speaker": "Interviewer",
+      "text": "Okay, so when you saw the templates, did you feel that they were either modern or better than Word or what you would find in Google Sheets? Oh, better than Word. Yeah?"
+    },
+    {
+      "time": "12:15",
+      "speaker": "Participant",
+      "text": "So, yeah. Word is a little finicky. If it's something basic like this, Word's great. But if you want to do something with the two columns, which actually my original resume is like that, or it isn't like that. And I do like the two column scenario to it. Now, some of this import stuff you do have to go through. It didn't quite import completely, but hopefully if you are having this as a website thing, And you need to adjust it. Hopefully you only have to adjust it not too many times. And if you want to change it between templates, you can do that. Yeah, so."
+    },
+    {
+      "time": "13:16",
+      "speaker": "Interviewer",
+      "text": "And what did you think about the amount of flexibility this tool gives you when creating your resume?"
+    },
+    {
+      "time": "13:24",
+      "speaker": "Participant",
+      "text": "It's enough not to get overwhelmed, especially as a beginner resume and if you have to make a lot of resumes. Right."
+    },
+    {
+      "time": "13:33",
+      "speaker": "Interviewer",
+      "text": "Okay. And what is it specifically that you liked about the experience? Any moments that stood out to you?"
+    },
+    {
+      "time": "13:47",
+      "speaker": "Participant",
+      "text": "If you wanted to edit something... It didn't throw off the rest of the document. So in the case of the language, it added it to the bottom. But I believe I can move this stuff around. So let's see here. Day period text. Can I move this? Yes. Let's say I want to move it here. Each section is its own entity. And I really like that. versus Word, where you have to make sure you kind of do it in a certain order."
+    },
+    {
+      "time": "14:29",
+      "speaker": "Interviewer",
+      "text": "Okay, that's perfect. And do you think that this tool does a good job at validating that your resume is strong while you're working through it?"
+    },
+    {
+      "time": "14:41",
+      "speaker": "Participant",
+      "text": "I could not comment on that. Okay, that's perfect. Because as... As a person that does hire, it's all down to the content of it. Whether it's strong or not would come down to the thing. But I will say if it has more of a polished look to it and has the two columns versus something that my sixth grader can do on Word document, that's going to have a bigger impact. that they possibly put more time into it. Or they rather, they have more knowledge about computers to set them apart."
+    },
+    {
+      "time": "15:29",
+      "speaker": "Interviewer",
+      "text": "Okay. And do you think that it struggles to present your experience cleanly on one page?"
+    },
+    {
+      "time": "15:39",
+      "speaker": "Participant",
+      "text": "Well, for me, I have 17 years, so no. Once you get up over about, I would say, eight years of experience, your experience should not be limited to one page. If you have more than eight years in a certain field, your resume should be two, maximum three. Okay. If you're just starting out with college, yes, limit it to a one page. Right."
+    },
+    {
+      "time": "16:12",
+      "speaker": "Interviewer",
+      "text": "Okay. So, yeah, depending on experience, that totally makes sense. All right. Well, we're going to move on to the second tool. Okay. It's the same login information, but I put it there for you. This one is called Zeddy. And you might want to leave this tab open when we go into for reference for the comparison questions."
+    },
+    {
+      "time": "16:39",
+      "speaker": "Participant",
+      "text": "okay and then do okay my account i think i have here okay not now okay exit that okay here we go zeti create a resume so i'm gonna kind of just go with it right So hopefully create a resume. I want to do... Oh, I don't want to do that. No, I want to import it."
+    },
+    {
+      "time": "17:18",
+      "speaker": "Interviewer",
+      "text": "Oh, that's coming up. Oh, God. Yeah. So your initial thoughts are that you can't import your resume? Oh, I can't. I can't import it. Is that what you initially thought because you left? Like..."
+    },
+    {
+      "time": "17:38",
+      "speaker": "Participant",
+      "text": "Yeah, pretty much. If I clicked on this, what I would want to see is import or start new. Right. OK."
+    },
+    {
+      "time": "17:46",
+      "speaker": "Interviewer",
+      "text": "Yeah. Well, for now, we're just going to follow these things. But thank you for that input. Need help choosing a template."
+    },
+    {
+      "time": "17:56",
+      "speaker": "Participant",
+      "text": "Let's go. Without photo. Two columns. We'll do that. Okay, bold, striking, modern, and subtle. Oh my God, I can't speak. Skip this if needed. We'll use your previous responses to recommend. Okay, so for me, it would be engineering. See templates. Oh, very formal. I like the recommendations. I like the formalness and it does show all the others, but the ones that I would recommend, which would be kind of like these two, I'm gonna choose this one. Okay, so I'm gonna use this template. Yes, upload my resume. Okay. Oh, wait, actually. Okay, so it can read doc and PDF. Okay. I think I like the other one where you quickly just upload the resume and then you choose the template from there. The enhanced? To get the process going. Okay."
+    },
+    {
+      "time": "19:41",
+      "speaker": "Interviewer",
+      "text": "Sounds good. Oh, moving forward, when you talk about either of the platforms, can you just reference them by name? Oh, of course."
+    },
+    {
+      "time": "19:53",
+      "speaker": "Participant",
+      "text": "So I believe I like, let me go. What's this one called? Enhance V. Hansi? Enhance. Oh, Enhance. Enhance V. V. Yes, correct. Enhance V. I believe I like the Enhance V because I quick upload and then I can choose my template from there. Okay. If this had the recommendation like Zevi did, that would be interesting. That would be a nice feature. Okay. So continue. I don't know if I need that screen there. Oh, my God. Contact information."
+    },
+    {
+      "time": "20:35",
+      "speaker": "Interviewer",
+      "text": "You can put your random information here. My email is associated with this, so you don't need to put a phone number or anything."
+    },
+    {
+      "time": "20:43",
+      "speaker": "Participant",
+      "text": "Yeah. Heading. Oh, God. Yeah, if... No, I like the... Oh, God. Heading. intense fee I don't want to confirm it I want to see the okay I want to see oh no no this looks like TurboTax um oh god no skip for now this no I just want to get straight into the resume Zetty. Now let's fill out your work history. I would think that it would already fill it out. Ah, resume. Okay. You know what I'm seeing is intense fee is if you already have a resume and you're good to go. And Zetty is if you really, really new to the resume. Right. Okay."
+    },
+    {
+      "time": "21:48",
+      "speaker": "Interviewer",
+      "text": "It's enhanced V, by the way, like enhanced something. It is enhanced V, just so you know, not intense V. Enhance, enhance."
+    },
+    {
+      "time": "21:58",
+      "speaker": "Participant",
+      "text": "OK, so I'm enhancing color, enhance V, enhance V. OK, use. OK, work history. Sure, sure, sure. Move it around. But where am I moving it? Oh, oh, no. Wait, what? Oh, wait. Job title. Job title. What did I just click on? I think you. Oh, my God. Oh, press go back. Go back. Yeah. I mean, I clicked on here. So it goes into what I want to edit. Yeah. Okay. So start month, end month. Great. Whatever. Stick here. Okay. sure um or i currently work here okay next okay so it puts it right here okay and then can i show more so i can kind of see all the points of my experience work but this is work this is work history Not experience."
+    },
+    {
+      "time": "23:20",
+      "speaker": "Interviewer",
+      "text": "It is your experience, but they change it to work history. I think you pressed yes. It's the same thing. You prefer experience. You can go to the rename portion. Rename. Work history. Can you add sections in here? Um..."
+    },
+    {
+      "time": "23:47",
+      "speaker": "Participant",
+      "text": "like what do you like add sections like add a new position like okay so you have over here heading work history or like um rename why didn't that experience I think that might be for you to find out I'm supposed to take a step back yes okay following the okay yeah but it doesn't yeah it doesn't change here okay so i'm going to go back here oh change no no okay next work uh work history summer okay so we have experience so add a new position blah blah blah blah blah blah just bear with me Sure. Okay. I'm not going to add any more. So where's my blah blahs? My blah blah entry? Okay, down here. Oh, you cannot do that. Okay, so I'm finding an issue. Okay. So in my line of work, work history and experience is different. And it's important to have that distinction. Because if my work history is working with a big firm like [company name redacted], which is a huge thing, that's going to indicate that I have that level and I have those relationships. But experience is different on the project side. So experience is projects in my work and work history is working with big firms. Or where I have been because I've switched employment. Oh God. Four times. And so when I'm going to a place, then they can see how much I skip around. Now, all those skip arounds are for certain reasons. But those are reasons that we look into of why you're skipping around. So work history and experience is different."
+    },
+    {
+      "time": "26:25",
+      "speaker": "Interviewer",
+      "text": "Two separate sections, one that's experience and one that's work history. Okay, well, I think maybe like in the end, we can figure that out. Yeah, sorry. Right now, this is like the flow that the tool."
+    },
+    {
+      "time": "26:40",
+      "speaker": "Participant",
+      "text": "Okay, so next education. Next. Bachelors. Great. Don't need coursework. Skills. Next. Yeah, this is giving me a TurboTax vibe. Okay, I do like the stars. Okay. True, true, true, true. Okay. So these are suggestions. Let's do project cost estimates. Skill five. So I have a strength. So that's good. Update your summary. Summary. Okay. So that little use. Sure. Extra sections. Yes. do you have anything okay so languages is here i'm just going to pick one of them so english okay level native save save next okay oh yeah this is definitely turbo tax kind of look to it um okay yeah okay so now it's redoing the templates from now that i have everything on there okay um so depending on what you want just switching them around can i move oh it's going back to the moving it around okay so i can't move it around in here so add a section design and i want to add a section add your own okay i mean i um i guess let's see here So I have experience here because I changed the name. I mean, it's fine. Current role. This is the thing. Can I move? No, no. Can I move that up like that on Intents? Rearranged? enhance fee I wonder if I can rearrange it okay okay so um section order so can I okay let's move this around okay education I'm going to put it up here OK, yeah, I could see that. So if I click here, I would probably want to see if that I want to see that right away in the top right, because where is that on this in the middle? That's going to be lost. I want it in the upper right. Yeah, I like that the section order, that's kind of nice. I like that. Yeah. um but yeah definitely in the upper right not in the middle um professional summary biography which is exactly the same can i delete these sections no i cannot delete the sections I can delete the sections if I go over here, but I can't delete the sections if I go over here. So I'm going to, this can't be undone, delete. Okay. Okay. I do like how you can move it into the different columns. um a font style small is it when i highlight this no large okay font type nice paragraph spacing okay good nice uh easy to do add a section like back in professional summary you know what would be good here is do you want to professional server if I wanted to bring it back. So do you want to insert the previous last saved summary or start a new one? Okay. Yeah. Okay."
+    },
+    {
+      "time": "32:07",
+      "speaker": "Interviewer",
+      "text": "So did you have a summary in already? The old one?"
+    },
+    {
+      "time": "32:13",
+      "speaker": "Participant",
+      "text": "It was literally the repeat of the biography."
+    },
+    {
+      "time": "32:16",
+      "speaker": "Interviewer",
+      "text": "Ah, I understand. Okay. Okay, do you have any questions for me? So, which of these two builders has a template design experience that stands out to you?"
+    },
+    {
+      "time": "32:27",
+      "speaker": "Participant",
+      "text": "Ooh, template design. I would say... The Zeti has a better template design because you can move the sections around. While the Enhance V, is that right? Enhance V. Enhance V. You can just choose from the templates. Now, hold up. Let me go back to it. Oh, no. Never mind. Because I can move it around. Can I move? And I can move it up. Yeah. See? I can move it up between it. Yeah. Continue editing. I want to say Enhance V has a better one because I can move it right on the sheet and have it update right away while it took me a while to find this thingy and to get it. Okay."
+    },
+    {
+      "time": "33:34",
+      "speaker": "Interviewer",
+      "text": "Good to know. And what is the difference between the amount of freedom each tool gives you when creating your resume? Between the two sites? Yeah, between the two of them, like comparing."
+    },
+    {
+      "time": "33:56",
+      "speaker": "Participant",
+      "text": "The Enhance B, you can see the updates that you want right away. While this one, I click on it and it draws me out of the thing and then I edit it. But I don't see how it looks like, the full resume, until I save it and then it throws me back into it. I kind of like this where I can just type it and see how it correlates into the resume right there."
+    },
+    {
+      "time": "34:31",
+      "speaker": "Interviewer",
+      "text": "Okay. Enhance me."
+    },
+    {
+      "time": "34:33",
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": "34:34",
+      "speaker": "Interviewer",
+      "text": "Awesome. That's valid. And did either of the tools make you rethink how you tell your professional story? No."
+    },
+    {
+      "time": "34:42",
+      "speaker": "Participant",
+      "text": "No. Okay. This, the Zeti is a very good for, for starting out. resume builders. Okay. First five years. You know, strong language skills, go-getter, whatever. This, the Zeti offers more AI assisted points that you can add to it. Okay. But they're too general. Where If you know how to write, you need to be more specific. Okay. And more specific means you have the experience to do that and will most likely get high. If it's very general, you know it's just very general. Right. You don't stand out."
+    },
+    {
+      "time": "35:48",
+      "speaker": "Interviewer",
+      "text": "So... I know that you mentioned before you apply to different roles or like projects. If you were applying to two at the same time, like which tool would you trust more to tailor your resume to create multiple strong versions? 36:13 Um,"
+    },
+    {
+      "time": "36:16",
+      "speaker": "Participant",
+      "text": "Quick question. It depends. My save jobs to go into this. I don't know if you're going into this, but if there's a way to save the different types of resumes where I would have all my experience list out and then I would save a resume like save as for the Michigan project and I can eliminate like going in here and deleting you know this experience easier um is there a way on these forms because my save jobs so i don't want to get into ah no that's fine you can like look through those that's okay up there Yeah, this has saved if this had an ability to save different versions of resumes easily. That would be the one I would go with."
+    },
+    {
+      "time": "37:20",
+      "speaker": "Interviewer",
+      "text": "OK, it said he had that capability. Yes."
+    },
+    {
+      "time": "37:26",
+      "speaker": "Participant",
+      "text": "So I would have a master resume file that I can save as and do a copy. And then I can rename it Michigan and just have, you know, Michigan projects or military resume and do just so that I can copy that first one over and then do all my military relevant experiences. That would be the one that I would go with."
+    },
+    {
+      "time": "37:53",
+      "speaker": "Interviewer",
+      "text": "Okay. And I know we had like a short time with each of these, but let's say you had an hour more to use each tool. Which one do you think would produce a resume that it's more likely to impress recruiters?"
+    },
+    {
+      "time": "38:17",
+      "speaker": "Participant",
+      "text": "I would I would say enhance V only because people may put generic too many generic bullet points that ZTE might have in instead of being real. It really does come down to content though. I wish I could say it could be builder, but it comes down to content. Both have very similar templates and those both would have the same strength To give a second look. OK. So if it's, you know, let me see here. We're trying to come on. OK, there we go. I'm trying to find a bland one. So this one. No, save. This one where it looks like Microsoft Word. The, this, I'm going to hover. This one looks more appealing than a Microsoft Word one. So I don't think it's so much the site, but more the template used and what's on the actual resume. As for user, I would say Zeti would be good for beginners. Enhance V would be good for 10 plus years."
+    },
+    {
+      "time": "40:01",
+      "speaker": "Interviewer",
+      "text": "Okay. And would you be willing to pay for access to either of these sites or both of them?"
+    },
+    {
+      "time": "40:07",
+      "speaker": "Participant",
+      "text": "No."
+    },
+    {
+      "time": "40:08",
+      "speaker": "Interviewer",
+      "text": "No?"
+    },
+    {
+      "time": "40:09",
+      "speaker": "Participant",
+      "text": "Okay. Only because I'm a cheapskate. Um... I think... Maybe. Um... With Zeti... Okay. Um... A lot of college graduates are able to still access their college resume people five years after they graduate. So a lot of them will have those waived. It all depends on what the cost of it is. And like for Zeti, it's going to have to be, it is very nice to, for beginners but a lot of beginners are not going to have the money to do it but they might be posed hey do i need a job now i will be willing to pay for it right okay well is there anything else that you would like to add or that you think i should know about your experience with these tools"
+    },
+    {
+      "time": "41:23",
+      "speaker": "Interviewer",
+      "text": "Nothing I can think of right now. Okay, that's totally fine. Those are all the questions I had for you. But if you could submit this, it's like a brief survey that we have. I'm going to drop the link in the chat. It's similar questions to what I asked you, but in more of a Zeddy or EnhanceV or both, like a ranking system. And you don't have to share your screen for this. If you don't want to, just let me know when you've completed it."
+    },
+    {
+      "time": "41:50",
+      "speaker": "Participant",
+      "text": "Here, I will do a stop share. Okay, and then I will do... Sorry, I'm going to look back. The quick question... Go ahead. I'm trying to go back. there is a question here on ATS resume validation scoring I believe I only saw one and I don't think you can answer this just for you know"
+    },
+    {
+      "time": "42:40",
+      "speaker": "Interviewer",
+      "text": "we were going over it and i said hey what's that yes i can tell us that which one was that i can tell you which tool it was it it was enhanced v that you asked me which one it was yeah so there you would be based on whichever one was obvious to you that would be your response um okay okay you're done well thank you so much for your feedback today and I hope you enjoyed your experience thank you so good rest of your day you too bye"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "survey": "us_ghost_jobs_2026",
+  "questions": [
+    {
+      "id": "Q1",
+      "text": "What industry do you work in?",
+      "type": "single",
+      "options": [
+        "I am currently not employed",
+        "Health Care & Pharmaceuticals",
+        "Other (please specify)",
+        "Education",
+        "Retail & Consumer Durables",
+        "Food & Beverages",
+        "Agriculture",
+        "Advertising & Marketing",
+        "Business Support & Logistics",
+        "Telecommunications, Technology, Internet & Electronics",
+        "Entertainment & Leisure",
+        "Finance & Financial Services",
+        "Manufacturing",
+        "Construction, Machinery and Homes",
+        "Nonprofit",
+        "Government",
+        "Automotive",
+        "Transportation & Delivery",
+        "Airlines & Aerospace (including Defense)",
+        "Insurance",
+        "Real Estate",
+        "Utilities, Energy, and Extraction"
+      ]
+    },
+    {
+      "id": "Q2",
+      "text": "How many years of experience do you have?",
+      "type": "single",
+      "options": [
+        "8+ years",
+        "3–4 years",
+        "1–2 years",
+        "No professional experience",
+        "Less than 1 year",
+        "5–7 years"
+      ]
+    },
+    {
+      "id": "Q3",
+      "text": "Have you ever applied to a job that you later suspected was never actually open or had no real intent to hire?",
+      "type": "single",
+      "options": [
+        "Yes",
+        "No",
+        "Not Sure"
+      ]
+    },
+    {
+      "id": "Q4",
+      "text": "At what stage did you realize the job was likely a 'ghost job'?",
+      "type": "single",
+      "options": [
+        "Applied/No response",
+        "First Interview",
+        "Recruiter Screen",
+        "Other (please specify)",
+        "Final Interview"
+      ]
+    },
+    {
+      "id": "Q5",
+      "text": "Did you incur any of the following out-of-pocket costs while pursuing a role you now suspect was a \"ghost job\"? (Select all that apply)",
+      "type": "single",
+      "options": [
+        "None of the above",
+        "Travel/Gas for interviews",
+        "Paid \"test\" assignments or certifications",
+        "Childcare or eldercare",
+        "Premium job board subscriptions",
+        "Other (please specify)"
+      ],
+      "note": "The export holds one answer per respondent for this question."
+    },
+    {
+      "id": "Q6",
+      "text": "Which of the following 'red flags' made you realize the role wasn't real? (Select all that apply)",
+      "type": "single",
+      "options": [
+        "The listing has been active for 3+ months.",
+        "The job was reposted immediately after I was rejected;",
+        "The recruiter  mentioned they aren't \"actually\" hiring yet;",
+        "Other (please specify)",
+        "The job description was clearly AI-generated/nonsensical.",
+        "The company website shows a hiring freeze",
+        "The recruiter admitted they are just \"building a pipeline\""
+      ],
+      "note": "The export holds one answer per respondent for this question."
+    },
+    {
+      "id": "Q7",
+      "text": "In the past 6 months, approximately how many of your total job applications do you believe went to ghost or fake listings?",
+      "type": "single",
+      "options": [
+        "1-10%",
+        "11-25%",
+        "0",
+        "26-50%",
+        "More than 50%"
+      ]
+    },
+    {
+      "id": "Q8",
+      "text": "As a result of encountering ghost jobs, have you changed your job search behavior in any of the following ways? (Select all that apply)",
+      "type": "single",
+      "options": [
+        "No change",
+        "I apply to fewer jobs",
+        "I only apply if I know someone at the company",
+        "I avoid job boards entirely",
+        "I reach out directly to hiring managers",
+        "I check Glassdoor or Reddit before applying",
+        "Other (please specify)",
+        "I have permanently boycotted the company's products/services"
+      ],
+      "note": "The export holds one answer per respondent for this question."
+    }
+  ]
+}

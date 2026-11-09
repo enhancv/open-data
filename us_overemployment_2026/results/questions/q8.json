@@ -1,0 +1,1381 @@
+{
+  "survey": "us_overemployment_2026",
+  "id": "Q8",
+  "question_prompt": "What minimum salary increase would your primary employer need to offer for you to give up a second job and focus exclusively on one role?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "No increase — I would not give up a second job",
+        "count": 129,
+        "pct": 12.9,
+        "weighted_pct": 13.1
+      },
+      {
+        "answer": "Less than 10% increase",
+        "count": 36,
+        "pct": 3.6,
+        "weighted_pct": 4.9
+      },
+      {
+        "answer": "10–20% increase",
+        "count": 225,
+        "pct": 22.5,
+        "weighted_pct": 22.5
+      },
+      {
+        "answer": "21–30% increase",
+        "count": 312,
+        "pct": 31.2,
+        "weighted_pct": 30.7
+      },
+      {
+        "answer": "31–50% increase",
+        "count": 207,
+        "pct": 20.7,
+        "weighted_pct": 20.1
+      },
+      {
+        "answer": "More than 50% increase",
+        "count": 82,
+        "pct": 8.2,
+        "weighted_pct": 8
+      },
+      {
+        "answer": "Prefer not to say",
+        "count": 9,
+        "pct": 0.9,
+        "weighted_pct": 0.7
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 550
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 82,
+            "pct": 14.9,
+            "weighted_pct": 15.3
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 18,
+            "pct": 3.3,
+            "weighted_pct": 3.7
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 111,
+            "pct": 20.2,
+            "weighted_pct": 20.3
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 161,
+            "pct": 29.3,
+            "weighted_pct": 29.6
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 117,
+            "pct": 21.3,
+            "weighted_pct": 20.8
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 52,
+            "pct": 9.5,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 9,
+            "pct": 1.6,
+            "weighted_pct": 1.4
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 450
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 47,
+            "pct": 10.4,
+            "weighted_pct": 10.8
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 18,
+            "pct": 4,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 114,
+            "pct": 25.3,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 151,
+            "pct": 33.6,
+            "weighted_pct": 31.8
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 90,
+            "pct": 20,
+            "weighted_pct": 19.4
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 30,
+            "pct": 6.7,
+            "weighted_pct": 7.3
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 28
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 4,
+            "pct": 14.3,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 6,
+            "pct": 21.4,
+            "weighted_pct": 21.4
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 5,
+            "pct": 17.9,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 9,
+            "pct": 32.1,
+            "weighted_pct": 32.1
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 3,
+            "pct": 10.7,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 1,
+            "pct": 3.6,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 174
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 12,
+            "pct": 6.9,
+            "weighted_pct": 7.2
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 3,
+            "pct": 1.7,
+            "weighted_pct": 1.9
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 38,
+            "pct": 21.8,
+            "weighted_pct": 23.1
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 58,
+            "pct": 33.3,
+            "weighted_pct": 32.2
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 41,
+            "pct": 23.6,
+            "weighted_pct": 23.3
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 22,
+            "pct": 12.6,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 330
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 36,
+            "pct": 10.9,
+            "weighted_pct": 10.6
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 12,
+            "pct": 3.6,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 74,
+            "pct": 22.4,
+            "weighted_pct": 22.5
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 110,
+            "pct": 33.3,
+            "weighted_pct": 34
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 68,
+            "pct": 20.6,
+            "weighted_pct": 20.5
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 27,
+            "pct": 8.2,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 3,
+            "pct": 0.9,
+            "weighted_pct": 0.8
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 293
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 44,
+            "pct": 15,
+            "weighted_pct": 15.1
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 10,
+            "pct": 3.4,
+            "weighted_pct": 3.5
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 68,
+            "pct": 23.2,
+            "weighted_pct": 23.8
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 92,
+            "pct": 31.4,
+            "weighted_pct": 31.2
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 56,
+            "pct": 19.1,
+            "weighted_pct": 19
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 19,
+            "pct": 6.5,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 4,
+            "pct": 1.4,
+            "weighted_pct": 1.3
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 175
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 33,
+            "pct": 18.9,
+            "weighted_pct": 19.4
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 5,
+            "pct": 2.9,
+            "weighted_pct": 3.4
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 40,
+            "pct": 22.9,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 43,
+            "pct": 24.6,
+            "weighted_pct": 24.7
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 39,
+            "pct": 22.3,
+            "weighted_pct": 21.6
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 13,
+            "pct": 7.4,
+            "weighted_pct": 7
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 2,
+            "pct": 1.1,
+            "weighted_pct": 1.1
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 209
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 26,
+            "pct": 12.4,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 2,
+            "pct": 1,
+            "weighted_pct": 0.8
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 46,
+            "pct": 22,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 87,
+            "pct": 41.6,
+            "weighted_pct": 44.4
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 32,
+            "pct": 15.3,
+            "weighted_pct": 15.3
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 14,
+            "pct": 6.7,
+            "weighted_pct": 6.7
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 2,
+            "pct": 1,
+            "weighted_pct": 0.7
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 80
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 7,
+            "pct": 8.8,
+            "weighted_pct": 7.1
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 2,
+            "pct": 2.5,
+            "weighted_pct": 1.8
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 21,
+            "pct": 26.3,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 28,
+            "pct": 35,
+            "weighted_pct": 35.6
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 20,
+            "pct": 25,
+            "weighted_pct": 27.9
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 2,
+            "pct": 2.5,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 67
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 11,
+            "pct": 16.4,
+            "weighted_pct": 13
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 2,
+            "pct": 3,
+            "weighted_pct": 3
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 9,
+            "pct": 13.4,
+            "weighted_pct": 14.6
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 21,
+            "pct": 31.3,
+            "weighted_pct": 33
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 16,
+            "pct": 23.9,
+            "weighted_pct": 27.1
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 7,
+            "pct": 10.4,
+            "weighted_pct": 8.3
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 1.5,
+            "weighted_pct": 1
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 435
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 53,
+            "pct": 12.2,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 13,
+            "pct": 3,
+            "weighted_pct": 3
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 107,
+            "pct": 24.6,
+            "weighted_pct": 25.9
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 118,
+            "pct": 27.1,
+            "weighted_pct": 26.1
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 103,
+            "pct": 23.7,
+            "weighted_pct": 22.5
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 38,
+            "pct": 8.7,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 3,
+            "pct": 0.7,
+            "weighted_pct": 0.7
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 11
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 3,
+            "pct": 27.3,
+            "weighted_pct": 19.5
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 3,
+            "pct": 27.3,
+            "weighted_pct": 45.1
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 4,
+            "pct": 36.4,
+            "weighted_pct": 27.9
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 1,
+            "pct": 9.1,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 198
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 29,
+            "pct": 14.6,
+            "weighted_pct": 15.7
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 17,
+            "pct": 8.6,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 39,
+            "pct": 19.7,
+            "weighted_pct": 18.9
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 54,
+            "pct": 27.3,
+            "weighted_pct": 25.6
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 35,
+            "pct": 17.7,
+            "weighted_pct": 15.6
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 21,
+            "pct": 10.6,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 3,
+            "pct": 1.5,
+            "weighted_pct": 1
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 99
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 11,
+            "pct": 11.1,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 2,
+            "pct": 2,
+            "weighted_pct": 1.4
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 26,
+            "pct": 26.3,
+            "weighted_pct": 25.7
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 28,
+            "pct": 28.3,
+            "weighted_pct": 27.7
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 21,
+            "pct": 21.2,
+            "weighted_pct": 23.1
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 10,
+            "pct": 10.1,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 1,
+            "weighted_pct": 0.7
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 336
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 42,
+            "pct": 12.5,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 6,
+            "pct": 1.8,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 75,
+            "pct": 22.3,
+            "weighted_pct": 24.7
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 106,
+            "pct": 31.5,
+            "weighted_pct": 29.5
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 78,
+            "pct": 23.2,
+            "weighted_pct": 22
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 28,
+            "pct": 8.3,
+            "weighted_pct": 7.7
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 0.3,
+            "weighted_pct": 0.5
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 138
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 19,
+            "pct": 13.8,
+            "weighted_pct": 13.2
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 7,
+            "pct": 5.1,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 27,
+            "pct": 19.6,
+            "weighted_pct": 22.3
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 49,
+            "pct": 35.5,
+            "weighted_pct": 33.7
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 21,
+            "pct": 15.2,
+            "weighted_pct": 14.5
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 12,
+            "pct": 8.7,
+            "weighted_pct": 7.6
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 3,
+            "pct": 2.2,
+            "weighted_pct": 1.3
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 14
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 1,
+            "pct": 7.1,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 6,
+            "pct": 42.9,
+            "weighted_pct": 37
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 3,
+            "pct": 21.4,
+            "weighted_pct": 22.3
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 3,
+            "pct": 21.4,
+            "weighted_pct": 27.4
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 1,
+            "pct": 7.1,
+            "weighted_pct": 8.4
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 16
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 3,
+            "pct": 18.8,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 1,
+            "pct": 6.3,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 2,
+            "pct": 12.5,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 3,
+            "pct": 18.8,
+            "weighted_pct": 24
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 4,
+            "pct": 25,
+            "weighted_pct": 20.8
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 3,
+            "pct": 18.8,
+            "weighted_pct": 21.5
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 38
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 7,
+            "pct": 18.4,
+            "weighted_pct": 14
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 8,
+            "pct": 21.1,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 13,
+            "pct": 34.2,
+            "weighted_pct": 43.7
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 8,
+            "pct": 21.1,
+            "weighted_pct": 15.1
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 2,
+            "pct": 5.3,
+            "weighted_pct": 7.3
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 3
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 113
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 12,
+            "pct": 10.6,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 12,
+            "pct": 10.6,
+            "weighted_pct": 13.2
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 27,
+            "pct": 23.9,
+            "weighted_pct": 19.6
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 33,
+            "pct": 29.2,
+            "weighted_pct": 31.9
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 16,
+            "pct": 14.2,
+            "weighted_pct": 13.3
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 10,
+            "pct": 8.8,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 3,
+            "pct": 2.7,
+            "weighted_pct": 1.8
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 215
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 25,
+            "pct": 11.6,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 6,
+            "pct": 2.8,
+            "weighted_pct": 3.1
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 50,
+            "pct": 23.3,
+            "weighted_pct": 21.9
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 68,
+            "pct": 31.6,
+            "weighted_pct": 29.8
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 50,
+            "pct": 23.3,
+            "weighted_pct": 25.8
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 15,
+            "pct": 7,
+            "weighted_pct": 6.8
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 0.5,
+            "weighted_pct": 0.4
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 2
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 26
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 7,
+            "pct": 26.9,
+            "weighted_pct": 23.2
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 1,
+            "pct": 3.8,
+            "weighted_pct": 2.7
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 4,
+            "pct": 15.4,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 8,
+            "pct": 30.8,
+            "weighted_pct": 35
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 5,
+            "pct": 19.2,
+            "weighted_pct": 17.6
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 1,
+            "pct": 3.8,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 223
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 29,
+            "pct": 13,
+            "weighted_pct": 11.9
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 12,
+            "pct": 5.4,
+            "weighted_pct": 6.6
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 51,
+            "pct": 22.9,
+            "weighted_pct": 23
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 70,
+            "pct": 31.4,
+            "weighted_pct": 30.4
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 38,
+            "pct": 17,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 21,
+            "pct": 9.4,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 2,
+            "pct": 0.9,
+            "weighted_pct": 0.7
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 256
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 40,
+            "pct": 15.6,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 5,
+            "pct": 2,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 57,
+            "pct": 22.3,
+            "weighted_pct": 23
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 79,
+            "pct": 30.9,
+            "weighted_pct": 30.2
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 56,
+            "pct": 21.9,
+            "weighted_pct": 20.6
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 18,
+            "pct": 7,
+            "weighted_pct": 6.6
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 0.4,
+            "weighted_pct": 0.3
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 348
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 39,
+            "pct": 11.2,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 16,
+            "pct": 4.6,
+            "weighted_pct": 5.3
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 74,
+            "pct": 21.3,
+            "weighted_pct": 21
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 115,
+            "pct": 33,
+            "weighted_pct": 33.2
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 71,
+            "pct": 20.4,
+            "weighted_pct": 20
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 30,
+            "pct": 8.6,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 3,
+            "pct": 0.9,
+            "weighted_pct": 0.6
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 156
+        },
+        "cells": [
+          {
+            "answer": "No increase — I would not give up a second job",
+            "count": 18,
+            "pct": 11.5,
+            "weighted_pct": 15.7
+          },
+          {
+            "answer": "Less than 10% increase",
+            "count": 3,
+            "pct": 1.9,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "10–20% increase",
+            "count": 39,
+            "pct": 25,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "21–30% increase",
+            "count": 46,
+            "pct": 29.5,
+            "weighted_pct": 28.3
+          },
+          {
+            "answer": "31–50% increase",
+            "count": 37,
+            "pct": 23.7,
+            "weighted_pct": 21.3
+          },
+          {
+            "answer": "More than 50% increase",
+            "count": 10,
+            "pct": 6.4,
+            "weighted_pct": 5.7
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 3,
+            "pct": 1.9,
+            "weighted_pct": 1.9
+          }
+        ]
+      }
+    ]
+  }
+}

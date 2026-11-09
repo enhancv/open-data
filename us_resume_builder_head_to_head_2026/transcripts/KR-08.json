@@ -1,0 +1,1355 @@
+{
+  "id": "KR-08",
+  "matchup": "Enhancv vs Kickresume",
+  "final_choice": "Kickresume",
+  "transcription": "Whisper transcript produced by Enhancv from the session recording",
+  "duration": null,
+  "note": "Automatic transcription, lightly structured: speaker labels mapped to Interviewer or Participant; names, employers, schools, places, contact and login details replaced with [... redacted] tags. Wording is otherwise unedited, including transcription errors (for example 'Enhance CV' for Enhancv).",
+  "turns": [
+    {
+      "time": "0:00",
+      "speaker": "Participant",
+      "text": "About my resume, let me dig it up quick."
+    },
+    {
+      "time": "0:00",
+      "speaker": "Interviewer",
+      "text": "Yeah, sure thing. Let me know when you are ready."
+    },
+    {
+      "time": "0:00",
+      "speaker": "Participant",
+      "text": "Do you want me to screen share right away too?"
+    },
+    {
+      "time": "0:00",
+      "speaker": "Interviewer",
+      "text": "I just have two questions. But yeah, you can start screen sharing already."
+    },
+    {
+      "time": "0:00",
+      "speaker": "Participant",
+      "text": "Okay, let me just clear all this up there. Okay. Does it matter if it's PDF or Word?"
+    },
+    {
+      "time": "0:30",
+      "speaker": "Interviewer",
+      "text": "PDF is preferable."
+    },
+    {
+      "time": "0:30",
+      "speaker": "Participant",
+      "text": "PDF. Yeah. Okay, ready to go. Let me."
+    },
+    {
+      "time": "1:30",
+      "speaker": "Interviewer",
+      "text": "Perfect. Here."
+    },
+    {
+      "time": "1:58",
+      "speaker": "Participant",
+      "text": "Was there anything I need to do on my end?"
+    },
+    {
+      "time": "1:58",
+      "speaker": "Interviewer",
+      "text": "Not right now. First, I just want to know like how complete your current resume feels to you."
+    },
+    {
+      "time": "1:58",
+      "speaker": "Participant",
+      "text": "Um, I mean, it hasn't been updated since probably the spring. Not too bad. That's why I was kind of looking for the most updated version of it. But yeah, no, it's definitely fine. So."
+    },
+    {
+      "time": "2:25",
+      "speaker": "Interviewer",
+      "text": "Okay, so your most like current responsibilities are in there."
+    },
+    {
+      "time": "2:25",
+      "speaker": "Participant",
+      "text": "Yep."
+    },
+    {
+      "time": "2:25",
+      "speaker": "Interviewer",
+      "text": "Great. And when you picture a resume that you feel confident sending to an application, what matters most to you? To have?"
+    },
+    {
+      "time": "2:25",
+      "speaker": "Participant",
+      "text": "Less is more. Especially like in my company, that's what we look for. You know, transparently, the resume piece of it is a very small aspect of like, you know, what we try to like get out of the applicant as far as bigger picture. It's how they perform in the actual, the start interview. So, you know, we might like, like, you know, check off like basic requirements for, you know, the role, you know, such as like their education or like the amount of like leadership experience that they've had, things like that. But we definitely do not spend much time on the actual resume piece itself."
+    },
+    {
+      "time": "3:22",
+      "speaker": "Interviewer",
+      "text": "Okay. So like you just like a simple resume for yourself?"
+    },
+    {
+      "time": "3:22",
+      "speaker": "Participant",
+      "text": "Yeah. Like I just actually hired two generalists recently and, you know, referencing kind of like that experience, you know, it was a very like no more than five minutes being like, okay, this is, you know, the, their current capacity and everything after that, especially like it's very like quick and like minimal things like that. So if there's like too much like content, too much detail, it tends to not be a great presentation for them at least. But, you know, what we've done is, you know, give them the tools to be like, hey, like, you know, when you submit your resume prior, like this is what you, you know, some pro tips and what we look for. So, you know, usually it is pretty cut dry."
+    },
+    {
+      "time": "4:17",
+      "speaker": "Interviewer",
+      "text": "Okay. So you're a hiring manager?"
+    },
+    {
+      "time": "4:17",
+      "speaker": "Participant",
+      "text": "That's part of my role. So I'm a regional senior HRBP for [company name redacted]. So I definitely do a lot of hiring, but recruitment I wouldn't say is like a core area of my role, but I definitely participate in it."
+    },
+    {
+      "time": "4:43",
+      "speaker": "Interviewer",
+      "text": "Okay, good to know. Great. So now we can look at the first tool. It's called Enhancv. I'm going to drop the link in the chat as well as the login information, but I don't want you to log in immediately. Just share your screen and then I'll tell you where to get started."
+    },
+    {
+      "time": "4:43",
+      "speaker": "Participant",
+      "text": "Okay. Okay, so click the first link, right?"
+    },
+    {
+      "time": "4:43",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "5:13",
+      "speaker": "Participant",
+      "text": "Are you sure? Okay. Okay, let me see my screen. Good?"
+    },
+    {
+      "time": "5:13",
+      "speaker": "Interviewer",
+      "text": "Yes, I can see it now. So we're going to start with build your resume and then you'll be prompted through some steps. And here's where I'll just kind of be watching you work through it. Like I said, if you could think out loud, that'd be perfect."
+    },
+    {
+      "time": "5:42",
+      "speaker": "Participant",
+      "text": "Gotcha. I thought that was you. I'm like, oh, that's cool. Okay, so click yes because I'm going to upload my resume, right?"
+    },
+    {
+      "time": "5:42",
+      "speaker": "Interviewer",
+      "text": "Mm-hmm."
+    },
+    {
+      "time": "6:14",
+      "speaker": "Participant",
+      "text": "Give me one sec, okay?"
+    },
+    {
+      "time": "6:14",
+      "speaker": "Interviewer",
+      "text": "Sure."
+    },
+    {
+      "time": "6:43",
+      "speaker": "Participant",
+      "text": "I'm trying to figure out what's going on here. Well, down low, that's where it is, okay, let me try this. I'm trying to figure out what's going on here, okay, let me try this. Okay, am I primarily concerned with impressing recruiters or passing ATS? Good question. Probably passing ATS, I would have to say."
+    },
+    {
+      "time": "8:29",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "8:56",
+      "speaker": "Participant",
+      "text": "Do I watch this first?"
+    },
+    {
+      "time": "8:56",
+      "speaker": "Interviewer",
+      "text": "You can if you want to. I'm usually not on YouTube, but on my actual work computer. It's kind of more of a tutorial, some extra information, but we don't have to get into that. But be aware that more than 92% of the decision-making is still in the hands of recruiters."
+    },
+    {
+      "time": "9:23",
+      "speaker": "Participant",
+      "text": "This is nice. I'm supposed to be talking out loud, right? Do you want that?"
+    },
+    {
+      "time": "9:50",
+      "speaker": "Interviewer",
+      "text": "Yes, you're doing great."
+    },
+    {
+      "time": "9:50",
+      "speaker": "Participant",
+      "text": "All kinds of stuff here. If I'm, me myself, applying for an HR role, again, yes, polished, but all these look like really maybe a little bit too much."
+    },
+    {
+      "time": "10:15",
+      "speaker": "Interviewer",
+      "text": "Let me see the options here, so imprint."
+    },
+    {
+      "time": "10:15",
+      "speaker": "Participant",
+      "text": "Too much, do you mean like they're too wordy or too modern? Maybe on like the wordy side and like the format. I'm just seeing what all is here, so, okay. I feel like the more I go down the list, you know, not as what I'm looking for, at least. What is this right here, what's Crest? New template. Yeah, this looks a lot like the one I have now, actually, so I like this."
+    },
+    {
+      "time": "10:44",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "10:44",
+      "speaker": "Participant",
+      "text": "Use this template. Use this template. Wait. Sorry, resume, resume, resume, resume. Okay. Wait, so give me about 20 seconds. Every fact stays yours and you can edit all of it. Work with original text or, yes, improve with AI. So I'm going to be real with you. Even with, like, where I work now, there's this huge shift in the AI, and we've been having so many issues with it from, like, an accuracy standpoint where, whether it is data, whether it is, like, a summary about something, and it's just it's not quite there. So I'm definitely, like, hesitant to improve with AI. I want to see what this entails first."
+    },
+    {
+      "time": "11:47",
+      "speaker": "Interviewer",
+      "text": "Okay. That's fair. You could always work with the AI assistant afterwards if you want."
+    },
+    {
+      "time": "12:14",
+      "speaker": "Participant",
+      "text": "Yeah. I do like this a lot. This is, like, super similar to, like, the formatting I had before. So, you know, key achievements, that's different. Yeah. Yeah. I really like this. Like, if I were to choose out of the whole grouping, it would definitely be this one right here."
+    },
+    {
+      "time": "12:48",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "12:48",
+      "speaker": "Participant",
+      "text": "Some differences here and there. Like, key achievements, I just had underneath each individual role, including my current role, or what was my other one there. But other than that, like, it's pretty spot on. So let me see what else is going on here, though. I'm trying to look up. Do I – oh, that's, like, the AI assistant. But, like, how can I – what's it saying here?"
+    },
+    {
+      "time": "13:14",
+      "speaker": "Interviewer",
+      "text": "Yeah, normally you can – can you try scrolling up, or have you been doing that and it won't let you?"
+    },
+    {
+      "time": "13:40",
+      "speaker": "Participant",
+      "text": "Yeah, I'm doing it right now."
+    },
+    {
+      "time": "13:40",
+      "speaker": "Interviewer",
+      "text": "Okay. That's good to know because it was working in earlier calls, but the one I had just before you, it did the same thing. So if you want to use one of the prompts, it just kind of introduces you to what the AI assistant is and maybe gives a suggestion depending on the resume uploaded."
+    },
+    {
+      "time": "13:40",
+      "speaker": "Participant",
+      "text": "Sure. Yeah. Should I give it a spin, you're saying?"
+    },
+    {
+      "time": "14:06",
+      "speaker": "Interviewer",
+      "text": "Yes, yeah. You can either create your own prompt or choose one of the ones that they have. Oh, actually, sorry. We need to log in in order to save the work. If you click log in on the top right-hand side or there, but press log in under create free account."
+    },
+    {
+      "time": "14:06",
+      "speaker": "Participant",
+      "text": "Yes, and then put in my email and password [login details redacted]. Oh, okay."
+    },
+    {
+      "time": "14:35",
+      "speaker": "Interviewer",
+      "text": "How many other calls have you had today on this?"
+    },
+    {
+      "time": "14:35",
+      "speaker": "Participant",
+      "text": "Three."
+    },
+    {
+      "time": "14:35",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "15:02",
+      "speaker": "Participant",
+      "text": "Cool, okay."
+    },
+    {
+      "time": "15:02",
+      "speaker": "Interviewer",
+      "text": "Okay, now we can get prompted. Do you see this? Does that matter?"
+    },
+    {
+      "time": "15:02",
+      "speaker": "Participant",
+      "text": "I do."
+    },
+    {
+      "time": "15:02",
+      "speaker": "Interviewer",
+      "text": "Just X that out and then that pops up when there's connectivity issues, but let's keep going and it might have fixed itself now."
+    },
+    {
+      "time": "15:02",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "15:02",
+      "speaker": "Interviewer",
+      "text": "Yeah, so we'll check out the AI assistant, and then after that, if you can go through all of the features in the toolbar at the top, like fixed resume, check-in tailor."
+    },
+    {
+      "time": "15:28",
+      "speaker": "Participant",
+      "text": "Gotcha. So I'm, like, using this right now as if, like, hey, this is it. Like this is what I would want to be working on if I were to go with this template, right?"
+    },
+    {
+      "time": "15:28",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "15:28",
+      "speaker": "Participant",
+      "text": "Okay. Nice. Look at that. Okay. Was this response helpful? Time summary. Let's try doing that. Okay. Got it."
+    },
+    {
+      "time": "16:52",
+      "speaker": "Interviewer",
+      "text": "Okay. Well, you tighten the summary, which is actually at the top. Select show changes. You'll be able to see."
+    },
+    {
+      "time": "16:52",
+      "speaker": "Participant",
+      "text": "Oh, I thought it was, like, the highlighted."
+    },
+    {
+      "time": "16:52",
+      "speaker": "Interviewer",
+      "text": "Yeah, that's good to know that you thought that. So it wasn't clear."
+    },
+    {
+      "time": "16:52",
+      "speaker": "Participant",
+      "text": "No, that's just a suggestion under fixed resume."
+    },
+    {
+      "time": "17:22",
+      "speaker": "Interviewer",
+      "text": "Oh, okay. Other suggestions, yeah. But you asked the AI assistant to tighten your summary, which meant, like, the actual summary at the top."
+    },
+    {
+      "time": "17:22",
+      "speaker": "Participant",
+      "text": "Got it. I thought, like, looking over, like, the highlighted was, like, okay. Got it. Good to know."
+    },
+    {
+      "time": "17:22",
+      "speaker": "Interviewer",
+      "text": "Yeah, that is much shorter."
+    },
+    {
+      "time": "17:22",
+      "speaker": "Participant",
+      "text": "Okay. Now that makes sense. Thanks for clarifying. I was, like, I think I'm doing the right thing, but I'm not. But what else? I noticed it didn't take this out here before. Do you see another way to remove those?"
+    },
+    {
+      "time": "17:48",
+      "speaker": "Interviewer",
+      "text": "I want to know if that's clear."
+    },
+    {
+      "time": "17:48",
+      "speaker": "Participant",
+      "text": "Can I just backspace?"
+    },
+    {
+      "time": "17:48",
+      "speaker": "Interviewer",
+      "text": "No. Okay. So I already know, like, I'm not going to make you wait. If you scroll up."
+    },
+    {
+      "time": "18:14",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "18:14",
+      "speaker": "Interviewer",
+      "text": "Yeah, scroll up to the top of the page. So do you see the gear icon?"
+    },
+    {
+      "time": "18:14",
+      "speaker": "Participant",
+      "text": "Oh, that's, like, flashing at me?"
+    },
+    {
+      "time": "18:14",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "18:14",
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": "18:14",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "18:14",
+      "speaker": "Participant",
+      "text": "Oh, look at that. Okay, yeah, that would be helpful. That probably does it."
+    },
+    {
+      "time": "18:39",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "18:39",
+      "speaker": "Participant",
+      "text": "Look at that. Oh, so, like, when I clicked on this, that gear thing, it's not, like, popping out at me. I should have just listened to it and clicked on it. But, okay."
+    },
+    {
+      "time": "18:39",
+      "speaker": "Interviewer",
+      "text": "Would it be helpful if there were, like, captions? When you highlighted it, using it for the first time, like, click here to make changes or some sort of."
+    },
+    {
+      "time": "19:06",
+      "speaker": "Participant",
+      "text": "Yeah, something like that. Like, I definitely saw, like, it, like, enlarging kind of thing, but I just didn't really put two and two together. That would have been about. But maybe something along the lines of, like, hey, trying to make changes to your header, click here."
+    },
+    {
+      "time": "19:06",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "19:06",
+      "speaker": "Participant",
+      "text": "Something like that."
+    },
+    {
+      "time": "19:06",
+      "speaker": "Interviewer",
+      "text": "Okay. Cool."
+    },
+    {
+      "time": "19:06",
+      "speaker": "Participant",
+      "text": "I do like that, though. What else is here? Just out of curiosity. Huh. Cool. I like it. I'm curious about this picture thing."
+    },
+    {
+      "time": "19:37",
+      "speaker": "Interviewer",
+      "text": "Yeah, that's if you want to add a header photo."
+    },
+    {
+      "time": "19:37",
+      "speaker": "Participant",
+      "text": "Gotcha. Okay. Nope, not crazy about that."
+    },
+    {
+      "time": "19:37",
+      "speaker": "Interviewer",
+      "text": "Do you want me to keep going or do you want me to."
+    },
+    {
+      "time": "19:37",
+      "speaker": "Participant",
+      "text": "Yes."
+    },
+    {
+      "time": "19:37",
+      "speaker": "Interviewer",
+      "text": "So you see all these highlights. On the page, those you can either hover over them for the recommendations or click Fix Resume, and then you'll get a pop-up on the left-hand side."
+    },
+    {
+      "time": "20:03",
+      "speaker": "Participant",
+      "text": "Let's do this. Okay, so keep bullets concise. So when it says that outright, is that like, is that essentially like flagging like exactly that, how it can be like a little better in that space?"
+    },
+    {
+      "time": "20:28",
+      "speaker": "Interviewer",
+      "text": "Yeah, so it thinks it's too long. If you click on it, it'll make them shorter."
+    },
+    {
+      "time": "20:28",
+      "speaker": "Participant",
+      "text": "Remember you work it. Okay, so question. What if I don't like the changes?"
+    },
+    {
+      "time": "20:28",
+      "speaker": "Interviewer",
+      "text": "Then you'll undo. So at the top right-hand side, there's the arrows to undo and redo."
+    },
+    {
+      "time": "20:28",
+      "speaker": "Participant",
+      "text": "Nice. Okay, cool. Very nice. Um, let me just make a closer comparison here. Okay, so I've got to undo. Tiered framework. Okay, let me try this again here."
+    },
+    {
+      "time": "20:55",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "20:55",
+      "speaker": "Participant",
+      "text": "That is better. Okay. I'm curious about these different colors. Wait, was it?"
+    },
+    {
+      "time": "21:23",
+      "speaker": "Interviewer",
+      "text": "Hold on. Let's, um, instead of going through it one by one, you can open up the fixed resume because they'll all be in there. And then there's other suggestions at the bottom. So like the blue ones, for example, are part of that section."
+    },
+    {
+      "time": "21:49",
+      "speaker": "Participant",
+      "text": "Yellow is the section wording and readability."
+    },
+    {
+      "time": "21:49",
+      "speaker": "Interviewer",
+      "text": "Oh, so if I did it this way, it would..."
+    },
+    {
+      "time": "21:49",
+      "speaker": "Participant",
+      "text": "Okay, gotcha."
+    },
+    {
+      "time": "21:49",
+      "speaker": "Interviewer",
+      "text": "Oh wait, maybe it doesn't."
+    },
+    {
+      "time": "21:49",
+      "speaker": "Participant",
+      "text": "So like the blue quantified impact. Okay, I was thinking of something else that... I thought like it would try to group certain things together, which it is, but not the way I was thinking it would do it, I guess."
+    },
+    {
+      "time": "22:15",
+      "speaker": "Interviewer",
+      "text": "I see. Okay, so how about this? I didn't do a very good job. Career progression needs work."
+    },
+    {
+      "time": "22:41",
+      "speaker": "Participant",
+      "text": "Okay, fair."
+    },
+    {
+      "time": "22:41",
+      "speaker": "Interviewer",
+      "text": "Well, if you press the downward arrow, then you'll get more information about, like there is..."
+    },
+    {
+      "time": "22:41",
+      "speaker": "Participant",
+      "text": "Yeah. I'm just looking at the full list first and then taking a look here. Yeah, I see. So it's probably good to be given more clarity. Target ads, constructing a progressive narrative. Yeah, that is pretty cool. Oh, that's cool. Okay, so as you go through this, you can actively be like, okay, good to go. Mark has done, Mark has done. So it doesn't linger or get confusing with everything else. That's kind of cool."
+    },
+    {
+      "time": "23:32",
+      "speaker": "Interviewer",
+      "text": "Right, and their suggestions, do they feel specific to your resume or a little generic?"
+    },
+    {
+      "time": "23:32",
+      "speaker": "Participant",
+      "text": "Nope. No, I think it's plenty like detail. I'm just trying to capture the full list here. So add it. Yeah, that's fine. Section order. I want to see what I'm doing good too. So your resume section order. Okay, good. Email doesn't matter. And dates and links. Okay, these are just other technicality stuff. Skill evidence. We found four gaps between your list of skills and your experience bullets. This is interesting. Moderate evidence gaps. We found four gaps between your list of skills and your, okay. Okay. I see what it means. Yeah, definitely does a good job of really breaking this down. Great. Okay. Leadership signals, what's this one? Like I mentioned before, leadership aspect is a big one for a lot of our vendors providing a source of strategic ownership. Mentions. This is really cool. So I just noticed that it calls out like specific, how do I like phrase this? Like specific, like traditional role, like ownerships or like expectations. Like it says here, senior HBP is typically on functional strategy. So just having that say that as far as like highlighting the scope of like maybe what I'm trying to apply to or what I already am, I think is really helpful. So like even outside the resume, like it brings that kind of that perspective, that context within the same thing. So like it knows like how I want to like really articulate towards like an opportunity or something like that. So that's really cool. Great. People leadership. Oh, this is a really good one too. Budget responsibility. We don't really have much of that. Again, okay, critical gaps. All right. I'm kind of just rambling on."
+    },
+    {
+      "time": "26:12",
+      "speaker": "Interviewer",
+      "text": "Is there anything you want me to focus on right now?"
+    },
+    {
+      "time": "26:12",
+      "speaker": "Participant",
+      "text": "No, that was fine. I wanted you to be able to read through all of this."
+    },
+    {
+      "time": "26:37",
+      "speaker": "Interviewer",
+      "text": "And so you looked at this part. Now we can move on to the check-in tailor and then we'll do rearrange. If you want to take another look at templates, then design and font. But yes, what were you going to say?"
+    },
+    {
+      "time": "26:37",
+      "speaker": "Participant",
+      "text": "No, I was just going to say, so check-in tailor. For the check-in tailor, we do need a job, like copy and paste the role responsibilities."
+    },
+    {
+      "time": "27:03",
+      "speaker": "Interviewer",
+      "text": "So if you want to do like a LinkedIn or Indeed search for a job that's relevant to your experience, you could just copy all the summary and paste it in here."
+    },
+    {
+      "time": "27:03",
+      "speaker": "Participant",
+      "text": "Cool. So paste job description. I don't know if you can see my hands. Cool. All right. Let's try it out. Okay, should I?"
+    },
+    {
+      "time": "27:39",
+      "speaker": "Interviewer",
+      "text": "Yeah, like if you open a new tab, you can go. I don't know if you have LinkedIn you removed it or Google search, whatever avenue you normally use to find jobs."
+    },
+    {
+      "time": "27:39",
+      "speaker": "Participant",
+      "text": "Okay, you do have LinkedIn. Great. Senior. So let's go here. Let's go here instead. Just pick a random one. I have a good inkling like what this is getting at. And that's like super cool. So essentially like if I do find a role and I'm like, this is it. So I'm going to go back and find the job description, which should be here. Okay. Yep. Okay. So really, maybe I just need from here on out. Yes. Wait, can I have just put the link there?"
+    },
+    {
+      "time": "29:00",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "29:00",
+      "speaker": "Participant",
+      "text": "Can I have just put the link there?"
+    },
+    {
+      "time": "29:00",
+      "speaker": "Interviewer",
+      "text": "Those are our previous jobs that people have put in. So it saves your history. There's a job tracker."
+    },
+    {
+      "time": "29:00",
+      "speaker": "Participant",
+      "text": "That's cool too. Well, that's good news. Do you want to tell me if I'm not? Be like, don't do this."
+    },
+    {
+      "time": "29:30",
+      "speaker": "Interviewer",
+      "text": "Yeah. Oh, well, okay. There is a lot going on here. Oh, geez. The dark green ones do it for you. It's automatic. So if you click on it, it'll rewrite it with its own suggestion."
+    },
+    {
+      "time": "30:00",
+      "speaker": "Participant",
+      "text": "You know, my first run-through, it's like a lot, but it's like all like good things where it's like, oh, that would be value-add to look at at some point or another. Like right now, I'm just like trying to absorb it all and like what things mean. You know what I mean? Like if I'm looking at the sidebar, there's just so much. Like, I guess a better question to ask is like, okay, I get to this point. Like, you know, then what? Is it just like going through like everything and just like sifting through it? Like for me, like I would appreciate like more being like, hey, you know, step by step, like this is what we do next kind of thing. Like walk me through it. But it seems like as far as the check and tailor function, this might be it then if I understand correctly."
+    },
+    {
+      "time": "31:46",
+      "speaker": "Interviewer",
+      "text": "Yes. This is everything for tailoring to a specific role."
+    },
+    {
+      "time": "31:46",
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": "31:46",
+      "speaker": "Interviewer",
+      "text": "On this part."
+    },
+    {
+      "time": "31:46",
+      "speaker": "Participant",
+      "text": "Yeah. Gotcha. But a step-by-step guide would be, is what you're looking for. Yeah. You know, maybe something like, like how we did the fix the resume first and then check and tailor, like, is that the recommended way to go? Like, I don't know that unless like, you know, maybe at the way beginning, like it kind of has that, that presentation being like, hey, most people do X, Y, Z, you know, wait when they first, you know, are first time users like myself today. Just something to think about. Because I think that would help too with like not having it feel so like, like overwhelming, maybe a little bit. Granted, we're kind of doing like an expedited version with you and I today, but for the sake of, you know, first timers, like, I think, you know, between getting overwhelmed and like not missing anything, there is so many like cool things that I've never seen before and like, what if that's missed if like they just don't know what to look for kind of thing. That's kind of my take right now. Looking at this definitely has me worried. Because that's a lot of red X's I see. But, you know, nonetheless, that's good feedback to be like, okay, well, you know, I like how it says here to like, if I want to take it out where it's not like a super big deal, I can be like, no, or add it back in. I know stuff here just in passing, it says D plus. Is that just like the overall state of my resume?"
+    },
+    {
+      "time": "33:15",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "33:15",
+      "speaker": "Participant",
+      "text": "Okay. That one's overall and then the 88% score is for the role. Got it. Okay. Didn't I just work on my summary though? Present. Make sure you tailor the summary to focus on the requirements of the role. Oh, so what maybe now that I populated the actual job description, it's offering this way of catering it to what I just uploaded. Let's see. I'm really curious now what that looks like. Oh, okay. Yep. I see now. That's a really critical point. Like when you're, I mean, as you know, like applying for, you know, a job, you don't want to just have it seem like it's some generic resume, like having it with like the, the name of the company and more kind of like, like lingo or, you know, things like that in your actual piece. That's really cool. And it does it for you. I'm trying to, oh, here. I just want to see the full thing. Yeah. Yeah, I definitely expanded it out like a lot more, the summary piece, but that's with like good intention, making sure that like, you know, whoever like recruiter would be looking at it being like, oh, they definitely took the time to not only have a good resume, but like look at the job description and like cater it towards exactly that. So that's really cool. And it's not like overused either. Like, you know, I could see this being like too much of that. And just that first glance, it looks okay. Seeking senior trainees at where my skills do, do, do, do, do, do. Boom. Yeah. It's pretty cool. This is interesting though, like ATS check. Wasn't I above 80% before I did that?"
+    },
+    {
+      "time": "36:00",
+      "speaker": "Interviewer",
+      "text": "Yep."
+    },
+    {
+      "time": "36:00",
+      "speaker": "Participant",
+      "text": "I was wondering why the score dropped."
+    },
+    {
+      "time": "36:00",
+      "speaker": "Interviewer",
+      "text": "Yeah. I wish I would tell you."
+    },
+    {
+      "time": "36:00",
+      "speaker": "Participant",
+      "text": "Yeah, that would actually, that's an interesting suggestion. If your score does drop to let you know why it did."
+    },
+    {
+      "time": "36:00",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "36:00",
+      "speaker": "Participant",
+      "text": "You know what I mean?"
+    },
+    {
+      "time": "36:00",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "36:28",
+      "speaker": "Participant",
+      "text": "So now it's like, now it has me with the scary is being like, well, I thought I was improving, but I'm actually making it worse."
+    },
+    {
+      "time": "36:28",
+      "speaker": "Interviewer",
+      "text": "Yeah. Perception."
+    },
+    {
+      "time": "36:28",
+      "speaker": "Participant",
+      "text": "Yeah. I mean, other than that, like, I don't know. See, like how would I investigate that then? Like being like, oh gosh, like do I just revert it and like improve my ATS score or do I go this route where I know my summary does in fact look a lot better because I catered it to the actual job description. So."
+    },
+    {
+      "time": "36:57",
+      "speaker": "Interviewer",
+      "text": "Can you tell something for me? Click the undo button and I want to see if your score goes back up."
+    },
+    {
+      "time": "36:57",
+      "speaker": "Participant",
+      "text": "You think it will? Let's see. It did."
+    },
+    {
+      "time": "36:57",
+      "speaker": "Interviewer",
+      "text": "Yep."
+    },
+    {
+      "time": "36:57",
+      "speaker": "Participant",
+      "text": "Okay. That's actually a big drop too. So."
+    },
+    {
+      "time": "36:57",
+      "speaker": "Interviewer",
+      "text": "Yeah. Okay. Well, this can be something to note, but if you like on your, with your gut, which summary would you choose the shorter version or the one that was tailored to the role?"
+    },
+    {
+      "time": "37:24",
+      "speaker": "Participant",
+      "text": "I would still do this one."
+    },
+    {
+      "time": "37:24",
+      "speaker": "Interviewer",
+      "text": "You would still do the shorter one."
+    },
+    {
+      "time": "37:24",
+      "speaker": "Participant",
+      "text": "Yeah. Again, less is more. Like I liked how it included like the company name and specifically what I'm applying for, but the higher up you go, the more that doesn't matter. In my experience, like right now it's like very clear, concise, black and white, not a whole lot to it. Whereas before, you know, maybe someone that would be, you know, just out of school or like entry level, like, sure. It's just like, maybe they don't, they don't have the experience to back it up. Like maybe, you know, that way would be more value add, but, oh, you know what, actually that's a really good point to bring up. Like what if it is a case of that? What if, you know, this app, I want to really like, is mindful of like different kinds of like, like seniority or like tenure. It's a good question to ask. I know it's a big piece of like what we look for as far as like, you know, whether it is like seniority or, you know, stuff like that."
+    },
+    {
+      "time": "38:50",
+      "speaker": "Interviewer",
+      "text": "Okay. Well, just to stay on track with time, I think we'll move forward from the ATS check. So we can look at rearrange and then design and font."
+    },
+    {
+      "time": "38:50",
+      "speaker": "Participant",
+      "text": "Okay. Oh, wait, hold on. Drag the boxes to rearrange the sections. I don't know why I'd want to do that, but that's cool. I guess like I don't really have that many sections to begin with and I see these are locked. So I don't really have much option here."
+    },
+    {
+      "time": "39:19",
+      "speaker": "Interviewer",
+      "text": "For this template, the summary is locked. In other templates, it's not. But those other sections you can move. So like some jobs require or ask you for your experience to be put at top."
+    },
+    {
+      "time": "39:47",
+      "speaker": "Participant",
+      "text": "This should be in the beginning, though, don't you think? Or maybe, I don't know."
+    },
+    {
+      "time": "39:47",
+      "speaker": "Interviewer",
+      "text": "So you think it should be higher up in like the order of things to do?"
+    },
+    {
+      "time": "39:47",
+      "speaker": "Participant",
+      "text": "Yes, this seems like an like a Yeah, definitely for sure. Like this right here should be like here first, then fixed resume then check and tailor because now it's like yeah, that seems like kind of funky to me. Right? Like so you do you would do aesthetics first and then the content after because right now it's content first."
+    },
+    {
+      "time": "40:13",
+      "speaker": "Interviewer",
+      "text": "Okay, so just flip flop it."
+    },
+    {
+      "time": "40:13",
+      "speaker": "Participant",
+      "text": "Right? 100% Hey, [name redacted], I'm at like 5% for my computer. I'm gonna run and grab my charger. So sorry. Give me two seconds."
+    },
+    {
+      "time": "40:41",
+      "speaker": "Interviewer",
+      "text": "Sure. No problem."
+    },
+    {
+      "time": "40:41",
+      "speaker": "Participant",
+      "text": "Okay. Okay, so I'm at like 5% for my computer. I'm gonna run and grab my charger. So sorry. Give me two seconds."
+    },
+    {
+      "time": "41:15",
+      "speaker": "Interviewer",
+      "text": "Okay. No problem."
+    },
+    {
+      "time": "41:15",
+      "speaker": "Participant",
+      "text": "Give me two seconds. All right, much better. Thank you."
+    },
+    {
+      "time": "41:42",
+      "speaker": "Interviewer",
+      "text": "So all we have left for this one is checking out design and font and then we can go look at the second tool."
+    },
+    {
+      "time": "41:42",
+      "speaker": "Participant",
+      "text": "Again, though, like this should be towards the front, right? Or no, maybe let me let me take a look here. Maybe I'm getting ahead of myself. Backgrounds, interests. I just want to see. I want to make my screen smaller because I feel like I can't see. There we go. I should have done that a long time ago. Huh. Okay. Interesting. Not that I would still change anything. That's really cool. Yeah, see, at this point, though, as much as I think this is really cool, like, you don't want it like too artsy. I'm tempted, though, because it is really cool."
+    },
+    {
+      "time": "42:57",
+      "speaker": "Interviewer",
+      "text": "Do you think like for other roles, like maybe something"
+    },
+    {
+      "time": "42:57",
+      "speaker": "Participant",
+      "text": "I was just going to say 100% marketing, communications, you know, graphic design, 100%."
+    },
+    {
+      "time": "43:26",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "43:26",
+      "speaker": "Participant",
+      "text": "There's all kinds of fun ones, huh? It's giving like PowerPoint presentation, though. So like, you know, like, you know, like, like, like, like, like, like, like, like, like, like, like, like, like, it's giving like PowerPoint presentation, though. So like, that's what I don't want."
+    },
+    {
+      "time": "43:26",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "43:26",
+      "speaker": "Participant",
+      "text": "It is cool, though. I think it's a really good tool, but needs to be like specific to like, you know, the area of like, you know, where they're actually applying to. So nice. Okay. But I don't really want to change anything. How? Oh, I wish this would like stay there, because like, I didn't know, I didn't remember like, which one I chose without actually hovering over it, then it said. So take that out. Wait, let me go blank. Okay, I see. I see now. That's cool. Nice. Perfect, I think. I think we can leave it at that."
+    },
+    {
+      "time": "44:52",
+      "speaker": "Interviewer",
+      "text": "Okay. Just what did you think about the overall flexibility of the tool?"
+    },
+    {
+      "time": "44:52",
+      "speaker": "Participant",
+      "text": "Would have been 100% better if these were like, well, I think in summary, two things. So having that like, that like first time user, like, helpful guide to like, this is what you should do. Or this is what people have done in the past as far as like, the first thing they check off and things like that. Because like, if I just open the app up, it's just like, bro, you know, all these options. And it's just like, I don't know what to do first. Plus, if I'm following it from left to right, like they are out of order, I think. So like having some things just rearranged a little bit, whereas if I would have like a guide like that, would be helpful too. Maybe that'd be a super easy fix, actually, just moving those over, like the rearrange, for instance, should not be right in the middle, it should be like here for sure. Because from that, then I could be like, okay, what does good look like, fix my resume, check and tailor, you know, if I need to do anything, like artsy, like boom, done. But yeah."
+    },
+    {
+      "time": "46:15",
+      "speaker": "Interviewer",
+      "text": "And what did you like about the experience? Were there any tools that really stood out to you?"
+    },
+    {
+      "time": "46:15",
+      "speaker": "Participant",
+      "text": "Yeah, quite a bit. The fix your resume portion, like, I love the transparency. This tells me that I have a lot of work to do. Although my ATS score, you know, there's some confusion with that. But in the fix my resume thing, it's definitely like, okay, well, you know, we've got work to do. And this is like where we start kind of thing. I wonder, I want to try something super quick. So like, I want to ignore something. So like, what if I find something that's just like, well, that's not relevant? What if I do? What about these bullets? What if I just ignore it? Does that help my score? No. Okay, good to know. Just curious."
+    },
+    {
+      "time": "47:11",
+      "speaker": "Interviewer",
+      "text": "Maybe if you did a bunch of them, but I'm not sure. We can try."
+    },
+    {
+      "time": "47:11",
+      "speaker": "Participant",
+      "text": "No, I guess no. Oh, wait, wait. Okay. Yeah, little by little. Okay. So it still gives you that final stay. Do you think to be like, okay, I don't think that that's relevant at all."
+    },
+    {
+      "time": "47:43",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "47:43",
+      "speaker": "Participant",
+      "text": "Okay. Yeah, you would definitely need a lot of like, time and like commitment to like, really sit down and, you know, go through it. Maybe that's a good transparency thing to bring up at the beginning. Like, you know, along with like, that kind of like, recommended guide being like, hey, like, typically the average person that navigates through this takes 20 minutes, you know, make sure that, you know, because like, something that I would see as like, an issue would be like, they get started and it's just like, whoa, there's so much and I wasn't expecting that. Versus like, if they're mindful of being like, expecting that could take a while because there's so many value add tools in here to really take advantage of, that could present some kind of confusion or barrier as they're getting started. Whereas if they go into it and it says like, you need a half hour, make sure like, you know, you set aside that time, I think would, you know, be helpful too. That would be helpful for me at least. So then whereas like, if I'm in a bind for time and I want to get started on this and I only have 10 minutes but then like, I get into the tool, it says like, hey, you know, judging by your amount of opportunities, it looks like you have about a half hour of fixes. Then it's like, okay, well, that's fine. Let me reschedule kind of like, my schedule of sorts and then I can come back to it when I have that kind of like, dedicated time."
+    },
+    {
+      "time": "49:03",
+      "speaker": "Interviewer",
+      "text": "So, cool. Well, we're going to look at the second platform now because we're actually running short on time. You can just log in immediately. This one's called Kickresume and the email and password [login details redacted]."
+    },
+    {
+      "time": "49:29",
+      "speaker": "Participant",
+      "text": "Got it. Am I going back to the chat?"
+    },
+    {
+      "time": "49:29",
+      "speaker": "Interviewer",
+      "text": "Yes, back to the chat."
+    },
+    {
+      "time": "49:29",
+      "speaker": "Participant",
+      "text": "Okay. So, log in with the same info as before?"
+    },
+    {
+      "time": "49:29",
+      "speaker": "Interviewer",
+      "text": "Yes."
+    },
+    {
+      "time": "50:00",
+      "speaker": "Participant",
+      "text": "Okay. Uh, it's actually the email that says [login details redacted] [name redacted] zero."
+    },
+    {
+      "time": "50:00",
+      "speaker": "Interviewer",
+      "text": "Oh, oops, my bad."
+    },
+    {
+      "time": "50:00",
+      "speaker": "Participant",
+      "text": "No problem."
+    },
+    {
+      "time": "50:30",
+      "speaker": "Interviewer",
+      "text": "Make sure there isn't an extra space after the email."
+    },
+    {
+      "time": "50:30",
+      "speaker": "Participant",
+      "text": "Okay, so here you'll just click resume and then import resume. Okay. Let me try what I did before, okay, give me one sec. Yeah. All right, upload successful. Okay. Where would you like me to start?"
+    },
+    {
+      "time": "52:54",
+      "speaker": "Interviewer",
+      "text": "Just scroll through the templates, pick one that you like, then you'll look at the format layout at the top."
+    },
+    {
+      "time": "53:24",
+      "speaker": "Participant",
+      "text": "Oh, are they the same?"
+    },
+    {
+      "time": "53:24",
+      "speaker": "Interviewer",
+      "text": "No."
+    },
+    {
+      "time": "53:24",
+      "speaker": "Participant",
+      "text": "No. Got it, okay."
+    },
+    {
+      "time": "53:24",
+      "speaker": "Interviewer",
+      "text": "This is a totally different website created by different people."
+    },
+    {
+      "time": "53:24",
+      "speaker": "Participant",
+      "text": "Got it, okay. Oops. Uh, I like this one. Yeah, okay, let's roll with that one for now."
+    },
+    {
+      "time": "53:56",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "53:56",
+      "speaker": "Participant",
+      "text": "Let's do HR with an [company name redacted] like purple. So like each like leadership area is like categorized by color, like safety's blue, operations is red, HR is purple. So like if I, in my mind, want to apply for another HR role, I would do like something purple themed."
+    },
+    {
+      "time": "54:26",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "54:26",
+      "speaker": "Participant",
+      "text": "Okay, so if I'm going with that one."
+    },
+    {
+      "time": "54:26",
+      "speaker": "Interviewer",
+      "text": "You're staying with that one, then you'll do format and layout. So I'm just going to guide you a little bit here because we spent a lot of time on the last one that was on me, but you were into it so I didn't want to rush you."
+    },
+    {
+      "time": "54:26",
+      "speaker": "Participant",
+      "text": "For sure. Okay. I'll try to hurry. So, okay, if I'm looking at the text. Fear of sand, that's a new one. Nope. That's still not better. Okay, I'll just. Okay, that's a little better. Headline capitalization, all caps. Yeah, that's better font size. How did I lose? Yeah. Okay, that's why. Page setup side margins."
+    },
+    {
+      "time": "55:18",
+      "speaker": "Interviewer",
+      "text": "What? What did you lose?"
+    },
+    {
+      "time": "55:18",
+      "speaker": "Participant",
+      "text": "I'm curious how I lost all the formatting here. But I was trying to be like, okay, maybe that's something coming up here that I can fix. I think this is just. I've never seen this before a foreign letter, but that's okay. Typical Western. Gotcha. Okay, I think I'm good here. I'm going to go to layout. Areas of expertise stacked. Oh, I see. Okay. No, I like it like that. Okay, I think that's good for now. It's looking rough."
+    },
+    {
+      "time": "56:26",
+      "speaker": "Interviewer",
+      "text": "Yeah, I'm not sure why you lost the formatting. I haven't seen that happen before, so I wonder if it's a bug. But from what you've seen, how would you compare the template design experience from this one compared to Enhancv?"
+    },
+    {
+      "time": "56:56",
+      "speaker": "Participant",
+      "text": "So I was excited at first for this one because like from the get go, it just seems like more. Like simple and like just like to the point and not like, oh, my gosh, like, look at all these things. But now. Yeah, I'm definitely not liking or like I feel like I've made it substantially worse. But. Yeah, I like the other one a lot better if I had to choose for sure. The only thing I do like about this one is like at first glance, like it's very like. Clear and like there's only these three options up here versus like the other one. It's like this whole slew of them in different orders. But here it's like template format layout."
+    },
+    {
+      "time": "57:54",
+      "speaker": "Interviewer",
+      "text": "Mm hmm."
+    },
+    {
+      "time": "57:54",
+      "speaker": "Participant",
+      "text": "Okay. Yeah. And so after this, we can click improve and then we'll check on the left hand side under design."
+    },
+    {
+      "time": "57:54",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "57:54",
+      "speaker": "Participant",
+      "text": "Yeah. Well, let's start here."
+    },
+    {
+      "time": "57:54",
+      "speaker": "Interviewer",
+      "text": "Yeah, I agree."
+    },
+    {
+      "time": "58:25",
+      "speaker": "Participant",
+      "text": "OK, so really, it's calling out essentially what I've done already. Oh, there we go. OK, but if just out of curiosity, if I want to look. Change. OK, so if I just want to be like, OK, fix it for me, I'll wait. OK, so it just brings you back to like a different template. Try again. OK, well, what if I want to go back? Can I just exit out? OK, good. I want to type some hard to differentiate. All right. I'm going to skip that for now and just kind of keep her moving here. I think my font is fine. Structure strength and hobbies. OK, I am curious why it wouldn't associate my areas of expertise with strength hobbies. I've never seen hobbies on a resume before, so that's OK. And. OK. Okay, I agree with that. That's good. Paragraphs per section. I missed it."
+    },
+    {
+      "time": "60:00",
+      "speaker": "Interviewer",
+      "text": "Okay. Is your original resume a one-pager or more than one page?"
+    },
+    {
+      "time": "60:00",
+      "speaker": "Participant",
+      "text": "Two."
+    },
+    {
+      "time": "60:00",
+      "speaker": "Interviewer",
+      "text": "Two?"
+    },
+    {
+      "time": "60:00",
+      "speaker": "Participant",
+      "text": "Okay. Exactly two. Okay. Oh, what is this? Word choice analysis. Hmm. Okay. I like that. That's a kind of different take on it. Like, this is, like, extreme deep dive if I want it to be, like, really granular. Oh, okay. Yeah. I mean, like, overabundance of words used, that'd be a good tool to, like, check. Okay. Nice. Yeah. Okay. Let's keep moving. Repetitive verbs. Oh, so, like, really exactly what I was just talking about. So, dive, drive, appears, five times, train. Okay. Got it. Okay. I think I'm good for this section."
+    },
+    {
+      "time": "61:30",
+      "speaker": "Interviewer",
+      "text": "And would those be changes you would actually implement, like, going in and rewriting the repetitive words?"
+    },
+    {
+      "time": "61:30",
+      "speaker": "Participant",
+      "text": "Oh, yeah, for sure. I like that aspect of it for sure. I don't think that was in the other app. It's something that, yeah, I would definitely use for sure. You definitely don't want to, like, overusage of, like, a few, like, action words and stuff like that, so."
+    },
+    {
+      "time": "61:57",
+      "speaker": "Interviewer",
+      "text": "Right. Well, if you feel like you got a good sense of this, we can look at proofread and translate."
+    },
+    {
+      "time": "61:57",
+      "speaker": "Participant",
+      "text": "Okay. Oh, this is cool. So, have it, like, actually, oh, this is awesome. I would totally do this."
+    },
+    {
+      "time": "62:32",
+      "speaker": "Interviewer",
+      "text": "And you would do that for the extra charge?"
+    },
+    {
+      "time": "62:32",
+      "speaker": "Participant",
+      "text": "Yes. So, a lot of times, like, you go on LinkedIn. I don't know if you did this when you were in school or earlier on, but, like, I did actively be, like, well, I want someone of, like, you know, similar experience or reputation to, like, look at my resume or look at my LinkedIn or whatever the case. And it's, like, super expensive or, like, just super, like, drawn out, like, $30 and quick turnaround ready in two work days or less. Like, that's, that'd be a game changer. I wish I had that, actually."
+    },
+    {
+      "time": "63:00",
+      "speaker": "Interviewer",
+      "text": "Right. I think my first resume, I paid someone, like, $300 to work on it."
+    },
+    {
+      "time": "63:00",
+      "speaker": "Participant",
+      "text": "Yeah. So, it's, like, oh, my gosh. So, and I never did it because of that. So, but here it's, like, well, if you want to as an option and you'd have it in less than a week, you know, you could do it."
+    },
+    {
+      "time": "63:26",
+      "speaker": "Interviewer",
+      "text": "Cool. And there's also a translate option below that."
+    },
+    {
+      "time": "63:26",
+      "speaker": "Participant",
+      "text": "Oh, yeah. I just want to see."
+    },
+    {
+      "time": "63:53",
+      "speaker": "Interviewer",
+      "text": "I mean, if you work primarily in the U.S., then it's not necessary, but."
+    },
+    {
+      "time": "63:53",
+      "speaker": "Participant",
+      "text": "Yeah. Well, maybe I do speak Spanish, maybe."
+    },
+    {
+      "time": "63:53",
+      "speaker": "Interviewer",
+      "text": "Okay."
+    },
+    {
+      "time": "63:53",
+      "speaker": "Participant",
+      "text": "Yeah, I don't know. Maybe I'd want to impress my recruiter if I'm applying for a role that requires me. Here's my resume in Spanish. Definitely. Oh, my gosh, I'm scared. What did I do? Okay. Yeah. That is pretty cool. Would I ever use it? No. But it's cool that it's there kind of thing."
+    },
+    {
+      "time": "64:23",
+      "speaker": "Interviewer",
+      "text": "Right. And here you can add more sections if needed."
+    },
+    {
+      "time": "64:23",
+      "speaker": "Participant",
+      "text": "Yeah. All right. Did you want me to wrap it up for this one so I can tell you my thoughts?"
+    },
+    {
+      "time": "64:23",
+      "speaker": "Interviewer",
+      "text": "We have done everything. So, yes, if you want to share your, like, initial opinions and then I'll ask some questions."
+    },
+    {
+      "time": "64:49",
+      "speaker": "Participant",
+      "text": "Okay. This definitely did recover a little bit as, like, we did this last part here for, like, those little extra things. But I'm still hung up on, like, when I uploaded it, like, it looks super bad. And I still don't know how to correct it in the thing."
+    },
+    {
+      "time": "65:15",
+      "speaker": "Interviewer",
+      "text": "For that, we probably have to start over."
+    },
+    {
+      "time": "65:15",
+      "speaker": "Participant",
+      "text": "I'm thinking so, too. You don't think it's because it's a PDF? Like, would Word have been better?"
+    },
+    {
+      "time": "65:15",
+      "speaker": "Interviewer",
+      "text": "I tested this a bunch, and for importing it says only import PDF."
+    },
+    {
+      "time": "65:15",
+      "speaker": "Participant",
+      "text": "Okay."
+    },
+    {
+      "time": "65:15",
+      "speaker": "Interviewer",
+      "text": "And this hasn't happened yet with anyone else, so I'm kind of curious why. But it could be, like, I don't know, a bug that's come up."
+    },
+    {
+      "time": "65:42",
+      "speaker": "Participant",
+      "text": "But it's something for me to note."
+    },
+    {
+      "time": "65:42",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "65:42",
+      "speaker": "Participant",
+      "text": "Okay. Yeah, but other than that, like, let's pretend for a sec. Let's pretend that worked. I would definitely be on, like, the kind of the leaning of, like, this app instead just because of, like, the organization of it, the simplicity. It doesn't give me, like, 100 different, like, data points to look at. It focuses on, like, you know, what matters most to me, at least. Like, whether it is, like, the redundancy in, like, words or, you know, having someone look at it that's an actual, like, you know, professional, like, you know, in a similar, like, industry, things like that."
+    },
+    {
+      "time": "66:08",
+      "speaker": "Interviewer",
+      "text": "Very cool. Yeah, I remember you mentioned in the first one you felt a bit overwhelmed. You didn't do that here."
+    },
+    {
+      "time": "66:35",
+      "speaker": "Participant",
+      "text": "Nope."
+    },
+    {
+      "time": "66:35",
+      "speaker": "Interviewer",
+      "text": "Okay. Did either of the tools make you rethink how you tell your professional story?"
+    },
+    {
+      "time": "66:35",
+      "speaker": "Participant",
+      "text": "My professional story? I don't think so."
+    },
+    {
+      "time": "66:35",
+      "speaker": "Interviewer",
+      "text": "That's fair."
+    },
+    {
+      "time": "66:35",
+      "speaker": "Participant",
+      "text": "Yeah. Well, maybe I should. I mean, that one app gave me a D+. I'm like, hey, like, be better kind of thing pretty much. So it makes you think twice for sure. So that's, like, another thing I liked about the other app is, like, the transparency being, like, instead of, like, not telling you or, like, maybe, like, sugarcoating something. It's just, like, hey, like, you know, this is failing great, like, and you should be mindful that whereas I don't think this one really tells you anywhere being, like, hey, this is, like, critical, like, let's fix this and this is where, you know, it could be kind of thing."
+    },
+    {
+      "time": "67:38",
+      "speaker": "Interviewer",
+      "text": "So that's a good point to bring up, actually. I like that, the transparency piece. Okay. And if you were right now applying to multiple jobs, which would you trust more to tailor your resume and create multiple strong versions?"
+    },
+    {
+      "time": "68:08",
+      "speaker": "Participant",
+      "text": "I'm still hung up on, like, the glitch where, like, the formatting, but, like, pretending that the formatting worked, it would be this one."
+    },
+    {
+      "time": "68:08",
+      "speaker": "Interviewer",
+      "text": "This one?"
+    },
+    {
+      "time": "68:08",
+      "speaker": "Participant",
+      "text": "Yeah."
+    },
+    {
+      "time": "68:08",
+      "speaker": "Interviewer",
+      "text": "And why else? Why do you think that this one would help you tailor more?"
+    },
+    {
+      "time": "68:08",
+      "speaker": "Participant",
+      "text": "Yeah, I think just from, like, what do you call that? Like a time stipulation like this, I think would definitely be of, like, an expedited, like, do everything in your control first. And then if I wanted to hand it off to one of those professionals in two days' time, get it back right away, boom, done kind of thing, you know, I think would definitely be kind of, like, my vote of confidence there for sure."
+    },
+    {
+      "time": "68:43",
+      "speaker": "Interviewer",
+      "text": "Okay. And if you worked on these resumes and, let's say, you submitted to an application and it passed through the ATS and now a hiring manager is looking at it, which do you think is more likely to produce a resume that would impress them?"
+    },
+    {
+      "time": "69:12",
+      "speaker": "Participant",
+      "text": "Oh, this one for sure. Just having that, like, that human element, like, if I were to take advantage of, like, the $30 for someone to, like, take a look at it that's, like, an expert. Yeah, I would definitely, like, go that route."
+    },
+    {
+      "time": "69:12",
+      "speaker": "Interviewer",
+      "text": "Okay. Would you be willing to pay for access to either of these or both of them? And if you say both, I don't mean, like, at the same time."
+    },
+    {
+      "time": "69:41",
+      "speaker": "Participant",
+      "text": "No, no, I get it. I don't think so. Unless it, like, it gains traction and, like, you know, people have that experience and they tell, like, you know, their story."
+    },
+    {
+      "time": "69:41",
+      "speaker": "Interviewer",
+      "text": "Yeah."
+    },
+    {
+      "time": "69:41",
+      "speaker": "Participant",
+      "text": "And like, you know, just starting now as like, you know, this app of like you know, something that's very new, I'd definitely be hesitant. Like I'm one like that like looks at reviews and like that kind of like sentiment without that. Like I would definitely be very hesitant kind of thing. Like if we're talking like, you know, anything like less than $50, I think would be like really reasonable. Anything more than that, you know would be different and plus two, like it'd be temporary, right? It's not like always I'm looking for a new job or like to like like fix my resume. So I think as far as the actual package presented, um, you know, would be kind of interesting to see as far as what those options look like. But, um, again, though, as you said, like, you know, upwards of like $300 sometimes for like, you know, even after the fact of you doing the resume by yourself to have someone else look at it, um, you know, it's still kind of like a, I'd be like a big thing. But now it's like, well, if I can do most of it myself and present it in a way to these other, you know, professionals on here, you know, that could really save not only money, but a lot of time too."
+    },
+    {
+      "time": "71:26",
+      "speaker": "Interviewer",
+      "text": "So just cause you threw some numbers out there. I want to clarify for like a month subscription. It's like 22 bucks."
+    },
+    {
+      "time": "71:26",
+      "speaker": "Participant",
+      "text": "Oh, then yeah, it's a no brainer."
+    },
+    {
+      "time": "71:26",
+      "speaker": "Interviewer",
+      "text": "So like the complete package then hypothetically would be $50 if well, 52, if I were to do like the, the professional as well, the professional, yeah, professional review. So, um, so with that said, would that be something value add?"
+    },
+    {
+      "time": "71:51",
+      "speaker": "Participant",
+      "text": "Um, yeah, I mean to put it in like a scenario, right? Like if I, you know, whether it's like being laid off or it's like a 911 being like, I need a new job. You know, what are you going to do to like, you know, I guess be safe about it. And like if I were to pay $52 for something that would really have a high impact that way. Yeah, definitely."
+    },
+    {
+      "time": "72:19",
+      "speaker": "Interviewer",
+      "text": "Um, so, okay, thank you. I mean, those are all the questions. I know we went over the hour, so I appreciate you bearing with me, but that is all. And I appreciate your feedback."
+    },
+    {
+      "time": "72:19",
+      "speaker": "Participant",
+      "text": "Cool. Well, thank you so much for having me today and appreciate you being flexible."
+    },
+    {
+      "time": "72:19",
+      "speaker": "Interviewer",
+      "text": "Yes, thank you. And good luck on your tournament later."
+    },
+    {
+      "time": "72:19",
+      "speaker": "Participant",
+      "text": "Thanks. It's like, I'm looking at the temperature right now and like it's been super hot and muggy in [location redacted] past three days with all like the weird weather we've been having. And so it's going to be a hot one."
+    },
+    {
+      "time": "72:46",
+      "speaker": "Interviewer",
+      "text": "Bring some water."
+    },
+    {
+      "time": "72:46",
+      "speaker": "Participant",
+      "text": "Yeah, for sure."
+    },
+    {
+      "time": "72:46",
+      "speaker": "Interviewer",
+      "text": "All right. Bye."
+    },
+    {
+      "time": "72:46",
+      "speaker": "Participant",
+      "text": "Take care."
+    }
+  ]
+}

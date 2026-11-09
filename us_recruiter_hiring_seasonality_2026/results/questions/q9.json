@@ -1,0 +1,1138 @@
+{
+  "survey": "us_recruiter_hiring_seasonality_2026",
+  "id": "Q9",
+  "question_prompt": "Which groups do you notice more of at specific times of year?",
+  "type": "multi",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Recent graduates in late spring and summer",
+        "count": 193,
+        "pct": 38.6,
+        "weighted_pct": 39.6
+      },
+      {
+        "answer": "Career changers in January",
+        "count": 111,
+        "pct": 22.2,
+        "weighted_pct": 25.2
+      },
+      {
+        "answer": "Seasonal or temporary workers before the holidays",
+        "count": 154,
+        "pct": 30.8,
+        "weighted_pct": 30.4
+      },
+      {
+        "answer": "People returning to work in September",
+        "count": 128,
+        "pct": 25.6,
+        "weighted_pct": 27.9
+      },
+      {
+        "answer": "Passive candidates after bonus season",
+        "count": 64,
+        "pct": 12.8,
+        "weighted_pct": 14.7
+      },
+      {
+        "answer": "No noticeable pattern",
+        "count": 86,
+        "pct": 17.2,
+        "weighted_pct": 15.8
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 390
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 145,
+            "pct": 37.2,
+            "weighted_pct": 37.3
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 79,
+            "pct": 20.3,
+            "weighted_pct": 24.9
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 124,
+            "pct": 31.8,
+            "weighted_pct": 31.4
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 95,
+            "pct": 24.4,
+            "weighted_pct": 27.4
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 45,
+            "pct": 11.5,
+            "weighted_pct": 15.2
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 74,
+            "pct": 19,
+            "weighted_pct": 18.2
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 110
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 48,
+            "pct": 43.6,
+            "weighted_pct": 41.9
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 32,
+            "pct": 29.1,
+            "weighted_pct": 25.5
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 30,
+            "pct": 27.3,
+            "weighted_pct": 29.4
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 33,
+            "pct": 30,
+            "weighted_pct": 28.5
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 19,
+            "pct": 17.3,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 12,
+            "pct": 10.9,
+            "weighted_pct": 13.3
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 30
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 11,
+            "pct": 36.7,
+            "weighted_pct": 35.4
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 10,
+            "pct": 33.3,
+            "weighted_pct": 33.5
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 10,
+            "pct": 33.3,
+            "weighted_pct": 40.4
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 13,
+            "pct": 43.3,
+            "weighted_pct": 32.2
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 4,
+            "pct": 13.3,
+            "weighted_pct": 22
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 4,
+            "pct": 13.3,
+            "weighted_pct": 14.6
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 130
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 49,
+            "pct": 37.7,
+            "weighted_pct": 39.6
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 32,
+            "pct": 24.6,
+            "weighted_pct": 28.9
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 50,
+            "pct": 38.5,
+            "weighted_pct": 36.6
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 42,
+            "pct": 32.3,
+            "weighted_pct": 30.2
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 16,
+            "pct": 12.3,
+            "weighted_pct": 13.7
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 13,
+            "pct": 10,
+            "weighted_pct": 8.1
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 140
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 55,
+            "pct": 39.3,
+            "weighted_pct": 42.2
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 31,
+            "pct": 22.1,
+            "weighted_pct": 28.5
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 40,
+            "pct": 28.6,
+            "weighted_pct": 24.2
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 26,
+            "pct": 18.6,
+            "weighted_pct": 25.5
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 22,
+            "pct": 15.7,
+            "weighted_pct": 19
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 28,
+            "pct": 20,
+            "weighted_pct": 16.3
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 130
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 50,
+            "pct": 38.5,
+            "weighted_pct": 38.8
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 24,
+            "pct": 18.5,
+            "weighted_pct": 21.7
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 36,
+            "pct": 27.7,
+            "weighted_pct": 25.3
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 27,
+            "pct": 20.8,
+            "weighted_pct": 21.6
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 16,
+            "pct": 12.3,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 24,
+            "pct": 18.5,
+            "weighted_pct": 17
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 70
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 28,
+            "pct": 40,
+            "weighted_pct": 41
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 14,
+            "pct": 20,
+            "weighted_pct": 14.6
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 18,
+            "pct": 25.7,
+            "weighted_pct": 26.7
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 20,
+            "pct": 28.6,
+            "weighted_pct": 30.6
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 6,
+            "pct": 8.6,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 17,
+            "pct": 24.3,
+            "weighted_pct": 23.3
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 85
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 30,
+            "pct": 35.3,
+            "weighted_pct": 42.4
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 22,
+            "pct": 25.9,
+            "weighted_pct": 27.6
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 17,
+            "pct": 20,
+            "weighted_pct": 18.3
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 19,
+            "pct": 22.4,
+            "weighted_pct": 26.6
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 8,
+            "pct": 9.4,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 18,
+            "pct": 21.2,
+            "weighted_pct": 12.2
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 51
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 26,
+            "pct": 51,
+            "weighted_pct": 48.2
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 8,
+            "pct": 15.7,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 14,
+            "pct": 27.5,
+            "weighted_pct": 22.6
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 13,
+            "pct": 25.5,
+            "weighted_pct": 35.7
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 5,
+            "pct": 9.8,
+            "weighted_pct": 11.6
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 6,
+            "pct": 11.8,
+            "weighted_pct": 8.6
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 10,
+            "pct": 43.5,
+            "weighted_pct": 51.6
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 6,
+            "pct": 26.1,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 4,
+            "pct": 17.4,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 16.8
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 6.4
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 6,
+            "pct": 26.1,
+            "weighted_pct": 15.9
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 187
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 77,
+            "pct": 41.2,
+            "weighted_pct": 39.8
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 42,
+            "pct": 22.5,
+            "weighted_pct": 23.9
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 64,
+            "pct": 34.2,
+            "weighted_pct": 33.1
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 56,
+            "pct": 29.9,
+            "weighted_pct": 27.4
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 32,
+            "pct": 17.1,
+            "weighted_pct": 23.1
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 31,
+            "pct": 16.6,
+            "weighted_pct": 20.1
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 10
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 4,
+            "pct": 40,
+            "weighted_pct": 38
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 5,
+            "pct": 50,
+            "weighted_pct": 57
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 3,
+            "pct": 30,
+            "weighted_pct": 43.9
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 3,
+            "pct": 30,
+            "weighted_pct": 48.2
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 2,
+            "pct": 20,
+            "weighted_pct": 12.2
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 2,
+            "pct": 20,
+            "weighted_pct": 16.8
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 46,
+            "pct": 31.9,
+            "weighted_pct": 32.8
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 28,
+            "pct": 19.4,
+            "weighted_pct": 25.4
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 52,
+            "pct": 36.1,
+            "weighted_pct": 38.7
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 35,
+            "pct": 24.3,
+            "weighted_pct": 27.6
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 16,
+            "pct": 11.1,
+            "weighted_pct": 9.1
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 23,
+            "pct": 16,
+            "weighted_pct": 14.3
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 69
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 23,
+            "pct": 33.3,
+            "weighted_pct": 38.1
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 10,
+            "pct": 14.5,
+            "weighted_pct": 23.6
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 25,
+            "pct": 36.2,
+            "weighted_pct": 27.8
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 25,
+            "pct": 36.2,
+            "weighted_pct": 48.9
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 8,
+            "pct": 11.6,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 13,
+            "pct": 18.8,
+            "weighted_pct": 16.2
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 170
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 79,
+            "pct": 46.5,
+            "weighted_pct": 44.9
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 33,
+            "pct": 19.4,
+            "weighted_pct": 20.7
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 49,
+            "pct": 28.8,
+            "weighted_pct": 27.4
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 46,
+            "pct": 27.1,
+            "weighted_pct": 27.2
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 20,
+            "pct": 11.8,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 29,
+            "pct": 17.1,
+            "weighted_pct": 16.8
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 90
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 27,
+            "pct": 30,
+            "weighted_pct": 31.6
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 19,
+            "pct": 21.1,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 27,
+            "pct": 30,
+            "weighted_pct": 23.8
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 15,
+            "pct": 16.7,
+            "weighted_pct": 16.1
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 10,
+            "pct": 11.1,
+            "weighted_pct": 17.2
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 17,
+            "pct": 18.9,
+            "weighted_pct": 19.8
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 12
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 4,
+            "pct": 33.3,
+            "weighted_pct": 25.2
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 1,
+            "pct": 8.3,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 7,
+            "pct": 58.3,
+            "weighted_pct": 68.5
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 2,
+            "pct": 16.7,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 1,
+            "pct": 8.3,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 3,
+            "pct": 25,
+            "weighted_pct": 18.9
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 9
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 5
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 77
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 20,
+            "pct": 26,
+            "weighted_pct": 34
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 20,
+            "pct": 26,
+            "weighted_pct": 32.3
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 25,
+            "pct": 32.5,
+            "weighted_pct": 42
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 18,
+            "pct": 23.4,
+            "weighted_pct": 25.4
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 13,
+            "pct": 16.9,
+            "weighted_pct": 19.2
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 12,
+            "pct": 15.6,
+            "weighted_pct": 10.6
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 55
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 31,
+            "pct": 56.4,
+            "weighted_pct": 49.6
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 19,
+            "pct": 34.5,
+            "weighted_pct": 37.5
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 14,
+            "pct": 25.5,
+            "weighted_pct": 24.3
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 16,
+            "pct": 29.1,
+            "weighted_pct": 32.4
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 8,
+            "pct": 14.5,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 7,
+            "pct": 12.7,
+            "weighted_pct": 9.2
+          }
+        ]
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 12
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 5,
+            "pct": 41.7,
+            "weighted_pct": 67.6
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 4,
+            "pct": 33.3,
+            "weighted_pct": 24.4
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 5,
+            "pct": 41.7,
+            "weighted_pct": 67.6
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 3,
+            "pct": 25,
+            "weighted_pct": 42.3
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 2,
+            "pct": 16.7,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 2,
+            "pct": 16.7,
+            "weighted_pct": 13.7
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 100
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 42,
+            "pct": 42,
+            "weighted_pct": 40.9
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 23,
+            "pct": 23,
+            "weighted_pct": 19.8
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 27,
+            "pct": 27,
+            "weighted_pct": 24.2
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 22,
+            "pct": 22,
+            "weighted_pct": 15.9
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 22,
+            "pct": 22,
+            "weighted_pct": 23.8
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 18,
+            "pct": 18,
+            "weighted_pct": 23.6
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 99
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 43,
+            "pct": 43.4,
+            "weighted_pct": 44.8
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 16,
+            "pct": 16.2,
+            "weighted_pct": 29.1
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 33,
+            "pct": 33.3,
+            "weighted_pct": 38.6
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 31,
+            "pct": 31.3,
+            "weighted_pct": 36.9
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 5,
+            "pct": 5.1,
+            "weighted_pct": 12.4
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 15,
+            "pct": 15.2,
+            "weighted_pct": 9.6
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 217
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 73,
+            "pct": 33.6,
+            "weighted_pct": 36
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 49,
+            "pct": 22.6,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 74,
+            "pct": 34.1,
+            "weighted_pct": 32.6
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 50,
+            "pct": 23,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 23,
+            "pct": 10.6,
+            "weighted_pct": 11.6
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 39,
+            "pct": 18,
+            "weighted_pct": 16.7
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 84
+        },
+        "cells": [
+          {
+            "answer": "Recent graduates in late spring and summer",
+            "count": 35,
+            "pct": 41.7,
+            "weighted_pct": 40.2
+          },
+          {
+            "answer": "Career changers in January",
+            "count": 23,
+            "pct": 27.4,
+            "weighted_pct": 27.9
+          },
+          {
+            "answer": "Seasonal or temporary workers before the holidays",
+            "count": 20,
+            "pct": 23.8,
+            "weighted_pct": 20.8
+          },
+          {
+            "answer": "People returning to work in September",
+            "count": 25,
+            "pct": 29.8,
+            "weighted_pct": 39.8
+          },
+          {
+            "answer": "Passive candidates after bonus season",
+            "count": 14,
+            "pct": 16.7,
+            "weighted_pct": 16.2
+          },
+          {
+            "answer": "No noticeable pattern",
+            "count": 14,
+            "pct": 16.7,
+            "weighted_pct": 14
+          }
+        ]
+      }
+    ]
+  }
+}

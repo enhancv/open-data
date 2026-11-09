@@ -1,0 +1,661 @@
+{
+  "survey": "us_ghost_jobs_2026",
+  "id": "Q2",
+  "question_prompt": "How many years of experience do you have?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 1005
+    },
+    "cells": [
+      {
+        "answer": "8+ years",
+        "count": 363,
+        "pct": 36.1
+      },
+      {
+        "answer": "3–4 years",
+        "count": 182,
+        "pct": 18.1
+      },
+      {
+        "answer": "1–2 years",
+        "count": 166,
+        "pct": 16.5
+      },
+      {
+        "answer": "No professional experience",
+        "count": 125,
+        "pct": 12.4
+      },
+      {
+        "answer": "Less than 1 year",
+        "count": 89,
+        "pct": 8.9
+      },
+      {
+        "answer": "5–7 years",
+        "count": 80,
+        "pct": 8
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 679
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 243,
+            "pct": 35.8
+          },
+          {
+            "answer": "3–4 years",
+            "count": 126,
+            "pct": 18.6
+          },
+          {
+            "answer": "1–2 years",
+            "count": 106,
+            "pct": 15.6
+          },
+          {
+            "answer": "No professional experience",
+            "count": 91,
+            "pct": 13.4
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 61,
+            "pct": 9
+          },
+          {
+            "answer": "5–7 years",
+            "count": 52,
+            "pct": 7.7
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 314
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 111,
+            "pct": 35.4
+          },
+          {
+            "answer": "3–4 years",
+            "count": 56,
+            "pct": 17.8
+          },
+          {
+            "answer": "1–2 years",
+            "count": 58,
+            "pct": 18.5
+          },
+          {
+            "answer": "No professional experience",
+            "count": 34,
+            "pct": 10.8
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 28,
+            "pct": 8.9
+          },
+          {
+            "answer": "5–7 years",
+            "count": 27,
+            "pct": 8.6
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–29",
+        "base": {
+          "n": 304
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 11,
+            "pct": 3.6
+          },
+          {
+            "answer": "3–4 years",
+            "count": 80,
+            "pct": 26.3
+          },
+          {
+            "answer": "1–2 years",
+            "count": 91,
+            "pct": 29.9
+          },
+          {
+            "answer": "No professional experience",
+            "count": 48,
+            "pct": 15.8
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 52,
+            "pct": 17.1
+          },
+          {
+            "answer": "5–7 years",
+            "count": 22,
+            "pct": 7.2
+          }
+        ]
+      },
+      {
+        "group": "30–44",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 89,
+            "pct": 33.2
+          },
+          {
+            "answer": "3–4 years",
+            "count": 64,
+            "pct": 23.9
+          },
+          {
+            "answer": "1–2 years",
+            "count": 43,
+            "pct": 16
+          },
+          {
+            "answer": "No professional experience",
+            "count": 28,
+            "pct": 10.4
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 19,
+            "pct": 7.1
+          },
+          {
+            "answer": "5–7 years",
+            "count": 25,
+            "pct": 9.3
+          }
+        ]
+      },
+      {
+        "group": "45–60",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 220,
+            "pct": 58.7
+          },
+          {
+            "answer": "3–4 years",
+            "count": 37,
+            "pct": 9.9
+          },
+          {
+            "answer": "1–2 years",
+            "count": 28,
+            "pct": 7.5
+          },
+          {
+            "answer": "No professional experience",
+            "count": 45,
+            "pct": 12
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 15,
+            "pct": 4
+          },
+          {
+            "answer": "5–7 years",
+            "count": 30,
+            "pct": 8
+          }
+        ]
+      },
+      {
+        "group": "60+",
+        "base": {
+          "n": 46
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 34,
+            "pct": 73.9
+          },
+          {
+            "answer": "3–4 years",
+            "count": 1,
+            "pct": 2.2
+          },
+          {
+            "answer": "1–2 years",
+            "count": 2,
+            "pct": 4.3
+          },
+          {
+            "answer": "No professional experience",
+            "count": 4,
+            "pct": 8.7
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 3,
+            "pct": 6.5
+          },
+          {
+            "answer": "5–7 years",
+            "count": 2,
+            "pct": 4.3
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 66
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 38,
+            "pct": 57.6
+          },
+          {
+            "answer": "3–4 years",
+            "count": 8,
+            "pct": 12.1
+          },
+          {
+            "answer": "1–2 years",
+            "count": 5,
+            "pct": 7.6
+          },
+          {
+            "answer": "No professional experience",
+            "count": 4,
+            "pct": 6.1
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 3,
+            "pct": 4.5
+          },
+          {
+            "answer": "5–7 years",
+            "count": 8,
+            "pct": 12.1
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 13,
+            "pct": 56.5
+          },
+          {
+            "answer": "3–4 years",
+            "count": 4,
+            "pct": 17.4
+          },
+          {
+            "answer": "1–2 years",
+            "count": 2,
+            "pct": 8.7
+          },
+          {
+            "answer": "No professional experience",
+            "count": 2,
+            "pct": 8.7
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "5–7 years",
+            "count": 2,
+            "pct": 8.7
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 19
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 12,
+            "pct": 63.2
+          },
+          {
+            "answer": "3–4 years",
+            "count": 2,
+            "pct": 10.5
+          },
+          {
+            "answer": "1–2 years",
+            "count": 1,
+            "pct": 5.3
+          },
+          {
+            "answer": "No professional experience",
+            "count": 1,
+            "pct": 5.3
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 3,
+            "pct": 15.8
+          },
+          {
+            "answer": "5–7 years",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 228
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 89,
+            "pct": 39
+          },
+          {
+            "answer": "3–4 years",
+            "count": 37,
+            "pct": 16.2
+          },
+          {
+            "answer": "1–2 years",
+            "count": 46,
+            "pct": 20.2
+          },
+          {
+            "answer": "No professional experience",
+            "count": 14,
+            "pct": 6.1
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 21,
+            "pct": 9.2
+          },
+          {
+            "answer": "5–7 years",
+            "count": 21,
+            "pct": 9.2
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 86
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 26,
+            "pct": 30.2
+          },
+          {
+            "answer": "3–4 years",
+            "count": 16,
+            "pct": 18.6
+          },
+          {
+            "answer": "1–2 years",
+            "count": 14,
+            "pct": 16.3
+          },
+          {
+            "answer": "No professional experience",
+            "count": 16,
+            "pct": 18.6
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 10,
+            "pct": 11.6
+          },
+          {
+            "answer": "5–7 years",
+            "count": 4,
+            "pct": 4.7
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 571
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 176,
+            "pct": 30.8
+          },
+          {
+            "answer": "3–4 years",
+            "count": 115,
+            "pct": 20.1
+          },
+          {
+            "answer": "1–2 years",
+            "count": 96,
+            "pct": 16.8
+          },
+          {
+            "answer": "No professional experience",
+            "count": 88,
+            "pct": 15.4
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 52,
+            "pct": 9.1
+          },
+          {
+            "answer": "5–7 years",
+            "count": 44,
+            "pct": 7.7
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 194
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 72,
+            "pct": 37.1
+          },
+          {
+            "answer": "3–4 years",
+            "count": 31,
+            "pct": 16
+          },
+          {
+            "answer": "1–2 years",
+            "count": 30,
+            "pct": 15.5
+          },
+          {
+            "answer": "No professional experience",
+            "count": 24,
+            "pct": 12.4
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 21,
+            "pct": 10.8
+          },
+          {
+            "answer": "5–7 years",
+            "count": 16,
+            "pct": 8.2
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 190
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 75,
+            "pct": 39.5
+          },
+          {
+            "answer": "3–4 years",
+            "count": 33,
+            "pct": 17.4
+          },
+          {
+            "answer": "1–2 years",
+            "count": 35,
+            "pct": 18.4
+          },
+          {
+            "answer": "No professional experience",
+            "count": 16,
+            "pct": 8.4
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 12,
+            "pct": 6.3
+          },
+          {
+            "answer": "5–7 years",
+            "count": 19,
+            "pct": 10
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 342
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 110,
+            "pct": 32.2
+          },
+          {
+            "answer": "3–4 years",
+            "count": 63,
+            "pct": 18.4
+          },
+          {
+            "answer": "1–2 years",
+            "count": 58,
+            "pct": 17
+          },
+          {
+            "answer": "No professional experience",
+            "count": 52,
+            "pct": 15.2
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 37,
+            "pct": 10.8
+          },
+          {
+            "answer": "5–7 years",
+            "count": 22,
+            "pct": 6.4
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 251
+        },
+        "cells": [
+          {
+            "answer": "8+ years",
+            "count": 94,
+            "pct": 37.5
+          },
+          {
+            "answer": "3–4 years",
+            "count": 52,
+            "pct": 20.7
+          },
+          {
+            "answer": "1–2 years",
+            "count": 37,
+            "pct": 14.7
+          },
+          {
+            "answer": "No professional experience",
+            "count": 33,
+            "pct": 13.1
+          },
+          {
+            "answer": "Less than 1 year",
+            "count": 16,
+            "pct": 6.4
+          },
+          {
+            "answer": "5–7 years",
+            "count": 19,
+            "pct": 7.6
+          }
+        ]
+      }
+    ]
+  }
+}

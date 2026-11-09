@@ -1,0 +1,662 @@
+{
+  "survey": "us_ghost_jobs_2026",
+  "id": "Q5",
+  "question_prompt": "Did you incur any of the following out-of-pocket costs while pursuing a role you now suspect was a \"ghost job\"? (Select all that apply)",
+  "type": "single",
+  "note": "The export holds one answer per respondent for this question.",
+  "overall": {
+    "base": {
+      "n": 993
+    },
+    "cells": [
+      {
+        "answer": "None of the above",
+        "count": 542,
+        "pct": 54.6
+      },
+      {
+        "answer": "Travel/Gas for interviews",
+        "count": 179,
+        "pct": 18
+      },
+      {
+        "answer": "Paid \"test\" assignments or certifications",
+        "count": 99,
+        "pct": 10
+      },
+      {
+        "answer": "Childcare or eldercare",
+        "count": 81,
+        "pct": 8.2
+      },
+      {
+        "answer": "Premium job board subscriptions",
+        "count": 77,
+        "pct": 7.8
+      },
+      {
+        "answer": "Other (please specify)",
+        "count": 15,
+        "pct": 1.5
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 679
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 394,
+            "pct": 58
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 115,
+            "pct": 16.9
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 62,
+            "pct": 9.1
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 56,
+            "pct": 8.2
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 43,
+            "pct": 6.3
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 9,
+            "pct": 1.3
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 314
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 148,
+            "pct": 47.1
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 64,
+            "pct": 20.4
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 37,
+            "pct": 11.8
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 25,
+            "pct": 8
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 34,
+            "pct": 10.8
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 6,
+            "pct": 1.9
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–29",
+        "base": {
+          "n": 304
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 150,
+            "pct": 49.3
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 50,
+            "pct": 16.4
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 48,
+            "pct": 15.8
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 33,
+            "pct": 10.9
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 20,
+            "pct": 6.6
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 3,
+            "pct": 1
+          }
+        ]
+      },
+      {
+        "group": "30–44",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 139,
+            "pct": 51.9
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 49,
+            "pct": 18.3
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 34,
+            "pct": 12.7
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 23,
+            "pct": 8.6
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 19,
+            "pct": 7.1
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 4,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "group": "45–60",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 225,
+            "pct": 60
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 70,
+            "pct": 18.7
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 14,
+            "pct": 3.7
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 24,
+            "pct": 6.4
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 35,
+            "pct": 9.3
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 7,
+            "pct": 1.9
+          }
+        ]
+      },
+      {
+        "group": "60+",
+        "base": {
+          "n": 46
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 28,
+            "pct": 60.9
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 10,
+            "pct": 21.7
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 3,
+            "pct": 6.5
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 1,
+            "pct": 2.2
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 3,
+            "pct": 6.5
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 1,
+            "pct": 2.2
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 66
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 31,
+            "pct": 47
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 12,
+            "pct": 18.2
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 13,
+            "pct": 19.7
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 2,
+            "pct": 3
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 7,
+            "pct": 10.6
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 1,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 12,
+            "pct": 52.2
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 1,
+            "pct": 4.3
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 3,
+            "pct": 13
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 4,
+            "pct": 17.4
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 3,
+            "pct": 13
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 19
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 11,
+            "pct": 57.9
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 3,
+            "pct": 15.8
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 1,
+            "pct": 5.3
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 1,
+            "pct": 5.3
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 3,
+            "pct": 15.8
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 0,
+            "pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 228
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 142,
+            "pct": 62.3
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 36,
+            "pct": 15.8
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 9,
+            "pct": 3.9
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 19,
+            "pct": 8.3
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 18,
+            "pct": 7.9
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 4,
+            "pct": 1.8
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 86
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 60,
+            "pct": 69.8
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 12,
+            "pct": 14
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 7,
+            "pct": 8.1
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 0,
+            "pct": 0
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 6,
+            "pct": 7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 1,
+            "pct": 1.2
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 571
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 286,
+            "pct": 50.1
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 115,
+            "pct": 20.1
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 66,
+            "pct": 11.6
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 55,
+            "pct": 9.6
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 40,
+            "pct": 7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 9,
+            "pct": 1.6
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 194
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 102,
+            "pct": 52.6
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 42,
+            "pct": 21.6
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 16,
+            "pct": 8.2
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 14,
+            "pct": 7.2
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 17,
+            "pct": 8.8
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 3,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 190
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 111,
+            "pct": 58.4
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 31,
+            "pct": 16.3
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 17,
+            "pct": 8.9
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 14,
+            "pct": 7.4
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 15,
+            "pct": 7.9
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 2,
+            "pct": 1.1
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 342
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 186,
+            "pct": 54.4
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 67,
+            "pct": 19.6
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 31,
+            "pct": 9.1
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 29,
+            "pct": 8.5
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 24,
+            "pct": 7
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 5,
+            "pct": 1.5
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 251
+        },
+        "cells": [
+          {
+            "answer": "None of the above",
+            "count": 139,
+            "pct": 55.4
+          },
+          {
+            "answer": "Travel/Gas for interviews",
+            "count": 36,
+            "pct": 14.3
+          },
+          {
+            "answer": "Paid \"test\" assignments or certifications",
+            "count": 28,
+            "pct": 11.2
+          },
+          {
+            "answer": "Childcare or eldercare",
+            "count": 22,
+            "pct": 8.8
+          },
+          {
+            "answer": "Premium job board subscriptions",
+            "count": 21,
+            "pct": 8.4
+          },
+          {
+            "answer": "Other (please specify)",
+            "count": 5,
+            "pct": 2
+          }
+        ]
+      }
+    ]
+  }
+}

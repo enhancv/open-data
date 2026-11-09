@@ -1,0 +1,566 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q13",
+  "question_prompt": "In your industry, how common are leadership titles without real decision-making power?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Very common",
+        "count": 143,
+        "pct": 28.6,
+        "weighted_pct": 30.6
+      },
+      {
+        "answer": "Somewhat common",
+        "count": 229,
+        "pct": 45.8,
+        "weighted_pct": 46.2
+      },
+      {
+        "answer": "Rare",
+        "count": 112,
+        "pct": 22.4,
+        "weighted_pct": 20.1
+      },
+      {
+        "answer": "Almost nonexistent",
+        "count": 16,
+        "pct": 3.2,
+        "weighted_pct": 3.1
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 66,
+            "pct": 33,
+            "weighted_pct": 35.9
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 87,
+            "pct": 43.5,
+            "weighted_pct": 43.4
+          },
+          {
+            "answer": "Rare",
+            "count": 41,
+            "pct": 20.5,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 6,
+            "pct": 3,
+            "weighted_pct": 3.3
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 77,
+            "pct": 25.7,
+            "weighted_pct": 25.1
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 142,
+            "pct": 47.3,
+            "weighted_pct": 49
+          },
+          {
+            "answer": "Rare",
+            "count": 71,
+            "pct": 23.7,
+            "weighted_pct": 23
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 10,
+            "pct": 3.3,
+            "weighted_pct": 3
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 11,
+            "pct": 47.8,
+            "weighted_pct": 51.8
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 8,
+            "pct": 34.8,
+            "weighted_pct": 32.7
+          },
+          {
+            "answer": "Rare",
+            "count": 3,
+            "pct": 13,
+            "weighted_pct": 10.4
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 5.1
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 42,
+            "pct": 33.3,
+            "weighted_pct": 34.8
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 56,
+            "pct": 44.4,
+            "weighted_pct": 43.7
+          },
+          {
+            "answer": "Rare",
+            "count": 24,
+            "pct": 19,
+            "weighted_pct": 18.2
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 4,
+            "pct": 3.2,
+            "weighted_pct": 3.3
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 42,
+            "pct": 29.2,
+            "weighted_pct": 28.3
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 60,
+            "pct": 41.7,
+            "weighted_pct": 42.3
+          },
+          {
+            "answer": "Rare",
+            "count": 37,
+            "pct": 25.7,
+            "weighted_pct": 25.8
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 5,
+            "pct": 3.5,
+            "weighted_pct": 3.6
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 35,
+            "pct": 24.5,
+            "weighted_pct": 25.4
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 65,
+            "pct": 45.5,
+            "weighted_pct": 45.1
+          },
+          {
+            "answer": "Rare",
+            "count": 38,
+            "pct": 26.6,
+            "weighted_pct": 26.3
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 5,
+            "pct": 3.5,
+            "weighted_pct": 3.2
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 13,
+            "pct": 20.3,
+            "weighted_pct": 21.6
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 40,
+            "pct": 62.5,
+            "weighted_pct": 61.1
+          },
+          {
+            "answer": "Rare",
+            "count": 10,
+            "pct": 15.6,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 1,
+            "pct": 1.6,
+            "weighted_pct": 1.2
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 27,
+            "pct": 31,
+            "weighted_pct": 30.1
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 35,
+            "pct": 40.2,
+            "weighted_pct": 43.3
+          },
+          {
+            "answer": "Rare",
+            "count": 21,
+            "pct": 24.1,
+            "weighted_pct": 21.4
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 4,
+            "pct": 4.6,
+            "weighted_pct": 5.2
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 10,
+            "pct": 20.4,
+            "weighted_pct": 24.6
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 29,
+            "pct": 59.2,
+            "weighted_pct": 55.9
+          },
+          {
+            "answer": "Rare",
+            "count": 9,
+            "pct": 18.4,
+            "weighted_pct": 17.7
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 1.8
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 5,
+            "pct": 16.1,
+            "weighted_pct": 10.4
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 16,
+            "pct": 51.6,
+            "weighted_pct": 58.3
+          },
+          {
+            "answer": "Rare",
+            "count": 9,
+            "pct": 29,
+            "weighted_pct": 29.6
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 1,
+            "pct": 3.2,
+            "weighted_pct": 1.7
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 61,
+            "pct": 29,
+            "weighted_pct": 32.7
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 97,
+            "pct": 46.2,
+            "weighted_pct": 45.8
+          },
+          {
+            "answer": "Rare",
+            "count": 47,
+            "pct": 22.4,
+            "weighted_pct": 19.8
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 5,
+            "pct": 2.4,
+            "weighted_pct": 1.6
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 38,
+            "pct": 32.8,
+            "weighted_pct": 34.9
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 48,
+            "pct": 41.4,
+            "weighted_pct": 40.3
+          },
+          {
+            "answer": "Rare",
+            "count": 25,
+            "pct": 21.6,
+            "weighted_pct": 19.5
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 5,
+            "pct": 4.3,
+            "weighted_pct": 5.3
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 27,
+            "pct": 24.8,
+            "weighted_pct": 28.6
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 50,
+            "pct": 45.9,
+            "weighted_pct": 43.9
+          },
+          {
+            "answer": "Rare",
+            "count": 26,
+            "pct": 23.9,
+            "weighted_pct": 20.9
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 6,
+            "pct": 5.5,
+            "weighted_pct": 6.7
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 21,
+            "pct": 20,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 55,
+            "pct": 52.4,
+            "weighted_pct": 56.9
+          },
+          {
+            "answer": "Rare",
+            "count": 27,
+            "pct": 25.7,
+            "weighted_pct": 25.8
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 2,
+            "pct": 1.9,
+            "weighted_pct": 1.3
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 78,
+            "pct": 37.5,
+            "weighted_pct": 41.4
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 88,
+            "pct": 42.3,
+            "weighted_pct": 42.3
+          },
+          {
+            "answer": "Rare",
+            "count": 36,
+            "pct": 17.3,
+            "weighted_pct": 13.9
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 6,
+            "pct": 2.9,
+            "weighted_pct": 2.5
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "Very common",
+            "count": 17,
+            "pct": 21.8,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "Somewhat common",
+            "count": 36,
+            "pct": 46.2,
+            "weighted_pct": 45.9
+          },
+          {
+            "answer": "Rare",
+            "count": 23,
+            "pct": 29.5,
+            "weighted_pct": 29.7
+          },
+          {
+            "answer": "Almost nonexistent",
+            "count": 2,
+            "pct": 2.6,
+            "weighted_pct": 1.7
+          }
+        ]
+      }
+    ]
+  }
+}

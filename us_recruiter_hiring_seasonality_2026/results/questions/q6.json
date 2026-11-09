@@ -1,0 +1,1288 @@
+{
+  "survey": "us_recruiter_hiring_seasonality_2026",
+  "id": "Q6",
+  "question_prompt": "What slows hiring down at certain times of year?",
+  "type": "multi",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Decision-makers on vacation",
+        "count": 101,
+        "pct": 20.2,
+        "weighted_pct": 21.1
+      },
+      {
+        "answer": "Budget approvals or fiscal-year timing",
+        "count": 190,
+        "pct": 38,
+        "weighted_pct": 34.4
+      },
+      {
+        "answer": "Too many applications to screen",
+        "count": 122,
+        "pct": 24.4,
+        "weighted_pct": 27.1
+      },
+      {
+        "answer": "Too few qualified applicants",
+        "count": 186,
+        "pct": 37.2,
+        "weighted_pct": 41.2
+      },
+      {
+        "answer": "Holiday shutdowns",
+        "count": 132,
+        "pct": 26.4,
+        "weighted_pct": 26.5
+      },
+      {
+        "answer": "Competing seasonal business demands",
+        "count": 86,
+        "pct": 17.2,
+        "weighted_pct": 17.3
+      },
+      {
+        "answer": "Nothing, our pace is steady",
+        "count": 70,
+        "pct": 14,
+        "weighted_pct": 15.2
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 390
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 70,
+            "pct": 17.9,
+            "weighted_pct": 18.3
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 154,
+            "pct": 39.5,
+            "weighted_pct": 40.1
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 90,
+            "pct": 23.1,
+            "weighted_pct": 26.9
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 147,
+            "pct": 37.7,
+            "weighted_pct": 44.6
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 101,
+            "pct": 25.9,
+            "weighted_pct": 23.4
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 67,
+            "pct": 17.2,
+            "weighted_pct": 18
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 53,
+            "pct": 13.6,
+            "weighted_pct": 12.5
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 110
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 31,
+            "pct": 28.2,
+            "weighted_pct": 24
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 36,
+            "pct": 32.7,
+            "weighted_pct": 28.5
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 32,
+            "pct": 29.1,
+            "weighted_pct": 27.4
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 39,
+            "pct": 35.5,
+            "weighted_pct": 37.8
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 31,
+            "pct": 28.2,
+            "weighted_pct": 29.8
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 19,
+            "pct": 17.3,
+            "weighted_pct": 16.5
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 17,
+            "pct": 15.5,
+            "weighted_pct": 18
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 30
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 5,
+            "pct": 16.7,
+            "weighted_pct": 16.8
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 12,
+            "pct": 40,
+            "weighted_pct": 37.4
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 10,
+            "pct": 33.3,
+            "weighted_pct": 33.5
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 13,
+            "pct": 43.3,
+            "weighted_pct": 60.4
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 9,
+            "pct": 30,
+            "weighted_pct": 24.2
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 7,
+            "pct": 23.3,
+            "weighted_pct": 27.5
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 3,
+            "pct": 10,
+            "weighted_pct": 12.6
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 130
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 25,
+            "pct": 19.2,
+            "weighted_pct": 19
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 47,
+            "pct": 36.2,
+            "weighted_pct": 29.5
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 33,
+            "pct": 25.4,
+            "weighted_pct": 26.6
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 52,
+            "pct": 40,
+            "weighted_pct": 35.9
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 39,
+            "pct": 30,
+            "weighted_pct": 31.2
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 19,
+            "pct": 14.6,
+            "weighted_pct": 15.1
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 18,
+            "pct": 13.8,
+            "weighted_pct": 18.6
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 140
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 37,
+            "pct": 26.4,
+            "weighted_pct": 33.4
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 60,
+            "pct": 42.9,
+            "weighted_pct": 40
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 31,
+            "pct": 22.1,
+            "weighted_pct": 22.4
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 42,
+            "pct": 30,
+            "weighted_pct": 27
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 35,
+            "pct": 25,
+            "weighted_pct": 24.7
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 27,
+            "pct": 19.3,
+            "weighted_pct": 20.9
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 21,
+            "pct": 15,
+            "weighted_pct": 15.3
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 130
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 24,
+            "pct": 18.5,
+            "weighted_pct": 21.1
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 46,
+            "pct": 35.4,
+            "weighted_pct": 35.5
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 32,
+            "pct": 24.6,
+            "weighted_pct": 29.7
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 52,
+            "pct": 40,
+            "weighted_pct": 50.9
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 34,
+            "pct": 26.2,
+            "weighted_pct": 27.8
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 22,
+            "pct": 16.9,
+            "weighted_pct": 15.3
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 16,
+            "pct": 12.3,
+            "weighted_pct": 8.4
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 70
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 10,
+            "pct": 14.3,
+            "weighted_pct": 14.9
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 25,
+            "pct": 35.7,
+            "weighted_pct": 30.6
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 16,
+            "pct": 22.9,
+            "weighted_pct": 24.7
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 27,
+            "pct": 38.6,
+            "weighted_pct": 35.9
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 15,
+            "pct": 21.4,
+            "weighted_pct": 23.9
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 11,
+            "pct": 15.7,
+            "weighted_pct": 9.6
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 12,
+            "pct": 17.1,
+            "weighted_pct": 20.2
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 85
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 18,
+            "pct": 21.2,
+            "weighted_pct": 22.1
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 32,
+            "pct": 37.6,
+            "weighted_pct": 33
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 21,
+            "pct": 24.7,
+            "weighted_pct": 26.5
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 33,
+            "pct": 38.8,
+            "weighted_pct": 35.7
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 23,
+            "pct": 27.1,
+            "weighted_pct": 28.5
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 13,
+            "pct": 15.3,
+            "weighted_pct": 14.8
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 12,
+            "pct": 14.1,
+            "weighted_pct": 15.8
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 51
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 18,
+            "pct": 35.3,
+            "weighted_pct": 39.1
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 22,
+            "pct": 43.1,
+            "weighted_pct": 35.6
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 15,
+            "pct": 29.4,
+            "weighted_pct": 36.7
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 16,
+            "pct": 31.4,
+            "weighted_pct": 33.7
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 12,
+            "pct": 23.5,
+            "weighted_pct": 28.1
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 13,
+            "pct": 25.5,
+            "weighted_pct": 21.3
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 6,
+            "pct": 11.8,
+            "weighted_pct": 9.9
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 7,
+            "pct": 30.4,
+            "weighted_pct": 41.4
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 9,
+            "pct": 39.1,
+            "weighted_pct": 42
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 7,
+            "pct": 30.4,
+            "weighted_pct": 33.2
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 10,
+            "pct": 43.5,
+            "weighted_pct": 53.1
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 6,
+            "pct": 26.1,
+            "weighted_pct": 18.7
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 4.3
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 187
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 33,
+            "pct": 17.6,
+            "weighted_pct": 18.3
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 75,
+            "pct": 40.1,
+            "weighted_pct": 36.6
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 46,
+            "pct": 24.6,
+            "weighted_pct": 26.4
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 73,
+            "pct": 39,
+            "weighted_pct": 40.3
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 44,
+            "pct": 23.5,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 27,
+            "pct": 14.4,
+            "weighted_pct": 15.6
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 28,
+            "pct": 15,
+            "weighted_pct": 18.6
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 10
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 5,
+            "pct": 50,
+            "weighted_pct": 47.9
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 3,
+            "pct": 30,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 1,
+            "pct": 10,
+            "weighted_pct": 21.7
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 7,
+            "pct": 70,
+            "weighted_pct": 72.5
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 4,
+            "pct": 40,
+            "weighted_pct": 34.6
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 2,
+            "pct": 20,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 20,
+            "pct": 13.9,
+            "weighted_pct": 13.5
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 49,
+            "pct": 34,
+            "weighted_pct": 32.1
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 32,
+            "pct": 22.2,
+            "weighted_pct": 24.9
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 47,
+            "pct": 32.6,
+            "weighted_pct": 44.1
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 43,
+            "pct": 29.9,
+            "weighted_pct": 29
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 29,
+            "pct": 20.1,
+            "weighted_pct": 22.7
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 22,
+            "pct": 15.3,
+            "weighted_pct": 14.7
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 69
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 7,
+            "pct": 10.1,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 25,
+            "pct": 36.2,
+            "weighted_pct": 28.4
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 24,
+            "pct": 34.8,
+            "weighted_pct": 40.2
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 21,
+            "pct": 30.4,
+            "weighted_pct": 35
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 21,
+            "pct": 30.4,
+            "weighted_pct": 44.5
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 13,
+            "pct": 18.8,
+            "weighted_pct": 21.3
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 9,
+            "pct": 13,
+            "weighted_pct": 13.9
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 170
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 42,
+            "pct": 24.7,
+            "weighted_pct": 20.2
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 79,
+            "pct": 46.5,
+            "weighted_pct": 38.3
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 43,
+            "pct": 25.3,
+            "weighted_pct": 26.1
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 71,
+            "pct": 41.8,
+            "weighted_pct": 38.9
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 41,
+            "pct": 24.1,
+            "weighted_pct": 25.3
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 31,
+            "pct": 18.2,
+            "weighted_pct": 13.9
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 19,
+            "pct": 11.2,
+            "weighted_pct": 14.9
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 90
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 16,
+            "pct": 17.8,
+            "weighted_pct": 21.7
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 29,
+            "pct": 32.2,
+            "weighted_pct": 34.9
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 20,
+            "pct": 22.2,
+            "weighted_pct": 29
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 25,
+            "pct": 27.8,
+            "weighted_pct": 36.7
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 19,
+            "pct": 21.1,
+            "weighted_pct": 21.8
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 17,
+            "pct": 18.9,
+            "weighted_pct": 24.7
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 15,
+            "pct": 16.7,
+            "weighted_pct": 13.6
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 12
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 2,
+            "pct": 16.7,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 3,
+            "pct": 25,
+            "weighted_pct": 19.4
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 1,
+            "pct": 8.3,
+            "weighted_pct": 5.8
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 5,
+            "pct": 41.7,
+            "weighted_pct": 34.1
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 2,
+            "pct": 16.7,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 3,
+            "pct": 25,
+            "weighted_pct": 44.5
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 5,
+            "pct": 41.7,
+            "weighted_pct": 29.3
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 9
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 5
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 77
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 9,
+            "pct": 11.7,
+            "weighted_pct": 15.5
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 28,
+            "pct": 36.4,
+            "weighted_pct": 38.9
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 14,
+            "pct": 18.2,
+            "weighted_pct": 21.3
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 26,
+            "pct": 33.8,
+            "weighted_pct": 49.9
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 18,
+            "pct": 23.4,
+            "weighted_pct": 20.4
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 14,
+            "pct": 18.2,
+            "weighted_pct": 19.8
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 12,
+            "pct": 15.6,
+            "weighted_pct": 14.2
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 55
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 22,
+            "pct": 40,
+            "weighted_pct": 45.9
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 17,
+            "pct": 30.9,
+            "weighted_pct": 30.1
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 16,
+            "pct": 29.1,
+            "weighted_pct": 33.3
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 24,
+            "pct": 43.6,
+            "weighted_pct": 47.1
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 22,
+            "pct": 40,
+            "weighted_pct": 33.4
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 7,
+            "pct": 12.7,
+            "weighted_pct": 12.2
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 4,
+            "pct": 7.3,
+            "weighted_pct": 5.6
+          }
+        ]
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 12
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 1,
+            "pct": 8.3,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 4,
+            "pct": 33.3,
+            "weighted_pct": 24.2
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 6,
+            "pct": 50,
+            "weighted_pct": 54.2
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 1,
+            "pct": 8.3,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 3,
+            "pct": 25,
+            "weighted_pct": 35.9
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 100
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 20,
+            "pct": 20,
+            "weighted_pct": 22.3
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 33,
+            "pct": 33,
+            "weighted_pct": 33.4
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 29,
+            "pct": 29,
+            "weighted_pct": 32.7
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 43,
+            "pct": 43,
+            "weighted_pct": 41.9
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 29,
+            "pct": 29,
+            "weighted_pct": 29.4
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 18,
+            "pct": 18,
+            "weighted_pct": 17.5
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 14,
+            "pct": 14,
+            "weighted_pct": 14.4
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 99
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 25,
+            "pct": 25.3,
+            "weighted_pct": 32.6
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 34,
+            "pct": 34.3,
+            "weighted_pct": 28.1
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 18,
+            "pct": 18.2,
+            "weighted_pct": 18
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 35,
+            "pct": 35.4,
+            "weighted_pct": 40.7
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 21,
+            "pct": 21.2,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 17,
+            "pct": 17.2,
+            "weighted_pct": 16.2
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 12,
+            "pct": 12.1,
+            "weighted_pct": 9.3
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 217
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 36,
+            "pct": 16.6,
+            "weighted_pct": 13.3
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 90,
+            "pct": 41.5,
+            "weighted_pct": 36.6
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 49,
+            "pct": 22.6,
+            "weighted_pct": 27.5
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 78,
+            "pct": 35.9,
+            "weighted_pct": 43
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 59,
+            "pct": 27.2,
+            "weighted_pct": 26.7
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 37,
+            "pct": 17.1,
+            "weighted_pct": 19.1
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 30,
+            "pct": 13.8,
+            "weighted_pct": 16.2
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 84
+        },
+        "cells": [
+          {
+            "answer": "Decision-makers on vacation",
+            "count": 20,
+            "pct": 23.8,
+            "weighted_pct": 24
+          },
+          {
+            "answer": "Budget approvals or fiscal-year timing",
+            "count": 33,
+            "pct": 39.3,
+            "weighted_pct": 38.1
+          },
+          {
+            "answer": "Too many applications to screen",
+            "count": 26,
+            "pct": 31,
+            "weighted_pct": 32.7
+          },
+          {
+            "answer": "Too few qualified applicants",
+            "count": 30,
+            "pct": 35.7,
+            "weighted_pct": 36.9
+          },
+          {
+            "answer": "Holiday shutdowns",
+            "count": 23,
+            "pct": 27.4,
+            "weighted_pct": 26.6
+          },
+          {
+            "answer": "Competing seasonal business demands",
+            "count": 14,
+            "pct": 16.7,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Nothing, our pace is steady",
+            "count": 14,
+            "pct": 16.7,
+            "weighted_pct": 20.9
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1705 @@
+{
+  "survey": "us_overemployment_2026",
+  "id": "Q6",
+  "question_prompt": "Which of the following tools or methods do you use to maintain the appearance of being “online” across multiple jobs? (Select all that apply)",
+  "type": "multi",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "Hardware mouse movers / activity simulators",
+        "count": 126,
+        "pct": 12.6,
+        "weighted_pct": 13.5
+      },
+      {
+        "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+        "count": 215,
+        "pct": 21.5,
+        "weighted_pct": 21.9
+      },
+      {
+        "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+        "count": 246,
+        "pct": 24.6,
+        "weighted_pct": 26.2
+      },
+      {
+        "answer": "AI-generated voice or video for meetings",
+        "count": 159,
+        "pct": 15.9,
+        "weighted_pct": 16.8
+      },
+      {
+        "answer": "Calendar blocking / scheduling strategies",
+        "count": 256,
+        "pct": 25.6,
+        "weighted_pct": 26.1
+      },
+      {
+        "answer": "Status automation tools (Slack/Teams auto-status)",
+        "count": 221,
+        "pct": 22.1,
+        "weighted_pct": 24
+      },
+      {
+        "answer": "I do not use any tools",
+        "count": 449,
+        "pct": 44.9,
+        "weighted_pct": 42.3
+      },
+      {
+        "answer": "Prefer not to say",
+        "count": 16,
+        "pct": 1.6,
+        "weighted_pct": 1.6
+      },
+      {
+        "answer": "Other",
+        "count": 10,
+        "pct": 1,
+        "weighted_pct": 1
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 550
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 55,
+            "pct": 10,
+            "weighted_pct": 10.5
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 80,
+            "pct": 14.5,
+            "weighted_pct": 13.9
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 110,
+            "pct": 20,
+            "weighted_pct": 21.2
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 54,
+            "pct": 9.8,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 128,
+            "pct": 23.3,
+            "weighted_pct": 25.4
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 89,
+            "pct": 16.2,
+            "weighted_pct": 18.3
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 291,
+            "pct": 52.9,
+            "weighted_pct": 49.6
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 9,
+            "pct": 1.6,
+            "weighted_pct": 1.7
+          },
+          {
+            "answer": "Other",
+            "count": 8,
+            "pct": 1.5,
+            "weighted_pct": 1.4
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 450
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 71,
+            "pct": 15.8,
+            "weighted_pct": 16.6
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 135,
+            "pct": 30,
+            "weighted_pct": 30
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 136,
+            "pct": 30.2,
+            "weighted_pct": 31.3
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 105,
+            "pct": 23.3,
+            "weighted_pct": 23.6
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 128,
+            "pct": 28.4,
+            "weighted_pct": 26.8
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 132,
+            "pct": 29.3,
+            "weighted_pct": 29.8
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 158,
+            "pct": 35.1,
+            "weighted_pct": 34.7
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 7,
+            "pct": 1.6,
+            "weighted_pct": 1.5
+          },
+          {
+            "answer": "Other",
+            "count": 2,
+            "pct": 0.4,
+            "weighted_pct": 0.5
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 28
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 5,
+            "pct": 17.9,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 6,
+            "pct": 21.4,
+            "weighted_pct": 21.4
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 12,
+            "pct": 42.9,
+            "weighted_pct": 42.9
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 4,
+            "pct": 14.3,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 9,
+            "pct": 32.1,
+            "weighted_pct": 32.1
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 11,
+            "pct": 39.3,
+            "weighted_pct": 39.3
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 5,
+            "pct": 17.9,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Other",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 174
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 29,
+            "pct": 16.7,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 55,
+            "pct": 31.6,
+            "weighted_pct": 33.2
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 51,
+            "pct": 29.3,
+            "weighted_pct": 31
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 41,
+            "pct": 23.6,
+            "weighted_pct": 26.3
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 63,
+            "pct": 36.2,
+            "weighted_pct": 36.4
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 57,
+            "pct": 32.8,
+            "weighted_pct": 34.7
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 54,
+            "pct": 31,
+            "weighted_pct": 29.1
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 2,
+            "pct": 1.1,
+            "weighted_pct": 0.9
+          },
+          {
+            "answer": "Other",
+            "count": 1,
+            "pct": 0.6,
+            "weighted_pct": 0.7
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 330
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 51,
+            "pct": 15.5,
+            "weighted_pct": 15.9
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 85,
+            "pct": 25.8,
+            "weighted_pct": 26.3
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 89,
+            "pct": 27,
+            "weighted_pct": 27.4
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 65,
+            "pct": 19.7,
+            "weighted_pct": 20.4
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 94,
+            "pct": 28.5,
+            "weighted_pct": 28.9
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 83,
+            "pct": 25.2,
+            "weighted_pct": 25.9
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 134,
+            "pct": 40.6,
+            "weighted_pct": 39.6
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 2,
+            "pct": 0.6,
+            "weighted_pct": 0.6
+          },
+          {
+            "answer": "Other",
+            "count": 3,
+            "pct": 0.9,
+            "weighted_pct": 0.9
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 293
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 24,
+            "pct": 8.2,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 50,
+            "pct": 17.1,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 66,
+            "pct": 22.5,
+            "weighted_pct": 23
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 33,
+            "pct": 11.3,
+            "weighted_pct": 11.6
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 67,
+            "pct": 22.9,
+            "weighted_pct": 22.9
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 52,
+            "pct": 17.7,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 145,
+            "pct": 49.5,
+            "weighted_pct": 48.9
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 7,
+            "pct": 2.4,
+            "weighted_pct": 2.4
+          },
+          {
+            "answer": "Other",
+            "count": 4,
+            "pct": 1.4,
+            "weighted_pct": 1.3
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 175
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 17,
+            "pct": 9.7,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 19,
+            "pct": 10.9,
+            "weighted_pct": 9.8
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 28,
+            "pct": 16,
+            "weighted_pct": 15.5
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 16,
+            "pct": 9.1,
+            "weighted_pct": 9.2
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 23,
+            "pct": 13.1,
+            "weighted_pct": 12.5
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 18,
+            "pct": 10.3,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 111,
+            "pct": 63.4,
+            "weighted_pct": 63.5
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 5,
+            "pct": 2.9,
+            "weighted_pct": 3.1
+          },
+          {
+            "answer": "Other",
+            "count": 2,
+            "pct": 1.1,
+            "weighted_pct": 1.5
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 209
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 27,
+            "pct": 12.9,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 48,
+            "pct": 23,
+            "weighted_pct": 20.9
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 50,
+            "pct": 23.9,
+            "weighted_pct": 25.6
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 29,
+            "pct": 13.9,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 62,
+            "pct": 29.7,
+            "weighted_pct": 27.3
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 49,
+            "pct": 23.4,
+            "weighted_pct": 24.4
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 96,
+            "pct": 45.9,
+            "weighted_pct": 45.1
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 0.5,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "Other",
+            "count": 5,
+            "pct": 2.4,
+            "weighted_pct": 2.4
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 80
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 12,
+            "pct": 15,
+            "weighted_pct": 14.6
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 18,
+            "pct": 22.5,
+            "weighted_pct": 24.2
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 20,
+            "pct": 25,
+            "weighted_pct": 23.5
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 11,
+            "pct": 13.8,
+            "weighted_pct": 16.6
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 25,
+            "pct": 31.3,
+            "weighted_pct": 37.4
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 16,
+            "pct": 20,
+            "weighted_pct": 17
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 35,
+            "pct": 43.8,
+            "weighted_pct": 39.2
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 1.3,
+            "weighted_pct": 0.9
+          },
+          {
+            "answer": "Other",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 67
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 10,
+            "pct": 14.9,
+            "weighted_pct": 18.5
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 23,
+            "pct": 34.3,
+            "weighted_pct": 35.8
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 18,
+            "pct": 26.9,
+            "weighted_pct": 30.3
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 15,
+            "pct": 22.4,
+            "weighted_pct": 25.1
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 26,
+            "pct": 38.8,
+            "weighted_pct": 41.1
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 25,
+            "pct": 37.3,
+            "weighted_pct": 44.2
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 22,
+            "pct": 32.8,
+            "weighted_pct": 30.7
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 1.5,
+            "weighted_pct": 1
+          },
+          {
+            "answer": "Other",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 435
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 51,
+            "pct": 11.7,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 88,
+            "pct": 20.2,
+            "weighted_pct": 20.6
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 107,
+            "pct": 24.6,
+            "weighted_pct": 25.8
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 66,
+            "pct": 15.2,
+            "weighted_pct": 16.7
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 100,
+            "pct": 23,
+            "weighted_pct": 22.5
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 92,
+            "pct": 21.1,
+            "weighted_pct": 22.6
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 203,
+            "pct": 46.7,
+            "weighted_pct": 44.9
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 7,
+            "pct": 1.6,
+            "weighted_pct": 1.8
+          },
+          {
+            "answer": "Other",
+            "count": 4,
+            "pct": 0.9,
+            "weighted_pct": 1.1
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 11
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 2,
+            "pct": 18.2,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 1,
+            "pct": 9.1,
+            "weighted_pct": 32.3
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 2,
+            "pct": 18.2,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 4,
+            "pct": 36.4,
+            "weighted_pct": 55.4
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 2,
+            "pct": 18.2,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 3,
+            "pct": 27.3,
+            "weighted_pct": 18.1
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 9.1,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "Other",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 198
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 26,
+            "pct": 13.1,
+            "weighted_pct": 15.5
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 36,
+            "pct": 18.2,
+            "weighted_pct": 20.9
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 50,
+            "pct": 25.3,
+            "weighted_pct": 26.8
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 36,
+            "pct": 18.2,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 39,
+            "pct": 19.7,
+            "weighted_pct": 22.3
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 37,
+            "pct": 18.7,
+            "weighted_pct": 23.7
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 90,
+            "pct": 45.5,
+            "weighted_pct": 40.5
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 5,
+            "pct": 2.5,
+            "weighted_pct": 2.1
+          },
+          {
+            "answer": "Other",
+            "count": 1,
+            "pct": 0.5,
+            "weighted_pct": 0.3
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 99
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 17,
+            "pct": 17.2,
+            "weighted_pct": 18.1
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 27,
+            "pct": 27.3,
+            "weighted_pct": 26.4
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 20,
+            "pct": 20.2,
+            "weighted_pct": 20.3
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 17,
+            "pct": 17.2,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 20,
+            "pct": 20.2,
+            "weighted_pct": 20.4
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 21,
+            "pct": 21.2,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 40,
+            "pct": 40.4,
+            "weighted_pct": 39.9
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 6,
+            "pct": 6.1,
+            "weighted_pct": 6.5
+          },
+          {
+            "answer": "Other",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 336
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 40,
+            "pct": 11.9,
+            "weighted_pct": 11
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 78,
+            "pct": 23.2,
+            "weighted_pct": 23.6
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 91,
+            "pct": 27.1,
+            "weighted_pct": 28.4
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 54,
+            "pct": 16.1,
+            "weighted_pct": 17.5
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 97,
+            "pct": 28.9,
+            "weighted_pct": 29.1
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 77,
+            "pct": 22.9,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 155,
+            "pct": 46.1,
+            "weighted_pct": 43.8
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 2,
+            "pct": 0.6,
+            "weighted_pct": 0.4
+          },
+          {
+            "answer": "Other",
+            "count": 3,
+            "pct": 0.9,
+            "weighted_pct": 1
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 138
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 15,
+            "pct": 10.9,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 19,
+            "pct": 13.8,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 33,
+            "pct": 23.9,
+            "weighted_pct": 27.3
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 18,
+            "pct": 13,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 30,
+            "pct": 21.7,
+            "weighted_pct": 24.2
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 30,
+            "pct": 21.7,
+            "weighted_pct": 23.3
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 66,
+            "pct": 47.8,
+            "weighted_pct": 46.4
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 3,
+            "pct": 2.2,
+            "weighted_pct": 2.8
+          },
+          {
+            "answer": "Other",
+            "count": 1,
+            "pct": 0.7,
+            "weighted_pct": 0.5
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 14
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 1,
+            "pct": 7.1,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 2,
+            "pct": 14.3,
+            "weighted_pct": 20.3
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 4,
+            "pct": 28.6,
+            "weighted_pct": 30.3
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 1,
+            "pct": 7.1,
+            "weighted_pct": 8.4
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 3,
+            "pct": 21.4,
+            "weighted_pct": 17.5
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 4,
+            "pct": 28.6,
+            "weighted_pct": 29.8
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 6,
+            "pct": 42.9,
+            "weighted_pct": 39.5
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 7.1,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "Other",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 16
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 1,
+            "pct": 6.3,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 3,
+            "pct": 18.8,
+            "weighted_pct": 21.1
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 5,
+            "pct": 31.3,
+            "weighted_pct": 32.2
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 1,
+            "pct": 6.3,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 9,
+            "pct": 56.3,
+            "weighted_pct": 59
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 6,
+            "pct": 37.5,
+            "weighted_pct": 34.8
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Other",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 38
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 5,
+            "pct": 13.2,
+            "weighted_pct": 13.6
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 12,
+            "pct": 31.6,
+            "weighted_pct": 26
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 9,
+            "pct": 23.7,
+            "weighted_pct": 23.8
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 6,
+            "pct": 15.8,
+            "weighted_pct": 13
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 16,
+            "pct": 42.1,
+            "weighted_pct": 44.4
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 8,
+            "pct": 21.1,
+            "weighted_pct": 20.7
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 13,
+            "pct": 34.2,
+            "weighted_pct": 32.6
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Other",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 3
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 113
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 18,
+            "pct": 15.9,
+            "weighted_pct": 19.8
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 32,
+            "pct": 28.3,
+            "weighted_pct": 30.6
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 34,
+            "pct": 30.1,
+            "weighted_pct": 32.9
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 31,
+            "pct": 27.4,
+            "weighted_pct": 30.2
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 24,
+            "pct": 21.2,
+            "weighted_pct": 23.2
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 31,
+            "pct": 27.4,
+            "weighted_pct": 32.8
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 32,
+            "pct": 28.3,
+            "weighted_pct": 24.3
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 0.9,
+            "weighted_pct": 0.5
+          },
+          {
+            "answer": "Other",
+            "count": 2,
+            "pct": 1.8,
+            "weighted_pct": 1
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 215
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 22,
+            "pct": 10.2,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 38,
+            "pct": 17.7,
+            "weighted_pct": 17.5
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 44,
+            "pct": 20.5,
+            "weighted_pct": 20.4
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 24,
+            "pct": 11.2,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 54,
+            "pct": 25.1,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 45,
+            "pct": 20.9,
+            "weighted_pct": 22.2
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 117,
+            "pct": 54.4,
+            "weighted_pct": 53.3
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 0.5,
+            "weighted_pct": 0.4
+          },
+          {
+            "answer": "Other",
+            "count": 4,
+            "pct": 1.9,
+            "weighted_pct": 2.3
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 2
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 26
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 5,
+            "pct": 19.2,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 3,
+            "pct": 11.5,
+            "weighted_pct": 12.8
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 6,
+            "pct": 23.1,
+            "weighted_pct": 23.1
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 6,
+            "pct": 23.1,
+            "weighted_pct": 22.6
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 3,
+            "pct": 11.5,
+            "weighted_pct": 10.9
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 5,
+            "pct": 19.2,
+            "weighted_pct": 19.3
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 11,
+            "pct": 42.3,
+            "weighted_pct": 44.9
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 2,
+            "pct": 7.7,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "Other",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 223
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 20,
+            "pct": 9,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 40,
+            "pct": 17.9,
+            "weighted_pct": 17.5
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 35,
+            "pct": 15.7,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 23,
+            "pct": 10.3,
+            "weighted_pct": 11.3
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 49,
+            "pct": 22,
+            "weighted_pct": 22.1
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 34,
+            "pct": 15.2,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 124,
+            "pct": 55.6,
+            "weighted_pct": 52.4
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Other",
+            "count": 3,
+            "pct": 1.3,
+            "weighted_pct": 1.4
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 256
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 30,
+            "pct": 11.7,
+            "weighted_pct": 12.7
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 53,
+            "pct": 20.7,
+            "weighted_pct": 20.3
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 57,
+            "pct": 22.3,
+            "weighted_pct": 22.7
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 48,
+            "pct": 18.8,
+            "weighted_pct": 18.2
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 64,
+            "pct": 25,
+            "weighted_pct": 24
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 57,
+            "pct": 22.3,
+            "weighted_pct": 23.7
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 122,
+            "pct": 47.7,
+            "weighted_pct": 47.5
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 1,
+            "pct": 0.4,
+            "weighted_pct": 0.4
+          },
+          {
+            "answer": "Other",
+            "count": 4,
+            "pct": 1.6,
+            "weighted_pct": 1.8
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 348
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 49,
+            "pct": 14.1,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 70,
+            "pct": 20.1,
+            "weighted_pct": 19.6
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 97,
+            "pct": 27.9,
+            "weighted_pct": 30
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 55,
+            "pct": 15.8,
+            "weighted_pct": 17.6
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 93,
+            "pct": 26.7,
+            "weighted_pct": 28.1
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 83,
+            "pct": 23.9,
+            "weighted_pct": 26.5
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 139,
+            "pct": 39.9,
+            "weighted_pct": 36.6
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 11,
+            "pct": 3.2,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "Other",
+            "count": 2,
+            "pct": 0.6,
+            "weighted_pct": 0.3
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 156
+        },
+        "cells": [
+          {
+            "answer": "Hardware mouse movers / activity simulators",
+            "count": 23,
+            "pct": 14.7,
+            "weighted_pct": 18.2
+          },
+          {
+            "answer": "AI meeting summarizers (e.g., Otter, Fireflies)",
+            "count": 45,
+            "pct": 28.8,
+            "weighted_pct": 33.3
+          },
+          {
+            "answer": "Separate devices (e.g., dedicated laptop, secondary WiFi)",
+            "count": 49,
+            "pct": 31.4,
+            "weighted_pct": 32.9
+          },
+          {
+            "answer": "AI-generated voice or video for meetings",
+            "count": 28,
+            "pct": 17.9,
+            "weighted_pct": 18.5
+          },
+          {
+            "answer": "Calendar blocking / scheduling strategies",
+            "count": 46,
+            "pct": 29.5,
+            "weighted_pct": 31.6
+          },
+          {
+            "answer": "Status automation tools (Slack/Teams auto-status)",
+            "count": 42,
+            "pct": 26.9,
+            "weighted_pct": 27.1
+          },
+          {
+            "answer": "I do not use any tools",
+            "count": 60,
+            "pct": 38.5,
+            "weighted_pct": 35.4
+          },
+          {
+            "answer": "Prefer not to say",
+            "count": 4,
+            "pct": 2.6,
+            "weighted_pct": 2.3
+          },
+          {
+            "answer": "Other",
+            "count": 1,
+            "pct": 0.6,
+            "weighted_pct": 0.5
+          }
+        ]
+      }
+    ]
+  }
+}

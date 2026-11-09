@@ -1,0 +1,1712 @@
+{
+  "survey": "us_remote_work_social_skills_2026",
+  "id": "Q7",
+  "question_prompt": "Have you done any of the following because a work interaction felt too exhausting, awkward, or anxiety-inducing?",
+  "type": "multi",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "Pretended my camera or microphone was broken",
+        "count": 160,
+        "pct": 16,
+        "weighted_pct": 16.9
+      },
+      {
+        "answer": "\"Forgot\" to join a meeting I could have attended",
+        "count": 151,
+        "pct": 15.1,
+        "weighted_pct": 17.7
+      },
+      {
+        "answer": "Kept my camera off when I was supposed to have it on",
+        "count": 242,
+        "pct": 24.2,
+        "weighted_pct": 24.9
+      },
+      {
+        "answer": "Sent a message when I should have called",
+        "count": 284,
+        "pct": 28.4,
+        "weighted_pct": 29.4
+      },
+      {
+        "answer": "Called in sick to avoid an in-person event",
+        "count": 130,
+        "pct": 13,
+        "weighted_pct": 14.5
+      },
+      {
+        "answer": "Asked a colleague to attend in my place",
+        "count": 77,
+        "pct": 7.7,
+        "weighted_pct": 8.4
+      },
+      {
+        "answer": "Faked a scheduling conflict",
+        "count": 142,
+        "pct": 14.2,
+        "weighted_pct": 14.4
+      },
+      {
+        "answer": "Avoided eye contact during video calls",
+        "count": 104,
+        "pct": 10.4,
+        "weighted_pct": 11
+      },
+      {
+        "answer": "None of the above",
+        "count": 427,
+        "pct": 42.7,
+        "weighted_pct": 40.4
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 536
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 89,
+            "pct": 16.6,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 69,
+            "pct": 12.9,
+            "weighted_pct": 15.5
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 125,
+            "pct": 23.3,
+            "weighted_pct": 23.4
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 160,
+            "pct": 29.9,
+            "weighted_pct": 31.5
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 57,
+            "pct": 10.6,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 38,
+            "pct": 7.1,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 67,
+            "pct": 12.5,
+            "weighted_pct": 12.9
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 61,
+            "pct": 11.4,
+            "weighted_pct": 11.6
+          },
+          {
+            "answer": "None of the above",
+            "count": 234,
+            "pct": 43.7,
+            "weighted_pct": 41.6
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 464
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 71,
+            "pct": 15.3,
+            "weighted_pct": 16.7
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 82,
+            "pct": 17.7,
+            "weighted_pct": 20
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 117,
+            "pct": 25.2,
+            "weighted_pct": 26.5
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 124,
+            "pct": 26.7,
+            "weighted_pct": 27.1
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 73,
+            "pct": 15.7,
+            "weighted_pct": 16.7
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 39,
+            "pct": 8.4,
+            "weighted_pct": 7.8
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 75,
+            "pct": 16.2,
+            "weighted_pct": 15.9
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 43,
+            "pct": 9.3,
+            "weighted_pct": 10.4
+          },
+          {
+            "answer": "None of the above",
+            "count": 193,
+            "pct": 41.6,
+            "weighted_pct": 39.1
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 45
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 11,
+            "pct": 24.4,
+            "weighted_pct": 24.4
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 14,
+            "pct": 31.1,
+            "weighted_pct": 31.1
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 13,
+            "pct": 28.9,
+            "weighted_pct": 28.9
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 15,
+            "pct": 33.3,
+            "weighted_pct": 33.3
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 11,
+            "pct": 24.4,
+            "weighted_pct": 24.4
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 4,
+            "pct": 8.9,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 7,
+            "pct": 15.6,
+            "weighted_pct": 15.6
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 7,
+            "pct": 15.6,
+            "weighted_pct": 15.6
+          },
+          {
+            "answer": "None of the above",
+            "count": 12,
+            "pct": 26.7,
+            "weighted_pct": 26.7
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 166
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 35,
+            "pct": 21.1,
+            "weighted_pct": 21.4
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 42,
+            "pct": 25.3,
+            "weighted_pct": 26.3
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 47,
+            "pct": 28.3,
+            "weighted_pct": 29.6
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 65,
+            "pct": 39.2,
+            "weighted_pct": 38.7
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 27,
+            "pct": 16.3,
+            "weighted_pct": 17.5
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 23,
+            "pct": 13.9,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 25,
+            "pct": 15.1,
+            "weighted_pct": 15.5
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 22,
+            "pct": 13.3,
+            "weighted_pct": 13.7
+          },
+          {
+            "answer": "None of the above",
+            "count": 49,
+            "pct": 29.5,
+            "weighted_pct": 29.2
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 285
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 55,
+            "pct": 19.3,
+            "weighted_pct": 18.7
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 41,
+            "pct": 14.4,
+            "weighted_pct": 14.6
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 79,
+            "pct": 27.7,
+            "weighted_pct": 27.8
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 89,
+            "pct": 31.2,
+            "weighted_pct": 31.3
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 43,
+            "pct": 15.1,
+            "weighted_pct": 15.3
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 28,
+            "pct": 9.8,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 51,
+            "pct": 17.9,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 38,
+            "pct": 13.3,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "None of the above",
+            "count": 100,
+            "pct": 35.1,
+            "weighted_pct": 34.9
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 41,
+            "pct": 15.3,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 32,
+            "pct": 11.9,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 68,
+            "pct": 25.4,
+            "weighted_pct": 25
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 76,
+            "pct": 28.4,
+            "weighted_pct": 28
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 31,
+            "pct": 11.6,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 16,
+            "pct": 6,
+            "weighted_pct": 6
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 38,
+            "pct": 14.2,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 23,
+            "pct": 8.6,
+            "weighted_pct": 8.5
+          },
+          {
+            "answer": "None of the above",
+            "count": 121,
+            "pct": 45.1,
+            "weighted_pct": 45.1
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 236
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 18,
+            "pct": 7.6,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 22,
+            "pct": 9.3,
+            "weighted_pct": 9.3
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 35,
+            "pct": 14.8,
+            "weighted_pct": 14.8
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 39,
+            "pct": 16.5,
+            "weighted_pct": 16.4
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 18,
+            "pct": 7.6,
+            "weighted_pct": 7.8
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 6,
+            "pct": 2.5,
+            "weighted_pct": 2.9
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 21,
+            "pct": 8.9,
+            "weighted_pct": 9
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 14,
+            "pct": 5.9,
+            "weighted_pct": 6.3
+          },
+          {
+            "answer": "None of the above",
+            "count": 145,
+            "pct": 61.4,
+            "weighted_pct": 61.1
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 177
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 31,
+            "pct": 17.5,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 19,
+            "pct": 10.7,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 42,
+            "pct": 23.7,
+            "weighted_pct": 22.9
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 43,
+            "pct": 24.3,
+            "weighted_pct": 25.2
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 21,
+            "pct": 11.9,
+            "weighted_pct": 11.1
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 10,
+            "pct": 5.6,
+            "weighted_pct": 6.8
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 24,
+            "pct": 13.6,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 15,
+            "pct": 8.5,
+            "weighted_pct": 10.5
+          },
+          {
+            "answer": "None of the above",
+            "count": 87,
+            "pct": 49.2,
+            "weighted_pct": 47
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 84
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 16,
+            "pct": 19,
+            "weighted_pct": 16.9
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 13,
+            "pct": 15.5,
+            "weighted_pct": 15.6
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 30,
+            "pct": 35.7,
+            "weighted_pct": 33.6
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 27,
+            "pct": 32.1,
+            "weighted_pct": 28.8
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 14,
+            "pct": 16.7,
+            "weighted_pct": 15.6
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 11,
+            "pct": 13.1,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 26,
+            "pct": 31,
+            "weighted_pct": 31.7
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 9,
+            "pct": 10.7,
+            "weighted_pct": 8.4
+          },
+          {
+            "answer": "None of the above",
+            "count": 28,
+            "pct": 33.3,
+            "weighted_pct": 35.6
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 70
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 8,
+            "pct": 11.4,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 6,
+            "pct": 8.6,
+            "weighted_pct": 11.3
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 18,
+            "pct": 25.7,
+            "weighted_pct": 21.5
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 12,
+            "pct": 17.1,
+            "weighted_pct": 21.4
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 7,
+            "pct": 10,
+            "weighted_pct": 13
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 5,
+            "pct": 7.1,
+            "weighted_pct": 7.6
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 11,
+            "pct": 15.7,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 3,
+            "pct": 4.3,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "None of the above",
+            "count": 39,
+            "pct": 55.7,
+            "weighted_pct": 54.2
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 379
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 58,
+            "pct": 15.3,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 53,
+            "pct": 14,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 94,
+            "pct": 24.8,
+            "weighted_pct": 28
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 113,
+            "pct": 29.8,
+            "weighted_pct": 31.1
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 45,
+            "pct": 11.9,
+            "weighted_pct": 14.9
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 28,
+            "pct": 7.4,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 47,
+            "pct": 12.4,
+            "weighted_pct": 13.5
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 42,
+            "pct": 11.1,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "None of the above",
+            "count": 159,
+            "pct": 42,
+            "weighted_pct": 38.3
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 18
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 1,
+            "pct": 5.6,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 2,
+            "pct": 11.1,
+            "weighted_pct": 30.1
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 4,
+            "pct": 22.2,
+            "weighted_pct": 38.6
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 4,
+            "pct": 22.2,
+            "weighted_pct": 28.1
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 1,
+            "pct": 5.6,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 1,
+            "pct": 5.6,
+            "weighted_pct": 3.3
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 1,
+            "pct": 5.6,
+            "weighted_pct": 5.2
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 5,
+            "pct": 27.8,
+            "weighted_pct": 21.7
+          },
+          {
+            "answer": "None of the above",
+            "count": 9,
+            "pct": 50,
+            "weighted_pct": 38.5
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 272
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 46,
+            "pct": 16.9,
+            "weighted_pct": 16.8
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 58,
+            "pct": 21.3,
+            "weighted_pct": 22.3
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 54,
+            "pct": 19.9,
+            "weighted_pct": 19.6
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 85,
+            "pct": 31.3,
+            "weighted_pct": 31.5
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 42,
+            "pct": 15.4,
+            "weighted_pct": 16.4
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 22,
+            "pct": 8.1,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 33,
+            "pct": 12.1,
+            "weighted_pct": 11.1
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 30,
+            "pct": 11,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "None of the above",
+            "count": 105,
+            "pct": 38.6,
+            "weighted_pct": 37.6
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 133
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 26,
+            "pct": 19.5,
+            "weighted_pct": 20.2
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 23,
+            "pct": 17.3,
+            "weighted_pct": 19
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 34,
+            "pct": 25.6,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 35,
+            "pct": 26.3,
+            "weighted_pct": 27.1
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 20,
+            "pct": 15,
+            "weighted_pct": 15.4
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 8,
+            "pct": 6,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 14,
+            "pct": 10.5,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 21,
+            "pct": 15.8,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "None of the above",
+            "count": 54,
+            "pct": 40.6,
+            "weighted_pct": 40.4
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 317
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 51,
+            "pct": 16.1,
+            "weighted_pct": 18.2
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 41,
+            "pct": 12.9,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 88,
+            "pct": 27.8,
+            "weighted_pct": 28.7
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 83,
+            "pct": 26.2,
+            "weighted_pct": 27.7
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 38,
+            "pct": 12,
+            "weighted_pct": 13.2
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 37,
+            "pct": 11.7,
+            "weighted_pct": 13.3
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 58,
+            "pct": 18.3,
+            "weighted_pct": 19.5
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 23,
+            "pct": 7.3,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "None of the above",
+            "count": 126,
+            "pct": 39.7,
+            "weighted_pct": 37.5
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 145
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 21,
+            "pct": 14.5,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 20,
+            "pct": 13.8,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 34,
+            "pct": 23.4,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 42,
+            "pct": 29,
+            "weighted_pct": 28.6
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 17,
+            "pct": 11.7,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 6,
+            "pct": 4.1,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 16,
+            "pct": 11,
+            "weighted_pct": 11.6
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 20,
+            "pct": 13.8,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "None of the above",
+            "count": 61,
+            "pct": 42.1,
+            "weighted_pct": 39.2
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 22
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 2,
+            "pct": 9.1,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 3,
+            "pct": 13.6,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 1,
+            "pct": 4.5,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 3,
+            "pct": 13.6,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 4,
+            "pct": 18.2,
+            "weighted_pct": 16.1
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 1,
+            "pct": 4.5,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 3,
+            "pct": 13.6,
+            "weighted_pct": 12.8
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 1,
+            "pct": 4.5,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "None of the above",
+            "count": 17,
+            "pct": 77.3,
+            "weighted_pct": 79.2
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 15
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 2,
+            "pct": 13.3,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 2,
+            "pct": 13.3,
+            "weighted_pct": 8.4
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 3,
+            "pct": 20,
+            "weighted_pct": 24.7
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 5,
+            "pct": 33.3,
+            "weighted_pct": 34.4
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 2,
+            "pct": 13.3,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 4,
+            "pct": 26.7,
+            "weighted_pct": 37.8
+          },
+          {
+            "answer": "None of the above",
+            "count": 6,
+            "pct": 40,
+            "weighted_pct": 31.4
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 33
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 7,
+            "pct": 21.2,
+            "weighted_pct": 19.4
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 6,
+            "pct": 18.2,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 8,
+            "pct": 24.2,
+            "weighted_pct": 24.9
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 8,
+            "pct": 24.2,
+            "weighted_pct": 21.5
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 4,
+            "pct": 12.1,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 3,
+            "pct": 9.1,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 7,
+            "pct": 21.2,
+            "weighted_pct": 18.2
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 3,
+            "pct": 9.1,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "None of the above",
+            "count": 14,
+            "pct": 42.4,
+            "weighted_pct": 43.7
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 164
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 21,
+            "pct": 12.8,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 28,
+            "pct": 17.1,
+            "weighted_pct": 21.3
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 31,
+            "pct": 18.9,
+            "weighted_pct": 20.7
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 56,
+            "pct": 34.1,
+            "weighted_pct": 34.1
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 25,
+            "pct": 15.2,
+            "weighted_pct": 21.1
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 8,
+            "pct": 4.9,
+            "weighted_pct": 6.1
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 14,
+            "pct": 8.5,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 16,
+            "pct": 9.8,
+            "weighted_pct": 11.7
+          },
+          {
+            "answer": "None of the above",
+            "count": 77,
+            "pct": 47,
+            "weighted_pct": 40.9
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 127
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 25,
+            "pct": 19.7,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 22,
+            "pct": 17.3,
+            "weighted_pct": 20.7
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 35,
+            "pct": 27.6,
+            "weighted_pct": 27.6
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 38,
+            "pct": 29.9,
+            "weighted_pct": 33.1
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 19,
+            "pct": 15,
+            "weighted_pct": 15.7
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 12,
+            "pct": 9.4,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 24,
+            "pct": 18.9,
+            "weighted_pct": 19.2
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 10,
+            "pct": 7.9,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "None of the above",
+            "count": 52,
+            "pct": 40.9,
+            "weighted_pct": 40.8
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 5
+        },
+        "suppressed": true
+      },
+      {
+        "group": "None of the above/Prefer not to answer",
+        "base": {
+          "n": 2
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 36
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 3,
+            "pct": 8.3,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 4,
+            "pct": 11.1,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 7,
+            "pct": 19.4,
+            "weighted_pct": 17.7
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 12,
+            "pct": 33.3,
+            "weighted_pct": 35.6
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 2,
+            "pct": 5.6,
+            "weighted_pct": 5.4
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 3,
+            "pct": 8.3,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 4,
+            "pct": 11.1,
+            "weighted_pct": 10.4
+          },
+          {
+            "answer": "None of the above",
+            "count": 16,
+            "pct": 44.4,
+            "weighted_pct": 45
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 221
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 36,
+            "pct": 16.3,
+            "weighted_pct": 15.9
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 32,
+            "pct": 14.5,
+            "weighted_pct": 19.6
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 60,
+            "pct": 27.1,
+            "weighted_pct": 26.7
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 59,
+            "pct": 26.7,
+            "weighted_pct": 29.1
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 27,
+            "pct": 12.2,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 9,
+            "pct": 4.1,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 23,
+            "pct": 10.4,
+            "weighted_pct": 10.4
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 23,
+            "pct": 10.4,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "None of the above",
+            "count": 95,
+            "pct": 43,
+            "weighted_pct": 39.1
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 238
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 32,
+            "pct": 13.4,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 35,
+            "pct": 14.7,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 61,
+            "pct": 25.6,
+            "weighted_pct": 27.6
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 65,
+            "pct": 27.3,
+            "weighted_pct": 29.2
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 26,
+            "pct": 10.9,
+            "weighted_pct": 13.9
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 11,
+            "pct": 4.6,
+            "weighted_pct": 6.1
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 42,
+            "pct": 17.6,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 21,
+            "pct": 8.8,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "None of the above",
+            "count": 107,
+            "pct": 45,
+            "weighted_pct": 40.3
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 59,
+            "pct": 15.7,
+            "weighted_pct": 15.9
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 59,
+            "pct": 15.7,
+            "weighted_pct": 16.8
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 80,
+            "pct": 21.3,
+            "weighted_pct": 22.3
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 113,
+            "pct": 30.1,
+            "weighted_pct": 30.9
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 42,
+            "pct": 11.2,
+            "weighted_pct": 12.2
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 35,
+            "pct": 9.3,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 39,
+            "pct": 10.4,
+            "weighted_pct": 9.9
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 47,
+            "pct": 12.5,
+            "weighted_pct": 13
+          },
+          {
+            "answer": "None of the above",
+            "count": 163,
+            "pct": 43.5,
+            "weighted_pct": 42
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 166
+        },
+        "cells": [
+          {
+            "answer": "Pretended my camera or microphone was broken",
+            "count": 33,
+            "pct": 19.9,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "\"Forgot\" to join a meeting I could have attended",
+            "count": 25,
+            "pct": 15.1,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "Kept my camera off when I was supposed to have it on",
+            "count": 41,
+            "pct": 24.7,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "Sent a message when I should have called",
+            "count": 47,
+            "pct": 28.3,
+            "weighted_pct": 26.5
+          },
+          {
+            "answer": "Called in sick to avoid an in-person event",
+            "count": 35,
+            "pct": 21.1,
+            "weighted_pct": 21.3
+          },
+          {
+            "answer": "Asked a colleague to attend in my place",
+            "count": 22,
+            "pct": 13.3,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Faked a scheduling conflict",
+            "count": 38,
+            "pct": 22.9,
+            "weighted_pct": 22.6
+          },
+          {
+            "answer": "Avoided eye contact during video calls",
+            "count": 13,
+            "pct": 7.8,
+            "weighted_pct": 7.1
+          },
+          {
+            "answer": "None of the above",
+            "count": 62,
+            "pct": 37.3,
+            "weighted_pct": 38.3
+          }
+        ]
+      }
+    ]
+  }
+}

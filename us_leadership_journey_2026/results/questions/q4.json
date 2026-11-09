@@ -1,0 +1,770 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q4",
+  "question_prompt": "How many different employers had you worked for before that first leadership title?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "None, it was my first employer",
+        "count": 38,
+        "pct": 7.6,
+        "weighted_pct": 8
+      },
+      {
+        "answer": "1",
+        "count": 86,
+        "pct": 17.2,
+        "weighted_pct": 16
+      },
+      {
+        "answer": "2",
+        "count": 186,
+        "pct": 37.2,
+        "weighted_pct": 38.6
+      },
+      {
+        "answer": "3",
+        "count": 84,
+        "pct": 16.8,
+        "weighted_pct": 15.8
+      },
+      {
+        "answer": "4",
+        "count": 51,
+        "pct": 10.2,
+        "weighted_pct": 10.9
+      },
+      {
+        "answer": "5+",
+        "count": 55,
+        "pct": 11,
+        "weighted_pct": 10.8
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 13,
+            "pct": 6.5,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "1",
+            "count": 33,
+            "pct": 16.5,
+            "weighted_pct": 15.4
+          },
+          {
+            "answer": "2",
+            "count": 77,
+            "pct": 38.5,
+            "weighted_pct": 40.2
+          },
+          {
+            "answer": "3",
+            "count": 30,
+            "pct": 15,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "4",
+            "count": 20,
+            "pct": 10,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "5+",
+            "count": 27,
+            "pct": 13.5,
+            "weighted_pct": 12.2
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 25,
+            "pct": 8.3,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "1",
+            "count": 53,
+            "pct": 17.7,
+            "weighted_pct": 16.6
+          },
+          {
+            "answer": "2",
+            "count": 109,
+            "pct": 36.3,
+            "weighted_pct": 37
+          },
+          {
+            "answer": "3",
+            "count": 54,
+            "pct": 18,
+            "weighted_pct": 17.5
+          },
+          {
+            "answer": "4",
+            "count": 31,
+            "pct": 10.3,
+            "weighted_pct": 9.9
+          },
+          {
+            "answer": "5+",
+            "count": 28,
+            "pct": 9.3,
+            "weighted_pct": 9.3
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 4,
+            "pct": 17.4,
+            "weighted_pct": 15.5
+          },
+          {
+            "answer": "1",
+            "count": 4,
+            "pct": 17.4,
+            "weighted_pct": 15.5
+          },
+          {
+            "answer": "2",
+            "count": 10,
+            "pct": 43.5,
+            "weighted_pct": 48.3
+          },
+          {
+            "answer": "3",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "4",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "5+",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 7
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 10,
+            "pct": 7.9,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "1",
+            "count": 24,
+            "pct": 19,
+            "weighted_pct": 20
+          },
+          {
+            "answer": "2",
+            "count": 54,
+            "pct": 42.9,
+            "weighted_pct": 41.6
+          },
+          {
+            "answer": "3",
+            "count": 19,
+            "pct": 15.1,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "4",
+            "count": 8,
+            "pct": 6.3,
+            "weighted_pct": 7
+          },
+          {
+            "answer": "5+",
+            "count": 11,
+            "pct": 8.7,
+            "weighted_pct": 8.4
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 11,
+            "pct": 7.6,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "1",
+            "count": 28,
+            "pct": 19.4,
+            "weighted_pct": 19.6
+          },
+          {
+            "answer": "2",
+            "count": 52,
+            "pct": 36.1,
+            "weighted_pct": 36.3
+          },
+          {
+            "answer": "3",
+            "count": 27,
+            "pct": 18.8,
+            "weighted_pct": 18.1
+          },
+          {
+            "answer": "4",
+            "count": 13,
+            "pct": 9,
+            "weighted_pct": 9.3
+          },
+          {
+            "answer": "5+",
+            "count": 13,
+            "pct": 9,
+            "weighted_pct": 9.3
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 8,
+            "pct": 5.6,
+            "weighted_pct": 5
+          },
+          {
+            "answer": "1",
+            "count": 25,
+            "pct": 17.5,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "2",
+            "count": 45,
+            "pct": 31.5,
+            "weighted_pct": 33.7
+          },
+          {
+            "answer": "3",
+            "count": 25,
+            "pct": 17.5,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "4",
+            "count": 18,
+            "pct": 12.6,
+            "weighted_pct": 12.7
+          },
+          {
+            "answer": "5+",
+            "count": 22,
+            "pct": 15.4,
+            "weighted_pct": 15.4
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 5,
+            "pct": 7.8,
+            "weighted_pct": 7.1
+          },
+          {
+            "answer": "1",
+            "count": 5,
+            "pct": 7.8,
+            "weighted_pct": 8.4
+          },
+          {
+            "answer": "2",
+            "count": 25,
+            "pct": 39.1,
+            "weighted_pct": 37.2
+          },
+          {
+            "answer": "3",
+            "count": 11,
+            "pct": 17.2,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "4",
+            "count": 11,
+            "pct": 17.2,
+            "weighted_pct": 18
+          },
+          {
+            "answer": "5+",
+            "count": 7,
+            "pct": 10.9,
+            "weighted_pct": 12.2
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 7,
+            "pct": 8,
+            "weighted_pct": 9.2
+          },
+          {
+            "answer": "1",
+            "count": 16,
+            "pct": 18.4,
+            "weighted_pct": 18.5
+          },
+          {
+            "answer": "2",
+            "count": 33,
+            "pct": 37.9,
+            "weighted_pct": 41.1
+          },
+          {
+            "answer": "3",
+            "count": 12,
+            "pct": 13.8,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "4",
+            "count": 11,
+            "pct": 12.6,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "5+",
+            "count": 8,
+            "pct": 9.2,
+            "weighted_pct": 6.1
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "1",
+            "count": 6,
+            "pct": 12.2,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "2",
+            "count": 18,
+            "pct": 36.7,
+            "weighted_pct": 42.3
+          },
+          {
+            "answer": "3",
+            "count": 10,
+            "pct": 20.4,
+            "weighted_pct": 16.9
+          },
+          {
+            "answer": "4",
+            "count": 5,
+            "pct": 10.2,
+            "weighted_pct": 10.1
+          },
+          {
+            "answer": "5+",
+            "count": 7,
+            "pct": 14.3,
+            "weighted_pct": 15.5
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 5,
+            "pct": 16.1,
+            "weighted_pct": 21.4
+          },
+          {
+            "answer": "1",
+            "count": 6,
+            "pct": 19.4,
+            "weighted_pct": 18.2
+          },
+          {
+            "answer": "2",
+            "count": 10,
+            "pct": 32.3,
+            "weighted_pct": 26.4
+          },
+          {
+            "answer": "3",
+            "count": 5,
+            "pct": 16.1,
+            "weighted_pct": 17
+          },
+          {
+            "answer": "4",
+            "count": 1,
+            "pct": 3.2,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "5+",
+            "count": 4,
+            "pct": 12.9,
+            "weighted_pct": 14.8
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 16,
+            "pct": 7.6,
+            "weighted_pct": 7.3
+          },
+          {
+            "answer": "1",
+            "count": 42,
+            "pct": 20,
+            "weighted_pct": 18.3
+          },
+          {
+            "answer": "2",
+            "count": 62,
+            "pct": 29.5,
+            "weighted_pct": 31.2
+          },
+          {
+            "answer": "3",
+            "count": 36,
+            "pct": 17.1,
+            "weighted_pct": 16.2
+          },
+          {
+            "answer": "4",
+            "count": 26,
+            "pct": 12.4,
+            "weighted_pct": 13.2
+          },
+          {
+            "answer": "5+",
+            "count": 28,
+            "pct": 13.3,
+            "weighted_pct": 13.7
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 7,
+            "pct": 6,
+            "weighted_pct": 6.7
+          },
+          {
+            "answer": "1",
+            "count": 15,
+            "pct": 12.9,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "2",
+            "count": 59,
+            "pct": 50.9,
+            "weighted_pct": 50
+          },
+          {
+            "answer": "3",
+            "count": 20,
+            "pct": 17.2,
+            "weighted_pct": 17.3
+          },
+          {
+            "answer": "4",
+            "count": 8,
+            "pct": 6.9,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "5+",
+            "count": 7,
+            "pct": 6,
+            "weighted_pct": 5.9
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 8,
+            "pct": 7.3,
+            "weighted_pct": 8.1
+          },
+          {
+            "answer": "1",
+            "count": 20,
+            "pct": 18.3,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "2",
+            "count": 41,
+            "pct": 37.6,
+            "weighted_pct": 40.7
+          },
+          {
+            "answer": "3",
+            "count": 19,
+            "pct": 17.4,
+            "weighted_pct": 16.8
+          },
+          {
+            "answer": "4",
+            "count": 9,
+            "pct": 8.3,
+            "weighted_pct": 9.4
+          },
+          {
+            "answer": "5+",
+            "count": 12,
+            "pct": 11,
+            "weighted_pct": 8.7
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 10,
+            "pct": 9.5,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "1",
+            "count": 22,
+            "pct": 21,
+            "weighted_pct": 20.1
+          },
+          {
+            "answer": "2",
+            "count": 31,
+            "pct": 29.5,
+            "weighted_pct": 31
+          },
+          {
+            "answer": "3",
+            "count": 17,
+            "pct": 16.2,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "4",
+            "count": 13,
+            "pct": 12.4,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "5+",
+            "count": 12,
+            "pct": 11.4,
+            "weighted_pct": 11.4
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 15,
+            "pct": 7.2,
+            "weighted_pct": 6.2
+          },
+          {
+            "answer": "1",
+            "count": 35,
+            "pct": 16.8,
+            "weighted_pct": 15.3
+          },
+          {
+            "answer": "2",
+            "count": 82,
+            "pct": 39.4,
+            "weighted_pct": 41.1
+          },
+          {
+            "answer": "3",
+            "count": 36,
+            "pct": 17.3,
+            "weighted_pct": 16.2
+          },
+          {
+            "answer": "4",
+            "count": 23,
+            "pct": 11.1,
+            "weighted_pct": 12.2
+          },
+          {
+            "answer": "5+",
+            "count": 17,
+            "pct": 8.2,
+            "weighted_pct": 9
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "None, it was my first employer",
+            "count": 5,
+            "pct": 6.4,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "1",
+            "count": 9,
+            "pct": 11.5,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "2",
+            "count": 32,
+            "pct": 41,
+            "weighted_pct": 39.2
+          },
+          {
+            "answer": "3",
+            "count": 12,
+            "pct": 15.4,
+            "weighted_pct": 15.2
+          },
+          {
+            "answer": "4",
+            "count": 6,
+            "pct": 7.7,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "5+",
+            "count": 14,
+            "pct": 17.9,
+            "weighted_pct": 18.8
+          }
+        ]
+      }
+    ]
+  }
+}

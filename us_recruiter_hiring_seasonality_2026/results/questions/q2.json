@@ -1,0 +1,988 @@
+{
+  "survey": "us_recruiter_hiring_seasonality_2026",
+  "id": "Q2",
+  "question_prompt": "In a typical year, when do you post the largest share of your job ads?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Spread evenly, no real peak",
+        "count": 162,
+        "pct": 32.4,
+        "weighted_pct": 32.6
+      },
+      {
+        "answer": "July–September",
+        "count": 118,
+        "pct": 23.6,
+        "weighted_pct": 22
+      },
+      {
+        "answer": "April–June",
+        "count": 110,
+        "pct": 22,
+        "weighted_pct": 23.1
+      },
+      {
+        "answer": "October–December",
+        "count": 55,
+        "pct": 11,
+        "weighted_pct": 11.9
+      },
+      {
+        "answer": "January–March",
+        "count": 55,
+        "pct": 11,
+        "weighted_pct": 10.5
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 390
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 133,
+            "pct": 34.1,
+            "weighted_pct": 34.4
+          },
+          {
+            "answer": "July–September",
+            "count": 92,
+            "pct": 23.6,
+            "weighted_pct": 23.4
+          },
+          {
+            "answer": "April–June",
+            "count": 87,
+            "pct": 22.3,
+            "weighted_pct": 26.1
+          },
+          {
+            "answer": "October–December",
+            "count": 40,
+            "pct": 10.3,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "January–March",
+            "count": 38,
+            "pct": 9.7,
+            "weighted_pct": 8.2
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 110
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 29,
+            "pct": 26.4,
+            "weighted_pct": 30.8
+          },
+          {
+            "answer": "July–September",
+            "count": 26,
+            "pct": 23.6,
+            "weighted_pct": 20.5
+          },
+          {
+            "answer": "April–June",
+            "count": 23,
+            "pct": 20.9,
+            "weighted_pct": 20.1
+          },
+          {
+            "answer": "October–December",
+            "count": 15,
+            "pct": 13.6,
+            "weighted_pct": 15.9
+          },
+          {
+            "answer": "January–March",
+            "count": 17,
+            "pct": 15.5,
+            "weighted_pct": 12.8
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 30
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 9,
+            "pct": 30,
+            "weighted_pct": 31.3
+          },
+          {
+            "answer": "July–September",
+            "count": 7,
+            "pct": 23.3,
+            "weighted_pct": 20.6
+          },
+          {
+            "answer": "April–June",
+            "count": 11,
+            "pct": 36.7,
+            "weighted_pct": 35.4
+          },
+          {
+            "answer": "October–December",
+            "count": 2,
+            "pct": 6.7,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "January–March",
+            "count": 1,
+            "pct": 3.3,
+            "weighted_pct": 1.9
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 130
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 37,
+            "pct": 28.5,
+            "weighted_pct": 25.4
+          },
+          {
+            "answer": "July–September",
+            "count": 39,
+            "pct": 30,
+            "weighted_pct": 30.9
+          },
+          {
+            "answer": "April–June",
+            "count": 29,
+            "pct": 22.3,
+            "weighted_pct": 21.9
+          },
+          {
+            "answer": "October–December",
+            "count": 14,
+            "pct": 10.8,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "January–March",
+            "count": 11,
+            "pct": 8.5,
+            "weighted_pct": 10
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 140
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 46,
+            "pct": 32.9,
+            "weighted_pct": 28.6
+          },
+          {
+            "answer": "July–September",
+            "count": 30,
+            "pct": 21.4,
+            "weighted_pct": 24.4
+          },
+          {
+            "answer": "April–June",
+            "count": 27,
+            "pct": 19.3,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "October–December",
+            "count": 17,
+            "pct": 12.1,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "January–March",
+            "count": 20,
+            "pct": 14.3,
+            "weighted_pct": 17.3
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 130
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 42,
+            "pct": 32.3,
+            "weighted_pct": 29.9
+          },
+          {
+            "answer": "July–September",
+            "count": 28,
+            "pct": 21.5,
+            "weighted_pct": 21.1
+          },
+          {
+            "answer": "April–June",
+            "count": 29,
+            "pct": 22.3,
+            "weighted_pct": 19.2
+          },
+          {
+            "answer": "October–December",
+            "count": 15,
+            "pct": 11.5,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "January–March",
+            "count": 16,
+            "pct": 12.3,
+            "weighted_pct": 15.9
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 70
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 28,
+            "pct": 40,
+            "weighted_pct": 48
+          },
+          {
+            "answer": "July–September",
+            "count": 14,
+            "pct": 20,
+            "weighted_pct": 11.9
+          },
+          {
+            "answer": "April–June",
+            "count": 14,
+            "pct": 20,
+            "weighted_pct": 22.9
+          },
+          {
+            "answer": "October–December",
+            "count": 7,
+            "pct": 10,
+            "weighted_pct": 11.5
+          },
+          {
+            "answer": "January–March",
+            "count": 7,
+            "pct": 10,
+            "weighted_pct": 5.8
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 85
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 36,
+            "pct": 42.4,
+            "weighted_pct": 46.2
+          },
+          {
+            "answer": "July–September",
+            "count": 15,
+            "pct": 17.6,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "April–June",
+            "count": 17,
+            "pct": 20,
+            "weighted_pct": 23.7
+          },
+          {
+            "answer": "October–December",
+            "count": 8,
+            "pct": 9.4,
+            "weighted_pct": 6.9
+          },
+          {
+            "answer": "January–March",
+            "count": 9,
+            "pct": 10.6,
+            "weighted_pct": 9.1
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 51
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 17,
+            "pct": 33.3,
+            "weighted_pct": 22.6
+          },
+          {
+            "answer": "July–September",
+            "count": 6,
+            "pct": 11.8,
+            "weighted_pct": 15.2
+          },
+          {
+            "answer": "April–June",
+            "count": 15,
+            "pct": 29.4,
+            "weighted_pct": 28
+          },
+          {
+            "answer": "October–December",
+            "count": 2,
+            "pct": 3.9,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "January–March",
+            "count": 11,
+            "pct": 21.6,
+            "weighted_pct": 29.5
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 7,
+            "pct": 30.4,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "July–September",
+            "count": 4,
+            "pct": 17.4,
+            "weighted_pct": 27
+          },
+          {
+            "answer": "April–June",
+            "count": 5,
+            "pct": 21.7,
+            "weighted_pct": 12.9
+          },
+          {
+            "answer": "October–December",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 10.3
+          },
+          {
+            "answer": "January–March",
+            "count": 5,
+            "pct": 21.7,
+            "weighted_pct": 26.9
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 187
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 56,
+            "pct": 29.9,
+            "weighted_pct": 31.5
+          },
+          {
+            "answer": "July–September",
+            "count": 51,
+            "pct": 27.3,
+            "weighted_pct": 22.3
+          },
+          {
+            "answer": "April–June",
+            "count": 37,
+            "pct": 19.8,
+            "weighted_pct": 26.4
+          },
+          {
+            "answer": "October–December",
+            "count": 30,
+            "pct": 16,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "January–March",
+            "count": 13,
+            "pct": 7,
+            "weighted_pct": 6.4
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 10
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 2,
+            "pct": 20,
+            "weighted_pct": 16.8
+          },
+          {
+            "answer": "July–September",
+            "count": 3,
+            "pct": 30,
+            "weighted_pct": 48.2
+          },
+          {
+            "answer": "April–June",
+            "count": 2,
+            "pct": 20,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "October–December",
+            "count": 1,
+            "pct": 10,
+            "weighted_pct": 4.4
+          },
+          {
+            "answer": "January–March",
+            "count": 2,
+            "pct": 20,
+            "weighted_pct": 21.8
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 44,
+            "pct": 30.6,
+            "weighted_pct": 31.5
+          },
+          {
+            "answer": "July–September",
+            "count": 39,
+            "pct": 27.1,
+            "weighted_pct": 25.8
+          },
+          {
+            "answer": "April–June",
+            "count": 34,
+            "pct": 23.6,
+            "weighted_pct": 19.6
+          },
+          {
+            "answer": "October–December",
+            "count": 12,
+            "pct": 8.3,
+            "weighted_pct": 15.8
+          },
+          {
+            "answer": "January–March",
+            "count": 15,
+            "pct": 10.4,
+            "weighted_pct": 7.3
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 69
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 23,
+            "pct": 33.3,
+            "weighted_pct": 23.9
+          },
+          {
+            "answer": "July–September",
+            "count": 18,
+            "pct": 26.1,
+            "weighted_pct": 22.1
+          },
+          {
+            "answer": "April–June",
+            "count": 9,
+            "pct": 13,
+            "weighted_pct": 24.4
+          },
+          {
+            "answer": "October–December",
+            "count": 9,
+            "pct": 13,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "January–March",
+            "count": 10,
+            "pct": 14.5,
+            "weighted_pct": 14.6
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 170
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 54,
+            "pct": 31.8,
+            "weighted_pct": 38.4
+          },
+          {
+            "answer": "July–September",
+            "count": 38,
+            "pct": 22.4,
+            "weighted_pct": 20.8
+          },
+          {
+            "answer": "April–June",
+            "count": 43,
+            "pct": 25.3,
+            "weighted_pct": 21.9
+          },
+          {
+            "answer": "October–December",
+            "count": 21,
+            "pct": 12.4,
+            "weighted_pct": 9.6
+          },
+          {
+            "answer": "January–March",
+            "count": 14,
+            "pct": 8.2,
+            "weighted_pct": 9.3
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 90
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 34,
+            "pct": 37.8,
+            "weighted_pct": 31.1
+          },
+          {
+            "answer": "July–September",
+            "count": 21,
+            "pct": 23.3,
+            "weighted_pct": 26.4
+          },
+          {
+            "answer": "April–June",
+            "count": 21,
+            "pct": 23.3,
+            "weighted_pct": 25.5
+          },
+          {
+            "answer": "October–December",
+            "count": 4,
+            "pct": 4.4,
+            "weighted_pct": 6.5
+          },
+          {
+            "answer": "January–March",
+            "count": 10,
+            "pct": 11.1,
+            "weighted_pct": 10.5
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 12
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 4,
+            "pct": 33.3,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "July–September",
+            "count": 5,
+            "pct": 41.7,
+            "weighted_pct": 32.8
+          },
+          {
+            "answer": "April–June",
+            "count": 2,
+            "pct": 16.7,
+            "weighted_pct": 36.6
+          },
+          {
+            "answer": "October–December",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          },
+          {
+            "answer": "January–March",
+            "count": 1,
+            "pct": 8.3,
+            "weighted_pct": 5.8
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 9
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 5
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 77
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 18,
+            "pct": 23.4,
+            "weighted_pct": 26.8
+          },
+          {
+            "answer": "July–September",
+            "count": 22,
+            "pct": 28.6,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "April–June",
+            "count": 19,
+            "pct": 24.7,
+            "weighted_pct": 23.2
+          },
+          {
+            "answer": "October–December",
+            "count": 12,
+            "pct": 15.6,
+            "weighted_pct": 20.8
+          },
+          {
+            "answer": "January–March",
+            "count": 6,
+            "pct": 7.8,
+            "weighted_pct": 4.4
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 55
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 18,
+            "pct": 32.7,
+            "weighted_pct": 29.9
+          },
+          {
+            "answer": "July–September",
+            "count": 9,
+            "pct": 16.4,
+            "weighted_pct": 19.5
+          },
+          {
+            "answer": "April–June",
+            "count": 10,
+            "pct": 18.2,
+            "weighted_pct": 20.5
+          },
+          {
+            "answer": "October–December",
+            "count": 7,
+            "pct": 12.7,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "January–March",
+            "count": 11,
+            "pct": 20,
+            "weighted_pct": 22.2
+          }
+        ]
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 12
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 5,
+            "pct": 41.7,
+            "weighted_pct": 49.4
+          },
+          {
+            "answer": "July–September",
+            "count": 2,
+            "pct": 16.7,
+            "weighted_pct": 6.8
+          },
+          {
+            "answer": "April–June",
+            "count": 1,
+            "pct": 8.3,
+            "weighted_pct": 3.2
+          },
+          {
+            "answer": "October–December",
+            "count": 2,
+            "pct": 16.7,
+            "weighted_pct": 23
+          },
+          {
+            "answer": "January–March",
+            "count": 2,
+            "pct": 16.7,
+            "weighted_pct": 17.6
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 100
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 32,
+            "pct": 32,
+            "weighted_pct": 34.8
+          },
+          {
+            "answer": "July–September",
+            "count": 25,
+            "pct": 25,
+            "weighted_pct": 20.9
+          },
+          {
+            "answer": "April–June",
+            "count": 21,
+            "pct": 21,
+            "weighted_pct": 22.7
+          },
+          {
+            "answer": "October–December",
+            "count": 10,
+            "pct": 10,
+            "weighted_pct": 7.7
+          },
+          {
+            "answer": "January–March",
+            "count": 12,
+            "pct": 12,
+            "weighted_pct": 13.9
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 99
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 36,
+            "pct": 36.4,
+            "weighted_pct": 37.1
+          },
+          {
+            "answer": "July–September",
+            "count": 20,
+            "pct": 20.2,
+            "weighted_pct": 24.3
+          },
+          {
+            "answer": "April–June",
+            "count": 28,
+            "pct": 28.3,
+            "weighted_pct": 23.6
+          },
+          {
+            "answer": "October–December",
+            "count": 8,
+            "pct": 8.1,
+            "weighted_pct": 9.5
+          },
+          {
+            "answer": "January–March",
+            "count": 7,
+            "pct": 7.1,
+            "weighted_pct": 5.5
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 217
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 70,
+            "pct": 32.3,
+            "weighted_pct": 30.6
+          },
+          {
+            "answer": "July–September",
+            "count": 51,
+            "pct": 23.5,
+            "weighted_pct": 19.8
+          },
+          {
+            "answer": "April–June",
+            "count": 47,
+            "pct": 21.7,
+            "weighted_pct": 24.4
+          },
+          {
+            "answer": "October–December",
+            "count": 24,
+            "pct": 11.1,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "January–March",
+            "count": 25,
+            "pct": 11.5,
+            "weighted_pct": 11.1
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 84
+        },
+        "cells": [
+          {
+            "answer": "Spread evenly, no real peak",
+            "count": 24,
+            "pct": 28.6,
+            "weighted_pct": 29.5
+          },
+          {
+            "answer": "July–September",
+            "count": 22,
+            "pct": 26.2,
+            "weighted_pct": 25.2
+          },
+          {
+            "answer": "April–June",
+            "count": 14,
+            "pct": 16.7,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "October–December",
+            "count": 13,
+            "pct": 15.5,
+            "weighted_pct": 13.3
+          },
+          {
+            "answer": "January–March",
+            "count": 11,
+            "pct": 13.1,
+            "weighted_pct": 12.1
+          }
+        ]
+      }
+    ]
+  }
+}

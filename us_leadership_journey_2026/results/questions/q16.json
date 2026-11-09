@@ -1,0 +1,464 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q16",
+  "question_prompt": "Was there a formal transition or onboarding plan for your role?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Yes, structured",
+        "count": 295,
+        "pct": 59,
+        "weighted_pct": 56.8
+      },
+      {
+        "answer": "Informal only",
+        "count": 163,
+        "pct": 32.6,
+        "weighted_pct": 34.3
+      },
+      {
+        "answer": "None",
+        "count": 42,
+        "pct": 8.4,
+        "weighted_pct": 8.9
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 115,
+            "pct": 57.5,
+            "weighted_pct": 57.5
+          },
+          {
+            "answer": "Informal only",
+            "count": 70,
+            "pct": 35,
+            "weighted_pct": 33.8
+          },
+          {
+            "answer": "None",
+            "count": 15,
+            "pct": 7.5,
+            "weighted_pct": 8.7
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 180,
+            "pct": 60,
+            "weighted_pct": 56.1
+          },
+          {
+            "answer": "Informal only",
+            "count": 93,
+            "pct": 31,
+            "weighted_pct": 34.8
+          },
+          {
+            "answer": "None",
+            "count": 27,
+            "pct": 9,
+            "weighted_pct": 9.1
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 13,
+            "pct": 56.5,
+            "weighted_pct": 60.4
+          },
+          {
+            "answer": "Informal only",
+            "count": 9,
+            "pct": 39.1,
+            "weighted_pct": 36.1
+          },
+          {
+            "answer": "None",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 3.5
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 90,
+            "pct": 71.4,
+            "weighted_pct": 71.1
+          },
+          {
+            "answer": "Informal only",
+            "count": 27,
+            "pct": 21.4,
+            "weighted_pct": 22.6
+          },
+          {
+            "answer": "None",
+            "count": 9,
+            "pct": 7.1,
+            "weighted_pct": 6.3
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 89,
+            "pct": 61.8,
+            "weighted_pct": 60.7
+          },
+          {
+            "answer": "Informal only",
+            "count": 44,
+            "pct": 30.6,
+            "weighted_pct": 32
+          },
+          {
+            "answer": "None",
+            "count": 11,
+            "pct": 7.6,
+            "weighted_pct": 7.3
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 79,
+            "pct": 55.2,
+            "weighted_pct": 54.5
+          },
+          {
+            "answer": "Informal only",
+            "count": 54,
+            "pct": 37.8,
+            "weighted_pct": 38.7
+          },
+          {
+            "answer": "None",
+            "count": 10,
+            "pct": 7,
+            "weighted_pct": 6.8
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 24,
+            "pct": 37.5,
+            "weighted_pct": 37.9
+          },
+          {
+            "answer": "Informal only",
+            "count": 29,
+            "pct": 45.3,
+            "weighted_pct": 43.7
+          },
+          {
+            "answer": "None",
+            "count": 11,
+            "pct": 17.2,
+            "weighted_pct": 18.4
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 53,
+            "pct": 60.9,
+            "weighted_pct": 54.3
+          },
+          {
+            "answer": "Informal only",
+            "count": 25,
+            "pct": 28.7,
+            "weighted_pct": 33.6
+          },
+          {
+            "answer": "None",
+            "count": 9,
+            "pct": 10.3,
+            "weighted_pct": 12.1
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 30,
+            "pct": 61.2,
+            "weighted_pct": 58.7
+          },
+          {
+            "answer": "Informal only",
+            "count": 14,
+            "pct": 28.6,
+            "weighted_pct": 31.5
+          },
+          {
+            "answer": "None",
+            "count": 5,
+            "pct": 10.2,
+            "weighted_pct": 9.8
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 13,
+            "pct": 41.9,
+            "weighted_pct": 32.9
+          },
+          {
+            "answer": "Informal only",
+            "count": 11,
+            "pct": 35.5,
+            "weighted_pct": 41.5
+          },
+          {
+            "answer": "None",
+            "count": 7,
+            "pct": 22.6,
+            "weighted_pct": 25.6
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 123,
+            "pct": 58.6,
+            "weighted_pct": 56
+          },
+          {
+            "answer": "Informal only",
+            "count": 75,
+            "pct": 35.7,
+            "weighted_pct": 37.3
+          },
+          {
+            "answer": "None",
+            "count": 12,
+            "pct": 5.7,
+            "weighted_pct": 6.7
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 72,
+            "pct": 62.1,
+            "weighted_pct": 65.6
+          },
+          {
+            "answer": "Informal only",
+            "count": 35,
+            "pct": 30.2,
+            "weighted_pct": 27.7
+          },
+          {
+            "answer": "None",
+            "count": 9,
+            "pct": 7.8,
+            "weighted_pct": 6.7
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 61,
+            "pct": 56,
+            "weighted_pct": 53.7
+          },
+          {
+            "answer": "Informal only",
+            "count": 36,
+            "pct": 33,
+            "weighted_pct": 36.3
+          },
+          {
+            "answer": "None",
+            "count": 12,
+            "pct": 11,
+            "weighted_pct": 10
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 53,
+            "pct": 50.5,
+            "weighted_pct": 41.6
+          },
+          {
+            "answer": "Informal only",
+            "count": 45,
+            "pct": 42.9,
+            "weighted_pct": 47.6
+          },
+          {
+            "answer": "None",
+            "count": 7,
+            "pct": 6.7,
+            "weighted_pct": 10.8
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 134,
+            "pct": 64.4,
+            "weighted_pct": 65.9
+          },
+          {
+            "answer": "Informal only",
+            "count": 63,
+            "pct": 30.3,
+            "weighted_pct": 29.2
+          },
+          {
+            "answer": "None",
+            "count": 11,
+            "pct": 5.3,
+            "weighted_pct": 4.9
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "Yes, structured",
+            "count": 47,
+            "pct": 60.3,
+            "weighted_pct": 57.1
+          },
+          {
+            "answer": "Informal only",
+            "count": 19,
+            "pct": 24.4,
+            "weighted_pct": 26.5
+          },
+          {
+            "answer": "None",
+            "count": 12,
+            "pct": 15.4,
+            "weighted_pct": 16.4
+          }
+        ]
+      }
+    ]
+  }
+}

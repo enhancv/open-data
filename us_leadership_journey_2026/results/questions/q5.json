@@ -1,0 +1,464 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q5",
+  "question_prompt": "Was your first leadership title at a company you already worked for?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Yes, internal promotion",
+        "count": 375,
+        "pct": 75,
+        "weighted_pct": 74.7
+      },
+      {
+        "answer": "No, I joined a new company for it",
+        "count": 104,
+        "pct": 20.8,
+        "weighted_pct": 21.2
+      },
+      {
+        "answer": "I founded the company",
+        "count": 21,
+        "pct": 4.2,
+        "weighted_pct": 4.2
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 147,
+            "pct": 73.5,
+            "weighted_pct": 74.2
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 44,
+            "pct": 22,
+            "weighted_pct": 21.1
+          },
+          {
+            "answer": "I founded the company",
+            "count": 9,
+            "pct": 4.5,
+            "weighted_pct": 4.7
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 228,
+            "pct": 76,
+            "weighted_pct": 75.2
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 60,
+            "pct": 20,
+            "weighted_pct": 21.2
+          },
+          {
+            "answer": "I founded the company",
+            "count": 12,
+            "pct": 4,
+            "weighted_pct": 3.6
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 16,
+            "pct": 69.6,
+            "weighted_pct": 70.8
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 6,
+            "pct": 26.1,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "I founded the company",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 5.1
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 95,
+            "pct": 75.4,
+            "weighted_pct": 75
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 27,
+            "pct": 21.4,
+            "weighted_pct": 21.7
+          },
+          {
+            "answer": "I founded the company",
+            "count": 4,
+            "pct": 3.2,
+            "weighted_pct": 3.3
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 106,
+            "pct": 73.6,
+            "weighted_pct": 73.3
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 29,
+            "pct": 20.1,
+            "weighted_pct": 20.1
+          },
+          {
+            "answer": "I founded the company",
+            "count": 9,
+            "pct": 6.3,
+            "weighted_pct": 6.6
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 109,
+            "pct": 76.2,
+            "weighted_pct": 75.5
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 29,
+            "pct": 20.3,
+            "weighted_pct": 21.4
+          },
+          {
+            "answer": "I founded the company",
+            "count": 5,
+            "pct": 3.5,
+            "weighted_pct": 3.1
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 49,
+            "pct": 76.6,
+            "weighted_pct": 77
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 13,
+            "pct": 20.3,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "I founded the company",
+            "count": 2,
+            "pct": 3.1,
+            "weighted_pct": 3.2
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 70,
+            "pct": 80.5,
+            "weighted_pct": 83.9
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 13,
+            "pct": 14.9,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "I founded the company",
+            "count": 4,
+            "pct": 4.6,
+            "weighted_pct": 4.1
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 35,
+            "pct": 71.4,
+            "weighted_pct": 67.6
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 13,
+            "pct": 26.5,
+            "weighted_pct": 31.1
+          },
+          {
+            "answer": "I founded the company",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 1.2
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 24,
+            "pct": 77.4,
+            "weighted_pct": 75.4
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 7,
+            "pct": 22.6,
+            "weighted_pct": 24.6
+          },
+          {
+            "answer": "I founded the company",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 164,
+            "pct": 78.1,
+            "weighted_pct": 76.7
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 41,
+            "pct": 19.5,
+            "weighted_pct": 20.9
+          },
+          {
+            "answer": "I founded the company",
+            "count": 5,
+            "pct": 2.4,
+            "weighted_pct": 2.4
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 76,
+            "pct": 65.5,
+            "weighted_pct": 66.7
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 29,
+            "pct": 25,
+            "weighted_pct": 23.5
+          },
+          {
+            "answer": "I founded the company",
+            "count": 11,
+            "pct": 9.5,
+            "weighted_pct": 9.8
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 80,
+            "pct": 73.4,
+            "weighted_pct": 71.1
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 23,
+            "pct": 21.1,
+            "weighted_pct": 21.7
+          },
+          {
+            "answer": "I founded the company",
+            "count": 6,
+            "pct": 5.5,
+            "weighted_pct": 7.2
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 81,
+            "pct": 77.1,
+            "weighted_pct": 77.2
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 23,
+            "pct": 21.9,
+            "weighted_pct": 22.1
+          },
+          {
+            "answer": "I founded the company",
+            "count": 1,
+            "pct": 1,
+            "weighted_pct": 0.6
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 155,
+            "pct": 74.5,
+            "weighted_pct": 74.8
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 43,
+            "pct": 20.7,
+            "weighted_pct": 21.3
+          },
+          {
+            "answer": "I founded the company",
+            "count": 10,
+            "pct": 4.8,
+            "weighted_pct": 3.9
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "Yes, internal promotion",
+            "count": 59,
+            "pct": 75.6,
+            "weighted_pct": 76.7
+          },
+          {
+            "answer": "No, I joined a new company for it",
+            "count": 15,
+            "pct": 19.2,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "I founded the company",
+            "count": 4,
+            "pct": 5.1,
+            "weighted_pct": 4.9
+          }
+        ]
+      }
+    ]
+  }
+}

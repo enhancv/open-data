@@ -1,0 +1,668 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q17",
+  "question_prompt": "When you went for your first leadership role, what did you emphasize most about yourself?",
+  "type": "single",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Strategic thinking / vision",
+        "count": 164,
+        "pct": 32.8,
+        "weighted_pct": 33.3
+      },
+      {
+        "answer": "People leadership",
+        "count": 212,
+        "pct": 42.4,
+        "weighted_pct": 41.3
+      },
+      {
+        "answer": "Technical expertise",
+        "count": 88,
+        "pct": 17.6,
+        "weighted_pct": 16.8
+      },
+      {
+        "answer": "Revenue or business results",
+        "count": 22,
+        "pct": 4.4,
+        "weighted_pct": 4.7
+      },
+      {
+        "answer": "Education and credentials",
+        "count": 14,
+        "pct": 2.8,
+        "weighted_pct": 4
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 60,
+            "pct": 30,
+            "weighted_pct": 29.7
+          },
+          {
+            "answer": "People leadership",
+            "count": 91,
+            "pct": 45.5,
+            "weighted_pct": 44.2
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 25,
+            "pct": 12.5,
+            "weighted_pct": 13.3
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 14,
+            "pct": 7,
+            "weighted_pct": 6.7
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 10,
+            "pct": 5,
+            "weighted_pct": 6.1
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 104,
+            "pct": 34.7,
+            "weighted_pct": 37
+          },
+          {
+            "answer": "People leadership",
+            "count": 121,
+            "pct": 40.3,
+            "weighted_pct": 38.4
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 63,
+            "pct": 21,
+            "weighted_pct": 20.3
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 8,
+            "pct": 2.7,
+            "weighted_pct": 2.5
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 4,
+            "pct": 1.3,
+            "weighted_pct": 1.8
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 9,
+            "pct": 39.1,
+            "weighted_pct": 34.5
+          },
+          {
+            "answer": "People leadership",
+            "count": 9,
+            "pct": 39.1,
+            "weighted_pct": 43.2
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 3.5
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 1,
+            "pct": 4.3,
+            "weighted_pct": 5.1
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 3,
+            "pct": 13,
+            "weighted_pct": 13.7
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 48,
+            "pct": 38.1,
+            "weighted_pct": 36.8
+          },
+          {
+            "answer": "People leadership",
+            "count": 53,
+            "pct": 42.1,
+            "weighted_pct": 43.6
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 18,
+            "pct": 14.3,
+            "weighted_pct": 13.2
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 4,
+            "pct": 3.2,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 3,
+            "pct": 2.4,
+            "weighted_pct": 2.8
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 40,
+            "pct": 27.8,
+            "weighted_pct": 27.3
+          },
+          {
+            "answer": "People leadership",
+            "count": 65,
+            "pct": 45.1,
+            "weighted_pct": 45.9
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 30,
+            "pct": 20.8,
+            "weighted_pct": 20.2
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 6,
+            "pct": 4.2,
+            "weighted_pct": 4.2
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 3,
+            "pct": 2.1,
+            "weighted_pct": 2.4
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 43,
+            "pct": 30.1,
+            "weighted_pct": 29.8
+          },
+          {
+            "answer": "People leadership",
+            "count": 66,
+            "pct": 46.2,
+            "weighted_pct": 45.7
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 22,
+            "pct": 15.4,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 8,
+            "pct": 5.6,
+            "weighted_pct": 6.5
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 4,
+            "pct": 2.8,
+            "weighted_pct": 3.8
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 24,
+            "pct": 37.5,
+            "weighted_pct": 37.9
+          },
+          {
+            "answer": "People leadership",
+            "count": 19,
+            "pct": 29.7,
+            "weighted_pct": 28.9
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 17,
+            "pct": 26.6,
+            "weighted_pct": 27.1
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 3,
+            "pct": 4.7,
+            "weighted_pct": 4.3
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 1,
+            "pct": 1.6,
+            "weighted_pct": 1.8
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 26,
+            "pct": 29.9,
+            "weighted_pct": 32
+          },
+          {
+            "answer": "People leadership",
+            "count": 34,
+            "pct": 39.1,
+            "weighted_pct": 34.5
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 23,
+            "pct": 26.4,
+            "weighted_pct": 24.9
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 3,
+            "pct": 3.4,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 1,
+            "pct": 1.1,
+            "weighted_pct": 3.7
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 18,
+            "pct": 36.7,
+            "weighted_pct": 33.2
+          },
+          {
+            "answer": "People leadership",
+            "count": 17,
+            "pct": 34.7,
+            "weighted_pct": 34.8
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 11,
+            "pct": 22.4,
+            "weighted_pct": 23.4
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 1,
+            "pct": 2,
+            "weighted_pct": 2.5
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 2,
+            "pct": 4.1,
+            "weighted_pct": 6.1
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 16,
+            "pct": 51.6,
+            "weighted_pct": 52.1
+          },
+          {
+            "answer": "People leadership",
+            "count": 6,
+            "pct": 19.4,
+            "weighted_pct": 14.9
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 8,
+            "pct": 25.8,
+            "weighted_pct": 28.3
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 1,
+            "pct": 3.2,
+            "weighted_pct": 4.6
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 67,
+            "pct": 31.9,
+            "weighted_pct": 33.9
+          },
+          {
+            "answer": "People leadership",
+            "count": 99,
+            "pct": 47.1,
+            "weighted_pct": 45.3
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 34,
+            "pct": 16.2,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 5,
+            "pct": 2.4,
+            "weighted_pct": 3.1
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 5,
+            "pct": 2.4,
+            "weighted_pct": 2.7
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 34,
+            "pct": 29.3,
+            "weighted_pct": 27.9
+          },
+          {
+            "answer": "People leadership",
+            "count": 53,
+            "pct": 45.7,
+            "weighted_pct": 48
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 12,
+            "pct": 10.3,
+            "weighted_pct": 9.6
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 11,
+            "pct": 9.5,
+            "weighted_pct": 7.8
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 6,
+            "pct": 5.2,
+            "weighted_pct": 6.7
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 32,
+            "pct": 29.4,
+            "weighted_pct": 31.9
+          },
+          {
+            "answer": "People leadership",
+            "count": 52,
+            "pct": 47.7,
+            "weighted_pct": 43.3
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 18,
+            "pct": 16.5,
+            "weighted_pct": 12.9
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 2,
+            "pct": 1.8,
+            "weighted_pct": 2.2
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 5,
+            "pct": 4.6,
+            "weighted_pct": 9.7
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 34,
+            "pct": 32.4,
+            "weighted_pct": 34.5
+          },
+          {
+            "answer": "People leadership",
+            "count": 41,
+            "pct": 39,
+            "weighted_pct": 34.8
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 24,
+            "pct": 22.9,
+            "weighted_pct": 24.9
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 4,
+            "pct": 3.8,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 2,
+            "pct": 1.9,
+            "weighted_pct": 1.8
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 69,
+            "pct": 33.2,
+            "weighted_pct": 29.9
+          },
+          {
+            "answer": "People leadership",
+            "count": 88,
+            "pct": 42.3,
+            "weighted_pct": 45
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 32,
+            "pct": 15.4,
+            "weighted_pct": 15.2
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 12,
+            "pct": 5.8,
+            "weighted_pct": 6.6
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 7,
+            "pct": 3.4,
+            "weighted_pct": 3.2
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "Strategic thinking / vision",
+            "count": 29,
+            "pct": 37.2,
+            "weighted_pct": 43.7
+          },
+          {
+            "answer": "People leadership",
+            "count": 31,
+            "pct": 39.7,
+            "weighted_pct": 36.1
+          },
+          {
+            "answer": "Technical expertise",
+            "count": 14,
+            "pct": 17.9,
+            "weighted_pct": 16
+          },
+          {
+            "answer": "Revenue or business results",
+            "count": 4,
+            "pct": 5.1,
+            "weighted_pct": 4.2
+          },
+          {
+            "answer": "Education and credentials",
+            "count": 0,
+            "pct": 0,
+            "weighted_pct": 0
+          }
+        ]
+      }
+    ]
+  }
+}

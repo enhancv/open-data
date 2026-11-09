@@ -1,0 +1,53 @@
+{
+  "survey": "us_return_to_office_2026",
+  "questions": [
+    {
+      "id": "SQ1",
+      "text": "Has your employer implemented a new or stricter return-to-office policy in the past 12 months?",
+      "type": "single",
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "id": "Q1",
+      "text": "On a scale of 1-100, how much do you trust that your company’s RTO policy is genuinely about 'culture and productivity' rather than reducing headcount?",
+      "type": "scale",
+      "scale": "0–100"
+    },
+    {
+      "id": "Q2",
+      "text": "Do you believe this mandate is a \"Stealth Layoff\" designed to make people quit so the company can avoid paying severance?",
+      "type": "single",
+      "options": [
+        "Yes, I'm certain",
+        "I suspect so",
+        "No",
+        "Not sure"
+      ]
+    },
+    {
+      "id": "Q3",
+      "text": "Have you engaged in \"Coffee Badging\" (going into the office just to swipe your badge/be seen, then leaving early) to meet the requirement?",
+      "type": "single",
+      "options": [
+        "Regularly",
+        "Occasionally",
+        "Never",
+        "My office tracks my hours too strictly"
+      ]
+    },
+    {
+      "id": "Q4",
+      "text": "Which of the following have you done since the mandate was announced? (Select all that apply)",
+      "type": "multi",
+      "options": [
+        "Applied for a new job while at my office desk",
+        "Intentionally reduced my daily output",
+        "Ignored the policy",
+        "Negotiated an exception",
+        "Started a side hustle for extra security"
+      ]
+    }
+  ]
+}

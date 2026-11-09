@@ -1,0 +1,1712 @@
+{
+  "survey": "us_remote_work_social_skills_2026",
+  "id": "Q3",
+  "question_prompt": "In the past 12 months, have you done any of the following because the in-person component felt uncomfortable, exhausting, or anxiety-inducing?",
+  "type": "multi",
+  "overall": {
+    "base": {
+      "n": 1000
+    },
+    "cells": [
+      {
+        "answer": "Declined a job interview that required showing up in person",
+        "count": 125,
+        "pct": 12.5,
+        "weighted_pct": 13.9
+      },
+      {
+        "answer": "Withdrew from a hiring process when I learned it was on-site",
+        "count": 179,
+        "pct": 17.9,
+        "weighted_pct": 19.1
+      },
+      {
+        "answer": "Skipped a professional networking event that could have helped my career",
+        "count": 149,
+        "pct": 14.9,
+        "weighted_pct": 15.1
+      },
+      {
+        "answer": "Avoided applying for a promotion that involves managing people in person",
+        "count": 141,
+        "pct": 14.1,
+        "weighted_pct": 16.2
+      },
+      {
+        "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+        "count": 209,
+        "pct": 20.9,
+        "weighted_pct": 21.2
+      },
+      {
+        "answer": "Skipped a work conference or industry event",
+        "count": 145,
+        "pct": 14.5,
+        "weighted_pct": 15.7
+      },
+      {
+        "answer": "Declined to present, lead a meeting, or speak in front of a group",
+        "count": 101,
+        "pct": 10.1,
+        "weighted_pct": 10.5
+      },
+      {
+        "answer": "Turned down a client-facing assignment",
+        "count": 78,
+        "pct": 7.8,
+        "weighted_pct": 8.2
+      },
+      {
+        "answer": "None of the above",
+        "count": 462,
+        "pct": 46.2,
+        "weighted_pct": 43.2
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 536
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 66,
+            "pct": 12.3,
+            "weighted_pct": 13.9
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 75,
+            "pct": 14,
+            "weighted_pct": 15.6
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 86,
+            "pct": 16,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 71,
+            "pct": 13.2,
+            "weighted_pct": 15.1
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 117,
+            "pct": 21.8,
+            "weighted_pct": 22.5
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 66,
+            "pct": 12.3,
+            "weighted_pct": 13.6
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 51,
+            "pct": 9.5,
+            "weighted_pct": 9.9
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 40,
+            "pct": 7.5,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "None of the above",
+            "count": 264,
+            "pct": 49.3,
+            "weighted_pct": 46.1
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 464
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 59,
+            "pct": 12.7,
+            "weighted_pct": 13.9
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 104,
+            "pct": 22.4,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 63,
+            "pct": 13.6,
+            "weighted_pct": 13
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 70,
+            "pct": 15.1,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 92,
+            "pct": 19.8,
+            "weighted_pct": 19.9
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 79,
+            "pct": 17,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 50,
+            "pct": 10.8,
+            "weighted_pct": 11.1
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 38,
+            "pct": 8.2,
+            "weighted_pct": 9
+          },
+          {
+            "answer": "None of the above",
+            "count": 198,
+            "pct": 42.7,
+            "weighted_pct": 40.2
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 45
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 9,
+            "pct": 20,
+            "weighted_pct": 20
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 10,
+            "pct": 22.2,
+            "weighted_pct": 22.2
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 8,
+            "pct": 17.8,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 13,
+            "pct": 28.9,
+            "weighted_pct": 28.9
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 9,
+            "pct": 20,
+            "weighted_pct": 20
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 9,
+            "pct": 20,
+            "weighted_pct": 20
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 6,
+            "pct": 13.3,
+            "weighted_pct": 13.3
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 4,
+            "pct": 8.9,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "None of the above",
+            "count": 14,
+            "pct": 31.1,
+            "weighted_pct": 31.1
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 166
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 36,
+            "pct": 21.7,
+            "weighted_pct": 22
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 45,
+            "pct": 27.1,
+            "weighted_pct": 27
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 28,
+            "pct": 16.9,
+            "weighted_pct": 17
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 39,
+            "pct": 23.5,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 45,
+            "pct": 27.1,
+            "weighted_pct": 27.1
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 35,
+            "pct": 21.1,
+            "weighted_pct": 21.5
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 22,
+            "pct": 13.3,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 17,
+            "pct": 10.2,
+            "weighted_pct": 11.4
+          },
+          {
+            "answer": "None of the above",
+            "count": 49,
+            "pct": 29.5,
+            "weighted_pct": 28.6
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 285
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 43,
+            "pct": 15.1,
+            "weighted_pct": 14.9
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 71,
+            "pct": 24.9,
+            "weighted_pct": 25.7
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 46,
+            "pct": 16.1,
+            "weighted_pct": 15.9
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 46,
+            "pct": 16.1,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 81,
+            "pct": 28.4,
+            "weighted_pct": 28.4
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 41,
+            "pct": 14.4,
+            "weighted_pct": 14.4
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 38,
+            "pct": 13.3,
+            "weighted_pct": 13.4
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 32,
+            "pct": 11.2,
+            "weighted_pct": 10.8
+          },
+          {
+            "answer": "None of the above",
+            "count": 109,
+            "pct": 38.2,
+            "weighted_pct": 37.5
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 268
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 24,
+            "pct": 9,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 36,
+            "pct": 13.4,
+            "weighted_pct": 13.7
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 49,
+            "pct": 18.3,
+            "weighted_pct": 18.5
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 29,
+            "pct": 10.8,
+            "weighted_pct": 10.5
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 41,
+            "pct": 15.3,
+            "weighted_pct": 15.7
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 38,
+            "pct": 14.2,
+            "weighted_pct": 14.4
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 27,
+            "pct": 10.1,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 14,
+            "pct": 5.2,
+            "weighted_pct": 5.3
+          },
+          {
+            "answer": "None of the above",
+            "count": 137,
+            "pct": 51.1,
+            "weighted_pct": 50.5
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 236
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 13,
+            "pct": 5.5,
+            "weighted_pct": 5.7
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 17,
+            "pct": 7.2,
+            "weighted_pct": 7.8
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 18,
+            "pct": 7.6,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 14,
+            "pct": 5.9,
+            "weighted_pct": 6.1
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 33,
+            "pct": 14,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 22,
+            "pct": 9.3,
+            "weighted_pct": 9.6
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 8,
+            "pct": 3.4,
+            "weighted_pct": 3.6
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 11,
+            "pct": 4.7,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "None of the above",
+            "count": 153,
+            "pct": 64.8,
+            "weighted_pct": 64.3
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 177
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 16,
+            "pct": 9,
+            "weighted_pct": 7.9
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 34,
+            "pct": 19.2,
+            "weighted_pct": 22.2
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 31,
+            "pct": 17.5,
+            "weighted_pct": 18.8
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 28,
+            "pct": 15.8,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 39,
+            "pct": 22,
+            "weighted_pct": 21.3
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 21,
+            "pct": 11.9,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 21,
+            "pct": 11.9,
+            "weighted_pct": 12.8
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 13,
+            "pct": 7.3,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "None of the above",
+            "count": 86,
+            "pct": 48.6,
+            "weighted_pct": 45.2
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 84
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 9,
+            "pct": 10.7,
+            "weighted_pct": 9.9
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 18,
+            "pct": 21.4,
+            "weighted_pct": 20.1
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 15,
+            "pct": 17.9,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 16,
+            "pct": 19,
+            "weighted_pct": 17.7
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 26,
+            "pct": 31,
+            "weighted_pct": 30.5
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 19,
+            "pct": 22.6,
+            "weighted_pct": 23.8
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 14,
+            "pct": 16.7,
+            "weighted_pct": 15.1
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 9,
+            "pct": 10.7,
+            "weighted_pct": 9.3
+          },
+          {
+            "answer": "None of the above",
+            "count": 31,
+            "pct": 36.9,
+            "weighted_pct": 35.5
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 70
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 10,
+            "pct": 14.3,
+            "weighted_pct": 17.6
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 9,
+            "pct": 12.9,
+            "weighted_pct": 12.4
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 9,
+            "pct": 12.9,
+            "weighted_pct": 13.5
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 6,
+            "pct": 8.6,
+            "weighted_pct": 7.6
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 15,
+            "pct": 21.4,
+            "weighted_pct": 20.2
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 10,
+            "pct": 14.3,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 1,
+            "pct": 1.4,
+            "weighted_pct": 4.2
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 4,
+            "pct": 5.7,
+            "weighted_pct": 4.9
+          },
+          {
+            "answer": "None of the above",
+            "count": 35,
+            "pct": 50,
+            "weighted_pct": 47.5
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 379
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 51,
+            "pct": 13.5,
+            "weighted_pct": 14.7
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 65,
+            "pct": 17.2,
+            "weighted_pct": 18.3
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 55,
+            "pct": 14.5,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 49,
+            "pct": 12.9,
+            "weighted_pct": 16.1
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 79,
+            "pct": 20.8,
+            "weighted_pct": 22.8
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 55,
+            "pct": 14.5,
+            "weighted_pct": 16.4
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 38,
+            "pct": 10,
+            "weighted_pct": 11.3
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 25,
+            "pct": 6.6,
+            "weighted_pct": 7.3
+          },
+          {
+            "answer": "None of the above",
+            "count": 173,
+            "pct": 45.6,
+            "weighted_pct": 42.2
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 18
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 1,
+            "pct": 5.6,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 2,
+            "pct": 11.1,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 2,
+            "pct": 11.1,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 1,
+            "pct": 5.6,
+            "weighted_pct": 3.3
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 3,
+            "pct": 16.7,
+            "weighted_pct": 21.7
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 4,
+            "pct": 22.2,
+            "weighted_pct": 16.4
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 2,
+            "pct": 11.1,
+            "weighted_pct": 7.5
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 2,
+            "pct": 11.1,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "None of the above",
+            "count": 12,
+            "pct": 66.7,
+            "weighted_pct": 64.4
+          }
+        ]
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 272
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 38,
+            "pct": 14,
+            "weighted_pct": 16.6
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 51,
+            "pct": 18.8,
+            "weighted_pct": 19.8
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 37,
+            "pct": 13.6,
+            "weighted_pct": 11.9
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 41,
+            "pct": 15.1,
+            "weighted_pct": 17.6
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 47,
+            "pct": 17.3,
+            "weighted_pct": 16.8
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 36,
+            "pct": 13.2,
+            "weighted_pct": 14.5
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 25,
+            "pct": 9.2,
+            "weighted_pct": 8.5
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 25,
+            "pct": 9.2,
+            "weighted_pct": 9
+          },
+          {
+            "answer": "None of the above",
+            "count": 125,
+            "pct": 46,
+            "weighted_pct": 43.2
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "group": "Associates Degree",
+        "base": {
+          "n": 133
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 17,
+            "pct": 12.8,
+            "weighted_pct": 15.5
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 26,
+            "pct": 19.5,
+            "weighted_pct": 21
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 17,
+            "pct": 12.8,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 15,
+            "pct": 11.3,
+            "weighted_pct": 14.8
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 28,
+            "pct": 21.1,
+            "weighted_pct": 20.4
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 14,
+            "pct": 10.5,
+            "weighted_pct": 10.3
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 10,
+            "pct": 7.5,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 11,
+            "pct": 8.3,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "None of the above",
+            "count": 60,
+            "pct": 45.1,
+            "weighted_pct": 42.5
+          }
+        ]
+      },
+      {
+        "group": "Bachelor's degree",
+        "base": {
+          "n": 317
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 40,
+            "pct": 12.6,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 62,
+            "pct": 19.6,
+            "weighted_pct": 21
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 54,
+            "pct": 17,
+            "weighted_pct": 17.2
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 49,
+            "pct": 15.5,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 75,
+            "pct": 23.7,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 53,
+            "pct": 16.7,
+            "weighted_pct": 19
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 32,
+            "pct": 10.1,
+            "weighted_pct": 10.3
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 21,
+            "pct": 6.6,
+            "weighted_pct": 6.8
+          },
+          {
+            "answer": "None of the above",
+            "count": 148,
+            "pct": 46.7,
+            "weighted_pct": 42.9
+          }
+        ]
+      },
+      {
+        "group": "Completed some college",
+        "base": {
+          "n": 145
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 22,
+            "pct": 15.2,
+            "weighted_pct": 14.9
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 20,
+            "pct": 13.8,
+            "weighted_pct": 14.8
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 19,
+            "pct": 13.1,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 16,
+            "pct": 11,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 24,
+            "pct": 16.6,
+            "weighted_pct": 15.9
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 17,
+            "pct": 11.7,
+            "weighted_pct": 13
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 16,
+            "pct": 11,
+            "weighted_pct": 11
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 14,
+            "pct": 9.7,
+            "weighted_pct": 9.6
+          },
+          {
+            "answer": "None of the above",
+            "count": 72,
+            "pct": 49.7,
+            "weighted_pct": 45.8
+          }
+        ]
+      },
+      {
+        "group": "Completed some high school",
+        "base": {
+          "n": 22
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 1,
+            "pct": 4.5,
+            "weighted_pct": 3.3
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 1,
+            "pct": 4.5,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 2,
+            "pct": 9.1,
+            "weighted_pct": 7.8
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 2,
+            "pct": 9.1,
+            "weighted_pct": 8.4
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 6,
+            "pct": 27.3,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 1,
+            "pct": 4.5,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 1,
+            "pct": 4.5,
+            "weighted_pct": 3.9
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 2,
+            "pct": 9.1,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "None of the above",
+            "count": 14,
+            "pct": 63.6,
+            "weighted_pct": 67.5
+          }
+        ]
+      },
+      {
+        "group": "Completed some postgraduate",
+        "base": {
+          "n": 15
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 3,
+            "pct": 20,
+            "weighted_pct": 19.7
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 1,
+            "pct": 6.7,
+            "weighted_pct": 6.6
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 1,
+            "pct": 6.7,
+            "weighted_pct": 16.4
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 2,
+            "pct": 13.3,
+            "weighted_pct": 10.2
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 4,
+            "pct": 26.7,
+            "weighted_pct": 31.9
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 3,
+            "pct": 20,
+            "weighted_pct": 14.5
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 3,
+            "pct": 20,
+            "weighted_pct": 22.5
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 1,
+            "pct": 6.7,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "None of the above",
+            "count": 3,
+            "pct": 20,
+            "weighted_pct": 16.1
+          }
+        ]
+      },
+      {
+        "group": "Doctorate /PhD",
+        "base": {
+          "n": 33
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 4,
+            "pct": 12.1,
+            "weighted_pct": 11.1
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 6,
+            "pct": 18.2,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 6,
+            "pct": 18.2,
+            "weighted_pct": 15.8
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 6,
+            "pct": 18.2,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 7,
+            "pct": 21.2,
+            "weighted_pct": 22.1
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 8,
+            "pct": 24.2,
+            "weighted_pct": 22.9
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 3,
+            "pct": 9.1,
+            "weighted_pct": 7.2
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 2,
+            "pct": 6.1,
+            "weighted_pct": 4.8
+          },
+          {
+            "answer": "None of the above",
+            "count": 14,
+            "pct": 42.4,
+            "weighted_pct": 46.5
+          }
+        ]
+      },
+      {
+        "group": "Elementary School",
+        "base": {
+          "n": 1
+        },
+        "suppressed": true
+      },
+      {
+        "group": "High school graduate",
+        "base": {
+          "n": 164
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 17,
+            "pct": 10.4,
+            "weighted_pct": 12.5
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 31,
+            "pct": 18.9,
+            "weighted_pct": 21.3
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 19,
+            "pct": 11.6,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 28,
+            "pct": 17.1,
+            "weighted_pct": 20.7
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 25,
+            "pct": 15.2,
+            "weighted_pct": 16.3
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 23,
+            "pct": 14,
+            "weighted_pct": 15.7
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 16,
+            "pct": 9.8,
+            "weighted_pct": 10.7
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 11,
+            "pct": 6.7,
+            "weighted_pct": 7
+          },
+          {
+            "answer": "None of the above",
+            "count": 80,
+            "pct": 48.8,
+            "weighted_pct": 43.6
+          }
+        ]
+      },
+      {
+        "group": "Masters degree",
+        "base": {
+          "n": 127
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 17,
+            "pct": 13.4,
+            "weighted_pct": 16.7
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 28,
+            "pct": 22,
+            "weighted_pct": 22.3
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 24,
+            "pct": 18.9,
+            "weighted_pct": 20.1
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 18,
+            "pct": 14.2,
+            "weighted_pct": 13.2
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 32,
+            "pct": 25.2,
+            "weighted_pct": 25.3
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 21,
+            "pct": 16.5,
+            "weighted_pct": 17.4
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 17,
+            "pct": 13.4,
+            "weighted_pct": 14.4
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 14,
+            "pct": 11,
+            "weighted_pct": 11.7
+          },
+          {
+            "answer": "None of the above",
+            "count": 47,
+            "pct": 37,
+            "weighted_pct": 36.4
+          }
+        ]
+      },
+      {
+        "group": "Middle School",
+        "base": {
+          "n": 5
+        },
+        "suppressed": true
+      },
+      {
+        "group": "None of the above/Prefer not to answer",
+        "base": {
+          "n": 2
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Other post high school vocational training",
+        "base": {
+          "n": 36
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 2,
+            "pct": 5.6,
+            "weighted_pct": 4.8
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 2,
+            "pct": 5.6,
+            "weighted_pct": 4.7
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 6,
+            "pct": 16.7,
+            "weighted_pct": 18.1
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 4,
+            "pct": 11.1,
+            "weighted_pct": 10
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 7,
+            "pct": 19.4,
+            "weighted_pct": 18.7
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 4,
+            "pct": 11.1,
+            "weighted_pct": 11.2
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 1,
+            "pct": 2.8,
+            "weighted_pct": 2.7
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 1,
+            "pct": 2.8,
+            "weighted_pct": 2.7
+          },
+          {
+            "answer": "None of the above",
+            "count": 19,
+            "pct": 52.8,
+            "weighted_pct": 51.9
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 221
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 25,
+            "pct": 11.3,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 38,
+            "pct": 17.2,
+            "weighted_pct": 17.6
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 36,
+            "pct": 16.3,
+            "weighted_pct": 18.9
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 34,
+            "pct": 15.4,
+            "weighted_pct": 17.9
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 51,
+            "pct": 23.1,
+            "weighted_pct": 20.9
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 29,
+            "pct": 13.1,
+            "weighted_pct": 12.8
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 18,
+            "pct": 8.1,
+            "weighted_pct": 8.8
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 12,
+            "pct": 5.4,
+            "weighted_pct": 5.6
+          },
+          {
+            "answer": "None of the above",
+            "count": 103,
+            "pct": 46.6,
+            "weighted_pct": 44.1
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 238
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 26,
+            "pct": 10.9,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 37,
+            "pct": 15.5,
+            "weighted_pct": 18.7
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 30,
+            "pct": 12.6,
+            "weighted_pct": 13.5
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 25,
+            "pct": 10.5,
+            "weighted_pct": 12.6
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 54,
+            "pct": 22.7,
+            "weighted_pct": 25.6
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 37,
+            "pct": 15.5,
+            "weighted_pct": 19.2
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 17,
+            "pct": 7.1,
+            "weighted_pct": 8.5
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 21,
+            "pct": 8.8,
+            "weighted_pct": 11.1
+          },
+          {
+            "answer": "None of the above",
+            "count": 113,
+            "pct": 47.5,
+            "weighted_pct": 42.2
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 375
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 52,
+            "pct": 13.9,
+            "weighted_pct": 14.8
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 67,
+            "pct": 17.9,
+            "weighted_pct": 18.8
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 54,
+            "pct": 14.4,
+            "weighted_pct": 12.8
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 44,
+            "pct": 11.7,
+            "weighted_pct": 14.2
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 71,
+            "pct": 18.9,
+            "weighted_pct": 19.1
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 51,
+            "pct": 13.6,
+            "weighted_pct": 14.6
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 41,
+            "pct": 10.9,
+            "weighted_pct": 10.5
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 30,
+            "pct": 8,
+            "weighted_pct": 7.4
+          },
+          {
+            "answer": "None of the above",
+            "count": 173,
+            "pct": 46.1,
+            "weighted_pct": 44
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 166
+        },
+        "cells": [
+          {
+            "answer": "Declined a job interview that required showing up in person",
+            "count": 22,
+            "pct": 13.3,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "Withdrew from a hiring process when I learned it was on-site",
+            "count": 37,
+            "pct": 22.3,
+            "weighted_pct": 22.7
+          },
+          {
+            "answer": "Skipped a professional networking event that could have helped my career",
+            "count": 29,
+            "pct": 17.5,
+            "weighted_pct": 17.8
+          },
+          {
+            "answer": "Avoided applying for a promotion that involves managing people in person",
+            "count": 38,
+            "pct": 22.9,
+            "weighted_pct": 24.3
+          },
+          {
+            "answer": "Avoided applying for a role with any in-office or hybrid requirements",
+            "count": 33,
+            "pct": 19.9,
+            "weighted_pct": 20.2
+          },
+          {
+            "answer": "Skipped a work conference or industry event",
+            "count": 28,
+            "pct": 16.9,
+            "weighted_pct": 17.3
+          },
+          {
+            "answer": "Declined to present, lead a meeting, or speak in front of a group",
+            "count": 25,
+            "pct": 15.1,
+            "weighted_pct": 15.8
+          },
+          {
+            "answer": "Turned down a client-facing assignment",
+            "count": 15,
+            "pct": 9,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "None of the above",
+            "count": 73,
+            "pct": 44,
+            "weighted_pct": 41.5
+          }
+        ]
+      }
+    ]
+  }
+}

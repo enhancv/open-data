@@ -1,0 +1,872 @@
+{
+  "survey": "us_leadership_journey_2026",
+  "id": "Q15",
+  "question_prompt": "What, if anything, delayed the handover?",
+  "type": "multi",
+  "overall": {
+    "base": {
+      "n": 500
+    },
+    "cells": [
+      {
+        "answer": "Predecessor was still in place",
+        "count": 71,
+        "pct": 14.2,
+        "weighted_pct": 13.7
+      },
+      {
+        "answer": "Probation period",
+        "count": 108,
+        "pct": 21.6,
+        "weighted_pct": 21.3
+      },
+      {
+        "answer": "Formal approval (board, investors, HQ)",
+        "count": 73,
+        "pct": 14.6,
+        "weighted_pct": 14.9
+      },
+      {
+        "answer": "Learning the business",
+        "count": 146,
+        "pct": 29.2,
+        "weighted_pct": 28.6
+      },
+      {
+        "answer": "Building trust with the team",
+        "count": 137,
+        "pct": 27.4,
+        "weighted_pct": 25.2
+      },
+      {
+        "answer": "Reorganization",
+        "count": 78,
+        "pct": 15.6,
+        "weighted_pct": 15.3
+      },
+      {
+        "answer": "Nothing delayed it",
+        "count": 161,
+        "pct": 32.2,
+        "weighted_pct": 33.8
+      }
+    ]
+  },
+  "crosstabs": {
+    "gender": [
+      {
+        "group": "Female",
+        "base": {
+          "n": 200
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 26,
+            "pct": 13,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Probation period",
+            "count": 41,
+            "pct": 20.5,
+            "weighted_pct": 21.1
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 21,
+            "pct": 10.5,
+            "weighted_pct": 12.3
+          },
+          {
+            "answer": "Learning the business",
+            "count": 57,
+            "pct": 28.5,
+            "weighted_pct": 27.8
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 46,
+            "pct": 23,
+            "weighted_pct": 21
+          },
+          {
+            "answer": "Reorganization",
+            "count": 34,
+            "pct": 17,
+            "weighted_pct": 15.5
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 70,
+            "pct": 35,
+            "weighted_pct": 37
+          }
+        ]
+      },
+      {
+        "group": "Male",
+        "base": {
+          "n": 300
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 45,
+            "pct": 15,
+            "weighted_pct": 14.3
+          },
+          {
+            "answer": "Probation period",
+            "count": 67,
+            "pct": 22.3,
+            "weighted_pct": 21.5
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 52,
+            "pct": 17.3,
+            "weighted_pct": 17.6
+          },
+          {
+            "answer": "Learning the business",
+            "count": 89,
+            "pct": 29.7,
+            "weighted_pct": 29.5
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 91,
+            "pct": 30.3,
+            "weighted_pct": 29.5
+          },
+          {
+            "answer": "Reorganization",
+            "count": 44,
+            "pct": 14.7,
+            "weighted_pct": 15.1
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 91,
+            "pct": 30.3,
+            "weighted_pct": 30.4
+          }
+        ]
+      }
+    ],
+    "age_band": [
+      {
+        "group": "18–24",
+        "base": {
+          "n": 23
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 2,
+            "pct": 8.7,
+            "weighted_pct": 8.6
+          },
+          {
+            "answer": "Probation period",
+            "count": 7,
+            "pct": 30.4,
+            "weighted_pct": 31.4
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 7,
+            "pct": 30.4,
+            "weighted_pct": 33.1
+          },
+          {
+            "answer": "Learning the business",
+            "count": 9,
+            "pct": 39.1,
+            "weighted_pct": 39.4
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 6,
+            "pct": 26.1,
+            "weighted_pct": 28
+          },
+          {
+            "answer": "Reorganization",
+            "count": 3,
+            "pct": 13,
+            "weighted_pct": 12
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 7,
+            "pct": 30.4,
+            "weighted_pct": 30.8
+          }
+        ]
+      },
+      {
+        "group": "25–34",
+        "base": {
+          "n": 126
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 22,
+            "pct": 17.5,
+            "weighted_pct": 17.1
+          },
+          {
+            "answer": "Probation period",
+            "count": 28,
+            "pct": 22.2,
+            "weighted_pct": 22.1
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 17,
+            "pct": 13.5,
+            "weighted_pct": 13.2
+          },
+          {
+            "answer": "Learning the business",
+            "count": 51,
+            "pct": 40.5,
+            "weighted_pct": 41.2
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 38,
+            "pct": 30.2,
+            "weighted_pct": 30.3
+          },
+          {
+            "answer": "Reorganization",
+            "count": 26,
+            "pct": 20.6,
+            "weighted_pct": 19.4
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 34,
+            "pct": 27,
+            "weighted_pct": 26.6
+          }
+        ]
+      },
+      {
+        "group": "35–44",
+        "base": {
+          "n": 144
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 23,
+            "pct": 16,
+            "weighted_pct": 16.5
+          },
+          {
+            "answer": "Probation period",
+            "count": 28,
+            "pct": 19.4,
+            "weighted_pct": 19.5
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 28,
+            "pct": 19.4,
+            "weighted_pct": 18.9
+          },
+          {
+            "answer": "Learning the business",
+            "count": 42,
+            "pct": 29.2,
+            "weighted_pct": 28.8
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 42,
+            "pct": 29.2,
+            "weighted_pct": 28.2
+          },
+          {
+            "answer": "Reorganization",
+            "count": 25,
+            "pct": 17.4,
+            "weighted_pct": 18.3
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 44,
+            "pct": 30.6,
+            "weighted_pct": 30.1
+          }
+        ]
+      },
+      {
+        "group": "45–54",
+        "base": {
+          "n": 143
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 15,
+            "pct": 10.5,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "Probation period",
+            "count": 37,
+            "pct": 25.9,
+            "weighted_pct": 24.8
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 14,
+            "pct": 9.8,
+            "weighted_pct": 8.7
+          },
+          {
+            "answer": "Learning the business",
+            "count": 34,
+            "pct": 23.8,
+            "weighted_pct": 23.4
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 41,
+            "pct": 28.7,
+            "weighted_pct": 27.1
+          },
+          {
+            "answer": "Reorganization",
+            "count": 15,
+            "pct": 10.5,
+            "weighted_pct": 11
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 49,
+            "pct": 34.3,
+            "weighted_pct": 36.4
+          }
+        ]
+      },
+      {
+        "group": "55–64",
+        "base": {
+          "n": 64
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 9,
+            "pct": 14.1,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Probation period",
+            "count": 8,
+            "pct": 12.5,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 7,
+            "pct": 10.9,
+            "weighted_pct": 8.9
+          },
+          {
+            "answer": "Learning the business",
+            "count": 10,
+            "pct": 15.6,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 10,
+            "pct": 15.6,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Reorganization",
+            "count": 9,
+            "pct": 14.1,
+            "weighted_pct": 14
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 27,
+            "pct": 42.2,
+            "weighted_pct": 44.2
+          }
+        ]
+      }
+    ],
+    "household_income": [
+      {
+        "group": "$100,000–$149,999",
+        "base": {
+          "n": 87
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 13,
+            "pct": 14.9,
+            "weighted_pct": 13.6
+          },
+          {
+            "answer": "Probation period",
+            "count": 24,
+            "pct": 27.6,
+            "weighted_pct": 28.5
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 19,
+            "pct": 21.8,
+            "weighted_pct": 20.6
+          },
+          {
+            "answer": "Learning the business",
+            "count": 33,
+            "pct": 37.9,
+            "weighted_pct": 33.5
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 22,
+            "pct": 25.3,
+            "weighted_pct": 19.8
+          },
+          {
+            "answer": "Reorganization",
+            "count": 18,
+            "pct": 20.7,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 28,
+            "pct": 32.2,
+            "weighted_pct": 33.5
+          }
+        ]
+      },
+      {
+        "group": "$150,000–$199,999",
+        "base": {
+          "n": 49
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 5,
+            "pct": 10.2,
+            "weighted_pct": 13.8
+          },
+          {
+            "answer": "Probation period",
+            "count": 3,
+            "pct": 6.1,
+            "weighted_pct": 4.5
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 6,
+            "pct": 12.2,
+            "weighted_pct": 14
+          },
+          {
+            "answer": "Learning the business",
+            "count": 16,
+            "pct": 32.7,
+            "weighted_pct": 29.6
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 16,
+            "pct": 32.7,
+            "weighted_pct": 30.2
+          },
+          {
+            "answer": "Reorganization",
+            "count": 7,
+            "pct": 14.3,
+            "weighted_pct": 14.5
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 19,
+            "pct": 38.8,
+            "weighted_pct": 45.1
+          }
+        ]
+      },
+      {
+        "group": "$200,000+",
+        "base": {
+          "n": 31
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 6,
+            "pct": 19.4,
+            "weighted_pct": 17.2
+          },
+          {
+            "answer": "Probation period",
+            "count": 3,
+            "pct": 9.7,
+            "weighted_pct": 8
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 4,
+            "pct": 12.9,
+            "weighted_pct": 9.7
+          },
+          {
+            "answer": "Learning the business",
+            "count": 10,
+            "pct": 32.3,
+            "weighted_pct": 31
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 10,
+            "pct": 32.3,
+            "weighted_pct": 26.4
+          },
+          {
+            "answer": "Reorganization",
+            "count": 5,
+            "pct": 16.1,
+            "weighted_pct": 19.4
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 10,
+            "pct": 32.3,
+            "weighted_pct": 35.3
+          }
+        ]
+      },
+      {
+        "group": "$50,000–$99,999",
+        "base": {
+          "n": 210
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 32,
+            "pct": 15.2,
+            "weighted_pct": 15
+          },
+          {
+            "answer": "Probation period",
+            "count": 46,
+            "pct": 21.9,
+            "weighted_pct": 22.3
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 29,
+            "pct": 13.8,
+            "weighted_pct": 14
+          },
+          {
+            "answer": "Learning the business",
+            "count": 57,
+            "pct": 27.1,
+            "weighted_pct": 28
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 55,
+            "pct": 26.2,
+            "weighted_pct": 23.9
+          },
+          {
+            "answer": "Reorganization",
+            "count": 34,
+            "pct": 16.2,
+            "weighted_pct": 17
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 55,
+            "pct": 26.2,
+            "weighted_pct": 25.1
+          }
+        ]
+      },
+      {
+        "group": "Prefer not to say",
+        "base": {
+          "n": 7
+        },
+        "suppressed": true
+      },
+      {
+        "group": "Under $50,000",
+        "base": {
+          "n": 116
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 14,
+            "pct": 12.1,
+            "weighted_pct": 10.3
+          },
+          {
+            "answer": "Probation period",
+            "count": 30,
+            "pct": 25.9,
+            "weighted_pct": 24.1
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 14,
+            "pct": 12.1,
+            "weighted_pct": 14
+          },
+          {
+            "answer": "Learning the business",
+            "count": 27,
+            "pct": 23.3,
+            "weighted_pct": 24.3
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 32,
+            "pct": 27.6,
+            "weighted_pct": 28.1
+          },
+          {
+            "answer": "Reorganization",
+            "count": 13,
+            "pct": 11.2,
+            "weighted_pct": 9.6
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 46,
+            "pct": 39.7,
+            "weighted_pct": 43.4
+          }
+        ]
+      }
+    ],
+    "us_region": [
+      {
+        "group": "Midwest",
+        "base": {
+          "n": 109
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 11,
+            "pct": 10.1,
+            "weighted_pct": 10.4
+          },
+          {
+            "answer": "Probation period",
+            "count": 24,
+            "pct": 22,
+            "weighted_pct": 24.3
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 8,
+            "pct": 7.3,
+            "weighted_pct": 6.6
+          },
+          {
+            "answer": "Learning the business",
+            "count": 31,
+            "pct": 28.4,
+            "weighted_pct": 24.7
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 23,
+            "pct": 21.1,
+            "weighted_pct": 15.9
+          },
+          {
+            "answer": "Reorganization",
+            "count": 16,
+            "pct": 14.7,
+            "weighted_pct": 11.8
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 40,
+            "pct": 36.7,
+            "weighted_pct": 39.6
+          }
+        ]
+      },
+      {
+        "group": "Northeast",
+        "base": {
+          "n": 105
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 15,
+            "pct": 14.3,
+            "weighted_pct": 13.1
+          },
+          {
+            "answer": "Probation period",
+            "count": 28,
+            "pct": 26.7,
+            "weighted_pct": 26.5
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 15,
+            "pct": 14.3,
+            "weighted_pct": 12.1
+          },
+          {
+            "answer": "Learning the business",
+            "count": 35,
+            "pct": 33.3,
+            "weighted_pct": 31.9
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 33,
+            "pct": 31.4,
+            "weighted_pct": 27.9
+          },
+          {
+            "answer": "Reorganization",
+            "count": 17,
+            "pct": 16.2,
+            "weighted_pct": 16.6
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 29,
+            "pct": 27.6,
+            "weighted_pct": 30
+          }
+        ]
+      },
+      {
+        "group": "South",
+        "base": {
+          "n": 208
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 29,
+            "pct": 13.9,
+            "weighted_pct": 14.1
+          },
+          {
+            "answer": "Probation period",
+            "count": 42,
+            "pct": 20.2,
+            "weighted_pct": 18.6
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 37,
+            "pct": 17.8,
+            "weighted_pct": 20.8
+          },
+          {
+            "answer": "Learning the business",
+            "count": 61,
+            "pct": 29.3,
+            "weighted_pct": 30.6
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 62,
+            "pct": 29.8,
+            "weighted_pct": 29.5
+          },
+          {
+            "answer": "Reorganization",
+            "count": 38,
+            "pct": 18.3,
+            "weighted_pct": 18.4
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 64,
+            "pct": 30.8,
+            "weighted_pct": 31.5
+          }
+        ]
+      },
+      {
+        "group": "West",
+        "base": {
+          "n": 78
+        },
+        "cells": [
+          {
+            "answer": "Predecessor was still in place",
+            "count": 16,
+            "pct": 20.5,
+            "weighted_pct": 18.9
+          },
+          {
+            "answer": "Probation period",
+            "count": 14,
+            "pct": 17.9,
+            "weighted_pct": 16.6
+          },
+          {
+            "answer": "Formal approval (board, investors, HQ)",
+            "count": 13,
+            "pct": 16.7,
+            "weighted_pct": 15.3
+          },
+          {
+            "answer": "Learning the business",
+            "count": 19,
+            "pct": 24.4,
+            "weighted_pct": 24.5
+          },
+          {
+            "answer": "Building trust with the team",
+            "count": 19,
+            "pct": 24.4,
+            "weighted_pct": 23.7
+          },
+          {
+            "answer": "Reorganization",
+            "count": 7,
+            "pct": 9,
+            "weighted_pct": 9.9
+          },
+          {
+            "answer": "Nothing delayed it",
+            "count": 28,
+            "pct": 35.9,
+            "weighted_pct": 36.1
+          }
+        ]
+      }
+    ]
+  }
+}

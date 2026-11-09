@@ -1,0 +1,87 @@
+{
+  "slug": "us_resume_builder_head_to_head_2026",
+  "title": "Enhancv vs. Competitors: Head-to-Head Resume Builder Study, 2026",
+  "country": "US",
+  "year": 2026,
+  "fieldwork_start": "2026-02-25",
+  "fieldwork_end": "2026-10-28",
+  "sample_n": 210,
+  "vendor": "Respondent.io (recruitment); an independent third-party moderator ran the sessions",
+  "method": "Moderated one-on-one remote sessions of up to 60 minutes. Each participant imported their own current resume into Enhancv and one competing builder, used each tool for about 20 minutes while thinking aloud, then answered the same comparison questions. Tool order varied across sessions.",
+  "population": "Experienced US professionals and senior leaders with an existing resume",
+  "primary_outcome": {
+    "question_id": "F1",
+    "answers": [
+      "Enhancv",
+      "Competitor"
+    ]
+  },
+  "matchups": [
+    {
+      "code": "ZT",
+      "matchup": "Enhancv vs Zety",
+      "competitor": "Zety",
+      "n": 30,
+      "fieldwork_start": "2026-02-25",
+      "fieldwork_end": "2026-03-13"
+    },
+    {
+      "code": "MP",
+      "matchup": "Enhancv vs MyPerfectResume",
+      "competitor": "MyPerfectResume",
+      "n": 30,
+      "fieldwork_start": "2026-03-13",
+      "fieldwork_end": "2026-04-02"
+    },
+    {
+      "code": "RG",
+      "matchup": "Enhancv vs ResumeGenius",
+      "competitor": "ResumeGenius",
+      "n": 30,
+      "fieldwork_start": "2026-04-02",
+      "fieldwork_end": "2026-04-21"
+    },
+    {
+      "code": "TL",
+      "matchup": "Enhancv vs Teal",
+      "competitor": "Teal",
+      "n": 30,
+      "fieldwork_start": "2026-04-23",
+      "fieldwork_end": "2026-05-11"
+    },
+    {
+      "code": "RI",
+      "matchup": "Enhancv vs Resume.io",
+      "competitor": "Resume.io",
+      "n": 30,
+      "fieldwork_start": "2026-05-28",
+      "fieldwork_end": "2026-07-01"
+    },
+    {
+      "code": "KR",
+      "matchup": "Enhancv vs Kickresume",
+      "competitor": "Kickresume",
+      "n": 30,
+      "fieldwork_start": "2026-08-31",
+      "fieldwork_end": "2026-09-18"
+    },
+    {
+      "code": "NR",
+      "matchup": "Enhancv vs Novorésumé",
+      "competitor": "Novorésumé",
+      "n": 30,
+      "fieldwork_start": "2026-09-21",
+      "fieldwork_end": "2026-10-28"
+    }
+  ],
+  "notes": "Each participant compared Enhancv with one competitor. 30 participants per matchup.",
+  "topic_tags": [
+    "resume builders",
+    "user research",
+    "head-to-head comparison",
+    "AI resume tools",
+    "job search"
+  ],
+  "transcripts": "transcripts/ holds one anonymized transcript per participant (JSON), listed in transcripts/index.json.",
+  "published_report": "https://enhancv.com/blog/best-resume-builders/"
+}
