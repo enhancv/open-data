@@ -14,11 +14,43 @@ Newest first:
 | US Leadership Journey Survey, 2026 | `us_leadership_journey_2026/` | 500 | Sep 2026 | Pollfish | responses, results |
 | US Recruiter Survey on Hiring Seasonality, 2026 | `us_recruiter_hiring_seasonality_2026/` | 500 | Sep 2026 | Pollfish | responses, results |
 | US Remote Work and Social Skills Survey, 2026 | `us_remote_work_social_skills_2026/` | 1,000 | Jun 2026 | Pollfish | responses, results |
-| AI in Hiring: Candidate Experience Survey, 2026 | `ai_in_hiring_candidate_experience_2026/` | 1,066 | Apr 2026 | Google Forms | responses, results |
+| AI in Hiring: Candidate Experience Survey, 2026 | `ai_in_hiring_candidate_experience_2026/` | 1,066 | Apr 2026 | Prolific | responses, results |
 | US Overemployment and Multiple Jobs Survey, 2026 | `us_overemployment_2026/` | 1,000 | Apr 2026 | Pollfish | responses, results |
 | US Ghost Jobs and Phantom Listings Survey, 2026 | `us_ghost_jobs_2026/` | 1,005 | Feb–Mar 2026 | SurveyMonkey | responses, results |
 | US Return-to-Office Mandates Survey, 2026 | `us_return_to_office_2026/` | 1,000 | Mar 2026 | Pollfish | responses, results |
 | Recruiter Interviews on ATS Rejections | `recruiter_ats_interviews/` | 25 | Sep–Oct 2025 | Enhancv | interview summaries, results |
+
+## Where can I read the findings?
+
+Every study here has at least one article on enhancv.com that reports its results.
+
+**Enhancv vs. Competitors: Head-to-Head Resume Builder Study, 2026** (`us_resume_builder_head_to_head_2026/`)
+- [The 8 Best Resume Builders of 2026, Tested by 210 Senior Professionals](https://enhancv.com/blog/best-resume-builders/)
+- The matchups one by one: [Zety](https://enhancv.com/blog/enhancv-vs-zety/), [MyPerfectResume](https://enhancv.com/blog/enhancv-vs-myperfectresume/), [ResumeGenius](https://enhancv.com/blog/enhancv-vs-resumegenius/), [Teal](https://enhancv.com/blog/enhancv-vs-tealhq/), [Resume.io](https://enhancv.com/blog/enhancv-vs-resume-io/), [Kickresume](https://enhancv.com/blog/enhancv-vs-kickresume/), [Novorésumé](https://enhancv.com/blog/enhancv-vs-novoresume/)
+
+**US Leadership Journey Survey, 2026** (`us_leadership_journey_2026/`)
+- [Everyone's a Manager, Few Become Executives: The 10-Year Climb to a Real Leadership Title](https://enhancv.com/blog/career-ladder-study/)
+
+**US Recruiter Survey on Hiring Seasonality, 2026** (`us_recruiter_hiring_seasonality_2026/`)
+- [The Best Time to Job Search Isn't in January](https://enhancv.com/blog/best-time-to-job-search-data/)
+
+**US Remote Work and Social Skills Survey, 2026** (`us_remote_work_social_skills_2026/`)
+- [Has Remote Work Changed How We Handle the Human Side of Our Careers?](https://enhancv.com/blog/has-remote-work-changed-social-skills-study/)
+
+**AI in Hiring: Candidate Experience Survey, 2026** (`ai_in_hiring_candidate_experience_2026/`)
+- [AI Hiring in 2026: Half of Job Seekers Were Rejected Without a Word](https://enhancv.com/blog/ai-hiring-statistics/)
+
+**US Overemployment and Multiple Jobs Survey, 2026** (`us_overemployment_2026/`)
+- [Why Secret Overemployment Is the New Standard for Job Security](https://enhancv.com/blog/secret-overemployment-trends/)
+
+**US Ghost Jobs and Phantom Listings Survey, 2026** (`us_ghost_jobs_2026/`)
+- [The Phantom Market: How Ghost Jobs are Taxing the Unemployed and Breaking the American Search](https://enhancv.com/blog/ghost-jobs-survey-2026-bls-data-comparison/)
+
+**US Return-to-Office Mandates Survey, 2026** (`us_return_to_office_2026/`)
+- [Return-to-Office Mandates are Triggering a New Era of Workplace Sabotage](https://enhancv.com/blog/rto-stealth-layoffs/)
+
+**Recruiter Interviews on ATS Rejections** (`recruiter_ats_interviews/`)
+- [Does the ATS Reject Your Resume? 25 Recruiters Explain What Really Happens](https://enhancv.com/blog/does-ats-reject-resumes/)
 
 ## What does each folder contain?
 
@@ -49,7 +81,7 @@ Enhancv applied these rules before publishing:
 
 ## Where does the data come from?
 
-The surveys ran on Pollfish, SurveyMonkey, and Google Forms. For the head-to-head study, Respondent.io recruited experienced US professionals, and an independent moderator ran every session. Enhancv interviewed the recruiters directly.
+The surveys ran on Pollfish, SurveyMonkey, and Prolific. For the head-to-head study, Respondent.io recruited experienced US professionals, and an independent moderator ran every session. Enhancv interviewed the recruiters directly.
 
 Each `survey_meta.json` gives the population, method, and fieldwork dates. Survey files also state the weighting.
 
