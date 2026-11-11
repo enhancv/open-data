@@ -1,13 +1,13 @@
 {
   "slug": "ai_in_hiring_candidate_experience_2026",
   "title": "AI in Hiring: Candidate Experience Survey, 2026",
-  "country": null,
+  "country": "US",
   "year": 2026,
   "fieldwork_start": "2026-04-15",
   "fieldwork_end": "2026-04-15",
   "sample_n": 1066,
-  "vendor": "Google Forms",
-  "population": "Job seekers and working professionals (country not collected)",
+  "vendor": "Prolific",
+  "population": "US job seekers",
   "topic_tags": [
     "AI in hiring",
     "candidate experience",
